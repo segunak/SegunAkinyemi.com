@@ -82,7 +82,7 @@ function map() {
 
         function initMap() {
 
-            var location = new google.maps.LatLng(-12.043501, -77.027947);
+            var location = new google.maps.LatLng(-38.6270, -90.1994);
 
             var mapCanvas = document.getElementById('map');
             var mapOptions = {

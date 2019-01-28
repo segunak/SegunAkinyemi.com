@@ -168,6 +168,17 @@ INTRO SECTION
   z-index: 10;
 }
 
+.content-special {
+  position: sticky;
+  width: 100%;
+  top: 50%;
+  -webkit-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  z-index: 10;
+}
+
 @media (max-width: 767.98px) {
   .content {
     position: relative;
