@@ -1,4 +1,8 @@
-/* your styles go here */
+
+/* for quote section */ 
+
+/* for quote section end */ 
+
 
 #right-logo {
     height: 50px;
@@ -17,6 +21,10 @@
 #portfolio{ 
   background-color: #333; 
   color: #fff; 
+}
+
+.quote-align { 
+    /* text-align: right;  */
 }
 
 .line-break:after { 
