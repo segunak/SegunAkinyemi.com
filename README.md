@@ -1,6 +1,3 @@
-# Personal Website 
-
-### Purpose 
-This repository is for my personal wesbite hosted through GitHub pages. 
-
+# Personal Website  
+Repository for my personal website. 
 https://SegunAkinyemi.com

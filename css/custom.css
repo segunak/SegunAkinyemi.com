@@ -1,8 +1,4 @@
-
-/* for quote section */ 
-
-/* for quote section end */ 
-
+/* my styles */
 
 #right-logo {
     height: 50px;
@@ -18,13 +14,12 @@
     height: 600px;
 }
 
+:link { color: #0000EE; }
+:visited { color: #551A8B; }
+
 #portfolio{ 
   background-color: #333; 
   color: #fff; 
-}
-
-.quote-align { 
-    /* text-align: right;  */
 }
 
 .line-break:after { 
