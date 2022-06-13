@@ -21,27 +21,148 @@
 # To build this site (and not serve) bundle exec jekyll build
 
 title: Segun Akinyemi
-#email: wacds392@protonmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: jekyllrb
-github_username:  jekyll
+name: Segun Akinyemi
+subtitle:
+masthead_title:
+search: true
+email:
+breadcrumbs: true  # disabled by default
+#logo: "/assets/images/logo-fullytransparent.png"
+locale: "en-US"
+description: >- # this means to ignore newlines until next section.
+  The blog, portfolio, and miscellaneous digital playground of Segun Akinyemi.
+twitter_username: segunofsolace
+github_username:  segunak
+minimal_mistakes_skin: air
+search: true
+repository: segunak/SegunAkinyemi.com
+teaser: /assets/images/treasureplanet.jpg # Default teaser for all posts. Can be overriden per post.
+# head_scripts:
+#   - https://code.jquery.com/jquery-3.2.1.min.js
+#   - /assets/js/your-custom-head-script.js
 
 domain: segunakinyemi.com        # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://segunakinyemi.com   # the base hostname and protocol for your site, e.g. http://example.com
 #baseurl: /somefolder # place folder name if the site is served in a subfolder
 
+social:
+  type: Person # Person or Organization (defaults to Person)
+  name: Segun Akinyemi # If the user or organization name differs from the site's name
+  links:
+    - "https://github.com/segunak"
+    - "https://www.linkedin.com/in/segunakinyemi"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-DKVCNPN7DF"
+    anonymize_ip: true # default
+
 # Build settings
-#theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 3 # amount of posts to show
+paginate_path: /blog/page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 plugins:
   - jekyll-feed
-  - jekyll-include-cache 
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-archives
+  - jekyll-feed
+  - jemoji
 
-# When you run build locally, this will open a webpage automtically showing you the content.
-open_url: true
+author:
+  name   : "Segun Akinyemi"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Christian, Software Engineer, Tech Enthusiast."
+  links:
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://segunakinyemi.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/segunofsolace"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/segunak"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/segunakinyemi/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/segunofsolace"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://segunakinyemi.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/segunak"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/segunakinyemi/"
+
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      show_date: true
+      author_profile: true
+      read_time: true
+      comments: true
+      provider: "disqus"
+      disqus:
+        shortname: "wacds392"
+      share: true
+      related: true
+      author_profile: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      show_date: true
+      author_profile: true
+      read_time: false
+      comments: true
+      provider: "disqus"
+      disqus:
+        shortname: "wacds392"
+      share: true
+      related: true
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+
+# When you run build locally, this will open a webpage automatically showing you the content.
+# open_url: true
+
+include:
+  - _pages
+  - _posts
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

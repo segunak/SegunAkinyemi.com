@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "jekyll",
+            "command": "cd docs; bundle exec jekyll serve",
+            "type": "shell",
+            "presentation": {
+                "reveal": "always",  // silent, never
+                "close": true
+            }
+        },
+        {
+            "label": "kill-jekyll",
+            "command": "taskkill /IM powershell.exe",
+            "type": "shell"
+        }
+    ]
+}

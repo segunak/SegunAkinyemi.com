@@ -1,0 +1,34 @@
+---
+layout: archive
+classes: wide
+author_profile: true
+---
+
+Welcome to my blog. You can use these links to browse my posts by various groupings, or use the section at
+the bottom to cycle through them all.
+
+<ul>
+  <li><a href="/tags/"> Posts by Tag</a></li>
+  <li><a href="/years/"> Posts by Year</a></li>
+  <li><a href="/categories/"> Posts by Category</a></li>
+</ul>
+
+
+{{ content }}
+
+<h3 class="archive__subtitle" style="font-size:25px !important">All Posts</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}

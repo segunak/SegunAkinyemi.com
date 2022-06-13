@@ -1,0 +1,17 @@
+.svg-box {
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right:10px;
+    width: 440px;
+    height: 109px;
+    border: 0px;
+    display: block;
+    overflow: hidden;
+    float:left;
+}
+
+.svg-box:hover {
+    box-shadow: 0 0 10px #0092ca;
+}
