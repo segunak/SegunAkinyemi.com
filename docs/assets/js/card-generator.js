@@ -1,20 +1,14 @@
 
 let generateGitHubCards = (repo) => {
+    let repoName = repo.name;
+    let repoDescription = encodeURIComponent(repo.description);
+    let repoLanguage = encodeURIComponent(repo.language);
+    let sourceString = `/assets/html/svgtemplate.html?repoName=${repoName};repoDescription=${repoDescription};repoLanguage=${repoLanguage}`
+
     const div = document.createElement('div');
     div.className = 'svg-box';
-
-    console.log(repo.name);
-    console.log(repo.updated_at);
-    console.log(repo.description);
-
-    // Somehow need to pass stuff like repo.description to the iframe template aso that it has the 
-    // right data.
-    div.innerHTML = `
-    <iframe frameborder="0" scrolling="0" allowtransparency="true" 
-        src="/assets/htmlcards/svgtemplate.html?repoName=${repo.name};repoDescription=${repo.description}" width="500" height="150">
-    </iframe>
-    `;
-
+    div.id = `${repoName}-frameId`;
+    div.innerHTML = `<iframe frameborder="0" scrolling="0" allowtransparency="true" src="${sourceString}" width="500" height="150"></iframe>`;
     document.getElementById('github-cards-container').appendChild(div);
 };
 
@@ -29,9 +23,6 @@ window.addEventListener('load', function () {
                 .filter(repo => !excludedRepos.includes(repo.name))
                 .sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at))
                 .slice(0, 6)
-                .forEach(repo =>
-                    // filter to only those repos you want to show on the site.
-                    generateGitHubCards(repo)
-                )
+                .forEach(repo => generateGitHubCards(repo))
         );
 });

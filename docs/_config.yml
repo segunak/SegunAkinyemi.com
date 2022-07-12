@@ -124,12 +124,12 @@ defaults:
       show_date: true
       author_profile: true
       read_time: true
-      comments: true
-      provider: "disqus"
-      disqus:
-        shortname: "wacds392"
-      share: true
-      related: true
+      comments:
+        provider: "disqus"
+        disqus:
+          shortname: "wacds392"
+      share: false
+      related: false
       author_profile: true
   # _pages
   - scope:
@@ -140,12 +140,8 @@ defaults:
       show_date: true
       author_profile: true
       read_time: false
-      comments: true
-      provider: "disqus"
-      disqus:
-        shortname: "wacds392"
-      share: true
-      related: true
+      share: false
+      related: false
       author_profile: true
 
 category_archive:
@@ -172,7 +168,8 @@ include:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+- /assets/ts/node_modules
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

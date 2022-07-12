@@ -4,12 +4,15 @@
     margin-bottom: 10px;
     margin-left: 0px;
     margin-right:10px;
-    width: 440px;
-    height: 109px;
+    width: 440px; /* was 440*/
+    height: 155px; /* was 109*/
     border: 0px;
     display: block;
     overflow: hidden;
     float:left;
+    background-color: #ffffff;
+    border: 1px solid lightskyblue;
+    border-radius: 15px;
 }
 
 .svg-box:hover {

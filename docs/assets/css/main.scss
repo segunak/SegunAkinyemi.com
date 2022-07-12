@@ -46,3 +46,8 @@ html {
 .homepage_heading {
   font-size: 1.5em;
 } 
+
+
+.notice, .notice--primary, .notice--warning, .notice--info, .notice--danger, .notice--success { 
+  font-size: inherit !important;
+}
