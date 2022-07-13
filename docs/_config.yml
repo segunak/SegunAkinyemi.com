@@ -30,13 +30,13 @@ breadcrumbs: true  # disabled by default
 #logo: "/assets/images/logo-fullytransparent.png"
 locale: "en-US"
 description: >- # this means to ignore newlines until next section.
-  The blog, portfolio, and miscellaneous digital playground of Segun Akinyemi.
+  The personal website and digital playground of Segun Akinyemi.
 twitter_username: segunofsolace
 github_username:  segunak
 minimal_mistakes_skin: air
 search: true
 repository: segunak/SegunAkinyemi.com
-teaser: /assets/images/treasureplanet.jpg # Default teaser for all posts. Can be overriden per post.
+teaser: /assets/images/treasureplanet.jpg # Default teaser for all posts. Can be overridden per post.
 # head_scripts:
 #   - https://code.jquery.com/jquery-3.2.1.min.js
 #   - /assets/js/your-custom-head-script.js
