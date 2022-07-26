@@ -1,12 +1,57 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: 'Home'
-layout: custom-home
+title: >
+  <strong style="font-size:2em;line-height:1.5em;font-style:bold;">Hello</strong><br/>
+excerpt: >
+  I'm <a id="nameLink" href="/about">Segun Akinyemi</a>, welcome to my personal website.
+layout: home
 classes: wide
 author_profile: true
 header:
-  overlay_image: /assets/images/space.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_image: /assets/images/treasureplanet.jpg
+  overlay_filter: 0.6 # Valid values are between 0 and 1.
+  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
 ---
+
+<style>
+  .page__hero--overlay {
+    padding: 6em 0;
+  }
+  
+  #nameLink {
+      text-decoration: none;
+      line-height: 1;
+      text-shadow: none;
+      position: relative;
+      z-index: 0;
+      display: inline-block;
+      padding: 5px 5px;
+      overflow: hidden;
+      vertical-align: bottom;
+      transition: color .3s ease-out;
+      color: #fff;
+  }
+
+  #nameLink::before {
+      content: "";
+      position: absolute;
+      z-index: -1;
+      top: 0;
+      left: 0;
+      transform: translateY(calc(100% - 2px));
+      width: 100%;
+      height: 100%;
+      border-radius: 15px;
+      background-image: linear-gradient(60deg, #64b3f4 0%, #c2e59c 100%);
+      transition: transform .25s ease-out;
+  }
+
+  #nameLink:hover {
+      color: #fff;
+  }
+
+  #nameLink:hover::before {
+      transform: translateY(0);
+      transition: transform .25s ease-out;
+  }
+
+</style>

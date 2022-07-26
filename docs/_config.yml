@@ -36,7 +36,12 @@ github_username:  segunak
 minimal_mistakes_skin: air
 search: true
 repository: segunak/SegunAkinyemi.com
-teaser: /assets/images/treasureplanet.jpg # Default teaser for all posts. Can be overridden per post.
+# For pages that don’t have a header.image assigned in their YAML Front Matter, 
+# site.og_image (OG is open graph) will be used as a fallback. Use your logo, icon, 
+# avatar or something else that is meaningful. Just make sure it is placed in the 
+# /assets/images/ folder, has a minimum size of 120px by 120px, and is less than 1MB in file size.
+og_image: /assets/images/bio-photo.jpg
+teaser: /assets/images/coolcityscape.jpg # Default teaser for all posts. Can be overridden per post.
 # head_scripts:
 #   - https://code.jquery.com/jquery-3.2.1.min.js
 #   - /assets/js/your-custom-head-script.js
@@ -51,6 +56,7 @@ social:
   links:
     - "https://github.com/segunak"
     - "https://www.linkedin.com/in/segunakinyemi"
+    - "https://twitter.com/segunofsolace"
 
 analytics:
   provider: "google-gtag"
@@ -85,7 +91,7 @@ plugins:
 
 author:
   name   : "Segun Akinyemi"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bitmoji-square.png"
   bio    : "Christian, Software Engineer, Tech Enthusiast."
   links:
     # - label: "Website"
@@ -131,7 +137,7 @@ defaults:
       read_time: true
       comments: true
       share: false
-      related: false
+      related: true
       author_profile: true
   # _pages
   - scope:
@@ -153,7 +159,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-
 # When you run build locally, this will open a webpage automatically showing you the content.
 # open_url: true
 
@@ -171,7 +176,6 @@ include:
 # their entries' file path in the `include:` list.
 #
 exclude:
-- /assets/ts/node_modules
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

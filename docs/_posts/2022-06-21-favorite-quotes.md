@@ -1,6 +1,9 @@
 ---
 title: "Favorite Quotes"
+excerpt: "A collection of awesome quotes from various sources."
 classes: wide
+header:
+  teaser: /assets/images/coolkingdom.jpg
 categories:
   - blog
 tags:

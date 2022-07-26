@@ -8,7 +8,7 @@ permalink: /about/
 
 ![Obi-Wan](/assets/images/obiwan.gif)
 
-I'm Segun Akinyemi (pronounced sheh-goon ah-key-yem-ee), welcome to my personal website. This place serves as a digital playground for my various passions and interests, including but not limited to software, technology, literature, faith, entertainment and more.
+I'm Segun Akinyemi (pronounced sheh-goon ah-key-yem-ee), welcome to my personal website. This place serves as a digital home for my various passions and interests, including but not limited to software, technology, literature, faith, entertainment and more.
 
 For a bit of background on me, I grew up in Seattle, Washington but ended up moving out to the midwest for college. I studied at Lindenwood University in St. Charles, Missouri (B.S. 2018), during which time I also competed as a track & field athlete in the high jump. Shortly thereafter, I studied at Washington University in St. Louis, Missouri (M.S. 2020).
 
