@@ -9,6 +9,7 @@ toc_icon: "bolt"
 toc_sticky: true
 header:
   teaser: /assets/images/ThorLoveAndThunder.jpg
+  og_image: /assets/images/ThorLoveAndThunder.jpg # OG = Open Graph, shows up in social sharing situations.
   overlay_image: /assets/images/ThorLoveAndThunder.jpg
   overlay_filter: 0.6
   caption: "Image Credit: [**elilusionista.cl**](https://www.instagram.com/p/Cd7GWgGuWZu/)"
