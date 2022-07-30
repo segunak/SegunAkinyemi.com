@@ -1,16 +1,14 @@
-
-
-console.log("I am here from social thumbnails");
-
-let headTag = document.querySelector("head");
 let metaImageTag = document.querySelector('meta[property="og:image"]');
 
-console.log(metaImageTag);
+if (metaImageTag) { 
+    console.log("Found a meta tag with og:image. Creating equivalent twitter:image meta tag");
+    let headTag = document.querySelector("head");
+    let imageURL = metaImageTag.getAttribute("content");
+    let twitterImageTag = document.createElement("meta");
 
-// const link = document.createElement('link');
-// link.href = 'href';
-// link.rel = 'rel';
-
-
+    twitterImageTag.setAttribute("name", "twitter:image");
+    twitterImageTag.setAttribute("content", imageURL);
+    headTag.appendChild(twitterImageTag);
+}
 
 //window.onload = setGitHubCard;
