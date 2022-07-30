@@ -42,9 +42,8 @@ repository: segunak/SegunAkinyemi.com
 # /assets/images/ folder, has a minimum size of 120px by 120px, and is less than 1MB in file size.
 og_image: /assets/images/space.jpg
 teaser: /assets/images/coolcityscape.jpg # Default teaser for all posts. Can be overridden per post.
-# head_scripts:
-#   - https://code.jquery.com/jquery-3.2.1.min.js
-#   - /assets/js/your-custom-head-script.js
+head_scripts:
+  - /assets/js/social-thumbnails.js
 
 domain: segunakinyemi.com        # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://segunakinyemi.com   # the base hostname and protocol for your site, e.g. http://example.com
