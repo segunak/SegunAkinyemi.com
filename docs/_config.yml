@@ -29,8 +29,7 @@ email:
 breadcrumbs: true  # disabled by default
 #logo: "/assets/images/logo-fullytransparent.png"
 locale: "en-US"
-description: >- # this means to ignore newlines until next section.
-  The personal website and digital playground of Segun Akinyemi.
+description: "The personal website, blog and digital playground of Segun Akinyemi."
 twitter_username: segunofsolace
 github_username:  segunak
 minimal_mistakes_skin: air

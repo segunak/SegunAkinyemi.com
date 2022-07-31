@@ -1,6 +1,8 @@
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
 
+Reference https://mmistakes.github.io/minimal-mistakes/post%20formats/post-notice/
+
 When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.

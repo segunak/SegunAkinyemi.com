@@ -9,5 +9,3 @@ if (metaImageTag) {
     twitterImageTag.setAttribute("content", imageURL);
     document.head.appendChild(twitterImageTag);
 }
-
-//window.onload = setGitHubCard;
