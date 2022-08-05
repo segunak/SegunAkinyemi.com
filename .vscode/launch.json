@@ -5,11 +5,19 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
             "type": "chrome",
             "request": "attach",
             "name": "Serve Jekyll",
             "preLaunchTask": "jekyll"
-           // "postDebugTask": "kill-jekyll"
+            // "postDebugTask": "kill-jekyll"
         }
     ]
 }
