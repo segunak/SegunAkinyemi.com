@@ -423,12 +423,6 @@ The commands of Jesus Christ from the [Gospel of Matthew](https://en.wikipedia.o
 
 ---
 
-> "Watch therefore, for you know neither the day nor the hour in which the Son of Man is coming.
->
-> <cite>[Matthew 25:13](https://www.biblegateway.com/passage/?search=Matthew25:13&version=NKJV){:target="_blank"}</cite>
-
----
-
 > And as they were eating, Jesus took bread, blessed and broke <i>it,</i> and gave <i>it</i> to the disciples and said, "Take, eat; this is My body." Then He took the cup, and gave thanks, and gave <i>it</i> to them, saying, "Drink from it, all of you. For this is My blood of the new covenant, which is shed for many for the remission of sins. But I say to you, I will not drink of this fruit of the vine from now on until that day when I drink it new with you in My Father’s kingdom."
 >
 > <cite>[Matthew 26:26-29](https://www.biblegateway.com/passage/?search=Matthew26:26-29&version=NKJV){:target="_blank"}</cite>
