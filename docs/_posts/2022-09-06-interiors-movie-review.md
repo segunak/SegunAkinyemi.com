@@ -3,7 +3,6 @@ title: "Interiors: A Review of Woody Allen's First Ever Serious Film"
 excerpt: "In his first foray into serious filmmaking, Woody Allen delivers a deeply emotional dramatic masterpiece."
 classes: 
   - wide
-  - image-sizing
 header:
   teaser: /assets/images/interiors-woodyallen.jpg
   og_image: /assets/images/interiors-woodyallen.jpg
@@ -21,16 +20,17 @@ tags:
       padding: 12em 0;
   }
 
-  .image-sizing .page__hero--overlay{
+  /*.image-sizing .page__hero--overlay {
     background-size: 100% 100%;
-  }
+  }*/
+
 </style>
 
 ## Taking Things Seriously
 
-In what's generally viewed as his first ever serious film, director [Woody Allen](https://en.wikipedia.org/wiki/Woody_Allen){:target="_blank"} provides viewers with a thoroughly complex and entertaining family drama. [*Interiors (1978)*](https://en.wikipedia.org/wiki/Interiors){:target="_blank"} follows the lives of 3 sisters and their tumultuous relationship with their overbearing Mother. Renata ([Diane Keaton](https://en.wikipedia.org/wiki/Diane_Keaton){:target="_blank"}), Flynn ([Kristin Griffith](https://en.wikipedia.org/wiki/Kristin_Griffith){:target="_blank"}) and Joey ([Mary Beth Hurt](https://en.wikipedia.org/wiki/Mary_Beth_Hurt){:target="_blank"}) each hold an interesting — and somewhat frayed — relationship with their Mother Eve ([Geraldine Page](https://en.wikipedia.org/wiki/Geraldine_Page){:target="_blank"}). Throughout the film, Eve is dealing with a handful of health issues that leave her lethargic, and at times oblivious to concerns and criticisms being raised by her daughters.
+In what's generally viewed as his first ever serious film, director [Woody Allen](https://en.wikipedia.org/wiki/Woody_Allen){:target="_blank"} provides viewers with a thoroughly complex and entertaining family drama. [*Interiors (1978)*](https://en.wikipedia.org/wiki/Interiors){:target="_blank"} follows the lives of 3 sisters and their tumultuous relationship with their overbearing Mother. Renata ([Diane Keaton](https://en.wikipedia.org/wiki/Diane_Keaton){:target="_blank"}), Flynn ([Kristin Griffith](https://en.wikipedia.org/wiki/Kristin_Griffith){:target="_blank"}) and Joey ([Mary Beth Hurt](https://en.wikipedia.org/wiki/Mary_Beth_Hurt){:target="_blank"}) each hold an interesting — and somewhat frayed — relationship with their Mother Eve ([Geraldine Page](https://en.wikipedia.org/wiki/Geraldine_Page){:target="_blank"}). Throughout the film, Eve is dealing with a handful of health issues that leave her lethargic, and at times oblivious, to concerns and criticisms being raised by her daughters.
 
-Woody Allen sets the film's as serious and introspective right from its start, which begins with an eerie silence as the opening credits roll onto screen. When the credits complete, we're transitioned straight into dialogue, with a noticeable lack of background music, to start off the 92 minute journey that is *Interiors*. I personally find subtle cinematic notes such as the use of silence, transition scenes, accentuated background sounds and the like to be hallmarks of truly great filmmakers. Attention to detail is pivotal in character driven dramas that rely on nuance to distinguish themselves from the crowd. Before *Interiors*, Woody Allen had a reputation as a comedic director, relying on crude humor, jovial musical scores and lighthearted subject matter to endear his films to audiences worldwide. That reputation likely played a role in his decision to prioritize solemnity right from the start.
+Woody Allen sets the film's tone as serious and introspective right from its start, which begins with an eerie silence as the opening credits roll onto screen. When the credits complete, we're transitioned straight into dialogue, with a noticeable lack of background music, to start off the 92 minute journey that is *Interiors*. I personally find subtle cinematic notes such as the use of silence, transition scenes, accentuated background sounds and the like to be hallmarks of truly great filmmakers. Attention to detail is pivotal in character driven dramas that rely on nuance to distinguish themselves from the crowd. Before *Interiors*, Woody Allen had a reputation as a comedic director, relying on crude humor, jovial musical scores and lighthearted subject matter to endear his films to audiences worldwide. That reputation likely played a role in his decision to prioritize solemnity right from the start.
 
 ## Setting the Tone
 
