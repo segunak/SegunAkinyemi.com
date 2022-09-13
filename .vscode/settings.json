@@ -1,3 +1,9 @@
 {
-    "jekyll-run.commandLineArguments": ""
+    "jekyll-run.commandLineArguments": "",
+    "grammarly.files.include": [
+        "**/readme.md",
+        "**/README.md",
+        "**/*.txt",
+        "**/*.md"
+    ]
 }
