@@ -45,7 +45,6 @@ The commands are taken from the [New King James Version](https://en.wikipedia.or
 
 If there's a command you were expecting to see but didn't or one you see below that you don't think is a true command, feel free to let me know in the comment section below, or via my [contact page](/contact){:target="_blank"}. I'd be more than happy to update the list!
 
-
 ### Matthew
 
 > From that time Jesus began to preach and to say, "Repent, for the kingdom of heaven is at hand."
