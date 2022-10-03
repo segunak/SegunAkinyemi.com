@@ -84,7 +84,7 @@ let setGitHubCard = async () => {
 
     // The value of y at this stage should be the y value of the last description tag that was made.
     let heightSetting = 150; // 150px is the maximum height of the SVG.
-    let descriptionStringHTML = descriptionTags.map(tag => tag.outerHTML).join("\n");
+    let descriptionString = descriptionTags.map(tag => tag.outerHTML).join("\n");
 
     document.getElementById("heightSetting1").setAttribute("height", heightSetting);
     document.getElementById("heightSetting2").setAttribute("height", heightSetting);
@@ -92,11 +92,13 @@ let setGitHubCard = async () => {
 
     document.getElementById("languageTag").setAttribute("y", 140);
     document.getElementById("languageCircle").setAttribute("cy", 136);
-    document.getElementById("languageCircle").setAttribute("fill", colors[repoLanguage].color);
+
+    console.log(descriptionString);
 
     document.body.innerHTML = document.body.innerHTML.replace(/{repo-name}/g, repoName);
-    document.body.innerHTML = document.body.innerHTML.replace(/{repo-language}/g, repoLanguage);
-    document.body.innerHTML = document.body.innerHTML.replace(/{repo-description}/g, descriptionStringHTML);
+    document.body.innerHTML = document.body.innerHTML.replace(/{repo-language}/g, repoLanguage.trim() == "null" ? "N/A" : repoLanguage);
+    document.getElementById("languageCircle").setAttribute("fill", colors[repoLanguage] == null ? "#7851a9": colors[repoLanguage].color);
+    document.body.innerHTML = document.body.innerHTML.replace(/{repo-description}/g, descriptionString.replace("null", "N/A"));
 };
 
 window.onload = setGitHubCard;
