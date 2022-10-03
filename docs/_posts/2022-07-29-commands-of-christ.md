@@ -50,51 +50,39 @@ article.page {
    align-items: bottom;
 }
 
-/* // Small devices */
-@media (min-width: 150px) {
+blockquote {
+  border-bottom: 1px solid #cecfd1;
+}
+
+/* X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  #main {
+    max-width: 100%;
+  }
+
+  article.page {
+      width: 100%;
+  }
+
   .quote-container {
     grid-template-columns: repeat(1, 1fr);
   }
-
-  blockquote {
-    border-bottom: 1px solid #cecfd1;
-  }
 }
 
-/* // Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) {
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+  #main {
+    max-width: 100%;
+  }
+
+  article.page {
+      width: 100%;
+  }
+
   .quote-container {
     grid-template-columns: repeat(1, 1fr);
   }
-
-  blockquote {
-    border-bottom: 1px solid #cecfd1;
-  }
 }
-
-/* // Large devices (desktops, 992px and up) */
-@media (min-width: 992px) {
-  .quote-container {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  blockquote {
-    border-bottom: 1px solid #cecfd1;
-  }
-}
-
-/* // Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-  .quote-container {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  blockquote {
-    border-bottom: 1px solid #cecfd1;
-    padding-top: 10px;
-  }
-}
-
 </style>
 
 **Note:** You can skip the intro and go straight to a list of Jesus Christ's commandments by clicking [here](#the-commands-of-christ).
