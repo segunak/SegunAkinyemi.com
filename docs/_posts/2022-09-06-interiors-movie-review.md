@@ -1,8 +1,12 @@
 ---
 title: "Interiors: A Review of Woody Allen's First Ever Serious Film"
 excerpt: "In his first foray into serious filmmaking, Woody Allen delivers a deeply emotional dramatic masterpiece."
-classes: 
-  - wide
+# classes: 
+#   - wide
+toc: true
+toc_label: "On This Page"
+toc_icon: "lightbulb"
+toc_sticky: true
 header:
   teaser: /assets/images/interiors-woodyallen.jpg
   og_image: /assets/images/interiors-woodyallen.jpg
