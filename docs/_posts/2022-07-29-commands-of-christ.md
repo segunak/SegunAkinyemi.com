@@ -23,13 +23,13 @@ tags:
 <style>
 
 #main {
-  max-width: 95%;
+  max-width: 90%;
 }
 
 /* uses space to left of page where author profile would be*/
 article.page {
     float: left;
-    width: 90%;
+    width: 80%;
 }
 
 .page__related {
