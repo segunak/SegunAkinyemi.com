@@ -29,7 +29,7 @@ tags:
 /* uses space to left of page where author profile would be*/
 article.page {
     float: left;
-    width: 80%;
+    width: 90%;
 }
 
 .page__related {
@@ -110,7 +110,7 @@ The quotes below are a list of commands issued by Jesus Christ throughout the Bi
 
 The commands are taken from the [New King James Version](https://en.wikipedia.org/wiki/New_King_James_Version){:target="_blank"} of the Bible. No guarantees on this list being exhaustive, as its compilation was the work of but one man. The task of determining if a given Jesus quote qualifies as a long-lived "command" is oftentimes subjective, in that the personal judgment of the preparer must be used. By compiling this list from several sources, I hope to have weeded out any personal bias about what constitutes a command of Christ.
 
-If there's a command you were expecting to see but didn't or one you see below that you don't think is a true command, feel free to let me know in the comment section below, or via my [contact page](/contact){:target="_blank"}. I'd be more than happy to update the list!
+If there's a command you were expecting to see but didn't; or one you see below that you don't think is a true command, feel free to let me know in the comment section below, or via my [contact page](/contact){:target="_blank"}. I'd be more than happy to update the list!
 
 ### Matthew
 
