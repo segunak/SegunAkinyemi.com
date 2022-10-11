@@ -67,6 +67,10 @@ blockquote {
   .quote-container {
     grid-template-columns: repeat(1, 1fr);
   }
+
+  blockquote {
+    margin: 2em 0 2em 0;
+  }
 }
 
 /* Small devices (landscape phones, less than 768px) */
@@ -81,6 +85,10 @@ blockquote {
 
   .quote-container {
     grid-template-columns: repeat(1, 1fr);
+  }
+
+  blockquote {
+    margin: 2em 0 2em 0;
   }
 }
 </style>
