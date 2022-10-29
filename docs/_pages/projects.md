@@ -6,7 +6,7 @@ author_profile: true
 permalink: /projects/
 ---
 
-Welcome to my projects page! Here I track stuff I'm working on, have worked on, would like to work on, or just think is cool.
+Welcome to my projects page. Here I track stuff I'm working on, have worked on, would like to work on, or just think is cool.
 
 ## Featured Projects
 

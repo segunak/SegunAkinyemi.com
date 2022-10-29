@@ -22,18 +22,12 @@ tags:
 
 <style>
 
-#main {
-  max-width: 90%;
-}
-
-/* uses space to left of page where author profile would be*/
 article.page {
-    float: left;
-    width: 90%;
+    width: 100%;
 }
 
 .page__related {
-    float: left;
+  float: left;
 }
 
 .quote-container {
@@ -56,41 +50,26 @@ blockquote {
 
 /* X-Small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
-  #main {
-    max-width: 100%;
-  }
-
-  article.page {
-      width: 100%;
-  }
-
   .quote-container {
     grid-template-columns: repeat(1, 1fr);
   }
 
   blockquote {
-    margin: 2em 0 2em 0;
+    margin: 1em 0 1em 0;
   }
 }
 
 /* Small devices (landscape phones, less than 768px) */
 @media (max-width: 767.98px) {
-  #main {
-    max-width: 100%;
-  }
-
-  article.page {
-      width: 100%;
-  }
-
   .quote-container {
     grid-template-columns: repeat(1, 1fr);
   }
 
   blockquote {
-    margin: 2em 0 2em 0;
+    margin: 1em 0 1em 0;
   }
 }
+
 </style>
 
 **Note:** You can skip the intro and go straight to a list of Jesus Christ's commandments by clicking [here](#the-commands-of-christ).
@@ -102,9 +81,9 @@ I recently finished an anime called [*Legend of the Galactic Heroes*](https://my
 
 *Legend of the Galactic Heroes* focuses on an interstellar conflict between groups of completely normal human beings. It explores themes like heroism, populism, social hierarchies, the tragedy of war, human nature, leadership styles, the morality of various systems of government, and much much more. I won't spoil any major plot details, but one of the main characters is a military officer named Yang Wen-li. Yang is known across the galaxy for his incredible wisdom and genius battle tactics that — coupled with his easygoing and humble disposition — make him a true stand out among men of war.
 
-In the anime, Yang becomes the mentor of an early career officer named Julian. Julian grows to deeply admire Yang, so much so that he devotes himself to meticulously chronicling the sayings, exploits, and all-around legend of "The Great Yang Wen-li". Julian's dedication to Yang earned him no small measure of ridicule from his peers, many of whom found his fandom to be unbecoming. They thought Julian a man lacking in personal ambition, in pride, in desire for the shadow of a great name and reputation entirely of his own making. Julian however paid them no mind. He believed Yang to be a once-in-a-generation sort of leader, the kind whom people, both present and future, could stand to learn from. With this belief, Julian's ambition was not to become great in his own right but to ensure that humanity would have an accurate record of a man he knew to be greater than himself.
+In the anime, Yang becomes the mentor of an early career officer named Julian. Julian grows to deeply admire Yang, so much so that he devotes himself to meticulously chronicling the sayings, exploits, and all-around legend of "The Great Yang Wen-li". Julian's dedication to Yang earned him no small measure of ridicule from his peers, many of whom found his fandom to be unbecoming. They thought Julian a man lacking in personal ambition, pride, and desire for the shadow of a great name entirely of his own making. Julian however paid them no mind. He believed Yang to be a once-in-a-generation sort of leader, the kind whom people, both present and future, could stand to learn from. With this belief, Julian's ambition was not to become great in his own right. Instead, he aimed to ensure that humanity would have an accurate record of a man he knew to be greater than himself.
 
-So what does any of that have to do with the *Commands of Christ*? Well, I imagine the apostles of Jesus Christ at times felt much like Julian in their quests to chronicle the life and words of not only their mentor, but Lord as well. As a follower of Christ myself, I felt inspired by Julian's example in *Legend of the Galactic Heroes* to try my hand at compiling some of Christ's most important words. Namely, his commands. In Jesus's own words.
+So what does any of that have to do with the *Commands of Christ*? Well, I imagine the apostles felt much like Julian in their quests to chronicle the life and words of Jesus Christ, whom they regarded as both mentor and Lord. As a follower of Christ myself, I felt inspired by Julian's example in *Legend of the Galactic Heroes* to try my hand at compiling some of Christ's most important words. Namely, his commands. In Jesus's own words.
 
 > If you love Me, keep My commandments.
 >

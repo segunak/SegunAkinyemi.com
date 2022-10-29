@@ -6,4 +6,4 @@ author_profile: true
 permalink: /contact/
 ---
 
-Want to get in contact? Feel free to connect with me on social media, or send an email using the form below.
+If you'd like to connect, feel free to reach out via social media, or send an email using the form below.
