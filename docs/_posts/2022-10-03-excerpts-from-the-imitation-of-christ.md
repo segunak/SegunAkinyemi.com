@@ -416,14 +416,15 @@ This post serves as a collection of passages from *The Imitation of Christ* that
 >
 > <cite>Book Two, Chapter 5</cite>
 
+
 > We take others to task for small mistakes, and overlook the greater ones in ourselves. We are quick enough to feel and brood over the things we suffer from others, but we think nothing of how much others suffer from us.
 >
 > <cite>Book Two, Chapter 5</cite>
 
+
 > You will never be devout of heart unless you are thus silent about the affairs of others and pay particular attention to yourself. If you attend wholly to God and yourself, you will be little disturbed by what you see about you.
 >
 > <cite>Book Two, Chapter 5</cite>
-
 
 > God alone, the eternal and infinite, satisfies all, bringing comfort to the soul and true joy to the body.
 >
@@ -481,7 +482,7 @@ This post serves as a collection of passages from *The Imitation of Christ* that
 
 </div>
 
+
 > God, eternal, incomprehensible, and infinitely powerful, does great and inscrutable things in heaven and on earth, and there is no searching into His marvelous works. **If all the works of God were such that human reason could easily grasp them, they would not be called wonderful or beyond the power of words to tell.**
 >
 > <cite>Book Four, Chapter 18</cite>
-
