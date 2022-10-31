@@ -342,7 +342,7 @@ This post serves as a collection of passages from *The Imitation of Christ* that
 > <cite>Book One, Chapter 25</cite>
 
 
-> Always remember your end and do not forget that lost time never returns. Without care and diligence you well never acquire virtue.
+> Always remember your end and do not forget that lost time never returns. Without care and diligence you will never acquire virtue.
 >
 > <cite>Book One, Chapter 25</cite>
 
