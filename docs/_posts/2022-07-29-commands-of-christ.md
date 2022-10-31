@@ -21,55 +21,57 @@ tags:
 ---
 
 <style>
+  .page__hero--overlay {
+      padding: 10em 0;
+  }
 
-article.page {
-    width: 100%;
-}
+  article.page {
+      width: 100%;
+  }
 
-.page__related {
-  float: left;
-}
+  .page__related {
+    float: left;
+  }
 
-.quote-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 2fr;
-  grid-column-gap: 5px;
-  grid-row-gap: 5px;
-  justify-items: stretch;
-  align-items: stretch;
-}
-
-.quote-container a {
-   align-items: bottom;
-}
-
-blockquote {
-  border-bottom: 1px solid #cecfd1;
-}
-
-/* X-Small devices (portrait phones, less than 576px) */
-@media (max-width: 575.98px) {
   .quote-container {
-    grid-template-columns: repeat(1, 1fr);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 2fr;
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+    justify-items: stretch;
+    align-items: stretch;
+  }
+
+  .quote-container a {
+    align-items: bottom;
   }
 
   blockquote {
-    margin: 1em 0 1em 0;
-  }
-}
-
-/* Small devices (landscape phones, less than 768px) */
-@media (max-width: 767.98px) {
-  .quote-container {
-    grid-template-columns: repeat(1, 1fr);
+    border-bottom: 1px solid #cecfd1;
   }
 
-  blockquote {
-    margin: 1em 0 1em 0;
-  }
-}
+  /* X-Small devices (portrait phones, less than 576px) */
+  @media (max-width: 575.98px) {
+    .quote-container {
+      grid-template-columns: repeat(1, 1fr);
+    }
 
+    blockquote {
+      margin: 1em 0 1em 0;
+    }
+  }
+
+  /* Small devices (landscape phones, less than 768px) */
+  @media (max-width: 767.98px) {
+    .quote-container {
+      grid-template-columns: repeat(1, 1fr);
+    }
+
+    blockquote {
+      margin: 1em 0 1em 0;
+    }
+  }
 </style>
 
 **Note:** You can skip the intro and go straight to a list of Jesus Christ's commandments by clicking [here](#the-commands-of-christ).

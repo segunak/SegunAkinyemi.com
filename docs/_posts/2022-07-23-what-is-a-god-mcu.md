@@ -19,6 +19,13 @@ tags:
   - entertainment
 ---
 
+<style>
+  .page__hero--overlay {
+      padding: 10em 0;
+  }
+</style>
+
+
 **Warning:** This article contains spoilers for *Thor: Love and Thunder*, and [Phase 4](https://marvelcinematicuniverse.fandom.com/wiki/Phase_Four){:target="_blank"} Marvel Cinematic Universe projects in general.
 {: .notice--warning}
 

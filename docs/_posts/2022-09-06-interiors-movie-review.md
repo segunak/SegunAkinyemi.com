@@ -24,10 +24,6 @@ tags:
       padding: 12em 0;
   }
 
-  /*.image-sizing .page__hero--overlay {
-    background-size: 100% 100%;
-  }*/
-
 </style>
 
 ## Taking Things Seriously
