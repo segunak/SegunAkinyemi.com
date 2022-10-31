@@ -9,7 +9,7 @@ toc_icon: "lightbulb"
 toc_sticky: true
 header:
   teaser: /assets/images/interiors-woodyallen.jpg
-  og_image: /assets/images/interiors-woodyallen.jpg
+  og_image: /assets/images/thumbnail-interiors-woodyallen.jpg
   overlay_image: /assets/images/interiors-woodyallen.jpg
   overlay_filter: 0.6
   caption: "Image Credit: [**WoodyAllenPages.com**](https://www.woodyallenpages.com/wp-content/uploads/2016/07/interiors-1.jpg)"
