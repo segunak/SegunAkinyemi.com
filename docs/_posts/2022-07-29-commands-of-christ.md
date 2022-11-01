@@ -408,6 +408,11 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[John 3:5-7](https://www.biblegateway.com/passage/?search=John3:5-7&version=NKJV){:target="_blank"}</cite>
 
 
+> Do not judge according to appearance, but judge with righteous judgment.
+>
+> <cite>[John 7:24](https://www.biblegateway.com/passage/?search=John7:24&version=NKJV){:target="_blank"}</cite>
+
+
 > A new commandment I give to you, that you love one another; as I have loved you, that you also love one another.
 >
 > <cite>[John 13:34](https://www.biblegateway.com/passage/?search=John13:34&version=NKJV){:target="_blank"}</cite>
@@ -442,11 +447,12 @@ If there's a command you were expecting to see but didn't; or one you see below 
 >
 > <cite>[John 16:33](https://www.biblegateway.com/passage/?search=John16:33&version=NKJV){:target="_blank"}</cite>
 
-</div>
 
 > So when they had eaten breakfast, Jesus said to Simon Peter, "Simon, <i>son</i> of Jonah, do you love Me more than these?" He said to Him, "Yes, Lord; You know that I love You." He said to him, "Feed My lambs." He said to him again a second time, "Simon, <i>son</i> of Jonah, do you love Me?" He said to Him, "Yes, Lord; You know that I love You." He said to him, "Tend My sheep."
 >
 > <cite>[John 21:15-16](https://www.biblegateway.com/passage/?search=John21:15-16&version=NKJV){:target="_blank"}</cite>
+
+</div>
 
 ## Resources
 
