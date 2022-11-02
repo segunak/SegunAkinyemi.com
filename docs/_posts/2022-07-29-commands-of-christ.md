@@ -151,6 +151,30 @@ If there's a command you were expecting to see but didn't; or one you see below 
 >
 > <cite>[Matthew 5:44-48](https://www.biblegateway.com/passage/?search=Matthew5:44-48&version=NKJV){:target="_blank"}</cite>
 
+> Take heed that you do not do your charitable deeds before men, to be seen by them. Otherwise you have no reward from your Father in heaven. Therefore, when you do a charitable deed, do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets, that they may have glory from men. Assuredly, I say to you, they have their reward. But when you do a charitable deed, do not let your left hand know what your right hand is doing, 4 that your charitable deed may be in secret; and your Father who sees in secret will Himself reward you openly.
+>
+> <cite>[Matthew 6:1-4](https://www.biblegateway.com/passage/?search=Matthew6:1-4&version=NKJV){:target="_blank"}</cite>
+
+
+> And when you pray, you shall not be like the hypocrites. For they love to pray standing in the synagogues and on the corners of the streets, that they may be seen by men. Assuredly, I say to you, they have their reward. But you, when you pray, go into your room, and when you have shut your door, pray to your Father who is in the secret place; and your Father who sees in secret will reward you openly. And when you pray, do not use vain repetitions as the heathen do. For they think that they will be heard for their many words. Therefore do not be like them. For your Father knows the things you have need of before you ask Him.
+>
+> <cite>[Matthew 6:5-8](https://www.biblegateway.com/passage/?search=Matthew6:5-8&version=NKJV){:target="_blank"}</cite>
+
+
+> In this manner, therefore, pray: "Our Father in heaven, Hallowed be Your name. Your kingdom come. Your will be done. On earth as it is in heaven. Give us this day our daily bread. And forgive us our debts, As we forgive our debtors. And do not lead us into temptation, But deliver us from the evil one. For Yours is the kingdom and the power and the glory forever. Amen."
+>
+> <cite>[Matthew 6:9-13](https://www.biblegateway.com/passage/?search=Matthew6:9-13&version=NKJV){:target="_blank"}</cite>
+
+
+> For if you forgive men their trespasses, your heavenly Father will also forgive you. But if you do not forgive men their trespasses, neither will your Father forgive your trespasses.
+>
+> <cite>[Matthew 6:14-15](https://www.biblegateway.com/passage/?search=Matthew6:14-15&version=NKJV){:target="_blank"}</cite>
+
+
+> Moreover, when you fast, do not be like the hypocrites, with a sad countenance. For they disfigure their faces that they may appear to men to be fasting. Assuredly, I say to you, they have their reward. But you, when you fast, anoint your head and wash your face, so that you do not appear to men to be fasting, but to your Father who is in the secret place; and your Father who sees in secret will reward you openly.
+>
+> <cite>[Matthew 6:16-18](https://www.biblegateway.com/passage/?search=Matthew6:16-18&version=NKJV){:target="_blank"}</cite>
+
 
 > Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal; but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. For where your treasure is, there your heart will be also.
 >
@@ -327,10 +351,6 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Matthew 28:19-20](https://www.biblegateway.com/passage/?search=Matthew28:19-20&version=NKJV){:target="_blank"}</cite>
 
 </div>
-
-> Take heed that you do not do your charitable deeds before men, to be seen by them. Otherwise you have no reward from your Father in heaven. Therefore, when you do a charitable deed, do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets, that they may have glory from men. Assuredly, I say to you, they have their reward. But when you do a charitable deed, do not let your left hand know what your right hand is doing, that your charitable deed may be in secret; and your Father who sees in secret will Himself reward you openly. And when you pray, you shall not be like the hypocrites. For they love to pray standing in the synagogues and on the corners of the streets, that they may be seen by men. Assuredly, I say to you, they have their reward. But you, when you pray, go into your room, and when you have shut your door, pray to your Father who <i>is</i> in the secret <i>place;</i> and your Father who sees in secret will reward you openly. And when you pray, do not use vain repetitions as the heathen <i>do.</i> For they think that they will be heard for their many words. Therefore do not be like them. For your Father knows the things you have need of before you ask Him. In this manner, therefore, pray: Our Father in heaven, Hallowed be Your name. Your kingdom come. Your will be done On earth as <i>it is in heaven.</i> Give us this day our daily bread. And forgive us our debts, As we forgive our debtors. And do not lead us into temptation, But deliver us from the evil one. For Yours is the kingdom and the power and the glory forever. Amen. For if you forgive men their trespasses, your heavenly Father will also forgive you. But if you do not forgive men their trespasses, neither will your Father forgive your trespasses. Moreover, when you fast, do not be like the hypocrites, with a sad countenance. For they disfigure their faces that they may appear to men to be fasting. Assuredly, I say to you, they have their reward. But you, when you fast, anoint your head and wash your face, so that you do not appear to men to be fasting, but to your Father who <i>is</i> in the secret <i>place;</i> and your Father who sees in secret will reward you openly.
->
-> <cite>[Matthew 6:1-18](https://www.biblegateway.com/passage/?search=Matthew6:1-18&version=NKJV){:target="_blank"}</cite>
 
 ### Mark
 
