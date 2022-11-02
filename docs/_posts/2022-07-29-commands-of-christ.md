@@ -232,11 +232,6 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Matthew 11:28-30](https://www.biblegateway.com/passage/?search=Matthew11:28-30&version=NIV){:target="_blank"}</cite>
 
 
-> He who has ears to hear, let him hear!
->
-> <cite>[Matthew 13:9](https://www.biblegateway.com/passage/?search=Matthew13:9&version=NKJV){:target="_blank"}</cite>
-
-
 > Then the righteous will shine forth as the sun in the kingdom of their Father. He who has ears to hear, let him hear!
 >
 > <cite>[Matthew 13:43](https://www.biblegateway.com/passage/?search=Matthew13:43&version=NKJV){:target="_blank"}</cite>
