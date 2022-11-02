@@ -227,9 +227,9 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Matthew 11:15](https://www.biblegateway.com/passage/?search=Matthew11:15&version=NKJV){:target="_blank"}</cite>
 
 
-> Come to Me, all <i>you</i> who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls. For My yoke <i>is</i> easy and My burden is light.
+> Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.
 >
-> <cite>[Matthew 11:28-30](https://www.biblegateway.com/passage/?search=Matthew11:28-30&version=NKJV){:target="_blank"}</cite>
+> <cite>[Matthew 11:28-30](https://www.biblegateway.com/passage/?search=Matthew11:28-30&version=NIV){:target="_blank"}</cite>
 
 
 > He who has ears to hear, let him hear!
