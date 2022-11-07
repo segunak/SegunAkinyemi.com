@@ -61,7 +61,7 @@ tags:
 
 I found myself frequently stopping to reflect on the book's profound commentaries about what it means to be a Christian. Thomas à Kempis relies on Christ's own words, and examples from his life, to highlight attitudes and behaviors we often embrace that are in total opposition to the teachings of Jesus. He does so in a refreshingly candid way. There's no window dressing, no attempts at massaging the message of Christ into something more palatable. It's direct, frank even, and incredibly thought-provoking as a result.
 
-This post serves as a collection of passages from *The Imitation of Christ* that stood out to me. They're the ones that made me stop, set the book down, pick up a cup of tea and ponder for a few minutes, letting it all sink in. The version I read was the [Dover Thrifts Edition](https://store.doverpublications.com/0486431851.html){:target="_blank"}. It features a simple translation of the original text that made it easy to read and understand and read. Enjoy!
+This post serves as a collection of passages from *The Imitation of Christ* that stood out to me. They're the ones that made me stop, set the book down, pick up a cup of tea and ponder for a few minutes, letting it all sink in. The version I read was the [Dover Thrifts Edition](https://store.doverpublications.com/0486431851.html){:target="_blank"}. It features a simple translation of the original text that made it easy to read and understand. Enjoy!
 
 ## The Imitation of Christ Quotes
 
