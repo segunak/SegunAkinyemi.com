@@ -57,7 +57,7 @@ tags:
   }
 </style>
 
-*The Imitation of Christ* is a Christian devotional written by late medieval period author [Thomas à Kempis](https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis){:target="_blank"}. It's one of the most popular Christian devotional books of all time and one that I only just recently completed. How I wish I had read it sooner!
+*The Imitation of Christ* is a Christian devotional written by late medieval period author [Thomas à Kempis](https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis){:target="_blank"}. It's one of the most popular Christian books of all time and one that I only just recently completed. How I wish I had read it sooner!
 
 I found myself frequently stopping to reflect on the book's profound commentaries about what it means to be a Christian. Thomas à Kempis relies on Christ's own words, and examples from his life, to highlight attitudes and behaviors we often embrace that are in total opposition to the teachings of Jesus. He does so in a refreshingly candid way. There's no window dressing, no attempts at massaging the message of Christ into something more palatable. It's direct, frank even, and incredibly thought-provoking as a result.
 
