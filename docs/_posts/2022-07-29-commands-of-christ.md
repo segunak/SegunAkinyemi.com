@@ -523,6 +523,16 @@ If there's a command you were expecting to see but didn't; or one you see below 
 
 <div class="quote-container" markdown="1">
 
+> But Jesus answered him, saying, "It is written, 'Man shall not live by bread alone, but by every word of God.'"
+>
+> <cite>[Luke 4:4](https://www.biblegateway.com/passage/?search=Luke4:4&version=NKJV){:target="_blank"}</cite>
+
+
+> And Jesus answered and said to him, "Get behind Me, Satan! For it is written, 'You shall worship the Lord your God, and Him only you shall serve.'"
+>
+> <cite>[Luke 4:8](https://www.biblegateway.com/passage/?search=Luke4:8&version=NKJV){:target="_blank"}</cite>
+
+
 > Then He said to <i>them</i> all, "If anyone desires to come after Me, let him deny himself, and take up his cross daily, and follow Me. For whoever desires to save his life will lose it, but whoever loses his life for My sake will save it. For what profit is it to a man if he gains the whole world, and is himself destroyed or lost"?
 >
 > <cite>[Luke 9:23-25](https://www.biblegateway.com/passage/?search=Luke9:23-25&version=NKJV){:target="_blank"}</cite>
