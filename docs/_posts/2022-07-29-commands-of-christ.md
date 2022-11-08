@@ -41,10 +41,6 @@ tags:
     align-items: stretch;
   }
 
-  .quote-container a {
-    align-items: bottom;
-  }
-
   blockquote {
     border-bottom: 1px solid #cecfd1;
   }
@@ -132,17 +128,17 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Matthew 5:23-25](https://www.biblegateway.com/passage/?search=Matthew5:23-25&version=NKJV){:target="_blank"}</cite>
 
 
-> You have heard that it was said to those of old, ‘You shall not commit adultery.’ But I say to you that whoever looks at a woman to lust for her has already committed adultery with her in his heart. If your right eye causes you to sin, pluck it out and cast <i>it</i> from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell. And if your right hand causes you to sin, cut it off and cast <i>it</i> from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell.
+> You have heard that it was said to those of old, 'You shall not commit adultery.' But I say to you that whoever looks at a woman to lust for her has already committed adultery with her in his heart. If your right eye causes you to sin, pluck it out and cast <i>it</i> from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell. And if your right hand causes you to sin, cut it off and cast <i>it</i> from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell.
 >
 > <cite>[Matthew 5:27-30](https://www.biblegateway.com/passage/?search=Matthew5:27-30&version=NKJV){:target="_blank"}</cite>
 
 
-> Again you have heard that it was said to those of old, ‘You shall not swear falsely, but shall perform your oaths to the Lord.’ But I say to you, do not swear at all: neither by heaven, for it is God’s throne; nor by the earth, for it is His footstool; nor by Jerusalem, for it is the city of the great King. Nor shall you swear by your head, because you cannot make one hair white or black. But let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ For whatever is more than these is from the evil one.
+> Again you have heard that it was said to those of old, 'You shall not swear falsely, but shall perform your oaths to the Lord.' But I say to you, do not swear at all: neither by heaven, for it is God's throne; nor by the earth, for it is His footstool; nor by Jerusalem, for it is the city of the great King. Nor shall you swear by your head, because you cannot make one hair white or black. But let your 'Yes' be 'Yes,' and your 'No,' 'No.' For whatever is more than these is from the evil one.
 >
 > <cite>[Matthew 5:33-37](https://www.biblegateway.com/passage/?search=Matthew5:33-37&version=NKJV){:target="_blank"}</cite>
 
 
-> You have heard that it was said, ‘An eye for an eye and a tooth for a tooth.’ But I tell you not to resist an evil person. But whoever slaps you on your right cheek, turn the other to him also. If anyone wants to sue you and take away your tunic, let him have <i>your</i> cloak also. And whoever compels you to go one mile, go with him two. Give to him who asks you, and from him who wants to borrow from you do not turn away.
+> You have heard that it was said, 'An eye for an eye and a tooth for a tooth.' But I tell you not to resist an evil person. But whoever slaps you on your right cheek, turn the other to him also. If anyone wants to sue you and take away your tunic, let him have <i>your</i> cloak also. And whoever compels you to go one mile, go with him two. Give to him who asks you, and from him who wants to borrow from you do not turn away.
 >
 > <cite>[Matthew 5:38-42](https://www.biblegateway.com/passage/?search=Matthew5:38-42&version=NKJV){:target="_blank"}</cite>
 
@@ -191,7 +187,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Matthew 6:33](https://www.biblegateway.com/passage/?search=Matthew6:33&version=NKJV){:target="_blank"}</cite>
 
 
-> Judge not, that you be not judged. For with what judgment you judge, you will be judged; and with the measure you use, it will be measured back to you. And why do you look at the speck in your brother’s eye, but do not consider the plank in your own eye?
+> Judge not, that you be not judged. For with what judgment you judge, you will be judged; and with the measure you use, it will be measured back to you. And why do you look at the speck in your brother's eye, but do not consider the plank in your own eye?
 >
 > <cite>[Matthew 7:1-3](https://www.biblegateway.com/passage/?search=Matthew7:1-3&version=NKJV){:target="_blank"}</cite>
 
@@ -216,7 +212,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Matthew 7:13-14](https://www.biblegateway.com/passage/?search=Matthew7:13-14&version=NKJV){:target="_blank"}</cite>
 
 
-> Beware of false prophets, who come to you in sheep’s clothing, but inwardly they are ravenous wolves. You will know them by their fruits. Do men gather grapes from thornbushes or figs from thistles?
+> Beware of false prophets, who come to you in sheep's clothing, but inwardly they are ravenous wolves. You will know them by their fruits. Do men gather grapes from thornbushes or figs from thistles?
 >
 > <cite>[Matthew 7:15-16](https://www.biblegateway.com/passage/?search=Matthew7:15-16&version=NKJV){:target="_blank"}</cite>
 
@@ -246,9 +242,9 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Matthew 10:38](https://www.biblegateway.com/passage/?search=Matthew10:38&version=NKJV){:target="_blank"}</cite>
 
 
-> He who has ears to hear, let him hear!
+> Assuredly, I say to you, among those born of women there has not risen one greater than John the Baptist; but he who is least in the kingdom of heaven is greater than he. And from the days of John the Baptist until now the kingdom of heaven suffers violence, and the violent take it by force. For all the prophets and the law prophesied until John. And if you are willing to receive it, he is Elijah who is to come. He who has ears to hear, let him hear!
 >
-> <cite>[Matthew 11:15](https://www.biblegateway.com/passage/?search=Matthew11:15&version=NKJV){:target="_blank"}</cite>
+> <cite>[Matthew 11:11-15](https://www.biblegateway.com/passage/?search=Matthew11:11-15&version=NKJV){:target="_blank"}</cite>
 
 
 > Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.
@@ -256,12 +252,12 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Matthew 11:28-30](https://www.biblegateway.com/passage/?search=Matthew11:28-30&version=NIV){:target="_blank"}</cite>
 
 
-> Then the righteous will shine forth as the sun in the kingdom of their Father. He who has ears to hear, let him hear!
+> He answered and said to them: "He who sows the good seed is the Son of Man. The field is the world, the good seeds are the sons of the kingdom, but the tares are the sons of the wicked one. The enemy who sowed them is the devil, the harvest is the end of the age, and the reapers are the angels. Therefore as the tares are gathered and burned in the fire, so it will be at the end of this age. The Son of Man will send out His angels, and they will gather out of His kingdom all things that offend, and those who practice lawlessness, and will cast them into the furnace of fire. There will be wailing and gnashing of teeth. Then the righteous will shine forth as the sun in the kingdom of their Father. He who has ears to hear, let him hear!".
 >
-> <cite>[Matthew 13:43](https://www.biblegateway.com/passage/?search=Matthew13:43&version=NKJV){:target="_blank"}</cite>
+> <cite>[Matthew 13:37-43](https://www.biblegateway.com/passage/?search=Matthew13:37-43&version=NKJV){:target="_blank"}</cite>
 
 
-> For God commanded, saying, ‘Honor your father and your mother’; and, ‘He who curses father or mother, let him be put to death.’
+> For God commanded, saying, 'Honor your father and your mother'; and, 'He who curses father or mother, let him be put to death.'
 >
 > <cite>[Matthew 15:4](https://www.biblegateway.com/passage/?search=Matthew15:4&version=NKJV){:target="_blank"}</cite>
 
@@ -281,7 +277,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Matthew 18:10](https://www.biblegateway.com/passage/?search=Matthew18:10&version=NKJV){:target="_blank"}</cite>
 
 
-> Moreover if your brother sins against you, go and tell him his fault between you and him alone. If he hears you, you have gained your brother. But if he will not hear, take with you one or two more, that ‘by the mouth of two or three witnesses every word may be established.’ And if he refuses to hear them, tell <i>it</i> to the church. But if he refuses even to hear the church, let him be to you like a heathen and a tax collector.
+> Moreover if your brother sins against you, go and tell him his fault between you and him alone. If he hears you, you have gained your brother. But if he will not hear, take with you one or two more, that 'by the mouth of two or three witnesses every word may be established.' And if he refuses to hear them, tell <i>it</i> to the church. But if he refuses even to hear the church, let him be to you like a heathen and a tax collector.
 >
 > <cite>[Matthew 18:15-17](https://www.biblegateway.com/passage/?search=Matthew18:15-17&version=NKJV){:target="_blank"}</cite>
 
@@ -306,27 +302,27 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Matthew 20:26-28](https://www.biblegateway.com/passage/?search=Matthew20:26-28&version=NKJV){:target="_blank"}</cite>
 
 
-> Then Jesus went into the temple of God and drove out all those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves. And He said to them, "It is written, ‘My house shall be called a house of prayer,’ but you have made it a ‘den of thieves.’".
+> Then Jesus went into the temple of God and drove out all those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves. And He said to them, "It is written, 'My house shall be called a house of prayer,' but you have made it a 'den of thieves.'".
 >
 > <cite>[Matthew 21:12-13](https://www.biblegateway.com/passage/?search=Matthew21:12-13&version=NKJV){:target="_blank"}</cite>
 
 
-> So Jesus answered and said to them, "Assuredly, I say to you, if you have faith and do not doubt, you will not only do what was done to the fig tree, but also if you say to this mountain, ‘Be removed and be cast into the sea,’ it will be done. And whatever things you ask in prayer, believing, you will receive."
+> So Jesus answered and said to them, "Assuredly, I say to you, if you have faith and do not doubt, you will not only do what was done to the fig tree, but also if you say to this mountain, 'Be removed and be cast into the sea,' it will be done. And whatever things you ask in prayer, believing, you will receive."
 >
 > <cite>[Matthew 21:21-22](https://www.biblegateway.com/passage/?search=Matthew21:21-22&version=NKJV){:target="_blank"}</cite>
 
 
-> Show Me the tax money." So they brought Him a denarius. And He said to them, "Whose image and inscription <i>is</i> this?" They said to Him, "Caesar’s." And He said to them, "Render therefore to Caesar the things that are Caesar’s, and to God the things that are God’s."
+> Show Me the tax money." So they brought Him a denarius. And He said to them, "Whose image and inscription <i>is</i> this?" They said to Him, "Caesar's." And He said to them, "Render therefore to Caesar the things that are Caesar's, and to God the things that are God's."
 >
 > <cite>[Matthew 22:19-21](https://www.biblegateway.com/passage/?search=Matthew22:19-21&version=NKJV){:target="_blank"}</cite>
 
 
-> Jesus said to him, "‘You shall love the <i>LORD</i> your God with all your heart, with all your soul, and with all your mind.’ This is <i>the</i> first and great commandment".
+> Jesus said to him, "'You shall love the <i>LORD</i> your God with all your heart, with all your soul, and with all your mind.' This is <i>the</i> first and great commandment".
 >
 > <cite>[Matthew 22:37-38](https://www.biblegateway.com/passage/?search=Matthew22:37-38&version=NKJV){:target="_blank"}</cite>
 
 
-> And <i>the</i> second <i>is</i> like it: ‘You shall love your neighbor as yourself.’ On these two commandments hang all the Law and the Prophets.
+> And <i>the</i> second <i>is</i> like it: 'You shall love your neighbor as yourself.' On these two commandments hang all the Law and the Prophets.
 >
 > <cite>[Matthew 22:39-40](https://www.biblegateway.com/passage/?search=Matthew22:39-40&version=NKJV){:target="_blank"}</cite>
 
@@ -356,9 +352,47 @@ If there's a command you were expecting to see but didn't; or one you see below 
 
 <div class="quote-container" markdown="1">
 
-> If anyone has ears to hear, let him hear.
+> Now after John was put in prison, Jesus came to Galilee, preaching the gospel of the kingdom of God, and saying, "The time is fulfilled, and the kingdom of God is at hand. Repent, and believe in the gospel."
 >
-> <cite>[Mark 4:23](https://www.biblegateway.com/passage/?search=Mark4:23&version=NKJV){:target="_blank"}</cite>
+> <cite>[Mark 1:14-15](https://www.biblegateway.com/passage/?search=Mark1:14-15&version=NKJV){:target="_blank"}</cite>
+
+
+> Then Jesus said to them, "Follow Me, and I will make you become fishers of men."
+>
+> <cite>[Mark 1:17](https://www.biblegateway.com/passage/?search=Mark1:17&version=NKJV){:target="_blank"}</cite>
+
+
+> Then His brothers and His mother came, and standing outside they sent to Him, calling Him. And a multitude was sitting around Him; and they said to Him, "Look, Your mother and Your brothers are outside seeking You." But He answered them, saying, "Who is My mother, or My brothers?" And He looked around in a circle at those who sat about Him, and said, "Here are My mother and My brothers! For whoever does the will of God is My brother and My sister and mother."
+>
+> <cite>[Mark 3:31-35](https://www.biblegateway.com/passage/?search=Mark3:31-35&version=NKJV){:target="_blank"}</cite>
+
+
+> Also He said to them, "Is a lamp brought to be put under a basket or under a bed? Is it not to be set on a lampstand? For there is nothing hidden which will not be revealed, nor has anything been kept secret but that it should come to light. If anyone has ears to hear, let him hear."
+>
+> <cite>[Mark 4:21-23](https://www.biblegateway.com/passage/?search=Mark4:21-23&version=NKJV){:target="_blank"}</cite>
+
+
+> Then He said to them, "Take heed what you hear. With the same measure you use, it will be measured to you; and to you who hear, more will be given. For whoever has, to him more will be given; but whoever does not have, even what he has will be taken away from him."
+>
+> <cite>[Mark 4:24-25](https://www.biblegateway.com/passage/?search=Mark4:24-25&version=NKJV){:target="_blank"}</cite>
+
+> However, Jesus did not permit him, but said to him, "Go home to your friends, and tell them what great things the Lord has done for you, and how He has had compassion on you."
+>
+> <cite>[Mark 5:19](https://www.biblegateway.com/passage/?search=Mark5:19&version=NKJV){:target="_blank"}</cite>
+
+
+> While He was still speaking, some came from the ruler of the synagogue's house who said, "Your daughter is dead. Why trouble the Teacher any further?". As soon as Jesus heard the word that was spoken, He said to the ruler of the synagogue, "Do not be afraid; only believe."
+>
+> <cite>[Mark 5:35-36](https://www.biblegateway.com/passage/?search=Mark5:35-36&version=NKJV){:target="_blank"}</cite>
+
+
+> Also He said to them, "In whatever place you enter a house, stay there till you depart from that place. And whoever will not receive you nor hear you, when you depart from there, shake off the dust under your feet as a testimony against them. Assuredly, I say to you, it will be more tolerable for Sodom and Gomorrah in the day of judgment than for that city!"
+>
+> <cite>[Mark 6:10-11](https://www.biblegateway.com/passage/?search=Mark6:10-11&version=NKJV){:target="_blank"}</cite>
+
+> Then He charged them, saying, "Take heed, beware of the leaven of the Pharisees and the leaven of Herod."
+>
+> <cite>[Mark 8:15](https://www.biblegateway.com/passage/?search=Mark8:15&version=NKJV){:target="_blank"}</cite>
 
 
 > When He had called the people to <i>Himself,</i> with His disciples also, He said to them, "Whoever desires to come after Me, let him deny himself, and take up his cross, and follow Me".
@@ -366,9 +400,117 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Mark 8:34](https://www.biblegateway.com/passage/?search=Mark8:34&version=NKJV){:target="_blank"}</cite>
 
 
-> Then He taught, saying to them, "Is it not written, ‘My house shall be called a house of prayer for all nations’? But you have made it a ‘den of thieves.’ "
+> Jesus said to him, "If you can believe, all things are possible to him who believes."
+>
+> <cite>[Mark 9:23](https://www.biblegateway.com/passage/?search=Mark9:23&version=NKJV){:target="_blank"}</cite>
+
+
+> And when He had come into the house, His disciples asked Him privately, "Why could we not cast it out?" So He said to them, "This kind can come out by nothing but prayer and fasting."
+>
+> <cite>[Mark 9:28-29](https://www.biblegateway.com/passage/?search=Mark9:28-29&version=NKJV){:target="_blank"}</cite>
+
+
+> Now John answered Him, saying, "Teacher, we saw someone who does not follow us casting out demons in Your name, and we forbade him because he does not follow us." But Jesus said, "Do not forbid him, for no one who works a miracle in My name can soon afterward speak evil of Me. For he who is not against us is on our side. For whoever gives you a cup of water to drink in My name, because you belong to Christ assuredly, I say to you, he will by no means lose his reward."
+>
+> <cite>[Mark 9:38-41](https://www.biblegateway.com/passage/?search=Mark9:38-41&version=NKJV){:target="_blank"}</cite>
+
+
+> If your hand causes you to sin, cut it off. It is better for you to enter into life maimed, rather than having two hands, to go to hell, into the fire that shall never be quenched where — 'Their worm does not die And the fire is not quenched.' And if your foot causes you to sin, cut it off. It is better for you to enter life lame, rather than having two feet, to be cast into hell, into the fire that shall never be quenched where — 'Their worm does not die And the fire is not quenched.' And if your eye causes you to sin, pluck it out. It is better for you to enter the kingdom of God with one eye, rather than having two eyes, to be cast into hell fire where — 'Their worm does not die And the fire is not quenched.'
+>
+> <cite>[Mark 9:43-48](https://www.biblegateway.com/passage/?search=Mark9:43-48&version=NKJV){:target="_blank"}</cite>
+
+
+> For everyone will be seasoned with fire, and every sacrifice will be seasoned with salt. Salt is good, but if the salt loses its flavor, how will you season it? Have salt in yourselves, and have peace with one another.
+>
+> <cite>[Mark 9:49-50](https://www.biblegateway.com/passage/?search=Mark9:49-50&version=NKJV){:target="_blank"}</cite>
+
+
+> The Pharisees came and asked Him, "Is it lawful for a man to divorce his wife?" testing Him. And He answered and said to them, "What did Moses command you?" They said, "Moses permitted a man to write a certificate of divorce, and to dismiss her." And Jesus answered and said to them, "Because of the hardness of your heart he wrote you this precept. But from the beginning of the creation, God 'made them male and female. For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh'; so then they are no longer two, but one flesh. Therefore what God has joined together, let not man separate."
+>
+> <cite>[Mark 10:5-9](https://www.biblegateway.com/passage/?search=Mark10:5-9&version=NKJV){:target="_blank"}</cite>
+
+
+> Then they brought little children to Him, that He might touch them; but the disciples rebuked those who brought them. But when Jesus saw it, He was greatly displeased and said to them, "Let the little children come to Me, and do not forbid them; for of such is the kingdom of God. Assuredly, I say to you, whoever does not receive the kingdom of God as a little child will by no means enter it.”
+>
+> <cite>[Mark 10:13-15](https://www.biblegateway.com/passage/?search=Mark10:13-15&version=NKJV){:target="_blank"}</cite>
+
+> You know the commandments: 'Do not commit adultery', 'Do not murder', 'Do not steal', 'Do not bear false witness', 'Do not defraud', 'Honor your father and your mother'. And he answered and said to Him, "Teacher, all these things I have kept from my youth". Then Jesus, looking at him, loved him, and said to him, "One thing you lack: Go your way, sell whatever you have and give to the poor, and you will have treasure in heaven; and come, take up the cross, and follow Me." But he was sad at this word, and went away sorrowful, for he had great possessions.
+>
+> <cite>[Mark 10:19-22](https://www.biblegateway.com/passage/?search=Mark10:19-22&version=NKJV){:target="_blank"}</cite>
+
+> But Jesus called them to Himself and said to them, "You know that those who are considered rulers over the Gentiles lord it over them, and their great ones exercise authority over them. Yet it shall not be so among you; but whoever desires to become great among you shall be your servant. And whoever of you desires to be first shall be slave of all. For even the Son of Man did not come to be served, but to serve, and to give His life a ransom for many."
+>
+> <cite>[Mark 10:42-45](https://www.biblegateway.com/passage/?search=Mark10:42-45&version=NKJV){:target="_blank"}</cite>
+
+
+> Then He taught, saying to them, "Is it not written, 'My house shall be called a house of prayer for all nations'? But you have made it a 'den of thieves.' "
 >
 > <cite>[Mark 11:17](https://www.biblegateway.com/passage/?search=Mark11:17&version=NKJV){:target="_blank"}</cite>
+
+
+> So Jesus answered and said to them, "Have faith in God. For assuredly, I say to you, whoever says to this mountain, 'Be removed and be cast into the sea,' and does not doubt in his heart, but believes that those things he says will be done, he will have whatever he says. Therefore I say to you, whatever things you ask when you pray, believe that you receive them, and you will have them."
+>
+> <cite>[Mark 11:22-24](https://www.biblegateway.com/passage/?search=Mark11:22-24&version=NKJV){:target="_blank"}</cite>
+
+
+> And whenever you stand praying, if you have anything against anyone, forgive him, that your Father in heaven may also forgive you your trespasses. But if you do not forgive, neither will your Father in heaven forgive your trespasses.
+>
+> <cite>[Mark 11:25-26](https://www.biblegateway.com/passage/?search=Mark11:25-26&version=NKJV){:target="_blank"}</cite>
+
+
+> And Jesus answered and said to them, "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+>
+> <cite>[Mark 12:17](https://www.biblegateway.com/passage/?search=Mark12:17&version=NKJV){:target="_blank"}</cite>
+
+
+> Then one of the scribes came, and having heard them reasoning together, perceiving that He had answered them well, asked Him, "Which is the first commandment of all?". Jesus answered him, "The first of all the commandments is: 'Hear, O Israel, the Lord our God, the Lord is one. And you shall love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.' This is the first commandment. And the second, like it, is this: 'You shall love your neighbor as yourself.' There is no other commandment greater than these."
+>
+> <cite>[Mark 12:28-31](https://www.biblegateway.com/passage/?search=Mark12:28-31&version=NKJV){:target="_blank"}</cite>
+
+
+> Then He said to them in His teaching, "Beware of the scribes, who desire to go around in long robes, love greetings in the marketplaces, the best seats in the synagogues, and the best places at feasts, who devour widows' houses, and for a pretense make long prayers. These will receive greater condemnation."
+>
+> <cite>[Mark 12:38-40](https://www.biblegateway.com/passage/?search=Mark12:38-40&version=NKJV){:target="_blank"}</cite>
+
+
+> And Jesus, answering them, began to say: "Take heed that no one deceives you. For many will come in My name, saying, 'I am He,' and will deceive many. But when you hear of wars and rumors of wars, do not be troubled; for such things must happen, but the end is not yet. For nation will rise against nation, and kingdom against kingdom. And there will be earthquakes in various places, and there will be famines and troubles. These are the beginnings of sorrows."
+>
+> <cite>[Mark 13:5-8](https://www.biblegateway.com/passage/?search=Mark13:5-8&version=NKJV){:target="_blank"}</cite>
+
+
+> But watch out for yourselves, for they will deliver you up to councils, and you will be beaten in the synagogues. You will be brought before rulers and kings for My sake, for a testimony to them. And the gospel must first be preached to all the nations. But when they arrest you and deliver you up, do not worry beforehand, or premeditate what you will speak. But whatever is given you in that hour, speak that; for it is not you who speak, but the Holy Spirit.
+>
+> <cite>[Mark 13:9-11](https://www.biblegateway.com/passage/?search=Mark13:9-11&version=NKJV){:target="_blank"}</cite>
+
+
+> Then if anyone says to you, 'Look, here is the Christ!' or, 'Look, He is there!' do not believe it. For false christs and false prophets will rise and show signs and wonders to deceive, if possible, even the elect. But take heed; see, I have told you all things beforehand.
+>
+> <cite>[Mark 13:21-23](https://www.biblegateway.com/passage/?search=Mark13:21-23&version=NKJV){:target="_blank"}</cite>
+
+
+> Now learn this parable from the fig tree: When its branch has already become tender, and puts forth leaves, you know that summer is near. So you also, when you see these things happening, know that it is near—at the doors! Assuredly, I say to you, this generation will by no means pass away till all these things take place. Heaven and earth will pass away, but My words will by no means pass away.
+>
+> <cite>[Mark 13:28-31](https://www.biblegateway.com/passage/?search=Mark13:28-31&version=NKJV){:target="_blank"}</cite>
+
+
+> Take heed, watch and pray; for you do not know when the time is.
+>
+> <cite>[Mark 13:33](https://www.biblegateway.com/passage/?search=Mark13:33&version=NKJV){:target="_blank"}</cite>
+
+
+> Watch therefore, for you do not know when the master of the house is coming — in the evening, at midnight, at the crowing of the rooster, or in the morning — lest, coming suddenly, he find you sleeping. And what I say to you, I say to all: Watch!
+>
+> <cite>[Mark 13:35-37](https://www.biblegateway.com/passage/?search=Mark13:35-37&version=NKJV){:target="_blank"}</cite>
+
+
+> And as they were eating, Jesus took bread, blessed and broke it, and gave it to them and said, "Take, eat; this is My body." Then He took the cup, and when He had given thanks He gave it to them, and they all drank from it. And He said to them, "This is My blood of the new covenant, which is shed for many. Assuredly, I say to you, I will no longer drink of the fruit of the vine until that day when I drink it new in the kingdom of God."
+>
+> <cite>[Mark 14:22-25](https://www.biblegateway.com/passage/?search=Mark14:22-25&version=NKJV){:target="_blank"}</cite>
+
+
+> Watch and pray, lest you enter into temptation. The spirit indeed is willing, but the flesh is weak.
+>
+> <cite>[Mark 14:38](https://www.biblegateway.com/passage/?search=Mark14:38&version=NKJV){:target="_blank"}</cite>
 
 
 > And He said to them, "Go into all the world and preach the gospel to every creature".
@@ -386,7 +528,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Luke 9:23-25](https://www.biblegateway.com/passage/?search=Luke9:23-25&version=NKJV){:target="_blank"}</cite>
 
 
-> And He said to them, "Take heed and beware of covetousness, for one’s life does not consist in the abundance of the things he possesses."
+> And He said to them, "Take heed and beware of covetousness, for one's life does not consist in the abundance of the things he possesses."
 >
 > <cite>[Luke 12:15](https://www.biblegateway.com/passage/?search=Luke12:15&version=NKJV){:target="_blank"}</cite>
 
@@ -401,9 +543,9 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Luke 14:12-14](https://www.biblegateway.com/passage/?search=Luke14:12-14&version=NKJV){:target="_blank"}</cite>
 
 
-> It is neither fit for the land nor for the dunghill, <i>but</i> men throw it out. He who has ears to hear, let him hear!
+> Salt is good; but if the salt has lost its flavor, how shall it be seasoned? It is neither fit for the land nor for the dunghill, <i>but</i> men throw it out. He who has ears to hear, let him hear!
 >
-> <cite>[Luke 14:35](https://www.biblegateway.com/passage/?search=Luke14:35&version=NKJV){:target="_blank"}</cite>
+> <cite>[Luke 14:34-35](https://www.biblegateway.com/passage/?search=Luke14:34-35&version=NKJV){:target="_blank"}</cite>
 
 
 > Behold, I send the Promise of My Father upon you; but tarry in the city of Jerusalem until you are endued with power from on high.
@@ -416,9 +558,14 @@ If there's a command you were expecting to see but didn't; or one you see below 
 
 <div class="quote-container" markdown="1">
 
-> Jesus answered, "Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. That which is born of the flesh is flesh, and that which is born of the Spirit is spirit. Do not marvel that I said to you, ‘You must be born again.’"
+> Now the Passover of the Jews was at hand, and Jesus went up to Jerusalem.mAnd He found in the temple those who sold oxen and sheep and doves, and the money changers doing business. When He had made a whip of cords, He drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overturned the tables.mAnd He said to those who sold doves, "Take these things away! Do not make My Father's house a house of merchandise!".
 >
-> <cite>[John 3:5-7](https://www.biblegateway.com/passage/?search=John3:5-7&version=NKJV){:target="_blank"}</cite>
+> <cite>[John 2:13-16](https://www.biblegateway.com/passage/?search=John2:13-16&version=NKJV){:target="_blank"}</cite>
+
+
+> Jesus answered, "Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. That which is born of the flesh is flesh, and that which is born of the Spirit is spirit. Do not marvel that I said to you, 'You must be born again'.The wind blows where it wishes, and you hear the sound of it, but cannot tell where it comes from and where it goes. So is everyone who is born of the Spirit".
+>
+> <cite>[John 3:5-8](https://www.biblegateway.com/passage/?search=John3:5-8&version=NKJV){:target="_blank"}</cite>
 
 
 > Do not judge according to appearance, but judge with righteous judgment.
@@ -431,9 +578,23 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[John 13:34](https://www.biblegateway.com/passage/?search=John13:34&version=NKJV){:target="_blank"}</cite>
 
 
+> Let not your heart be troubled; you believe in God, believe also in Me.
+>
+> <cite>[John 14:1](https://www.biblegateway.com/passage/?search=John14:1&version=NKJV){:target="_blank"}</cite>
+
+> Believe Me that I am in the Father and the Father in Me, or else believe Me for the sake of the works themselves.
+>
+> <cite>[John 14:11](https://www.biblegateway.com/passage/?search=John14:11&version=NKJV){:target="_blank"}</cite>
+
+
 > If you love Me, keep My commandments.
 >
 > <cite>[John 14:15](https://www.biblegateway.com/passage/?search=John14:15&version=NKJV){:target="_blank"}</cite>
+
+
+> He who has My commandments and keeps them, it is he who loves Me. And he who loves Me will be loved by My Father, and I will love him and manifest Myself to him.
+>
+> <cite>[John 14:21](https://www.biblegateway.com/passage/?search=John14:21&version=NKJV){:target="_blank"}</cite>
 
 
 > Peace I leave with you, My peace I give to you; not as the world gives do I give to you. Let not your heart be troubled, neither let it be afraid.
@@ -446,7 +607,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[John 15:7-8](https://www.biblegateway.com/passage/?search=John15:7-8&version=NKJV){:target="_blank"}</cite>
 
 
-> This is My commandment, that you love one another as I have loved you. Greater love has no one than this, than to lay down one’s life for his friends. You are My friends if you do whatever I command you.
+> This is My commandment, that you love one another as I have loved you. Greater love has no one than this, than to lay down one's life for his friends. You are My friends if you do whatever I command you.
 >
 > <cite>[John 15:12-14](https://www.biblegateway.com/passage/?search=John15:12-14&version=NKJV){:target="_blank"}</cite>
 
