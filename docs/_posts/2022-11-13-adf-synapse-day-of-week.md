@@ -44,7 +44,7 @@ An alternative way of writing this code is below. I find it less attractive, as 
 )
 ```
 
-### Solution Details
+### Solution Tools
 
 This solution utilizes the expression functions below provided by Microsoft in Azure Data Factory and Synapse Analytics.
 
