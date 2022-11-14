@@ -55,7 +55,7 @@ This solution utilizes the expression functions below provided by Microsoft in A
 * `utcNow()`: Get the current UTC Time. Details [here.](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#utcNow){:target="_blank"}
 * `string()`: Return the string version of a value. Details [here.](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#string){:target="_blank"}
 
-### A Concluding Soliloquy
+### A Closing Soliloquy
 
 I'll be honest, this solution seems overly verbose for what's ultimately a simple task. But hey, times have changed, welcome to the [low code revolution](https://www.ben-morris.com/azure-data-factory-myth-code-free-data-warehouse/){:target="_blank"}.
 
