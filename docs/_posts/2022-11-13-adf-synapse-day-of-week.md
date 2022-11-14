@@ -1,6 +1,6 @@
 ---
 title: "How To Check if It's a Weekday in Azure Data Factory and Synapse Analytics"
-excerpt: "Sometimes you need your system to know if today's a weekday. Here's how to do that using Microsoft's Azure Data Factory or Azure Synapse Analytics."
+excerpt: "Sometimes your system needs to know if today's a weekday. Here's how to find out using Microsoft's Azure Data Factory or Azure Synapse Analytics."
 classes: wide
 header:
   teaser: /assets/images/azurecity.jpg
