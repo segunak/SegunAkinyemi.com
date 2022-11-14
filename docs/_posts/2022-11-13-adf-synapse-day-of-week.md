@@ -55,6 +55,38 @@ This solution utilizes the expression functions below provided by Microsoft in A
 * `utcNow()`: Get the current UTC Time. Details [here.](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#utcNow){:target="_blank"}
 * `string()`: Return the string version of a value. Details [here.](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#string){:target="_blank"}
 
-### In Conclusion
+### A Concluding Soliloquy
 
-I'll be honest, this solution seems a bit overly verbose for what's ultimately a simple task. But hey, times have changed, welcome to the [low code revolution](https://www.ben-morris.com/azure-data-factory-myth-code-free-data-warehouse/){:target="_blank"}. If you know of a better way to do this in ADF/Synapse expression language, please let me know. I'll have plenty of code to refactor.
+I'll be honest, this solution seems overly verbose for what's ultimately a simple task. But hey, times have changed, welcome to the [low code revolution](https://www.ben-morris.com/azure-data-factory-myth-code-free-data-warehouse/){:target="_blank"}.
+
+Here's my question to any ADF or Synapse experts out there. Let's say I needed to find out if it's a weekday in several different pipelines across my data factory or Synapse workspace. In a *normal* programming language, I'd write a function that takes the current date as a parameter and returns a Boolean letting the caller know if it's a weekday. A basic, reusable, self-contained piece of code. I'd import the module with the function wherever needed, and I'd never have to rewrite that logic again.
+
+How would one accomplish the same modularity in Azure Data Factory or Synapse Analytics? The goal is to avoid having to copy and paste the same expression code all over the place. Here are some thoughts.
+
+**Option 1:** You write a pipeline that takes in the date as a parameter and returns a Boolean that tells you if it's a weekday or not.
+{: .notice--primary}
+
+Oh wait, you can't do this because ADF and Synapse pipelines can't return values, unless you go through some [strange workarounds](https://stackoverflow.com/questions/72548774/returning-a-value-from-a-data-factory-pipeline){:target="_blank"}, or utilize [Synapse notebooks](https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-notebook-activity?tabs=classical#read-synapse-notebook-cell-output-value){:target="_blank"}, which seems like Super Saiyan level overkill for the simple task of determining if it's a weekday.
+
+**Option 2:** You call all pipelines from a parent that precalculates values needing reuse and passes them to children.
+{: .notice--primary}
+
+This is a pattern my team is actively using to work around the fact that Azure Data Factory has [global parameters](https://learn.microsoft.com/en-us/azure/data-factory/author-global-parameters){:target="_blank"}, but Azure Synapse Analytics [does not](https://feedback.azure.com/d365community/idea/eaa47674-0442-ec11-a819-000d3ae2b5ca). I suppose one could extend this pattern to accomplish a form of code reuse when the only goal of your function is to calculate a value. You'd calculate all your constant values upfront and pass them to child pipelines as parameters. This gets smelly fast if you have 1 parameter for every value in need of reuse. An easy workaround for that is to store your properties in a JSON object and pass that 1 object down to child pipelines. For example, consider this JSON object.
+
+``` JSON
+{
+  "isTodayAWeekday": true,
+  "isTodayAHoliday": false,
+  "isDieHardAChristmasMovie": true,
+  "isThorStrongerThanHulk": maybe
+}
+```
+
+If you had two or more pipelines needing these values, you could make a parameter of type object that'd take in the JSON. Child pipelines would then access its values using [dot notation](https://learn.microsoft.com/en-us/azure/data-factory/how-to-expression-language-functions#examples-of-using-parameters-in-expressions){:target="_blank"}. That way, you don't need a parameter for every value, you just need one for the object. That being said, I still think this is too much effort for mirroring the reusability provided by functions, or even global parameters, in a standard programming language.
+
+**Option 3:** You store reusable expression code in a text file maintained in your Azure Storage Account. Every time you need an oft-used piece of logic, you read it from the file using a Lookup activity. You then get the output of the Lookup and pass it in as the dynamic content for the activity that needs the logic. By doing so, you only have to write the expression code once for all places that need it.
+{: .notice--danger}
+
+![JonahHillNope](/assets/images/jonahhill-nope.gif)
+
+I call this one bastardized reusability. Don't do this. This is a bad idea. I feel wrong for having typed it. It's the kind of thing customers cook up that makes the dev team shudder with horror. I'm sorry Microsoft, but you should just give us global parameters in Synapse and the ability to return values from pipelines so we can stop coming up with creative, although sometimes inefficient, workarounds.
