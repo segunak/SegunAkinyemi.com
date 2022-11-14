@@ -12,7 +12,7 @@ tags:
 
 In Azure Data Factory and Azure Synapse Analytics, there are objects called "[activities](https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities?tabs=data-factory){:target="_blank"}", which run inside of "[pipelines](https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities?tabs=data-factory){:target="_blank"}", which are called by "[triggers](https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipeline-execution-triggers){:target="_blank"}".
 
-Sometimes you need activities inside of a pipeline to only run on certain days of the week, even though the larger pipeline trigger runs daily. At least, I recently needed such functionality and envisioned others may as well. Here's how to check if the current day is a weekday using Microsoft's [expression language](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions){:target="_blank"}, which is used in both ADF and Synapse pipelines.
+Sometimes you need activities inside of a pipeline to only run on certain days of the week, even though the larger pipeline trigger runs daily. Here's how to check if the current day is a weekday using Microsoft's [expression language](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions){:target="_blank"}, which is used in both ADF and Synapse pipelines.
 
 ### Doing the Needful
 
@@ -33,9 +33,9 @@ Using these functions, you can write the code below which will return `true` if 
 )
 ```
 
-Per the documentation for `dayOfWeek()` found [here](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#dayOfWeek){:target="_blank"}, it returns an integer between from 0 to 6 representing the day of the week, with Sunday starting at 0. Therefore, 1-5 represent the weekdays Monday thru Friday.
+Per the documentation for `dayOfWeek()` found [here](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#dayOfWeek){:target="_blank"}, it returns an integer from 0 to 6 representing the day of the week, with Sunday starting at 0. Therefore, 1-5 represents the weekdays Monday thru Friday.
 
-An alternative way of writing this code is below. I find this way less attractive, as it forces everything to a string to do the comparison. Not recommended, but it works.
+An alternative way of writing this code is below. I find it less attractive, as it relies on the often perilous practice of [string comparisons](https://softwareengineering.stackexchange.com/questions/439396/is-it-bad-practice-to-compare-string-representation-on-an-object-instead-of-its){:target="_blank"}. Why compare strings when you can [compare integers](https://stackoverflow.com/questions/4904179/why-is-integer-comparison-faster-then-string-comparison){:target="_blank"}? Not recommended, but it works.
 
 ```
 @contains(
@@ -46,13 +46,14 @@ An alternative way of writing this code is below. I find this way less attractiv
 
 ### Solution Details
 
-The solution depends on the expression functions below provided by Microsoft in Azure Data Factory and Synapse Analytics.
+This solution utilizes the expression functions below provided by Microsoft in Azure Data Factory and Synapse Analytics.
 
 * `contains()`: Check if a collection contains a value. Details [here.](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#contains){:target="_blank"}
-* `createArray()`: Make an array ad hoc. Details [here](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#createArray){:target="_blank"}.
-* `dayOfWeek()`: Get an integer value denoting the current day of the week. Details [here](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#dayOfWeek){:target="_blank"}.
-* `convertFromUtc()`: Convert a UTC timestamp to a different time zone. Details [here](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#convertFromUtc){:target="_blank"}.
-* `utcNow()`: Get the current UTC Time. Details [here](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#utcNow){:target="_blank"}.
+* `createArray()`: Make an array ad hoc. Details [here.](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#createArray){:target="_blank"}
+* `dayOfWeek()`: Get an integer value denoting the current day of the week. Details [here.](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#dayOfWeek){:target="_blank"}
+* `convertFromUtc()`: Convert a UTC timestamp to a different time zone. Details [here.](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#convertFromUtc){:target="_blank"}
+* `utcNow()`: Get the current UTC Time. Details [here.](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#utcNow){:target="_blank"}
+* `string()`: Return the string version of a value. Details [here.](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions#string){:target="_blank"}
 
 ### In Conclusion
 
