@@ -568,7 +568,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 
 <div class="quote-container" markdown="1">
 
-> Now the Passover of the Jews was at hand, and Jesus went up to Jerusalem.mAnd He found in the temple those who sold oxen and sheep and doves, and the money changers doing business. When He had made a whip of cords, He drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overturned the tables.mAnd He said to those who sold doves, "Take these things away! Do not make My Father's house a house of merchandise!".
+> Now the Passover of the Jews was at hand, and Jesus went up to Jerusalem. And He found in the temple those who sold oxen and sheep and doves, and the money changers doing business. When He had made a whip of cords, He drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overturned the tables.mAnd He said to those who sold doves, "Take these things away! Do not make My Father's house a house of merchandise!".
 >
 > <cite>[John 2:13-16](https://www.biblegateway.com/passage/?search=John2:13-16&version=NKJV){:target="_blank"}</cite>
 
