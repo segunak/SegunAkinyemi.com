@@ -450,7 +450,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Mark 10:42-45](https://www.biblegateway.com/passage/?search=Mark10:42-45&version=NKJV){:target="_blank"}</cite>
 
 
-> Then He taught, saying to them, "Is it not written, 'My house shall be called a house of prayer for all nations'? But you have made it a 'den of thieves.' "
+> Then He taught, saying to them, "Is it not written, 'My house shall be called a house of prayer for all nations'? But you have made it a den of thieves."
 >
 > <cite>[Mark 11:17](https://www.biblegateway.com/passage/?search=Mark11:17&version=NKJV){:target="_blank"}</cite>
 
