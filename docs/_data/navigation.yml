@@ -9,3 +9,17 @@ main:
     url: /projects/
   - title: "Contact"
     url: /contact/
+adf-synapse-pipeline-retries:
+  - title: "Introduction"
+    url: /blog/adf-synapse-pipeline-retries/#introduction
+  - title: "Tumbling Window Triggers"
+    url: /blog/adf-synapse-pipeline-retries/#tumbling-window-triggers
+  - title: "Scheduled Triggers"
+    url: /blog/adf-synapse-pipeline-retries/#scheduled-triggers
+    children:
+      - title: "Basic Retry Pattern"
+        url: /blog/adf-synapse-pipeline-retries/#basic-retry-pattern
+      - title: "Less Basic Retry Pattern"
+        url: /blog/adf-synapse-pipeline-retries/#less-basic-retry-pattern
+  - title: "Closing Thoughts"
+    url: /blog/adf-synapse-pipeline-retries/#closing-thoughts

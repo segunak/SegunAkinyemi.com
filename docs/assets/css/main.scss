@@ -63,6 +63,11 @@ h3 blockquote {
   font-size: inherit !important;
 }
 
+// This is for the navigation menus that show up on the left. The top level parent headings are uppercase by default.
+.nav__sub-title{
+  text-transform: capitalize;
+}
+
 // .archive__item-teaser {
 //   max-width: 202px;
 // }

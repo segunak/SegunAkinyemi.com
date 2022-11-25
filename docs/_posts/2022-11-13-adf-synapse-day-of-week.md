@@ -10,6 +10,12 @@ tags:
   - tech
 ---
 
+<style>
+  .postimage img {
+    max-width: 80%;
+  }
+</style>
+
 In Azure Data Factory and Azure Synapse Analytics, there are objects called "[activities](https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities?tabs=data-factory){:target="_blank"}", which run inside of "[pipelines](https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities?tabs=data-factory){:target="_blank"}", which are called by "[triggers](https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipeline-execution-triggers){:target="_blank"}".
 
 Sometimes you need activities inside of a pipeline to only run on certain days of the week, even though the larger pipeline trigger runs daily. Here's how to check if the current day is a weekday using Microsoft's [expression language](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions){:target="_blank"}, which is used in both ADF and Synapse pipelines.
@@ -18,11 +24,15 @@ Sometimes you need activities inside of a pipeline to only run on certain days o
 
 First, create an [`If` condition](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-if-condition-activity){:target="_blank"} in your pipeline. Next, click on the `Add dynamic content` button.
 
-![IfConditionImage](/assets/images/ifcondition.png)
+<div class="postimage" markdown="1">
+  ![IfConditionImage](/assets/images/ifcondition.png)
+</div>
 
 You should now be in the Pipeline Expression Builder menu.
 
-![PipelineExpressionMenu](/assets/images/expressionbuilder.png)
+<div class="postimage" markdown="1">
+  ![PipelineExpressionMenu](/assets/images/expressionbuilder.png)
+</div>
 
 Using these functions, you can write the code below which will return `true` if the current day is a weekday. Make sure to choose your desired time zone, since the day of the week varies based on where one is in the world. Options on [this](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/default-time-zones?view=windows-11#time-zones){:target="_blank"} page.
 
