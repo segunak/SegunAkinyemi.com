@@ -33,6 +33,7 @@ description: "The personal website, blog and digital playground of Segun Akinyem
 twitter_username: segunofsolace
 github_username:  segunak
 minimal_mistakes_skin: air
+#"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 repository: segunak/SegunAkinyemi.com
 # For pages that don’t have a header.image assigned in their YAML Front Matter, 
 # site.og_image (OG is open graph) will be used as a fallback. Use your logo, icon, 
