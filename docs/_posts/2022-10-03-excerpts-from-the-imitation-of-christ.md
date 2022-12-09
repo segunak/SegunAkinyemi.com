@@ -302,7 +302,7 @@ This post serves as a collection of passages from *The Imitation of Christ* that
 > <cite>Book One, Chapter 20</cite>
 
 
-> Happy is the main who casts from him all that can stain or burden his conscience.
+> Happy is the man who casts from him all that can stain or burden his conscience.
 >
 > <cite>Book One, Chapter 21</cite>
 
