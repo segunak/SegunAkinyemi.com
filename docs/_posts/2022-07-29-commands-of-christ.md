@@ -309,7 +309,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Matthew 20:26-28](https://www.biblegateway.com/passage/?search=Matthew20:26-28&version=NKJV){:target="_blank"}</cite>
 
 
-> Then Jesus went into the temple of God and drove out all those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves. And He said to them, "It is written, 'My house shall be called a house of prayer,' but you have made it a 'den of thieves.'".
+> Then Jesus went into the temple of God and drove out all those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves. And He said to them, "It is written, 'My house shall be called a house of prayer', but you have made it a den of thieves.".
 >
 > <cite>[Matthew 21:12-13](https://www.biblegateway.com/passage/?search=Matthew21:12-13&version=NKJV){:target="_blank"}</cite>
 
