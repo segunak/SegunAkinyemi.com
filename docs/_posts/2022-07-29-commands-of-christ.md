@@ -319,7 +319,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Matthew 21:21-22](https://www.biblegateway.com/passage/?search=Matthew21:21-22&version=NKJV){:target="_blank"}</cite>
 
 
-> Show Me the tax money." So they brought Him a denarius. And He said to them, "Whose image and inscription <i>is</i> this?" They said to Him, "Caesar's." And He said to them, "Render therefore to Caesar the things that are Caesar's, and to God the things that are God's."
+> "Show Me the tax money". So they brought Him a denarius. And He said to them, "Whose image and inscription <i>is</i> this?" They said to Him, "Caesar's." And He said to them, "Render therefore to Caesar the things that are Caesar's, and to God the things that are God's."
 >
 > <cite>[Matthew 22:19-21](https://www.biblegateway.com/passage/?search=Matthew22:19-21&version=NKJV){:target="_blank"}</cite>
 
