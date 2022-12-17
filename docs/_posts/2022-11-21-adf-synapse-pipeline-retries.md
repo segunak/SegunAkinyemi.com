@@ -85,7 +85,7 @@ Here's what the pipeline looks like at the highest level. The timeout should be 
 
 ![ExpressionSectionRetryPipeline](/assets/images/expressionSectionRetryPipeline.jpg)
 
-Take note of the highlighted area containing the expression code. It makes use of the aforementioned variables to break the Until when it's appropriate to do so. Expression code is below.
+Take note of the highlighted area containing the expression code. It makes use of the aforementioned variables to break the Until when it's appropriate to do so. The expression code is below.
 
 ```
 @or(
@@ -107,7 +107,7 @@ If **Execute Target Pipeline** succeeds, we go to the [*Set Variable*](https://l
 
 ![SetHasPipelineSucceededToTrue](/assets/images/setHasPipelineSucceededToTrue.jpg)
 
-If If **Execute Target Pipeline** fails, we go to a Wait activity that waits according to the value of the `RetryInterval` parameter.
+If **Execute Target Pipeline** fails, we go to a Wait activity that waits according to the value of the `RetryInterval` parameter.
 
 ![WaitBeforeRetrying](/assets/images/waitBeforeRetrying.jpg)
 
