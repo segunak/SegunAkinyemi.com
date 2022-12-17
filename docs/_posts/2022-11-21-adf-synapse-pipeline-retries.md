@@ -117,7 +117,7 @@ After waiting, the iteration ends with appending a value (can be any value at al
 
 And so, with a great deal of effort, this pattern provides retry capabilities for pipelines run by scheduled triggers. While it better supports multiple retries, it still kind of sucks. Here's why.
 
-* Every pipeline needing retries has to be wrapped in its own **Until**** that itself contains 3 additional activities to support the logic. Doesn't scale well.
+* Every pipeline needing retries has to be wrapped in its own **Until** that itself contains 3 additional activities to support the logic. Doesn't scale well.
 * Customizing the retry interval and number of retries between distinct pipelines becomes messy. You either need to use the same values for all calls or have separate variables for each pipeline that needs a unique setting.
 * Pipeline hygiene can be muddied up by this pattern. All of a sudden your pipeline goes from looking clean and simple to a clutter of chained *Until's* existing only to enable retry abilities.
 
