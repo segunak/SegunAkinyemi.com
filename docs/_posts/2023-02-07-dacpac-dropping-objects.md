@@ -70,7 +70,7 @@ Then, when your project artifacts get uploaded to wherever you place them for de
 - task: SqlAzureDacpacDeployment@1
   displayName: "Pre-Pre-Deployment Script"
   inputs:
-    azureSubscription: "Some-Cool-Subscription-Name"
+    azureSubscription: "Game-of-Thrones"
     serverName: "Westeros"
     databaseName: "Winterfell"
     sqlUsername: "aryastark"
