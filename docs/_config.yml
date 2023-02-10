@@ -162,7 +162,6 @@ tag_archive:
 
 include:
   - _pages
-  - _posts
 
 
 # Exclude from processing.
