@@ -14,6 +14,8 @@ tags:
   - tech
 ---
 
+<script src="/assets/js/mermaid.min.js"></script>
+
 <style>
   .postimage img {
     max-width: 80%;
@@ -36,7 +38,7 @@ The path to retrying a pipeline varies depending on its trigger type, either [tu
 
 ## Tumbling Window Triggers
 
-If you're using a [tumbling window trigger](https://learn.microsoft.com/en-us/azure/data-factory/how-to-create-tumbling-window-trigger){:target="_blank"}, retry capabilities are built into Data Factory and Synapse. All you'll need to do is head over to your trigger's configuration page and set the `Retry policy: count` and `Retry policy: interval in seconds` properties to your liking.
+If you're using a [tumbling window trigger](https://learn.microsoft.com/en-us/azure/data-factory/how-to-create-tumbling-window-trigger){:target="_blank"}, retry capabilities are built into Data Factory and Synapse. All you'll need to do is head over to your trigger's configuration page and set the `Retry policy: count` and `Retry policy: interval` in seconds properties to your liking.
 
 <div class="postimage" markdown="1">
   ![TumblingWindowTriggerExample](/assets/images/retry-twt.png)
@@ -48,20 +50,51 @@ If you're using a [scheduled trigger](https://learn.microsoft.com/en-us/azure/da
 
 ### Basic Retry Pattern
 
-The pattern below is a basic implementation of a retry policy for a pipeline in Data Factory or Synapse.
+The pattern below is a basic implementation of a retry policy for a pipeline that runs on a scheduled trigger in Data Factory or Synapse.
 
 ![ScheduledTriggerExample](/assets/images/scheduledtriggerexample.jpg)
 
 Here's what's going on, activity by activity, from left to right.
 
-1. **Initial Call to Pipeline:** This is an [*Execute Pipeline*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-pipeline-activity){:target="_blank"} activity containing the original call to the pipeline of note. If it succeeds (green line), we go straight to the next activity, which can be anything. In the example, it's another *Execute Pipeline* activity, but it doesn't have to be. If *Initial Call to Pipeline* fails (red line), we go to a wait activity.
-2. **Retry Interval:** This is a [*Wait*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-wait-activity){:target="_blank"} activity. It waits for a specified period before continuing with the execution of subsequent activities. Here it's used to establish a retry interval between the initial and subsequent calls to the pipeline. When it completes (blue line) we go to the retry call for the initial pipeline.
-3. **Retry Call to Pipeline:** This is an [*Execute Pipeline*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-pipeline-activity){:target="_blank"} activity that calls the same pipeline that was executed in Step 1. If this activity is running, it means the initial call failed. **It's very important** to note how this activity is connected to the next one. It's using both a success connector (green line) and a skip connector (gray line). This is because if **Initial Call to Pipeline** succeeds, it goes straight to **Next Activity**, skipping **Retry Call to Pipeline**. If you were to only connect **Retry Call to Pipeline** to **Next Activity** on success, what you'd be saying is "only run **Next Activity** when both **Initial Call to Pipeline** and **Retry Call to Pipeline** succeed. But that makes no sense because if the initial call succeeds the retry will be skipped. Therefore, you must connect **Retry Call to Pipeline** to **Next Activity** on both success (meaning the initial call failed) and skipped (meaning the initial call succeeded).
-4. **Next Activity:** This can be any activity that should run after the initial pipeline called in Step 1. It can be yet another [*Execute Pipeline*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-pipeline-activity){:target="_blank"}  activity, but if it is and you want to have retries on it, this pattern can get messy
+#### Initial Call to Pipeline
+
+This is an [*Execute Pipeline*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-pipeline-activity){:target="_blank"} activity containing the original call to the pipeline of note. If it succeeds (green line), we go straight to the `Next Activity`. There's no need for a retry if the initial call succeeds. If it fails though, that's where things get interesting. There are two failure connectors (red lines) coming out of `Initial Call to Pipeline`. One goes to a [*Wait*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-wait-activity){:target="_blank"} activity that tells the pipeline how long to wait before trying again. The other goes straight to `Next Activity`, just like the success connector. This may seem counterintuitive at first but makes sense upon further review. There are two paths here, one where the initial call fails, and one where it succeeds. If it fails, a retry will occur, and that retry might succeed. If it does, you'll want `Next Activity` to run even though the initial call failed. The diagram below conveys the logical paths out of `Initial Call to Pipeline`
+
+<div class="mermaid">
+  graph LR
+  subgraph initialFailure["Initial Call to Pipeline - Failure Path"]
+  direction LR
+    initialCallFailure["Initial Call to Pipeline<br/>Fails"] --> |retry needed| retryInterval["Retry Interval"]
+    retryInterval --> |waiting complete| retryCallToPipeline["Retry Call to Pipeline"]
+    retryCallToPipeline --> |if succeeds| nextActivity2["Next Activity"]
+    retryCallToPipeline --> |if fails| failEntirePipeline["Fail Entire Pipeline"]
+  end
+
+  subgraph initialSuccess["Initial Call to Pipeline - Success Path"]
+  direction LR
+    initialCallSuccess["Initial Call to Pipeline<br/>Succeeds"] --> |no need for retry| nextActivity1["Next Activity"]
+  end
+</div>
+
+The reason why you need to connect `Initial Call to Pipeline` with two failure connectors, one to `Retry Interval` and the other to `Next Activity`, is because of the scenario where `Initial Call to Pipeline` fails but `Retry Call to Pipeline` succeeds. In that scenario, you want to run `Next Activity` despite the failure of `Initial Call to Pipeline` because the success of `Retry Call to Pipeline` means you're good to advance. This is demonstrated visually in Azure Data Factory (or Synapse) by the two failure connectors seen in the [screenshot](#basic-retry-pattern) above.
+
+#### Retry Interval
+
+This is a [*Wait*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-wait-activity){:target="_blank"} activity. It waits for a specified period before continuing with the execution of subsequent activities. Here it's used to establish a retry interval between the initial and subsequent calls to the pipeline. When it completes (blue line) we go to the retry call for the initial pipeline.
+
+#### Retry Call to Pipeline
+
+This is an [*Execute Pipeline*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-pipeline-activity){:target="_blank"} activity that calls the same pipeline that was executed in Step 1. If this activity is running, it means the initial call failed. **It's very important** to note how this activity is connected to the next one. It's using both a success connector (green line) and a skip connector (gray line). This is because if `Initial Call to Pipeline` succeeds, it goes straight to `Next Activity`, skipping `Retry Call to Pipeline`. If you were to only connect `Retry Call to Pipeline` to `Next Activity` on success, what you'd be saying is "only run `Next Activity` when both `Initial Call to Pipeline` and `Retry Call to Pipeline` succeed. But that makes no sense because if the initial call succeeds the retry will be skipped. Therefore, you must connect `Retry Call to Pipeline` to `Next Activity` on both success (meaning the initial call failed) and skipped (meaning the initial call succeeded).
+
+#### Next Activity
+
+This can be any activity that should run after the initial pipeline called in Step 1. It can be yet another [*Execute Pipeline*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-pipeline-activity){:target="_blank"}  activity, but if it is and you want to have retries on it, this pattern can get messy
+
+#### This Basic Pattern Has Problems
 
 [Pragmatic programmers](https://www.google.com/search?q=the+pragmatic+programmer&rlz=1C1ONGR_enUS937US937&oq=the+pragmatic+programmer){:target="_blank"} have likely already sussed out the scalability issue this pattern has.
 
-What happens when you have several pipelines each in need of at least one retry? For every pipeline needing a retry, you'd have to add at least two additional activities to support this pattern. Seeing as [there's a limit](https://github.com/MicrosoftDocs/azure-docs/blob/main/includes/azure-data-factory-limits.md){:target="_blank"} to the number of activities you can have in a Data Factory or Synapse pipeline, this pattern doesn't scale well at all. Furthermore, what happens when you need to do more than one retry? You'd have to add more  *Wait* and *Execute Pipeline* activities for every additional retry.
+What happens when you have several pipelines each in need of at least one retry? For every pipeline needing a retry, you'd have to add at least two additional activities to support this pattern. Seeing as [there's a limit](https://github.com/MicrosoftDocs/azure-docs/blob/main/includes/azure-data-factory-limits.md){:target="_blank"} to the number of activities you can have in a Data Factory or Synapse pipeline, this pattern doesn't scale well at all. Furthermore, what happens when you need to do more than one retry? You'd have to add more *Wait* and *Execute Pipeline* activities for every additional retry.
 
 This pattern is all but useless if you're looking to implement a mature form of resiliency.
 
@@ -101,13 +134,13 @@ Here's what it looks like inside of the Until.
 
 ![InsideUntil](/assets/images/insideUntil.jpg)
 
-Things start with **Execute Target Pipeline** which is an [*Execute Pipeline*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-pipeline-activity){:target="_blank"} activity. It calls whatever pipeline needs to have retry capabilities.
+Things start with `Execute Target Pipeline` which is an [*Execute Pipeline*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-pipeline-activity){:target="_blank"} activity. It calls whatever pipeline needs to have retry capabilities.
 
-If **Execute Target Pipeline** succeeds, we go to the [*Set Variable*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-set-variable-activity){:target="_blank"} activity **Set Has Pipeline Succeeded to True**, which sets the value of the parameter `HasPipelineSucceeded`, and in so doing, breaks the loop.
+If `Execute Target Pipeline` succeeds, we go to the [*Set Variable*](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-set-variable-activity){:target="_blank"} activity `Set Has Pipeline Succeeded to True`, which sets the value of the parameter `HasPipelineSucceeded`, and in so doing, breaks the loop.
 
 ![SetHasPipelineSucceededToTrue](/assets/images/setHasPipelineSucceededToTrue.jpg)
 
-If **Execute Target Pipeline** fails, we go to a Wait activity that waits according to the value of the `RetryInterval` parameter.
+If `Execute Target Pipeline` fails, we go to a Wait activity that waits according to the value of the `RetryInterval` parameter.
 
 ![WaitBeforeRetrying](/assets/images/waitBeforeRetrying.jpg)
 
@@ -117,7 +150,7 @@ After waiting, the iteration ends with appending a value (can be any value at al
 
 And so, with a great deal of effort, this pattern provides retry capabilities for pipelines run by scheduled triggers. While it better supports multiple retries, it still kind of sucks. Here's why.
 
-* Every pipeline needing retries has to be wrapped in its own **Until** that itself contains 3 additional activities to support the logic. Doesn't scale well.
+* Every pipeline needing retries has to be wrapped in its own `Until` that itself contains 3 additional activities to support the logic. Doesn't scale well.
 * Customizing the retry interval and number of retries between distinct pipelines becomes messy. You either need to use the same values for all calls or have separate variables for each pipeline that needs a unique setting.
 * Pipeline hygiene can be muddied up by this pattern. All of a sudden your pipeline goes from looking clean and simple to a clutter of chained *Until's* existing only to enable retry abilities.
 

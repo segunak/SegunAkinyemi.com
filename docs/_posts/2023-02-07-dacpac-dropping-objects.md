@@ -50,8 +50,8 @@ Looking at the steps above, it becomes clear why my deployment was failing no ma
  [Gert Drapers](https://www.linkedin.com/in/gertd/){:target="_blank"}, a former partner-level software engineer at Microsoft, dubbed this solution a "pre-pre-deployment script".
 
 <div class="mermaid">
-    graph LR;
-    prePreDeployment["Pre-Pre-Deployment Script"] --> |objects already dropped| dacpac["DACPAC Deployment"] --> everythingElse["Celebration"];
+    graph LR
+    prePreDeployment["Pre-Pre-Deployment Script"] --> |objects already dropped| dacpac["DACPAC Deployment"] --> everythingElse["Celebration"]
 </div>
 
  You can read more about the solution on this [Stack Overflow question thread](https://stackoverflow.com/questions/32330699/dacpac-schema-compare-runs-before-pre-deployment-scripts-during-publish){:target="_blank"}. How you get your pre-pre-deployment script to run before your DACPAC deployment depends on your CI/CD process. One easy solution is to add the script to your SQL Server database project's  `*.csproj` output like so.
