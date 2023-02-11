@@ -21,7 +21,6 @@ tags:
   .page__hero--overlay {
       padding: 12em 0;
   }
-
 </style>
 
 ## Taking Things Seriously
