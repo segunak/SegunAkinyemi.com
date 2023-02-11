@@ -14,7 +14,7 @@ header:
 categories:
   - blog
 tags:
-  - entertainment
+  - movies
 ---
 
 <style>
