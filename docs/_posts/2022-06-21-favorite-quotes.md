@@ -12,9 +12,9 @@ tags:
 
 This page is an ongoing collection of some of my favorite quotes. Enjoy!
 
-> It is the presence of the Lord in your life that makes you a success.
+> Hope is never mere, even when it is meager. When all other senses sleep, the eye of hope is first to awaken, last to shut.
 >
-> <cite>[Joseph Prince in "100 Days of Favor"](https://www.google.com/search?q=Joseph+Prince+100+Days+of+Favor){:target="_blank"}</cite>
+> <cite>[Elven High King Gil-Galad in the TV show "The Lord of the Rings: Rings of Power"](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power){:target="_blank"}</cite>
 
 ---
 
@@ -38,7 +38,7 @@ This page is an ongoing collection of some of my favorite quotes. Enjoy!
 
 > A fool pulls the leaves. A brute chops the trunk. A sage digs the roots.
 >
-> <cite>[Lorn au Arcos in Pierce Brown's "Golden Son"](https://www.google.com/search?q=Golden+Son+Pierce+Brown){:target="_blank"}</cite>
+> <cite>[Lorn au Arcos in Pierce Brown's novel "Golden Son"](https://www.google.com/search?q=Golden+Son+Pierce+Brown){:target="_blank"}</cite>
 
 ---
 
@@ -62,10 +62,10 @@ This page is an ongoing collection of some of my favorite quotes. Enjoy!
 
 > A thing isn't beautiful because it lasts.
 >
-> <cite>[Vision in the film "Avengers: Age of Ultron"](https://www.youtube.com/watch?v=SrSNQCa-C7A){:target="_blank"}</cite>
+> <cite>[The Vision in the film "Avengers: Age of Ultron"](https://www.youtube.com/watch?v=SrSNQCa-C7A){:target="_blank"}</cite>
 
 ---
 
 > What is grief, if not love persevering?
 >
-> <cite>[Vision in the show "WandaVision"](https://www.youtube.com/watch?v=y6y0Dhj783w){:target="_blank"}</cite>
+> <cite>[The Vision in the TV show "WandaVision"](https://www.youtube.com/watch?v=y6y0Dhj783w){:target="_blank"}</cite>
