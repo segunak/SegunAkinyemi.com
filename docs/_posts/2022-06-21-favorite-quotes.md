@@ -14,7 +14,7 @@ This page is an ongoing collection of some of my favorite quotes. Enjoy!
 
 > Hope is never mere, even when it is meager. When all other senses sleep, the eye of hope is first to awaken, last to shut.
 >
-> <cite>[Elven High King Gil-Galad in the TV show "The Lord of the Rings: Rings of Power"](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power){:target="_blank"}</cite>
+> <cite>[Elven High King Gil-Galad in the TV show "The Lord of the Rings: The Rings of Power"](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power){:target="_blank"}</cite>
 
 ---
 
