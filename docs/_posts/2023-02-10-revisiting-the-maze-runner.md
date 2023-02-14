@@ -1,6 +1,6 @@
 ---
 title: > 
-  A Timeless Thriller: James Dashner's "The Maze Runner" Proves its Endurance as a Modern Classic
+  A Timeless Thriller: James Dashner's "The Maze Runner" Proves Its Endurance as a Modern Classic
 excerpt: >
  Putting aside its cinematic adaptation, "The Maze Runner" novel has aged gracefully into a classic of dystopian science fiction.
 classes: wide
