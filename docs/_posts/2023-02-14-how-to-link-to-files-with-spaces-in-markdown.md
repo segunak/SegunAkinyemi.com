@@ -10,7 +10,7 @@ tags:
   - tech
 ---
 
-I recently had to edit a bunch of [Markdown](https://www.markdownguide.org/){:target="_blank"} files that had to link to files with spaces in their name. I had never done that before and set out to discover how to make it happen. Here's what I learned.
+I recently edited some [Markdown](https://www.markdownguide.org/){:target="_blank"} files that needed links to files with spaces in their name. I had never done that before and set out to discover how to make it happen. Here's what I learned.
 
 You can have a [markdown link](https://www.markdownguide.org/basic-syntax/#links){:target="_blank"} with spaces by wrapping the URL in angle brackets (`<>`).
 
