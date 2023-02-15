@@ -32,9 +32,9 @@ This solution should work on most all flavors of Markdown, as it's defined in th
 ![StLouisArchImage](<./St Louis Arch.jpg>)
 ```
 
-Now that you know how to link to things with spaces in them in Markdown, try to avoid needing to. You're best off just not having spaces in the name of a file or folder. Don't just take my word for it though, the [engineering community](https://superuser.com/questions/29111/what-technical-reasons-exist-for-not-using-space-characters-in-file-names){:target="_blank"} is in agreement on this one. You can use dashes, underscores, or [casing styles](https://stackoverflow.com/questions/17326185/what-are-the-different-kinds-of-cases){:target="_blank"}, just do whatever you can to avoid spaces in names.
+Now that you know how to link things with spaces in them, try to avoid doing so. You're best off just not having spaces in the name of a file or folder. Don't take my word for it though, the [engineering community](https://superuser.com/questions/29111/what-technical-reasons-exist-for-not-using-space-characters-in-file-names){:target="_blank"} is in agreement on this one. You can use dashes, underscores, or [casing styles](https://stackoverflow.com/questions/17326185/what-are-the-different-kinds-of-cases){:target="_blank"}, just do whatever you can to avoid spaces in names.
 
-But sometimes, it's out of your control. In that case, do what you got to do, much like a wise man once did a long time ago in a galaxy far far away.
+But sometimes, it's out of your control. In that case, do what you got to do, much like a wise man once did [_a long time ago in a galaxy far far away_](https://starwars.fandom.com/wiki/Duel_on_Mustafar){:target="_blank"}.
 
 <p align="center">
   <img src="/assets/images/obi-wan-must.gif" />
