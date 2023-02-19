@@ -54,7 +54,9 @@ Looking at the steps above, it becomes clear why my deployment was failing no ma
     prePreDeployment["Pre-Pre-Deployment Script"] --> |objects already dropped| dacpac["DACPAC Deployment"] --> everythingElse["Celebration"]
 </div>
 
- You can read more about the solution on this [Stack Overflow question thread](https://stackoverflow.com/questions/32330699/dacpac-schema-compare-runs-before-pre-deployment-scripts-during-publish){:target="_blank"}. How you get your pre-pre-deployment script to run before your DACPAC deployment depends on your CI/CD process. One easy solution is to add the script to your SQL Server database project's  `*.csproj` output like so.
+You can read more about the solution on this [Stack Overflow question thread](https://stackoverflow.com/questions/32330699/dacpac-schema-compare-runs-before-pre-deployment-scripts-during-publish){:target="_blank"}. There are also relevant GitHub threads [here](https://github.com/microsoft/azure-pipelines-tasks/issues/11191){:target="_blank"} and [here](https://github.com/microsoft/azure-pipelines-tasks/issues/17030){:target="_blank"} where people are running into this issue of SQLPackage not handling drops correctly.
+
+That being said, how you get your pre-pre-deployment script to run before your DACPAC depends on your CI/CD process. One easy solution, if you're using a SQL Server database project, is to add the script to its output by having the following snippet in your  `*.csproj`.
 
 ``` XML
   <ItemGroup>
