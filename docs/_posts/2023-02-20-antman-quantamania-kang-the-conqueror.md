@@ -47,7 +47,6 @@ tags:
     border-bottom: 1px solid #cecfd1;
   }
 
-
   /* X-Small devices (portrait phones, less than 576px) */
   @media (max-width: 575.98px) {
     .quote-container {
