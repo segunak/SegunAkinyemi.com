@@ -120,7 +120,7 @@ Going forward, I'm going to remember Kang as the guy who couldn't fight his way 
   <img class="gifformat" src="/assets/images/kobe-soft.gif"/>
 </p>
 
-Thanos would never! At least when we saw him take losses, it was in battles featuring heavy hitters like [Scarlet Witch](https://marvelcinematicuniverse.fandom.com/wiki/Scarlet_Witch){:target="_blank"}, [Captain Marvel](https://marvelcinematicuniverse.fandom.com/wiki/Captain_Marvel){:target="_blank"}, and [Thor](https://marvelcinematicuniverse.fandom.com/wiki/Thor){:target="_blank"}, some of the strongest MCU heroes to date. I'm not alone in my disappointment over Kang's demise in *Quantumania*. You can find plenty of articles online saying the same thing, including [this](https://collider.com/ant-man-and-the-wasp-quantumania-kang-the-conqueror-introduction/){:target="_blank"} great one. There's also social media where many fans have expressed mirroring sentiments. Here are a few highlights from Reddit.
+Thanos would never! At least when we saw him take losses, it was in battles featuring heavy hitters like [Scarlet Witch](https://marvelcinematicuniverse.fandom.com/wiki/Scarlet_Witch){:target="_blank"}, [Captain Marvel](https://marvelcinematicuniverse.fandom.com/wiki/Captain_Marvel){:target="_blank"}, and [Thor](https://marvelcinematicuniverse.fandom.com/wiki/Thor){:target="_blank"}, some of the strongest MCU heroes to date. I'm not alone in my disappointment over Kang's demise in *Quantumania*, as there are plenty of articles online saying the same thing. There's also social media where many fans have expressed mirroring sentiments. Here are a few highlights from Reddit.
 
 <div class="quote-container" markdown="1">
 
