@@ -145,7 +145,7 @@ Thanos would never! At least when we saw him take losses, it was in battles feat
 > <cite>[u/octopus_has_friends](https://www.reddit.com/r/movies/comments/1148w5a/comment/j8vl73v){:target="_blank"}</cite>
 
 
-> Kang lost count of how many times he killed that guy with a hammer. Kang gets his ass beaten by a tiny guy who controls ants
+> Kang lost count of how many times he killed that guy with a hammer. Kang gets his ass beaten by a tiny guy who controls ants.
 >
 > <cite>[u/dodo1287](https://www.reddit.com/r/marvelstudios/comments/113p6ky/comment/j8s6cld){:target="_blank"}</cite>
 
