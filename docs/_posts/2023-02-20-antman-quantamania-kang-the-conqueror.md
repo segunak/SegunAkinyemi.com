@@ -57,6 +57,10 @@ tags:
       margin: 1em 0 1em 0;
       border-bottom: 1px solid #cecfd1;
     }
+
+    .gifformat {
+      width: 80%;
+    }
   }
 
   /* Small devices (landscape phones, less than 768px) */
@@ -68,6 +72,10 @@ tags:
     blockquote {
       margin: 1em 0 1em 0;
       border-bottom: 1px solid #cecfd1;
+    }
+
+    .gifformat {
+      width: 80%;
     }
   }
 </style>
