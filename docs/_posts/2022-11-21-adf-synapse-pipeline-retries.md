@@ -1,6 +1,7 @@
 ---
 title: "How To Retry Pipelines in Azure Data Factory and Synapse Analytics"
 excerpt: "If at first, you don't succeed, pick yourself up and make sure your Azure Data Factory or Azure Synapse Analytics pipelines have adequate retry policies."
+last_modified_at: 2023-02-22T21:32:23
 classes: wide
 author_profile: false
 sidebar:

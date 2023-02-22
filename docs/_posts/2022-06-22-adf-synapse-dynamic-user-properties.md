@@ -1,6 +1,7 @@
 ---
 title: "Dynamic User Properties in Azure Data Factory and Azure Synapse Analytics"
 excerpt: "Your guide to dynamic user properties in Azure Data Factory and Azure Synapse Analytics."
+last_modified_at: 2023-02-22T21:32:22
 classes: wide
 header:
   teaser: /assets/images/azure.jpg

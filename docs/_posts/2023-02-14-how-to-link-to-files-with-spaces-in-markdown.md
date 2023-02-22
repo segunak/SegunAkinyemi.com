@@ -1,6 +1,7 @@
 ---
 title: "How To Have a Link With Spaces in Markdown"
 excerpt: "You can link to files, folders, websites, or anything with spaces in it, using this one simple Markdown trick (intentional built-in feature)."
+last_modified_at: 2023-02-22T21:32:24
 classes: wide
 header:
   teaser: /assets/images/markdown-image.jpg

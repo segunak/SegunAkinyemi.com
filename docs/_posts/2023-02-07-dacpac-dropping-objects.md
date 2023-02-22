@@ -1,6 +1,7 @@
 ---
 title: "Dropping Database Objects During DACPAC Deployments Can Get Weird"
 excerpt: "Even with a pre-deployment script, BlockOnPossibleDataLoss, and DropObjectsNotInSource, SQLPackage may still refuse to let your stale objects die."
+last_modified_at: 2023-02-22T21:32:23
 classes: wide
 header:
   teaser: /assets/images/database-art.jpg
