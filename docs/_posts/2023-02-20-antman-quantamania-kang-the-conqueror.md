@@ -98,7 +98,7 @@ Kang's lowlights include:
 * Standing dormant for far too long as the heroes ravaged his troops.
 * Failing to use his previously demonstrated telekinetic abilities.
 * Failing to use his previously demonstrated battlefield-leveling "power blast".
-* Opting for what amounted to Dragon Ball Z [finger beams](https://dragonball.fandom.com/wiki/Finger_Beam){:target="_blank"} in a 1 vs *many* fight when what he needed was a [spirit bomb](https://dragonball.fandom.com/wiki/Spirit_Bomb){:target="_blank"}.
+* Opting for what amounted to Dragon Ball Z [finger beams](https://dragonball.fandom.com/wiki/Finger_Beam){:target="_blank"} in a 1 vs *many* fight that called for a [spirit bomb](https://dragonball.fandom.com/wiki/Spirit_Bomb){:target="_blank"}.
 * Being nearly bested in hand-to-hand combat by the affable Ant-Man.
 * Getting overpowered by — admittedly technologically advanced — ants.
 
@@ -108,7 +108,7 @@ If Ant-Man and some friends gave Kang problems, can you imagine what the full Av
   <img class="gifformat" src="/assets/images/mojojojo.gif"/>
 </p>
 
-If I'm not mistaken, the Powerpuff Girls would actually *break into prison* just to beat on Mojo Jojo. They didn't even need a reason. [Buttercup](https://powerpuffgirls.fandom.com/wiki/Buttercup_(1998_TV_series)){:target="_blank"} would get bored and start looking for the man like he was a fidget spinner. Kang is lucky he didn't make it out of the Quantum realm. The way *Quantumania* built him up, only to have him fall so spectacularly, was a devastating blow to his reputation and fearsomeness as the MCU's next big villain.
+If I'm not mistaken, the Powerpuff Girls would actually *break into prison* just to beat on Mojo Jojo. They didn't even need a reason. [Buttercup](https://powerpuffgirls.fandom.com/wiki/Buttercup_(1998_TV_series)){:target="_blank"} would get bored and start looking for the man like he was a fidget spinner. Kang is lucky he didn't make it out of the Quantum realm. The way *Quantumania* built him up, only to have him fall so spectacularly, was a devastating blow to his reputation and fearsomeness that damages his brand as the MCU's next big villain.
 
 ## Aren't You the Guy That Got Bodied by Ant-Man?
 
