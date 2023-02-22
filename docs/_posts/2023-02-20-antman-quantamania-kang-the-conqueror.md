@@ -98,7 +98,7 @@ Kang's lowlights include:
 * Standing dormant for far too long as the heroes ravaged his troops.
 * Failing to use his previously demonstrated telekinetic abilities.
 * Failing to use his previously demonstrated battlefield-leveling "power blast".
-* Opting for what amounted to Dragon Ball Z [finger beams](https://dragonball.fandom.com/wiki/Finger_Beam){:target="_blank"} in a 1 vs *many* fight.
+* Opting for what amounted to Dragon Ball Z [finger beams](https://dragonball.fandom.com/wiki/Finger_Beam){:target="_blank"} in a 1 vs *many* fight when what he needed was a [spirit bomb](https://dragonball.fandom.com/wiki/Spirit_Bomb){:target="_blank"}.
 * Being nearly bested in hand-to-hand combat by the affable Ant-Man.
 * Getting overpowered by — admittedly technologically advanced — ants.
 
