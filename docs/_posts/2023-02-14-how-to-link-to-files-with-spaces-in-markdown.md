@@ -1,7 +1,7 @@
 ---
 title: "How To Have a Link With Spaces in Markdown"
 excerpt: "You can link to files, folders, websites, or anything with spaces in it, using this one simple Markdown trick (intentional built-in feature)."
-last_modified_at: 2023-02-22T21:32:24
+last_modified_at: 2023-02-23T18:00:18
 classes: wide
 header:
   teaser: /assets/images/markdown-image.jpg
@@ -16,7 +16,7 @@ I recently edited some [Markdown](https://www.markdownguide.org/){:target="_blan
 You can have a [markdown link](https://www.markdownguide.org/basic-syntax/#links){:target="_blank"} with spaces by wrapping the URL in angle brackets (`<>`).
 
 ```Markdown
-[link](<YourLinkHere>)
+[link](<Your Link With Spaces Here>)
 ```
 
 This solution should work on most all flavors of Markdown, as it's defined in the [Common Mark](https://spec.commonmark.org/0.30/#example-485){:target="_blank"} standard that's used by [Discourse](https://www.discourse.org/){:target="_blank"}, [GitHub](https://github.com/about){:target="_blank"}, [GitLab](https://about.gitlab.com/){:target="_blank"}, [Reddit](https://www.reddit.com/){:target="_blank"}, [Qt](https://www.qt.io/){:target="_blank"}, [Stack Overflow](https://stackoverflow.com/){:target="_blank"}, [Stack Exchange](https://stackexchange.com/){:target="_blank"}, and [Swift](https://developer.apple.com/swift/){:target="_blank"}. Here are some examples.
