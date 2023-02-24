@@ -2,7 +2,7 @@
 title: > 
   From Fearsome to Floundering: Kang the Conqueror's Disappointing Debut in 'Ant-Man and the Wasp: Quantumania'
 excerpt: "Jonathan Majors impresses as Kang the Conqueror, but the film's lackluster conclusion leaves Marvel's new lead antagonist ineffectual, unimposing, and hard to respect."
-last_modified_at: 2023-02-23T17:53:10
+last_modified_at: 2023-02-24T16:14:33
 classes: wide
 author_profile: false
 sidebar:
@@ -103,13 +103,13 @@ Kang's lowlights include:
 * Being nearly bested in hand-to-hand combat by the affable Ant-Man.
 * Getting overpowered by — admittedly technologically advanced — ants.
 
-If Ant-Man and some friends gave Kang problems, can you imagine what the full Avengers roster would've done? They would've had him looking like [Mojo Jojo](https://www.google.com/search?q=Mojo+Jojo){:target="_blank"} from [The Powerpuff Girls](https://en.wikipedia.org/wiki/The_Powerpuff_Girls){:target="_blank"}. Getting packed up with all manner of immediate speed.
+If Ant-Man and some friends gave Kang problems, can you imagine what the full Avengers roster would've done? They would've had him looking like [Mojo Jojo](https://www.google.com/search?q=Mojo+Jojo){:target="_blank"}. Getting packed up with all manner of immediate speed.
 
 <p align="center">
   <img class="gifformat" src="/assets/images/mojojojo.gif"/>
 </p>
 
-The Powerpuff Girls used to *break into prison* just to beat up Mojo Jojo. They didn't even need a reason. [Buttercup](https://powerpuffgirls.fandom.com/wiki/Buttercup_(1998_TV_series)){:target="_blank"} would get bored and think "where's he at", not to stop a crime, but to beat on him as a way to pass the time. It got to the point where the audience started sympathizing with him, culminating in an [episode](https://powerpuffgirls.fandom.com/wiki/Save_Mojo){:target="_blank"} where he's defended from perceived animal abuse.
+[The Powerpuff Girls](https://en.wikipedia.org/wiki/The_Powerpuff_Girls){:target="_blank"} used to *break into prison* just to beat up Mojo Jojo. They didn't even need a reason. [Buttercup](https://powerpuffgirls.fandom.com/wiki/Buttercup_(1998_TV_series)){:target="_blank"} would get bored and think "where's he at", not to stop a crime, but to beat on him as a way to pass the time. It got to the point where the audience started sympathizing with him, culminating in an [episode](https://powerpuffgirls.fandom.com/wiki/Save_Mojo){:target="_blank"} where he's defended from perceived animal abuse.
 
 That aside, my point is Kang's lucky he didn't make it out of the Quantum realm. He talked tough about killing "so many" Avengers, but from what he showed in that final battle, [Captain Marvel](https://marvelcinematicuniverse.fandom.com/wiki/Captain_Marvel){:target="_blank"} alone would've crushed him down to undiscoverable atoms. The way *Quantumania* built Kang up, only to have him fall so spectacularly, was a devastating blow to his reputation and fearsomeness going forward.
 
