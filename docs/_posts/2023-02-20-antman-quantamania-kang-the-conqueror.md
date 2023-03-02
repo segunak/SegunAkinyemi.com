@@ -2,7 +2,7 @@
 title: > 
   From Fearsome to Floundering: Kang the Conqueror's Disappointing Debut in 'Ant-Man and the Wasp: Quantumania'
 excerpt: "Jonathan Majors impresses as Kang the Conqueror, but the film's lackluster conclusion leaves Marvel's new lead antagonist ineffectual, unimposing, and hard to respect."
-last_modified_at: 2023-02-24T16:18:45
+last_modified_at: 2023-03-02T15:27:17
 classes: wide
 author_profile: false
 sidebar:
@@ -103,7 +103,7 @@ Kang's lowlights include:
 * Being nearly bested in hand-to-hand combat by the affable Ant-Man.
 * Getting overpowered by — admittedly technologically advanced — ants.
 
-If Ant-Man and some friends gave Kang problems, can you imagine what the full Avengers roster would've done? They would've had him looking like [Mojo Jojo](https://www.google.com/search?q=Mojo+Jojo){:target="_blank"}. Getting packed up with all manner of immediate speed.
+If Ant-Man and some friends gave Kang problems, can you imagine what the full Avengers roster would do? They'd have him looking like [Mojo Jojo](https://www.google.com/search?q=Mojo+Jojo){:target="_blank"}, getting packed up with all manner of immediate speed.
 
 <p align="center">
   <img class="gifformat" src="/assets/images/mojojojo.gif"/>
