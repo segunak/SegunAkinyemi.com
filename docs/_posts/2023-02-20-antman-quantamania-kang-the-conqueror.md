@@ -2,7 +2,7 @@
 title: > 
   From Fearsome to Floundering: Kang the Conqueror's Disappointing Debut in 'Ant-Man and the Wasp: Quantumania'
 excerpt: "Jonathan Majors impresses as Kang the Conqueror, but the film's lackluster conclusion leaves Marvel's new lead antagonist ineffectual, unimposing, and hard to respect."
-last_modified_at: 2023-03-02T15:27:17
+last_modified_at: 2023-03-26T23:37:39
 classes: wide
 author_profile: false
 sidebar:
@@ -94,7 +94,7 @@ I understand that Ant-Man and the Wasp had to emerge triumphant in a film bearin
 
 The decision to conclude Kang's film debut with defeat at the hands of a B-level Avenger, his sidekicks, and some ants is more than strange, it's downright perplexing. This differs from the defeat of *He Who Remains* Kang in *Loki* because in *Quantumania* he was actively defending himself. In the show, Kang let Loki and Sylvie choose their destiny, and that of the multiverse at large, even if it meant his death and ensuing chaos. It was a very god-like [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden){:target="_blank"} move that demonstrated just how above it all *He Who Remains* was. However, in *Quantumania* the opposite is true. Kang is anything but a benevolent overseer. He's a man of prodigious will, nefarious and unfettered by moral restraint in pursuit of his aims. His true nature was laid bare when "I wish that mattered" was his response to being reminded of the staggering carnage his plans would bring. Kang the Conqueror is downright diabolical. We're meant to fear him, and throughout most of the film, I did. That's why his actions and strategy during the final battle were jarring, to say the least.
 
-Kang's lowlights include:
+Kang's lowlights during the film's final battle include:
 
 * Standing dormant for far too long as the heroes ravaged his troops.
 * Failing to use his previously demonstrated telekinetic abilities.
