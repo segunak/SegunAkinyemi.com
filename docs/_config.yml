@@ -24,7 +24,7 @@ title: Segun Akinyemi
 name: Segun Akinyemi
 subtitle:
 masthead_title:
-search: false
+search: true
 email:
 breadcrumbs: true  # disabled by default
 #logo: "/assets/images/logo-fullytransparent.png"
