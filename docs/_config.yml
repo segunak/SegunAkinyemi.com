@@ -24,7 +24,7 @@ title: Segun Akinyemi
 name: Segun Akinyemi
 subtitle:
 masthead_title:
-search: true
+search: false
 email:
 breadcrumbs: true  # disabled by default
 #logo: "/assets/images/logo-fullytransparent.png"
@@ -32,7 +32,11 @@ locale: "en-US"
 description: "The personal website, blog and digital playground of Segun Akinyemi."
 twitter_username: segunofsolace
 github_username:  segunak
+# See https://github.com/mmistakes/minimal-mistakes/discussions/2033 for the code/ideas. This is a part of adding
+# a light/dark switch button to the page. Two themes can be toggled.
 minimal_mistakes_skin: air
+minimal_mistakes_skin2: neon
+# See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin for what the below options look like.
 #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 repository: segunak/SegunAkinyemi.com
 # For pages that don’t have a header.image assigned in their YAML Front Matter, 

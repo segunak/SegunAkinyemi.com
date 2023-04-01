@@ -1,0 +1,43 @@
+html {
+    font-size: 16px; // originally 16px
+  
+    max-width: 100%;
+  
+    @include breakpoint($small) {
+      font-size: 16px; // originally 16px
+    }
+  
+    @include breakpoint($medium) {
+      font-size: 14px; // originally 18px
+    }
+  
+    @include breakpoint($large) {
+      font-size: 16px; // originally 20px
+    }
+  
+    @include breakpoint($x-large) {
+      font-size: 18px; // originally 22px
+    }
+  }
+  
+  h3 blockquote { 
+    color:green;
+  }
+  
+  .breadcrumbs {
+    max-width: 85%;
+  }
+  
+  .homepage_heading {
+    font-size: 1.5em;
+  } 
+  
+  .notice, .notice--primary, .notice--warning, .notice--info, .notice--danger, .notice--success { 
+    font-size: inherit !important;
+  }
+
+  /* This is for the navigation menus that show up on the left. The top level parent headings are uppercase by default. */
+  .nav__sub-title{
+    text-transform: capitalize;
+  }
+  

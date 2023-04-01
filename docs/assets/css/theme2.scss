@@ -1,13 +1,13 @@
 ---
+# Replaces main.scss when skin/theme toggle button is pressed.
 ---
+
+$max-width: 85%;
 
 @charset "utf-8";
 
-/* Any variable overrides must come before @import */
-$max-width: 85%;
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin2 | default: 'dark' }}"; // skin
+@import "minimal-mistakes"; // main 
 /*
 GS: override any CSS with new CSS styles AFTER the `@import "minimal-mistakes";` line just above!
 See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
