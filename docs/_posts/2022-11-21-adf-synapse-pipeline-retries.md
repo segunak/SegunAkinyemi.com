@@ -1,7 +1,7 @@
 ---
 title: "How To Retry Pipelines in Azure Data Factory and Synapse Analytics"
 excerpt: "If at first, you don't succeed, pick yourself up and make sure your Azure Data Factory or Azure Synapse Analytics pipelines have adequate retry policies."
-last_modified_at: 2023-02-22T21:32:23
+last_modified_at: 2023-04-18T00:23:22
 classes: wide
 author_profile: false
 sidebar:
@@ -145,7 +145,7 @@ If `Execute Target Pipeline` fails, we go to a Wait activity that waits accordin
 
 ![WaitBeforeRetrying](/assets/images/waitBeforeRetrying.jpg)
 
-After waiting, the iteration ends with appending a value (can be any value at all since the count of the array is what we care about) to the `RetryTracker` array.
+After waiting, the iteration ends with appending a value (can be any value at all since the count of the array is what we care about) to the `RetryTracker` array. You might be wondering, why are you adding a dummy value to an array just so you can use its length as an integer? Why not just have an integer that you increment each pass through the loop (Until activity)? Well, that'd certainly make more sense, but in Azure Data Factory, the only variables you can "[append](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-append-variable-activity){:target="_blank"}" to are arrays. The screenshot below says as much with the message in small text near the bottom. There is another way to work around this, detailed [here](https://kloudspro.com/how-to-increment-a-variable-in-adf-azure-data-factory/){:target="_blank"}, but I felt using an array was just less work than adding yet another variable to keep track of. I'm sure the ability to increment integers is coming soon to Azure Synapse Analytics & Data Factory. It has to be, right? Right.
 
 ![AppendingToRetryTracker](/assets/images/appendingToRetryTracker.jpg)
 
