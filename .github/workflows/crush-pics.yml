@@ -1,8 +1,6 @@
-name: Crush images
+name: crush-images
 on:
-  pull_request:
-    branches:
-      - master
+  push:
     paths:
       - '**.jpg'
       - '**.jpeg'
