@@ -21,7 +21,7 @@ But unlike Azure Data Factory, **Synapse does not currently support global param
 Don't use global parameters.
 {: .notice--warning}
 
-Relax. I'm just kidding, kind of. If you can find a way to avoid global state in your Azure Synapse Analytics workspace, you'll save yourself some pain. Not that I believe global state is bad or anything, Synapse just  lacks native support for it (at least as of the time I'm writing this article). Do you know what's better than finding a great workaround? Not needing one at all!
+Relax. I'm just kidding, kind of. If you can find a way to avoid global state in your Azure Synapse Analytics workspace, you'll save yourself some pain. Not that I believe global state is bad or anything, Synapse just lacks native support for it (at least as of the time I'm writing this article). Do you know what's better than finding a great workaround? Not needing one at all!
 
 ## Actual Workaround
 
