@@ -1,7 +1,7 @@
 ---
 title: "Favorite Quotes"
 excerpt: "A collection of awesome quotes from various sources."
-last_modified_at: 2023-02-22T21:32:22
+last_modified_at: 2023-06-04T20:53:16
 classes: wide
 header:
   teaser: /assets/images/coolkingdom.jpg
@@ -12,6 +12,12 @@ tags:
 ---
 
 This page is an ongoing collection of some of my favorite quotes. Enjoy!
+
+> For what it’s worth: it’s never too late or, in my case, too early to be whoever you want to be. There’s no time limit, stop whenever you want. You can change or stay the same, there are no rules to this thing. We can make the best or the worst of it. I hope you make the best of it. And I hope you see things that startle you. I hope you feel things you never felt before. I hope you meet people with a different point of view. I hope you live a life you’re proud of. If you find that you’re not, I hope you have the courage to start all over again
+>
+> <cite>[Francis Scott Fitzgerald](https://www.goodreads.com/quotes/7452670-for-what-it-s-worth-it-s-never-too-late-or-in){:target="_blank"}</cite>
+
+---
 
 > Hope is never mere, even when it is meager. When all other senses sleep, the eye of hope is first to awaken, last to shut.
 >
@@ -70,3 +76,29 @@ This page is an ongoing collection of some of my favorite quotes. Enjoy!
 > What is grief, if not love persevering?
 >
 > <cite>[The Vision in the TV show "WandaVision"](https://www.youtube.com/watch?v=y6y0Dhj783w){:target="_blank"}</cite>
+
+---
+
+There's some controversy to this quote, as it's [often misinterpreted](https://www.google.com/search?q=The+Road+Not+Taken+is+misinterpeted){:target="_blank"} by those who wield it. Most famously, by John Keating in the film [The Dead Poets Society](https://en.wikipedia.org/wiki/Dead_Poets_Society){:target="_blank"}, who used it to emphasize the importance of embracing nonconformity in becoming a free thinker. I'm aware of all such deliberations about the true meaning of this quote, I understand their rationale, their logic, and their unquestionable accuracy, and yet, I don't care. I prefer it as seen below, out of context, and unambiguous in its meaning. One could say I'm *embracing* nonconformity.
+
+> Two roads diverged in a wood, and I - I took the one less traveled by, And that has made all the difference.
+>
+> <cite>[Robert Frost in The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken){:target="_blank"}</cite>
+
+---
+
+> Enter by the narrow gate; for wide is the gate and broad is the way that leads to destruction, and there are many who go in by it. Because narrow is the gate and difficult is the way which leads to life, and there are few who find it.
+>
+> <cite>[Matthew 7:13](https://www.biblegateway.com/passage/?search=Matthew+7%3A13&version=NKJV){:target="_blank"}</cite>
+
+---
+
+> Now, we all have a great need for acceptance. But you must trust that your beliefs are unique, your own, even though others may think them odd or unpopular, even though the herd may go, "That's baaaaad."
+>
+> <cite>[John Keating in the film The Dead Poets Society](https://en.wikipedia.org/wiki/Dead_Poets_Society){:target="_blank"}</cite>
+
+---
+
+> We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for. To quote from Whitman, "O me! O life!... of the questions of these recurring; of the endless trains of the faithless... of cities filled with the foolish; what good amid these, O me, O life?" Answer. That you are here - that life exists, and identity; that the powerful play goes on and you may contribute a verse. That the powerful play *goes on* and you may contribute a verse. What will your verse be?
+>
+> <cite>[John Keating in the film The Dead Poets Society](https://en.wikipedia.org/wiki/Dead_Poets_Society){:target="_blank"}</cite>
