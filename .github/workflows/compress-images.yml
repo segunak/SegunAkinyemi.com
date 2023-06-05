@@ -4,9 +4,7 @@ on:
   push:
     branches: [master]
     paths:
-      - '**.jpg'
-      - '**.jpeg'
-      - '**.png'
+      - '/docs/assets/images/**'
   
 jobs:
   cleanup_tasks:
@@ -20,6 +18,5 @@ jobs:
       uses: creyD/crush_action@v1.0
       with:
         branch: master
-        folder: ${{ github.workspace }}/docs/assets/images
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
