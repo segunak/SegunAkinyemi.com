@@ -4,7 +4,9 @@ on:
   push:
     branches: [master]
     paths:
-      - '/docs/assets/images/**'
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.png'
 
 jobs:
   cleanup_tasks:
