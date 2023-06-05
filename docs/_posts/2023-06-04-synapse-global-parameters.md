@@ -74,7 +74,7 @@ And then back in the child pipeline, global values inherited from the parent can
 
 This workaround is essentially recreating the principle of [inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){:target="_blank"} in programming, albeit in a strange low-code fashion. It reminds me of some classes I took in college where professors demanded we create data structures from scratch. I can't say those were my favorite lessons, but I certainly learned a lot. Perhaps Microsoft intentionally omitted global parameters from Synapse to [empower](https://www.microsoft.com/en-us/about){:target="_blank"} our growth as software artisans. Probably not, but they've certainly forced users to work on their problem-solving skills.
 
-## Workaround Limitations & Concerns
+## Workaround Drawbacks
 
 There are some drawbacks to the aforementioned parent-child inheritance workaround for achieving globals in Synapse. Here are a few of them.
 
