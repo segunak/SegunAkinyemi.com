@@ -16,7 +16,7 @@ jobs:
       uses: actions/checkout@v1
       with:
         fetch-depth: 1
-    - name: Crush Images!
+    - name: Compress Images!
       uses: creyD/crush_action@v1.0
       with:
         branch: master
