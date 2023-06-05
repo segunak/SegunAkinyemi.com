@@ -25,7 +25,6 @@ Relax. I'm just kidding, kind of. If you can find a way to avoid global state in
 
 ## Actual Workaround
 
-
 Leverage a one-to-many relationship to invoke multiple pipelines from a central parent, supplying each child with a JSON object containing essential global values.
 {: .notice--info}
 
