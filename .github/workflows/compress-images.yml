@@ -4,10 +4,8 @@ on:
   push:
     branches: [master]
     paths:
-      - '**.jpg'
-      - '**.jpeg'
-      - '**.png'
-  
+      - '/docs/assets/images/**'
+
 jobs:
   cleanup_tasks:
     runs-on: ubuntu-latest
