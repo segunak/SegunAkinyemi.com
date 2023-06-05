@@ -3,7 +3,11 @@ name: compress-images
 on:
   push:
     branches: [master]
-
+    paths:
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.png'
+  
 jobs:
   cleanup_tasks:
     runs-on: ubuntu-latest
