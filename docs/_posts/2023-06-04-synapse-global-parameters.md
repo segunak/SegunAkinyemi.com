@@ -27,7 +27,7 @@ Relax. I'm just kidding, kind of. If you can find a way to avoid global state in
 
 ## Actual Workaround
 
-Leverage a one-to-many relationship to invoke multiple pipelines from a central parent, supplying each child with a JSON object containing essential global values.
+Leverage a one-to-many relationship to invoke all pipelines from a central parent, supplying each child with a JSON object containing essential global values.
 {: .notice--info}
 
 In Synapse, you can pass JSON objects as parameters to any pipeline. To emulate global state, create a parent pipeline to act as the hub from which all other pipelines in the workspace are invoked. Within this parent pipeline, you can define the desired global values using a JSON object. Then, when invoking the child pipelines, you pass along the parent's global object. In the child pipelines, the global values can be accessed using dot notation.
@@ -68,9 +68,9 @@ Then in your parent pipeline, load the global values from the `.json` file using
 
 ![GetGlobals](/assets/images/get-globals.jpg)
 
-Alternatively, you could skip passing the values from the parent and just have a Lookup activity in each child pipeline that reads the `.json` file to grab the global values. However, passing them from the parent avoids having to do the same retrieval more than once, which may or may not be important to you, your call.
+Alternatively, you could skip passing the values from the parent and just have a Lookup activity in each child pipeline that reads the `.json` file to grab global values. However, passing them from the parent avoids having to do the same retrieval more than once, which may or may not be important to you, your call.
 
-**Option 2:** Save your JSON in the default value field of an `Object` type parameter on the parent pipeline.
+**Option 2:** Save your JSON in the default value field of a parameter with the type `Object` on your parent pipeline.
 
 This may sound weird, but this whole thing is a workaround, so bear with me. Create a parameter of the type `Object` in your parent pipeline. Populate its default with your JSON object string containing global values. Be sure to create a parameter of type `Object`, and not a variable. Only pipeline parameters support the `Object` type, which is another strange limitation of Synapse. Paste your JSON into the "Default value" field of the parameter.
 
@@ -78,17 +78,19 @@ This may sound weird, but this whole thing is a workaround, so bear with me. Cre
 
 ### Pass your globals JSON object to child pipelines
 
-Ensure each child pipeline has a parameter of type `Object` for receiving global data from the parent. Then, when calling child pipelines via [`Execute Pipeline`](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-pipeline-activity){:target="_blank"} activities in the parent, pass in the JSON object containing your global values. Within your child pipelines, you can access the global properties of the inherited JSON object using dot notation.
+Ensure each child pipeline has a parameter of type `Object` for receiving global data from the parent. Then, when calling child pipelines via [Execute Pipeline](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-pipeline-activity){:target="_blank"} activities in the parent, pass in the JSON object containing your global values. Within your child pipelines, you can access the global properties of the inherited JSON using dot notation.
 
 For example, here's a child pipeline with a parameter of type `Object`.
 
 ![SettingUpChildPipeline](/assets/images/Synapse-ChildPipeline-TakingGlobalObject-FromParent.jpg)
 
-Now in the parent, when the child pipeline is executed, the globals JSON object can be provided to it via the parameter. Here's how you would pass the globals object if you chose Option 1 (getting JSON from a file) for storing the object.
+Now in the parent, when the child pipeline is executed, the globals JSON object can be provided to it via the parameter.
+
+Here's how you would pass the globals object if you chose **Option 1 (using a `.json`)** for storing your JSON.
 
 ![LookupJsonDetailed](/assets/images/lookup-json-detailed.jpg)
 
-Here's how it'd be passed if you chose Option 2 (getting JSON from an `Object` parameter in the parent pipeline).
+Here's how it'd be passed if you chose **Option 2 (using the default value of an `Object` type parameter in the parent pipeline)** for storing your JSON.
 
 ![CallingChildPipeline](/assets/images/Synapse-ParentPipeline-CallingChild.jpg)
 
@@ -96,24 +98,21 @@ And then back in the child pipeline, global values inherited from the parent can
 
 ![ChildPipelineUsingGlobal](/assets/images/Synapse-ChildPipeline-UsingGlobalFromParent.jpg)
 
-This workaround is essentially recreating the principle of [inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){:target="_blank"} in programming, albeit in a strange low-code fashion. It reminds me of some classes I took in college where professors demanded we create data structures from scratch. I can't say those were my favorite lessons, but I certainly learned a lot. Perhaps Microsoft intentionally omitted global parameters from Synapse to [empower](https://www.microsoft.com/en-us/about){:target="_blank"} our growth as software artisans. Probably not, but they've certainly forced users to work on their problem-solving skills.
+This workaround is essentially recreating the principle of [inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){:target="_blank"}, with some [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection){:target="_blank"} mixed in, albeit in a somewhat roundabout way. It reminds me of some classes I took in college where professors demanded we create data structures from scratch. I can't say those were my favorite lessons at the time, but I certainly learned a lot. Perhaps Microsoft intentionally omitted global parameters from Synapse to [empower](https://www.microsoft.com/en-us/about){:target="_blank"} our growth as software artisans. Probably not, but they've certainly forced users to work on their problem-solving skills.
 
 ## Workaround Drawbacks
 
 There are some drawbacks to the aforementioned parent-child inheritance workaround for achieving globals in Synapse. Here are a few of them.
 
-* You don't get any JSON linting for your global object in the parent pipeline. If someone enters in messed up JSON, you won't know until runtime.
-* Using the default value input box to house global values that are potentially changeable is a little weird. It works but it's not the intended use case for that field.
+* If you go with the default parameter option, you don't get any JSON linting for your globals object. If someone enters in messed up JSON, you won't know until runtime.
 * If you go with the default parameter option, whenever the globals JSON object needs a change, you'll have to copy out the existing JSON, make the necessary modifications, and then copy it back in. The Synapse UI has a multiline text editor, but it's not accessible from the default value input box, which is an obvious hint that you're not really supposed to be using it for complex JSON objects.
 * If you go with the `.json` file in an Azure Storage Account option, you introduce an external dependency for your pipeline that could potentially be a point of failure. Not a big deal if you put some validations in place, but it's worth noting.
 * Dynamically setting values in your globals JSON object is not possible. Only static values are allowed, depriving you of the flexibility and agility that dynamic configurations could bring.
-* By forcing all pipelines needing global values to be called from the parent, you run the risk of hitting the [40 activity limit](https://github.com/MicrosoftDocs/azure-docs/blob/main/includes/azure-data-factory-limits.md){:target="_blank"} if you have a lot of children. There are some ways around this by spreading out your child calls between wrapper pipelines, but if you're not careful that can get messy rather quickly.
+* By forcing all pipelines needing global values to be called from the parent, you run the risk of hitting the [40 activity limit](https://github.com/MicrosoftDocs/azure-docs/blob/main/includes/azure-data-factory-limits.md){:target="_blank"}. You could avoid this concern by ditching the parent-child pipeline pattern. Instead, you'd have a Lookup activity in every pipeline needing global values that gets them from a `.json` file in your storage account. But then you end up doing the same lookup all over the place, each time returning the same values. Why not just do it once? We might be in a low-code world with Synapse, but that's a [code smell](https://en.wikipedia.org/wiki/Code_smell){:target="_blank"} if I've ever heard (or I guess, smelled?) of one. But hey, you've got to do what you've got to do. It's not our fault that Synapse doesn't have global parameters. If you're reading this right now, you and I, we're the victims here. Do what you must.
 
 In a nutshell, while this workaround might _work_, it's inferior to the native support for global parameters that's [already available](https://learn.microsoft.com/en-us/azure/data-factory/author-global-parameters){:target="_blank"} in Azure Data Factory.
 
 ![GlobalsSupportADFSynapse](/assets/images/GlobalsSupportADFSynapse.jpg)
-
-Strangely, this feature has somehow eluded Azure Synapse Analytics, which includes what is essentially a clone of Data Factory under its roof of [many products](https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is){:target="_blank"}.
 
 ## A Closing Soliloquy
 
