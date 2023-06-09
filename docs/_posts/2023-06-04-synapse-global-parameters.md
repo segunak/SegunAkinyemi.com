@@ -34,11 +34,11 @@ In Synapse, you can pass JSON objects as parameters to any pipeline. To emulate 
 
 Here's what this pattern looks like in action.
 
-**Create your parent pipeline:**
+### Create your parent pipeline
 
 Create a pipeline in your Synapse workspace from which you intend to call all other pipelines. If you're using [triggers](https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipeline-execution-triggers){:target="_blank"}, this is the pipeline that your trigger would need to be calling.
 
-**Create a JSON object to house your global values:**
+### Create a JSON object to house your global values
 
 In your favorite text editor ([preferably one with linting](https://code.visualstudio.com/docs/languages/json){:target="_blank"}), create a JSON object with the values you need to be globally accessible in your Synapse workspace. Example below.
 
@@ -50,13 +50,33 @@ In your favorite text editor ([preferably one with linting](https://code.visuals
 }
 ```
 
-**Create a parameter of the type `Object` in your parent pipeline. Populate its default with your JSON object string containing global values:**
+### Choose a storage method for your JSON object
 
-Be sure to create a parameter of type `Object`, and not a variable. Only pipeline parameters support the `Object` type, which is another strange limitation of Synapse. Paste your JSON into the "Default value" field of the parameter.
+You have some options for storage of your JSON object containing global values, each with its pros and cons. They are as follows.
+
+**Option 1:** Save your JSON in a `.json` file and upload it to the Azure Storage Account attached to your Synapse Workspace.
+
+Then in your parent pipeline, load the global values from the `.json` file using a [Lookup activity](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-lookup-activity){:target="_blank"}.
+
+![StorageAccountJson](/assets/images/storage-account-json.jpg)
+
+---
+
+![SynapseDataset](/assets/images/synapse-dataset.jpg)
+
+---
+
+![GetGlobals](/assets/images/get-globals.jpg)
+
+Alternatively, you could skip passing the values from the parent and just have a Lookup activity in each child pipeline that reads the `.json` file to grab the global values. However, passing them from the parent avoids having to do the same retrieval more than once, which may or may not be important to you, your call.
+
+**Option 2:** Save your JSON in the default value field of an `Object` type parameter on the parent pipeline.
+
+This may sound weird, but this whole thing is a workaround, so bear with me. Create a parameter of the type `Object` in your parent pipeline. Populate its default with your JSON object string containing global values. Be sure to create a parameter of type `Object`, and not a variable. Only pipeline parameters support the `Object` type, which is another strange limitation of Synapse. Paste your JSON into the "Default value" field of the parameter.
 
 ![GlobalData](/assets/images/ParentPipelineGlobalData.jpg)
 
-**Pass the parameter containing your globals JSON object to child pipelines. Access its properties using dot notation:**
+### Pass your globals JSON object to child pipelines
 
 Ensure each child pipeline has a parameter of type `Object` for receiving global data from the parent. Then, when calling child pipelines via [`Execute Pipeline`](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-pipeline-activity){:target="_blank"} activities in the parent, pass in the JSON object containing your global values. Within your child pipelines, you can access the global properties of the inherited JSON object using dot notation.
 
@@ -64,7 +84,11 @@ For example, here's a child pipeline with a parameter of type `Object`.
 
 ![SettingUpChildPipeline](/assets/images/Synapse-ChildPipeline-TakingGlobalObject-FromParent.jpg)
 
-Now in the parent, when the child pipeline is executed, the globals JSON object can be provided to it via the parameter.
+Now in the parent, when the child pipeline is executed, the globals JSON object can be provided to it via the parameter. Here's how you would pass the globals object if you chose Option 1 (getting JSON from a file) for storing the object.
+
+![LookupJsonDetailed](/assets/images/lookup-json-detailed.jpg)
+
+Here's how it'd be passed if you chose Option 2 (getting JSON from an `Object` parameter in the parent pipeline).
 
 ![CallingChildPipeline](/assets/images/Synapse-ParentPipeline-CallingChild.jpg)
 
@@ -80,7 +104,8 @@ There are some drawbacks to the aforementioned parent-child inheritance workarou
 
 * You don't get any JSON linting for your global object in the parent pipeline. If someone enters in messed up JSON, you won't know until runtime.
 * Using the default value input box to house global values that are potentially changeable is a little weird. It works but it's not the intended use case for that field.
-* Whenever the globals JSON object needs a change, you'll have to copy out the existing JSON, find a suitable linting editor, make the necessary modifications, and then copy it back in. The Synapse UI has a multiline text editor, but it's not accessible from the default value input box, which is an obvious hint that you're not really supposed to be using it for complex JSON objects.
+* If you go with the default parameter option, whenever the globals JSON object needs a change, you'll have to copy out the existing JSON, make the necessary modifications, and then copy it back in. The Synapse UI has a multiline text editor, but it's not accessible from the default value input box, which is an obvious hint that you're not really supposed to be using it for complex JSON objects.
+* If you go with the `.json` file in an Azure Storage Account option, you introduce an external dependency for your pipeline that could potentially be a point of failure. Not a big deal if you put some validations in place, but it's worth noting.
 * Dynamically setting values in your globals JSON object is not possible. Only static values are allowed, depriving you of the flexibility and agility that dynamic configurations could bring.
 * By forcing all pipelines needing global values to be called from the parent, you run the risk of hitting the [40 activity limit](https://github.com/MicrosoftDocs/azure-docs/blob/main/includes/azure-data-factory-limits.md){:target="_blank"} if you have a lot of children. There are some ways around this by spreading out your child calls between wrapper pipelines, but if you're not careful that can get messy rather quickly.
 
