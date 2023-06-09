@@ -32,7 +32,9 @@ Leverage a one-to-many relationship to invoke all pipelines from a central paren
 
 In Synapse, you can pass JSON objects as parameters to any pipeline. To emulate global state, create a parent pipeline to act as the hub from which all other pipelines in the workspace are invoked. Within this parent pipeline, you can define the desired global values using a JSON object. Then, when invoking the child pipelines, you pass along the parent's global object. In the child pipelines, the global values can be accessed using dot notation.
 
-Here's what this pattern looks like in action.
+Alternatively, you could create a `.json` file containing your global values, upload it to your Azure Storage Account, and access it via a [Lookup activity](https://learn.microsoft.com/en-us/azure/data-factory/control-flow-lookup-activity){:target="_blank"} in every pipeline needing globals. While this pattern is simpler, it has some [drawbacks](#workaround-drawbacks).
+
+That being said, here's what the parent-child pattern looks like in action.
 
 ### Create your parent pipeline
 
@@ -67,8 +69,6 @@ Then in your parent pipeline, load the global values from the `.json` file using
 ---
 
 ![GetGlobals](/assets/images/get-globals.jpg)
-
-Alternatively, you could skip passing the values from the parent and just have a Lookup activity in each child pipeline that reads the `.json` file to grab global values. However, passing them from the parent avoids having to do the same retrieval more than once, which may or may not be important to you, your call.
 
 **Option 2:** Save your JSON in the default value field of a parameter with the type `Object` on your parent pipeline.
 

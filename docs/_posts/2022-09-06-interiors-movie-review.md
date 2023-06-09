@@ -1,7 +1,7 @@
 ---
 title: "Interiors: A Review of Woody Allen's First Ever Serious Film"
 excerpt: "In his first foray into serious filmmaking, Woody Allen delivers a deeply emotional dramatic masterpiece."
-last_modified_at: 2023-02-22T21:32:23
+last_modified_at: 2023-06-09T14:57:50
 toc: true
 toc_label: "On This Page"
 toc_icon: "lightbulb"
@@ -15,7 +15,7 @@ header:
 categories:
   - blog
 tags:
-  - movies
+  - film
 ---
 
 <style>
