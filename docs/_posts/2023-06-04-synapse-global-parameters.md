@@ -100,6 +100,12 @@ And then back in the child pipeline, global values inherited from the parent can
 
 This workaround is essentially recreating the principle of [inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)){:target="_blank"}, with some [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection){:target="_blank"} mixed in, albeit in a somewhat roundabout way. It reminds me of some classes I took in college where professors demanded we create data structures from scratch. I can't say those were my favorite lessons at the time, but I certainly learned a lot. Perhaps Microsoft intentionally omitted global parameters from Synapse to [empower](https://www.microsoft.com/en-us/about){:target="_blank"} our growth as software artisans. Probably not, but they've certainly forced users to work on their problem-solving skills.
 
+## Another Workaround
+
+If you have a database connected to your Synapse workspace, you could store global values in a table instead of a JSON object. Then whenever you need a global value, you could read it straight from the database table via a Lookup activity in the relevant pipeline. That approach is discussed in more in the article below.
+
+[Paul Hernandez: Alternative pipeline parametrization for Azure Synapse Analytics](https://hernandezpaul.wordpress.com/2022/08/10/alternative-pipeline-parametrization-for-azure-synapse-analytics/){:target="_blank"}
+
 ## Workaround Drawbacks
 
 There are some drawbacks to the aforementioned parent-child inheritance workaround for achieving globals in Synapse. Here are a few of them.
