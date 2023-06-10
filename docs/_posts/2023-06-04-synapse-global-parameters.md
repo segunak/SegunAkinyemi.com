@@ -102,7 +102,7 @@ This workaround is essentially recreating the principle of [inheritance](https:/
 
 ## Another Workaround
 
-If you have a database connected to your Synapse workspace, you could store global values in a table instead of a JSON object. Then whenever you need a global value, you could read it straight from the database table via a Lookup activity in the relevant pipeline. That approach is discussed in more in the article below.
+If you have a database connected to your Synapse workspace, you could store global values in a table instead of a JSON object. Then whenever you need a global value, you could read it straight from the database table via a Lookup activity in the relevant pipeline. That approach is discussed more in the article below.
 
 [Paul Hernandez: Alternative pipeline parametrization for Azure Synapse Analytics](https://hernandezpaul.wordpress.com/2022/08/10/alternative-pipeline-parametrization-for-azure-synapse-analytics/){:target="_blank"}
 
