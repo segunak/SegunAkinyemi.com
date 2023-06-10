@@ -1,7 +1,7 @@
 ---
 title: "How To Check If It's a Weekday in Azure Data Factory and Synapse Analytics"
 excerpt: "Sometimes your system needs to know if today's a weekday. Here's how to find out using Microsoft's Azure Data Factory or Azure Synapse Analytics."
-last_modified_at: 2023-06-10T15:17:56
+last_modified_at: 2023-06-10T15:20:48
 classes: wide
 header:
   teaser: /assets/images/azurecity.jpg
@@ -98,6 +98,6 @@ If you had two or more pipelines needing these values, you could make a paramete
 
 ![JonahHillNope](/assets/images/jonahhill-nope.gif)
 
-I call this one bastardized reusability. Don't do this. This is a bad idea. I feel wrong for having typed it. It's the kind of thing customers cook up that makes the dev team shudder with horror. I'm sorry Microsoft, but you should just give us global parameters in Synapse and the ability to return values from pipelines so we can stop coming up with creative, although sometimes inefficient, workarounds.
+I call this one bastardized reusability. I think it's a bad idea. I feel wrong for having typed it. I'm sorry Microsoft, but you should just give us global parameters in Synapse and the ability to return values from pipelines so we can stop coming up with creative, although sometimes inefficient, workarounds.
 
 **Update: In February of 2023 the Azure Data Factory team released a feature that lets you return values from pipelines. The comments above complaining about not being able to do so no longer stand. You can read more about the feature [here](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/you-can-now-customize-the-return-value-from-your-pipeline/ba-p/3744840){:target="_blank"}. I'd like to think someone from their team read this article and fast-tracked development on it, although that may be unlikely, a man can dream.**
