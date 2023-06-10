@@ -1,7 +1,7 @@
 ---
 title: "How To Check If It's a Weekday in Azure Data Factory and Synapse Analytics"
 excerpt: "Sometimes your system needs to know if today's a weekday. Here's how to find out using Microsoft's Azure Data Factory or Azure Synapse Analytics."
-last_modified_at: 2023-03-14T18:00:27
+last_modified_at: 2023-06-10T15:17:56
 classes: wide
 header:
   teaser: /assets/images/azurecity.jpg
@@ -68,11 +68,9 @@ This solution utilizes the expression functions below provided by Microsoft in A
 
 ### A Closing Soliloquy
 
-I'll be honest, this solution seems overly verbose for what's ultimately a simple task. But hey, times have changed, welcome to the [low code revolution](https://www.ben-morris.com/azure-data-factory-myth-code-free-data-warehouse/){:target="_blank"}.
+I've got a question for any ADF or Synapse experts out there. Let's say I needed to find out if it's a weekday in several different pipelines across my data factory or Synapse workspace. In a *normal* programming language, I'd write a function that takes a date as a parameter and returns a Boolean letting the caller know if it's a weekday. A basic, reusable, self-contained piece of code. I'd import the module with the function wherever needed, and I'd never have to rewrite that logic again.
 
-Here's my question to any ADF or Synapse experts out there. Let's say I needed to find out if it's a weekday in several different pipelines across my data factory or Synapse workspace. In a *normal* programming language, I'd write a function that takes a date as a parameter and returns a Boolean letting the caller know if it's a weekday. A basic, reusable, self-contained piece of code. I'd import the module with the function wherever needed, and I'd never have to rewrite that logic again.
-
-How would one accomplish the same modularity in Azure Data Factory or Synapse Analytics? The goal is to avoid having to copy and paste the same expression code all over the place. Here are some thoughts.
+How would one accomplish the same modularity in Azure Data Factory or Synapse Analytics? The goal is to avoid having to copy and paste the same expression code all over the place. Here are some of my ideas.
 
 **Option 1:** You write a pipeline that takes in the date as a parameter and returns a Boolean that tells you if it's a weekday or not.
 {: .notice--primary}
@@ -102,4 +100,4 @@ If you had two or more pipelines needing these values, you could make a paramete
 
 I call this one bastardized reusability. Don't do this. This is a bad idea. I feel wrong for having typed it. It's the kind of thing customers cook up that makes the dev team shudder with horror. I'm sorry Microsoft, but you should just give us global parameters in Synapse and the ability to return values from pipelines so we can stop coming up with creative, although sometimes inefficient, workarounds.
 
-**Update: In February of 2023 the Azure Data Factory team released a feature that lets you return values from pipelines. The comments above complaining about not being able to due so no longer stand. You can read more about the feature [here](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/you-can-now-customize-the-return-value-from-your-pipeline/ba-p/3744840){:target="_blank"}. I'd like to think someone from their team read this article and fast-tracked development on it, however unlikely that may be, a man can dream.**
+**Update: In February of 2023 the Azure Data Factory team released a feature that lets you return values from pipelines. The comments above complaining about not being able to do so no longer stand. You can read more about the feature [here](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/you-can-now-customize-the-return-value-from-your-pipeline/ba-p/3744840){:target="_blank"}. I'd like to think someone from their team read this article and fast-tracked development on it, although that may be unlikely, a man can dream.**
