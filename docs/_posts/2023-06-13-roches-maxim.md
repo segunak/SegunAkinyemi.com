@@ -28,7 +28,7 @@ It's like someone asking you to help them put together furniture for their grand
 
 That's a drawn-out analogy, but it captures how I felt about the project, and I wasn't alone. The feeling of "this is ridiculous" became so widespread that it eventually included the very talented engineers on the upstream team, who agreed that something needed to change. Out of these sentiments, a joint effort was born to eliminate my team's role as a data middleman. Transformation is now handled upstream by the data owners, and the results are egressed directly to the final downstream system. Everyone's happier for the simplification, and although we didn't know it a the time, we had put Roche's Maxim to practical use.  
 
-## Embracing The Maxim
+## Embracing the Maxim
 
 If I had known about Roche's Maxim when I first started on the aforementioned project, I would've proudly dropped it on my colleagues in some chat or meeting, taking care to appear a refined intellectual in the process. Do you know how cool it is to go around spouting _maxims_? Nothing says "I know what I'm talking about" (or perhaps, "I'm a pretentious snob") more than having a maxim or carefully curated philosophical quote up your sleeve for any occasion. In an instant, you become the go-to authority in the room on the subject matter at hand, deserved or not.
 
