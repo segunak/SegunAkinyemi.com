@@ -16,7 +16,7 @@ I recently had this satisfying experience after stumbling across a concept calle
 
 > Data should be transformed as far upstream as possible, and as far downstream as necessary.
 >
-> [Matthew Roche](https://www.linkedin.com/in/matthewroche/){:target="_blank"}
+> <cite>[Matthew Roche](https://www.linkedin.com/in/matthewroche/){:target="_blank"}</cite>
 
 How delightfully simple, and suitably germane to my current line of work. I am at present a software engineer on a team that works a lot with data. One of our projects involves the first two parts of the [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load){:target="_blank"} process, extract and transform, with a downstream system responsible for loading.
 
