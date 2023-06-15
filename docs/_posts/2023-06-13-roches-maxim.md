@@ -30,6 +30,6 @@ No analogy is perfect, particularly this one, but it mostly captures how I felt 
 
 ## Embracing the Maxim
 
-If I had known about Roche's Maxim when I first started on the project, I would've proudly dropped it on my colleagues in meetings, taking care to appear a refined intellectual in the process. Do you know how cool it is to go around spouting _maxims_? Nothing says "I know what I'm talking about" (or perhaps, "I'm a pretentious snob") more than having a maxim or carefully curated philosophical quote up your sleeve at all times. In an instant, you become the go-to authority in the room for the topic at hand, deserved or not.
+If I had known about Roche's Maxim when I first started on the project, I would've proudly dropped it on my colleagues in meetings, taking care to appear a refined intellectual in the process. Do you know how cool it is to go around spouting _maxims_? Nothing says "I know what I'm talking about" (or perhaps, "I'm a pretentious snob") more than having a maxim or carefully curated philosophical quote up your sleeve at all times.
 
 Jokes aside, I couldn't be happier to have discovered Roche's Maxim. If embraced, it can be a golden rule that keeps data flowing smoothly, teams smiling, and companies thriving. In a world where data is king, it provides a simple path toward keeping ETL processes [perfectly balanced, as all things should be](https://knowyourmeme.com/memes/perfectly-balanced){:target="_blank"}.
