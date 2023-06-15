@@ -18,7 +18,7 @@ It states:
 >
 > <cite>[Matthew Roche](https://www.linkedin.com/in/matthewroche/){:target="_blank"}</cite>
 
-How delightfully simple, and conveniently germane to my current line of work. I'm presently a software engineer on a team that works a lot with data. One of our projects involves the first two parts of the [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load){:target="_blank"} process, extract and transform, with a downstream system responsible for the load.
+How delightfully simple, and suitably germane to my current line of work. I'm presently a software engineer on a team that works a lot with data. One of our projects involves the first two parts of the [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load){:target="_blank"} process, extract and transform, with a downstream system responsible for the load.
 
 ## The Trials of a Data Middleman
 
