@@ -10,7 +10,7 @@ tags:
   - tech
 ---
 
-You ever hear a word or phrase that perfectly describes something you'd often thought about, but didn't have a name for? The joy that comes from discovering that official (or colloquial) term is downright vindicating. It's a sweet feeling, to have a precise definition for what you've long understood but struggled to articulate. I recently had this satisfying experience after coming across a concept called [Roche's Maxim of Data Transformation](https://ssbipolar.com/2021/05/31/roches-maxim/){:target="_blank"}.
+You ever hear a word or phrase that perfectly describes something you'd often thought about, but didn't have a name for? The joy that comes from discovering that official (or colloquial) term is downright vindicating. I recently had this satisfying experience after coming across a concept called [Roche's Maxim of Data Transformation](https://ssbipolar.com/2021/05/31/roches-maxim/){:target="_blank"}.
 
 It states:
 
@@ -26,7 +26,7 @@ Our team is responsible for transforming data extracted to a [data lake](https:/
 
 It's like someone asking you to help assemble furniture for their grandma, but instead of working with you, they drop the box on your front porch, expecting completion by week's end. They also conveniently forgot to provide you with the instructions, and instead of sending a copy, opt for sharing bits and pieces of it over chats and emails. So in addition to the furniture being in pieces, you're also getting the instructions in pieces, leaving you with two puzzles to solve at once. After languishing for some time, you have an epiphany. Wouldn't it be easier if the furniture's owner — who possesses the full set of instructions — put it together themselves, and asked you to only _deliver_ it to their grandma? Or, if they want your help putting it together, couldn't they at least send the full instructions?
 
-No analogy is perfect, particularly this one, but it mostly captures how I felt about the project, and I wasn't alone. The feeling of "this is ridiculous" became so widespread that it eventually grew to include engineers on the data-providing upstream team. They acknowledged the inefficiency of dumping their internals for us to painstakingly assemble — only to constantly seek clarifications from them on ever-shifting domain knowledge. From these shared sentiments, a joint effort was born to eliminate our team's role as a data middleman. Transformation is now handled upstream, and the results are egressed directly to the authoritative downstream system. Everyone's happier for the simplification, and although we didn't know it a the time, we had put Roche's Maxim to practical use.  
+No analogy is perfect, particularly this one, but it mostly captures how I felt about the project, and I wasn't alone. The feeling of "this is ridiculous" became so widespread that it eventually grew to include engineers on the data-providing upstream team. They acknowledged the inefficiency of dumping their internals for us to painstakingly assemble, leading to a constant need for clarifications on ever-shifting domain knowledge. From these shared sentiments, a joint effort was born to eliminate our team's role as a data middleman. Transformation is now handled upstream, and the results are egressed directly to the authoritative downstream system. Everyone's happier for the simplification, and although we didn't know it a the time, we had put Roche's Maxim to practical use.  
 
 ## Embracing the Maxim
 
