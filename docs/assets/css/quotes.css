@@ -1,0 +1,77 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700);
+
+.random-quote-box {
+    border-radius: 3px;
+    position: relative;
+    margin: 2% auto auto auto;
+    width: 90%;
+    padding: 25px 25px;
+    background-color: #fff;
+    color:black;
+}
+
+.random-quote-box blockquote { 
+    border-bottom: none !important;
+}
+
+/* This is what keeps the buttons from jumping up and down when new quote are phased in */
+#random-quote-wrapper { 
+    height: 15em;
+    overflow-y: auto;
+}
+
+#random-quote-display {
+    margin-bottom: 20px;
+    opacity: 1;
+    transition: all 0.8s cubic-bezier(0.44, 1.13, 0.58, 1);
+}
+
+#quote-buttons { 
+
+}
+
+i.fa.fa-quote-left {
+    font-size: 1.8em;
+    position: relative;
+    top: 65px;
+}
+
+i.fa.fa-twitter {
+    color: #fff;
+}
+
+.quote-text {
+    font-size: 2em;
+}
+
+.author {
+    font-size: 1.4em;
+    font-weight: 600;
+    float: right;
+}
+
+.random-quote-box .btn {
+    cursor: pointer;
+    opacity: 1;
+    background: #0092ca;
+    color: #fff;
+    font: bold 1.5em 'Josefin Sans';
+    height: 50px;
+    line-height: 50px;
+    margin-top: 30px;
+    padding: 0 20px;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+}
+
+.random-quote-box .btn:hover {
+    opacity: 0.8;
+}
+
+.random-quote-box #random-quote-btn {
+    float: right;
+}
+
+

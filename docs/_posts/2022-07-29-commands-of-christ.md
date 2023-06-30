@@ -1,7 +1,7 @@
 ---
 title: "The Commands of Christ"
 excerpt: "A catalog of commands issued by Jesus Christ throughout the Bible."
-last_modified_at: 2023-03-07T20:03:32
+last_modified_at: 2023-06-30T23:58:30
 toc: true
 toc_label: "On This Page"
 toc_icon: "book"
@@ -92,6 +92,32 @@ And:
 > <cite>[John 14:15](https://www.biblegateway.com/passage/?search=John+14%3A15&version=NKJV){:target="_blank"}</cite>
 
 The question then becomes, what are the commandments of Jesus Christ?
+
+## Random Command
+
+If you don't feel like scrolling through the entire webpage, you can generate a random command using the widget below.
+
+<link rel="stylesheet" href="/assets/css/quotes.css">
+<div class="random-quote-box">
+  <div id="random-quote-wrapper">
+  <blockquote id="random-quote-display">
+      <div>
+        <p>Let your light so shine before men, that they may see your good works and glorify your Father in heaven.</p>
+        <cite><a href="https://www.biblegateway.com/passage/?search=Matthew5:16&version=NKJV" target="_blank">Matthew 5:16</a></cite>
+      </div>
+  </blockquote>
+  </div>
+  <div id="quote-buttons">
+    <button class="btn" id="random-quote-btn">New Command</button>
+    <button class="btn" id="twitter-share-button">
+      <a href="https://twitter.com/intent/tweet?text=Hello%20there!"
+          data-size="large"
+          target="_blank">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </button>
+  </div>
+</div>
 
 ## The Commands of Christ
 
@@ -884,3 +910,5 @@ The following resources were used in compiling the scriptures found in this arti
 * [What are the commands of Christ?](https://iblp.org/questions/what-are-commands-christ){:target="_blank"} by the [Institute in Basic Life Principles](https://iblp.org/){:target="_blank"}
 * [49 Commands of Christ](http://www.discipleshiptools.org/apps/articles/default.asp?articleid=36885&columnid=){:target="_blank"} by the [Discipleship Tools Organization](http://www.discipleshiptools.org/){:target="_blank"}
 * [What commands did Jesus give us?](https://carm.org/about-jesus/what-commandments-did-jesus-give-us/){:target="_blank"} by [Matt Slick](https://carm.org/author/matt/){:target="_blank"} of the [Christian Apologetics and Research Ministry](https://carm.org/){:target="_blank"}.
+
+<script src="/assets/js/quotes.js"></script>
