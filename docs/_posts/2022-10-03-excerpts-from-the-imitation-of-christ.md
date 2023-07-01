@@ -1,7 +1,7 @@
 ---
 title: "Excerpts From The Imitation of Christ"
 excerpt: "Noteworthy excerpts from the Christian devotional The Imitation of Christ by Thomas à Kempis."
-last_modified_at: 2023-06-09T14:57:50
+last_modified_at: 2023-07-01T02:38:35
 classes: wide
 breadcrumbs: true
 author_profile: true
@@ -63,6 +63,32 @@ tags:
 I found myself frequently stopping to reflect on the book's profound commentaries about what it means to be a Christian. Thomas à Kempis relies on Christ's own words, and examples from his life, to highlight attitudes and behaviors we often embrace that are in total opposition to the teachings of Jesus. He does so in a refreshingly candid way. There's no window dressing, no attempts at massaging the message of Christ into something more palatable. It's direct, frank even, and incredibly thought-provoking as a result.
 
 This post serves as a collection of passages from *The Imitation of Christ* that stood out to me. They're the ones that made me stop, set the book down, pick up a cup of tea and ponder for a few minutes, letting it all sink in. The version I read was the [Dover Thrifts Edition](https://store.doverpublications.com/0486431851.html){:target="_blank"}. It features a simple translation of the original text that made it easy to read and understand. Enjoy!
+
+## Random Quote
+
+If you don't feel like scrolling through the entire webpage, you can generate a random quote using the widget below.
+
+<link rel="stylesheet" href="/assets/css/quotes.css">
+<div class="random-quote-box">
+  <div id="random-quote-wrapper">
+  <blockquote id="random-quote-display">
+      <div>
+        <p>I have often heard that it is safer to listen to advice and take it than to give it. It may happen, too, that while one's own opinion may be good, refusal to agree with others when reason and occasion demand it, is a sign of pride and obstinacy.</p>
+        <cite>Book One, Chapter 9</cite>
+      </div>
+  </blockquote>
+  </div>
+  <div id="quote-buttons">
+    <button class="btn" id="random-quote-btn">New Quote</button>
+    <button class="btn" id="twitter-share-button">
+      <a href="https://twitter.com/intent/tweet?text=Hello%20there!"
+          data-size="large"
+          target="_blank">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </button>
+  </div>
+</div>
 
 ## The Imitation of Christ Quotes
 
@@ -487,3 +513,5 @@ This post serves as a collection of passages from *The Imitation of Christ* that
 > God, eternal, incomprehensible, and infinitely powerful, does great and inscrutable things in heaven and on earth, and there is no searching into His marvelous works. **If all the works of God were such that human reason could easily grasp them, they would not be called wonderful or beyond the power of words to tell.**
 >
 > <cite>Book Four, Chapter 18</cite>
+
+<script src="/assets/js/quotes.js"></script>
