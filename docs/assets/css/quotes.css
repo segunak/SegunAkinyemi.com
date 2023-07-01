@@ -17,7 +17,7 @@
 
 /* This is what keeps the buttons from jumping up and down when new quote are phased in */
 #random-quote-wrapper { 
-    height: 15em;
+    height: 12em;
     overflow-y: auto;
 }
 
