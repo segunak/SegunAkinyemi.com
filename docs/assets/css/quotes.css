@@ -74,4 +74,16 @@ i.fa.fa-twitter {
     float: right;
 }
 
+/* X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    #random-quote-wrapper { 
+        max-height: 100%;
+    }
+}
 
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+    #random-quote-wrapper { 
+        max-height: 100%;
+    }
+}
