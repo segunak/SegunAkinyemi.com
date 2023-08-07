@@ -1,7 +1,7 @@
 ---
 title: "The Commands of Christ"
 excerpt: "A catalog of commands issued by Jesus Christ throughout the Bible."
-last_modified_at: 2023-06-30T23:58:30
+last_modified_at: 2023-08-07T04:34:58
 toc: true
 toc_label: "On This Page"
 toc_icon: "book"
@@ -101,14 +101,11 @@ If you don't feel like scrolling through the entire webpage, you can generate a 
 <div class="random-quote-box">
   <div id="random-quote-wrapper">
   <blockquote id="random-quote-display">
-      <div>
         <p>Let your light so shine before men, that they may see your good works and glorify your Father in heaven.</p>
         <cite><a href="https://www.biblegateway.com/passage/?search=Matthew5:16&version=NKJV" target="_blank">Matthew 5:16</a></cite>
-      </div>
   </blockquote>
   </div>
   <div id="quote-buttons">
-    <button class="btn" id="random-quote-btn">New Command</button>
     <button class="btn" id="twitter-share-button">
       <a href="https://twitter.com/intent/tweet?text=Hello%20there!"
           data-size="large"
@@ -116,6 +113,7 @@ If you don't feel like scrolling through the entire webpage, you can generate a 
         <i class="fa fa-twitter"></i>
       </a>
     </button>
+    <button class="btn" id="random-quote-btn">New Command</button>
   </div>
 </div>
 

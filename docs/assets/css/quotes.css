@@ -27,10 +27,25 @@
     transition: all 0.8s cubic-bezier(0.44, 1.13, 0.58, 1);
 }
 
-#quote-buttons { 
-
+#quote-buttons {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(min-content, max-content));
+    justify-content: space-between;
 }
 
+#quote-buttons .btn {
+    width: min-content;
+}
+
+#random-quote-btn {
+    white-space: nowrap;
+}
+
+.random-quote-box .btn:hover {
+    opacity: 0.8;
+}
+
+  
 i.fa.fa-quote-left {
     font-size: 1.8em;
     position: relative;
@@ -66,24 +81,24 @@ i.fa.fa-twitter {
     outline: none;
 }
 
-.random-quote-box .btn:hover {
-    opacity: 0.8;
-}
-
-.random-quote-box #random-quote-btn {
-    float: right;
-}
-
 /* X-Small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
     #random-quote-wrapper { 
-        max-height: 100%;
+        height: 14em;
+    }
+
+    .random-quote-box {
+        width: 100%;
     }
 }
 
 /* Small devices (landscape phones, less than 768px) */
 @media (max-width: 767.98px) {
     #random-quote-wrapper { 
-        max-height: 100%;
+        height: 14em;
+    }
+    
+    .random-quote-box {
+        width: 100%;
     }
 }

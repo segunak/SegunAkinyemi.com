@@ -1,7 +1,7 @@
 ---
 title: "Excerpts From The Imitation of Christ"
 excerpt: "Noteworthy excerpts from the Christian devotional The Imitation of Christ by Thomas à Kempis."
-last_modified_at: 2023-07-01T02:38:35
+last_modified_at: 2023-08-07T04:34:58
 classes: wide
 breadcrumbs: true
 author_profile: true
@@ -72,14 +72,11 @@ If you don't feel like scrolling through the entire webpage, you can generate a 
 <div class="random-quote-box">
   <div id="random-quote-wrapper">
   <blockquote id="random-quote-display">
-      <div>
         <p>I have often heard that it is safer to listen to advice and take it than to give it. It may happen, too, that while one's own opinion may be good, refusal to agree with others when reason and occasion demand it, is a sign of pride and obstinacy.</p>
         <cite>Book One, Chapter 9</cite>
-      </div>
   </blockquote>
   </div>
   <div id="quote-buttons">
-    <button class="btn" id="random-quote-btn">New Quote</button>
     <button class="btn" id="twitter-share-button">
       <a href="https://twitter.com/intent/tweet?text=Hello%20there!"
           data-size="large"
@@ -87,6 +84,7 @@ If you don't feel like scrolling through the entire webpage, you can generate a 
         <i class="fa fa-twitter"></i>
       </a>
     </button>
+    <button class="btn" id="random-quote-btn">New Quote</button>
   </div>
 </div>
 
