@@ -1,7 +1,6 @@
 ---
 title: "It's Over 9000! Dragon Ball Z's Message on Challenging the Limits of Corporate Leveling"
 excerpt: "Dragon Ball Z has a message for anyone feeling stuck by their corporation's rigid (and likely flawed) leveling system."
-# classes: wide
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
