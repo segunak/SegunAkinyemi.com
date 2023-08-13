@@ -2,6 +2,7 @@
 title: "Roche's Maxim: Essential Wisdom For Simplifying Data Transformation"
 excerpt: "Embrace the simple but powerful wisdom of Roche's Maxim to enhance the way you approach data transformation."
 classes: wide
+last_modified_at: 2023-08-13T04:52:20
 header:
   teaser: /assets/images/thinker.jpg
 categories:
