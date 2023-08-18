@@ -4,7 +4,7 @@ excerpt: "Dragon Ball Z has a message for anyone feeling stuck by their corporat
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
-last_modified_at: 2023-08-13T05:02:06
+last_modified_at: 2023-08-18T09:35:42
 header:
   teaser: /assets/images/itsover9000.jpg
   overlay_image: /assets/images/gokuvsvegeta-1.jpg
@@ -68,7 +68,7 @@ If you've ever browsed the professional social network [Blind](https://teamblind
 
 ## The Perils of Corporate Leveling
 
-I recently had lunch with a former teammate who was unhappy with his new team. As we discussed his concerns, it became clear that making another move, either internally or externally, would be best for him. He had been applying for internal transfers, but only at his current level. There's a sort of unspoken rule that internal transfers are horizontal. You typically aren't able to ascend in level by switching teams, although there are some cases where it happens. My colleague was certain that hiring managers would only consider him for a position at his current level. While this conventional wisdom was true, there was something about it that didn’t sit right with me.
+I recently had lunch with a former teammate who was unhappy with his new team. As we discussed his concerns, it became clear that making another move, either internally or externally, would be best for him. He had been applying for internal transfers, but only at his current level. There's a sort of unspoken rule at our company that internal transfers are horizontal. You typically aren't able to ascend in level by switching teams, although there are some cases where it happens. My colleague was certain that hiring managers would only consider him for a position at his current level. While this conventional wisdom was true, there was something about it that didn’t sit right with me.
 
 Our company's leveling system is well-intentioned, but it's inherently flawed. I've seen people demonstrate skills beyond their current level for well over a year, and yet, they weren't promoted. I've also seen people at higher levels produce less value than you'd expect, with junior members carrying a lot of the team's load. We're told that to be promoted, we must be operating at our target level for some arbitrary amount of time. While getting paid on your current level, you're meant to be producing like the next. The idea is that during the annual rewards season, things will balance out with a nice bonus and a promotion. But what if that doesn't happen? It can have a devastating impact on employee morale. Some people leave the company, while others became lethargic, viewing hard work as wasted effort. Still, others develop [impostor syndrome](https://www.ncbi.nlm.nih.gov/books/NBK585058/){:target="_blank"}, doubting their abilities in ways that can be paralyzing.
 
@@ -76,7 +76,7 @@ And so, when my colleague shared that he was limiting his search based on level,
 
 ## Don't Limit Yourself
 
-While I understand the merits of corporate leveling systems, I can't help but feel that we the worker bees, the commoners, the cogs in the machine, are doing ourselves a disservice by viewing our careers through them. What if we broke the scouter? What if we became more like Goku, always striving to be better, fearlessly pursuing our goals, and not letting a leveling system dictate our worth? That's the advice I had for my colleague. Forget the leveling system. Toss the scouter. Apply to any position that interests you, regardless of your current level. Don't let the job description intimidate you. The bullet points were probably written by an [SEO-obsessed](https://en.wikipedia.org/wiki/Search_engine_optimization){:target="_blank"} recruiter shoving in keywords in hopes of finding the perfect candidate. But we don't live in a perfect world. If you're passionate about the role, you're already halfway there. Sometimes you grow into a position. You can't always wait until a leveling system tells you you're ready before you [take the plunge](https://dictionary.cambridge.org/us/dictionary/english/take-the-plunge){:target="_blank"}.
+While I understand the merits of corporate leveling systems, I can't help but feel that we the worker bees, the commoners, the cogs in the machine, are doing ourselves a disservice by viewing our careers through them. What if we broke the scouter? What if we became more like Goku, always striving to be better, fearlessly pursuing our goals, and not letting a leveling system dictate our worth? That's the advice I had for my colleague. Toss the scouter. Apply to any position that interests you, regardless of your current level. Don't let the job description intimidate you. The bullet points were probably written by an [SEO-obsessed](https://en.wikipedia.org/wiki/Search_engine_optimization){:target="_blank"} recruiter shoving in keywords in hopes of finding the perfect candidate. But we don't live in a perfect world. If you're passionate about the role, you're already halfway there. Sometimes you grow into a position. You can't always wait until a leveling system tells you you're ready before you [take the plunge](https://dictionary.cambridge.org/us/dictionary/english/take-the-plunge){:target="_blank"}.
 
 <p align="center">
   <img class="gifformat" src="/assets/images/super-saiyan-transformation.gif"/>
