@@ -4,7 +4,7 @@ excerpt: "Dragon Ball Z has a message for anyone feeling stuck by their corporat
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
-last_modified_at: 2023-08-18T09:35:42
+last_modified_at: 2023-08-19T10:48:01
 header:
   teaser: /assets/images/itsover9000.jpg
   overlay_image: /assets/images/gokuvsvegeta-1.jpg
@@ -72,7 +72,7 @@ I recently had lunch with a former teammate who was unhappy with his new team. A
 
 Our company's leveling system is well-intentioned, but it's inherently flawed. I've seen people demonstrate skills beyond their current level for well over a year, and yet, they weren't promoted. I've also seen people at higher levels produce less value than you'd expect, with junior members carrying a lot of the team's load. We're told that to be promoted, we must be operating at our target level for some arbitrary amount of time. While getting paid on your current level, you're meant to be producing like the next. The idea is that during the annual rewards season, things will balance out with a nice bonus and a promotion. But what if that doesn't happen? It can have a devastating impact on employee morale. Some people leave the company, while others became lethargic, viewing hard work as wasted effort. Still, others develop [impostor syndrome](https://www.ncbi.nlm.nih.gov/books/NBK585058/){:target="_blank"}, doubting their abilities in ways that can be paralyzing.
 
-And so, when my colleague shared that he was limiting his search based on level, something clicked, and the idea for this article was born. I'm not sure what it says about me that Dragon Ball Z came to mind when I thought about surpassing limits, but I write now what I said to him then. Forget the leveling system. It's imperfect, subjective, and varies across companies, let alone teams within the same one. The leveling system is standardized in a way that prevents it from properly accounting for nuanced situations. Managers are supposed to help fill in the gaps, but they're only human. Sometimes they're biased, sometimes they're negligent, and other times, by no fault of their own, politics and bureaucracy prevent them from promoting someone who deserves it.
+And so, when my colleague shared that he was limiting his search based on level, something clicked, and the idea for this article was born. I'm not sure what it says about me that Dragon Ball Z came to mind when I thought about surpassing limits, but I write now what I said to him then. Forget the leveling system. It's imperfect, subjective, and varies across companies, let alone teams within the same one. The leveling system is standardized in a way that prevents it from properly accounting for nuanced situations. Managers are supposed to help fill in the gaps, but they're only human. Sometimes they're biased, sometimes they're negligent, and other times, by no fault of their own, politics, bureaucracy, and budget prevent them from promoting someone who deserves it.
 
 ## Don't Limit Yourself
 
