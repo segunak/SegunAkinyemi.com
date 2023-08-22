@@ -2,7 +2,7 @@
 title: "Roche's Maxim: Essential Wisdom For Simplifying Data Transformation"
 excerpt: "Embrace the simple but powerful wisdom of Roche's Maxim to enhance the way you approach data transformation."
 classes: wide
-last_modified_at: 2023-08-13T04:52:20
+last_modified_at: 2023-08-22T17:48:13
 header:
   teaser: /assets/images/thinker.jpg
 categories:
@@ -27,7 +27,7 @@ Our team is responsible for transforming data extracted to a [data lake](https:/
 
 It's like someone asking you to help assemble furniture for their grandma, but instead of working with you, they drop the box on your front porch, expecting completion by week's end. They also conveniently forgot to provide you with the instructions, and instead of sending a copy, opt for sharing bits and pieces of it over chats and emails. So in addition to the furniture being in pieces, you're also getting the instructions in pieces, leaving you with two puzzles to solve at once. After languishing for some time, you have an epiphany. Wouldn't it be easier if the furniture's owner — who possesses the full set of instructions — put it together themselves, and asked you to only _deliver_ it to their grandma? Or, if they want your help putting it together, couldn't they at least send the full instructions?
 
-No analogy is perfect, particularly this one, but it mostly captures how I felt about the project, and I wasn't alone. The feeling of "this is ridiculous" became so widespread that it eventually grew to include engineers on the data-providing upstream team. They acknowledged the inefficiency of dumping their internals for us to painstakingly assemble, leading to a constant need for clarifications on ever-shifting domain knowledge. From these shared sentiments, a joint effort was born to eliminate our team's role as a data middleman. Transformation is now handled upstream, and the results are egressed directly to the authoritative downstream system. Everyone's happier for the simplification, and although we didn't know it a the time, we had put Roche's Maxim to practical use.  
+No analogy is perfect, particularly this one, but it mostly captures how I felt about the project, and I wasn't alone. The feeling of "this is ridiculous" became so widespread that it eventually grew to include engineers on the data-providing upstream team. They acknowledged the inefficiency of dumping their internals for us to painstakingly assemble, leading to a constant need for clarifications on ever-shifting domain knowledge. From these shared sentiments, a joint effort was born to eliminate our team's role as a data middleman. Transformation is now handled upstream, and the results are egressed directly to the authoritative downstream system. Everyone's happier for the simplification, and although we didn't know it at the time, we had put Roche's Maxim to practical use.  
 
 ## Embracing the Maxim
 
