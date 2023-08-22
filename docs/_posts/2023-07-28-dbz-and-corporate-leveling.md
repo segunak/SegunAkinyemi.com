@@ -4,7 +4,7 @@ excerpt: "Dragon Ball Z has a message for anyone feeling stuck by their corporat
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
-last_modified_at: 2023-08-19T10:48:14
+last_modified_at: 2023-08-22T17:50:58
 header:
   teaser: /assets/images/itsover9000.jpg
   overlay_image: /assets/images/gokuvsvegeta-1.jpg
@@ -60,7 +60,9 @@ In the corporate world, there's a system similar to Dragon Ball Z's power levels
 
 Companies may use different terminology, but the basic idea of corporate leveling is the same. Employees are hired at a level and must meet certain (sometimes vague) requirements to be promoted to the next one. There's a great website called [Levels.fyi](https://www.levels.fyi/){:target="_blank"} that pools leveling and compensation data for many large corporations. I find it particularly useful for seeing how levels at different companies measure up to one another. Check out how Software Engineering levels at Google and Apple compare.
 
-![Levels](/assets/images/levels.jpg)
+<p align="center">
+  <img class="gifformat" src="/assets/images/levels.jpg"/>
+</p>
 
 You can see that there's overlap, and some disconnect, between their notions of what makes you a Junior, Senior, and Principal Software Engineer. You could be an `L4 Software Engineer III` at Google doing work Apple would consider worthy of their `ICT4 Senior Software Engineer` post. There are many such combinations of levels being comparable in some ways and not in others across companies. The takeaway is, while leveling is instrumental to an employee's experience, it can also be arbitrary and inaccurate, potentially limiting one's career velocity.
 
