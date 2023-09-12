@@ -14,3 +14,6 @@ See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-3268
 Anything you place after this point will therefore "cascade and override" the previous CSS styles.
 */
 @import "_styleoverrides"; // Style changes for either skin/theme. To change, go to file _styleoverrides.scss in the _sass folder.
+
+/* No additional code is needed in this file. Make all style overrides in _styleoverrides.scss. Changes their will apply to either
+active theme. */

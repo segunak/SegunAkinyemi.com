@@ -63,3 +63,13 @@ html {
       height: 140px;
     }
   }
+
+.footnotes ol, .footnotes li, .footnotes p {
+    margin-bottom: 0;
+    font-size: 1em;
+}
+
+a.reversefootnote {
+    font-size: 1em;
+    font-weight: bolder;
+}

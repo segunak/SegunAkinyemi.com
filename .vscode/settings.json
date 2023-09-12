@@ -8,6 +8,20 @@
     ],
     "cSpell.words": [
         "responibitiles",
-        "Saiyan"
-    ]
+        "Saiyan",
+        "transformative",
+        "underexplored"
+    ],
+    "grammarly.config.suggestions.PossiblyPoliticallyIncorrectLanguage": false,
+    "grammarly.config.suggestions.PossiblyBiasedLanguageRaceEthnicityRelated": false,
+    "grammarly.config.suggestions.PossiblyBiasedLanguageLgbtqiaRelated": false,
+    "grammarly.config.suggestions.PossiblyBiasedLanguageHumanRightsRelated": false,
+    "grammarly.config.suggestions.PossiblyBiasedLanguageHumanRights": false,
+    "grammarly.config.suggestions.PossiblyBiasedLanguageGenderRelated": false,
+    "grammarly.config.suggestions.PossiblyBiasedLanguageFamilyRelated": false,
+    "grammarly.config.suggestions.PossiblyBiasedLanguageDisabilityRelated": false,
+    "cSpell.userWords": [
+        "smart phones"
+    ],
+    "grammarly.config.documentDialect": "american"
 }
