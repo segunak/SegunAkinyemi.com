@@ -4,7 +4,8 @@ excerpt: "Discover how Microsoft Cloud for Sustainability could empower smart ci
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
-last_modified_at: 2023-09-12T08:53:12
+toc_icon: "jedi"
+last_modified_at: 2023-09-12T08:58:54
 header:
   teaser: /assets/images/mcslogo.png
   overlay_image: /assets/images/coruscant.jpg
