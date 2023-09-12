@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "jedi"
-last_modified_at: 2023-09-12T08:58:54
+last_modified_at: 2023-09-12T09:11:10
 header:
   teaser: /assets/images/mcslogo.png
   overlay_image: /assets/images/coruscant.jpg
@@ -69,7 +69,7 @@ To safeguard the planet’s future, cities must adopt strategies to minimize the
 
 ## Microsoft Cloud for Sustainability
 
-Within large organizations, it can be difficult to harmonize data from different internal sources for analysis. The silos inherent to these organizations often result in redundant work and missed opportunities. Additionally, the varying formats, structures, and volumes of data make standardization impossible without some serious effort. There's an entire industry of tools designed to address such challenges, commonly known as [ETL (extract, transform, load)](https://en.wikipedia.org/wiki/Extract,_transform,_load){:target="_blank"} solutions. However, what they don't offer is a singular focus on bringing together an organization's data for sustainability analysis, optimization, governance, and reporting. That's where Microsoft Cloud for Sustainability (MCS) comes into play.
+Within large organizations, it can be difficult to harmonize data from different internal sources for analysis. The silos inherent to these organizations often result in redundant work and missed opportunities. Additionally, the varying formats, structures, and volumes of data make standardization impossible without some serious effort. There's an entire industry of tools designed to address such challenges, commonly known as [ETL (extract, transform, load)](https://en.wikipedia.org/wiki/Extract,_transform,_load){:target="_blank"} solutions. However, what they don't offer is a singular focus on bringing together an organization's data for sustainability analysis, optimization, governance, and reporting. That's where Microsoft Cloud for Sustainability (MCS) enters the picture.
 
 By working to meet their own sustainability goals, Microsoft came to understand, rather intimately, the need for better tools empowering organizations to track, manage, monitor, and report progress on environmental pledges.[^5] In 2022, they debuted MCS and began working with customers to demonstrate its value through real-world applications. If you're interested, you can read through some of MCS's customer success stories [here](https://www.microsoft.com/en-us/industry/blog/sustainability/){:target="_blank"}. What you won't find among those stories (at least, as of my writing this article) are examples of its use as a digital ecosystem for urban sustainability in smart cities. I'd like to examine how it could be effectively utilized in that very role. But first, we've got to define what a "digital ecosystem" is.
 
