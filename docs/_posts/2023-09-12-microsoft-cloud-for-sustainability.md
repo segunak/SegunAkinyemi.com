@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "jedi"
-last_modified_at: 2023-09-12T23:25:09
+last_modified_at: 2023-09-12T23:28:39
 header:
   teaser: /assets/images/mcslogo.png
   overlay_image: /assets/images/coruscant.jpg
@@ -31,7 +31,7 @@ tags:
   }
 </style>
 
-**Warning:** This is a long post. If you're feeling like "ain't nobody tryna read all that" you can skip to the [final section](#a-call-to-urgency){:target="_blank"}, which sums things up pretty well, and contains my most pertinent points and arguments.
+**Warning:** This is a long post. If you're feeling like "[I ain't reading all that](https://knowyourmeme.com/memes/i-aint-reading-all-that){:target="_blank"}" you can skip to the [final section](#a-call-to-urgency){:target="_blank"}, which sums things up pretty well, and contains my most pertinent points and arguments.
 {: .notice--warning}
 
 ## Urban Evolution
