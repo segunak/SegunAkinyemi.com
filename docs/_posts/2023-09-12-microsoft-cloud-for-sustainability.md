@@ -5,11 +5,11 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "jedi"
-last_modified_at: 2023-09-13T06:29:34
+last_modified_at: 2023-09-13T19:58:58
 header:
   teaser: /assets/images/mcslogo.png
   overlay_image: /assets/images/coruscant.jpg
-  overlay_filter: 0.4
+  overlay_filter: 0.1
   caption: "**Star Wars: [Coruscant](https://steamcommunity.com/sharedfiles/filedetails/?id=933733098)**"
 categories:
   - blog
