@@ -1,11 +1,11 @@
 ---
-title: "Exploring Microsoft Cloud for Sustainability's Potential as a Digital Ecosystem for Smart Cities"
+title: "Microsoft Cloud for Sustainability: Exploring a Potential Digital Ecosystem for Smart Cities"
 excerpt: "Discover how Microsoft Cloud for Sustainability could empower sustainable urban development as a digital ecosystem for smart cities."
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "jedi"
-last_modified_at: 2023-09-13T21:00:10
+last_modified_at: 2023-09-14T15:52:19
 header:
   teaser: /assets/images/mcslogo.png
   overlay_image: /assets/images/coruscant.jpg
