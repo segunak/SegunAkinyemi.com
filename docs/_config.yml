@@ -92,7 +92,7 @@ plugins:
   - jekyll-archives
   - jekyll-feed
   - jemoji
-  - jekyll-glossary_tooltip
+  # - jekyll-glossary_tooltip
 
 author:
   name   : "Segun Akinyemi"
