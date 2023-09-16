@@ -36,7 +36,6 @@ group :jekyll_plugins do
   gem "jemoji", versions["jemoji"]
   gem "jekyll-archives"
   gem "jekyll-glossary_tooltip"
-  # gem "jekyll-algolia"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
