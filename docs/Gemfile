@@ -35,6 +35,7 @@ group :jekyll_plugins do
   gem "jekyll-gist", versions["jekyll-gist"]
   gem "jemoji", versions["jemoji"]
   gem "jekyll-archives"
+  gem "jekyll-glossary_tooltip"
   # gem "jekyll-algolia"
 end
 

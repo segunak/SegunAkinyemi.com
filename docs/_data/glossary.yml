@@ -1,0 +1,7 @@
+- term: EmbeddedLiquidURL
+  definition: This definition has an URL with embedded liquid tags to make it dynamic at build time. Note special YAML syntax for being able to use liquid (1.)
+  url: >
+    {{ site.baseurl }}{% link page2.md %}
+- term: Microsoft Cloud for Sustainability
+  definition: Microsoft Cloud for Sustainability is a Platform as a Service tool that helps organizations track, manage, monitor, and analyze their sustainability initiatives.
+  url: https://learn.microsoft.com/en-us/industry/sustainability/overview
