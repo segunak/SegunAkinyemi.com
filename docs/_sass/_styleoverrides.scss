@@ -81,84 +81,31 @@ a.reversefootnote {
   font-weight: bolder;
 }
 
-
-/* Tooltip Container */
-.jekyll-glossary {
-  display: inline-block;
-  position: relative;
-  cursor: help;
+a[title] {
+  text-decoration: none; /* Remove the standard solid underline */
   color: #3bb4e5;
   border-bottom: 2px dotted #0074bd;
-  box-sizing: border-box;
-  font-style: normal;
-  transition: all 0.25s ease-in-out;
 }
 
-.jekyll-glossary:hover {
-  color: #069;
-  border-bottom: 2px dotted #069;
+a[title]:hover { 
+  text-decoration: none !important;
 }
 
-
-  /* X-Small devices (portrait phones, less than 576px) */
-  @media (max-width: 575.98px) {
-    .jekyll-glossary .jekyll-glossary-tooltip {
-      min-width: 100% !important;
-      font-size: 8px;
-    }
-  }
-
-  /* Small devices (landscape phones, less than 768px) */
-  @media (max-width: 767.98px) {
-    .jekyll-glossary .jekyll-glossary-tooltip { 
-      min-width: 100% !important;
-      font-size: 8px;
-    }
-  }
-
-/* Tooltip Content */
-.jekyll-glossary .jekyll-glossary-tooltip {
-  position: absolute;
-  background: rgba(10, 20, 30, 0.85);
-  color: #fff;
-  font-size: 11px;
-  padding: 0.5em;
-  font-style: normal;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-  min-width: 400px;
-  text-align: center;
-  opacity: 0;
-  visibility: hidden;
-  transition: all 0.3s ease-in-out;
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
-  font-family: sans-serif;
-  letter-spacing: 0;
-  font-weight: 600;
-  bottom: 100%;
-  left: 50%;
-  transform: translateX(-50%); /* Correct the horizontal offset */
-}
-
-/* Tooltip Arrow */
-.jekyll-glossary .jekyll-glossary-tooltip::after {
-  content: " ";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: rgba(10, 20, 30, 0.85) transparent transparent transparent;
-}
-
-/* Show Tooltip on Hover */
-.jekyll-glossary:hover .jekyll-glossary-tooltip {
-  opacity: 1;
-  visibility: visible;
-}
-
-/* Style the source link (if there is one provided in the glossary entry). */
-.jekyll-glossary-source-link:before {
-  content: "[source]";  // "(reference)", "<link>" or whatever you want.
-}
-
+// These styles create a nice looking tooltip on hover, but there ends up being 2 tool tips.  This styled one
+// and the default browser one.
+// a[title]:hover::after {
+//   content: attr(title);
+//   background: rgba(10, 20, 30, 0.85);
+//   color: #fff;
+//   position: absolute;
+//   padding: 0.5em;
+//   font-size: 12px;
+//   font-style: normal;
+//   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+//   text-align: center;
+//   transition: all 0.3s ease-in-out;
+//   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+//   font-family: sans-serif;
+//   letter-spacing: 0;
+//   font-weight: 600;
+// }
