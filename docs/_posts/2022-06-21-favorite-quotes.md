@@ -1,7 +1,7 @@
 ---
 title: "Favorite Quotes"
 excerpt: "A collection of awesome quotes from various sources."
-last_modified_at: 2023-09-18T22:24:24
+last_modified_at: 2023-09-18T22:24:43
 classes: wide
 header:
   teaser: /assets/images/coolkingdom.jpg
@@ -58,7 +58,6 @@ There's some controversy surrounding the quote below, as it's [often misinterpre
 All that being said, enjoy the rest of some of my favorite quotes below!
 
 <div class="quote-container" markdown="1">
-
 
 > For what it’s worth: it’s never too late or, in my case, too early to be whoever you want to be. There’s no time limit, stop whenever you want. You can change or stay the same, there are no rules to this thing. We can make the best or the worst of it. I hope you make the best of it. And I hope you see things that startle you. I hope you feel things you never felt before. I hope you meet people with a different point of view. I hope you live a life you’re proud of. And if you find that you’re not, I hope you have the courage to start all over again
 >
@@ -128,6 +127,5 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 > Now, we all have a great need for acceptance. But you must trust that your beliefs are unique, your own, even though others may think them odd or unpopular, even though the herd may go, "That's baaaaad."
 >
 > <cite>[John Keating in the film The Dead Poets Society](https://en.wikipedia.org/wiki/Dead_Poets_Society){:target="_blank"}</cite>
-
 
 </div>
