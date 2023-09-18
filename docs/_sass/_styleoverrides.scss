@@ -80,32 +80,3 @@ a.reversefootnote {
   font-size: 1em;
   font-weight: bolder;
 }
-
-a[title] {
-  text-decoration: none; /* Remove the standard solid underline */
-  color: #3bb4e5;
-  border-bottom: 2px dotted #0074bd;
-}
-
-a[title]:hover { 
-  text-decoration: none !important;
-}
-
-// These styles create a nice looking tooltip on hover, but there ends up being 2 tool tips.  This styled one
-// and the default browser one.
-// a[title]:hover::after {
-//   content: attr(title);
-//   background: rgba(10, 20, 30, 0.85);
-//   color: #fff;
-//   position: absolute;
-//   padding: 0.5em;
-//   font-size: 12px;
-//   font-style: normal;
-//   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-//   text-align: center;
-//   transition: all 0.3s ease-in-out;
-//   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
-//   font-family: sans-serif;
-//   letter-spacing: 0;
-//   font-weight: 600;
-// }
