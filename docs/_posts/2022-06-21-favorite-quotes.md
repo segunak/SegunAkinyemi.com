@@ -1,7 +1,7 @@
 ---
 title: "Favorite Quotes"
 excerpt: "A collection of awesome quotes from various sources."
-last_modified_at: 2023-09-18T22:40:23
+last_modified_at: 2023-09-18T22:44:40
 classes: wide
 header:
   teaser: /assets/images/coolkingdom.jpg
@@ -55,7 +55,7 @@ There's some controversy surrounding the quote below, as it's [often misinterpre
 >
 > <cite>[Robert Frost in "The Road Not Taken"](https://www.poetryfoundation.org/poems/44272/the-road-not-taken){:target="_blank"}</cite>
 
-As much as I love that quote, there's someone I love a lot more who said something similar. Someone whose word I view as far more authoritative on life and all things concerning it.
+As much as I love that quote, there's someone I love a lot more who said something similar. Someone whose word I view as far more authoritative on the topic of life and all things concerning it.
 
 > Enter by the narrow gate; for wide is the gate and broad is the way that leads to destruction, and there are many who go in by it. Because narrow is the gate and difficult is the way which leads to life, and there are few who find it.
 >
