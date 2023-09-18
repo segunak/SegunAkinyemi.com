@@ -1,7 +1,7 @@
 ---
 title: "Favorite Quotes"
 excerpt: "A collection of awesome quotes from various sources."
-last_modified_at: 2023-09-18T20:20:38
+last_modified_at: 2023-09-18T22:24:24
 classes: wide
 header:
   teaser: /assets/images/coolkingdom.jpg
@@ -49,7 +49,7 @@ tags:
 
 This page is an ongoing collection of some of my favorite quotes. I'll start with one that requires an annotation.
 
-There's some controversy to the quote below, as it's [often misinterpreted](https://www.google.com/search?q=The+Road+Not+Taken+is+misinterpeted){:target="_blank"} by those who wield it. Most famously, by John Keating in the film [The Dead Poets Society](https://en.wikipedia.org/wiki/Dead_Poets_Society){:target="_blank"}, who used it to emphasize the importance of embracing nonconformity in becoming a free thinker. I'm aware of all such deliberations about the true meaning of this quote, I understand their rationale, their logic, and their unquestionable accuracy, and yet, I don't care. I prefer it as seen below, out of context, and unambiguous in its meaning. One could say I'm *embracing nonconformity* :wink:.
+There's some controversy surrounding the quote below, as it's [often misinterpreted](https://www.google.com/search?q=The+Road+Not+Taken+is+misinterpeted){:target="_blank"} by those who wield it. Most famously, by John Keating (played by [Robin Williams](https://en.wikipedia.org/wiki/Robin_Williams){:target="_blank"}) in the film [The Dead Poets Society](https://en.wikipedia.org/wiki/Dead_Poets_Society){:target="_blank"}, who used it to emphasize the importance of embracing nonconformity in becoming a free thinker. I'm aware of all such deliberations about the true meaning of this quote, I understand their rationale, their logic, and their unquestionable accuracy, and yet, I don't care. I prefer it as seen below, out of context, and unambiguous in its meaning. One could say I'm *embracing nonconformity* :wink:.
 
 > Two roads diverged in a wood, and I - I took the one less traveled by, And that has made all the difference.
 >
