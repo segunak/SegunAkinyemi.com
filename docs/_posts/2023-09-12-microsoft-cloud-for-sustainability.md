@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "jedi"
-last_modified_at: 2023-09-18T00:24:46
+last_modified_at: 2023-09-18T20:13:30
 header:
   teaser: /assets/images/mcslogo.png
   overlay_image: /assets/images/coruscant.jpg
@@ -31,7 +31,7 @@ tags:
   }
 </style>
 
-**Warning:** This is a long post. If you're feeling like "[I ain't reading all that](https://knowyourmeme.com/memes/i-aint-reading-all-that){:target="_blank"}" you can skip to the [final section](#a-call-to-urgency){:target="_blank"}, which sums things up pretty well, and contains my most pertinent points and arguments.
+**Warning:** This is a long post. If you're feeling like "[I ain't reading all that](https://knowyourmeme.com/memes/i-aint-reading-all-that){:target="_blank"}" you can skip to the [final section](#a-call-for-urgency){:target="_blank"}, which sums things up pretty well, and contains my most pertinent points and arguments.
 {: .notice--warning}
 
 ## Urban Evolution
@@ -89,7 +89,7 @@ Regardless of platform, adopting a digital ecosystem allows smart cities to impl
 6. How do the water and energy costs of training AI models on massive datasets compare to the environmental benefits of AI-powered urban sustainability solutions?[^13]
 7. What are the metrics for evaluating the effectiveness and efficiency of a digital ecosystem for urban sustainability, with a focus on how its use is improving a city's environmental impact?[^14]
 
-## A Call to Urgency
+## A Call For Urgency
 
 It can be easy to talk about environmental issues in a blasé sort of way. We hear about them all the time, their importance being stressed in commercials, on billboards, by celebrities, athletes, news outlets, and influencers across social media. Undoubtedly, awareness is at an an all-time high regarding humanity's impact on the Earth's climate, **but awareness does not equate to urgency**. While sensible governments and individuals worldwide acknowledge climate change, I'm personally left wondering, do we truly grasp the immediacy of our situation? It's no longer one of those *I'll get to it later* sort of problems. It hasn't been for years. We've got to get to it now. Like, [right now](https://www.bu.edu/sph/news/articles/2023/on-climate-change-the-urgency-is-great/){:target="_blank"}.
 
