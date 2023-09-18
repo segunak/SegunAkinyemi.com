@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "jedi"
-last_modified_at: 2023-09-17T04:17:42
+last_modified_at: 2023-09-18T00:24:46
 header:
   teaser: /assets/images/mcslogo.png
   overlay_image: /assets/images/coruscant.jpg
@@ -53,7 +53,7 @@ When I think of a [smart city](https://en.wikipedia.org/wiki/Smart_city){:target
 
 ## The Smart City
 
-In our present digital age, with its smart phones, smart watches, smart cars, and smart wallets, it's the smart city that truly outshines them all. Smart cities use technology to improve the efficiency, sustainability, and livability of an urban area. While there's some debate about what strictly constitutes a "smart" city, there's no argument about how important their development is in building a sustainable future.[^1] Given the profound impact humanity is having on Earth's climate, anything done to reduce the environmental impact of cities — the epicenters of modern civilization — is quite literally [the Lord's work](https://idioms.thefreedictionary.com/God%27s+work){:target="_blank"}.[^2][^3]
+In our present digital age, with its smart phones, smart watches, smart cars, and smart wallets, it's the [smart city](https://www.microsoft.com/en-us/industry/government/resources/smart-cities){:target="_blank"} that truly outshines them all. Smart cities use technology to improve the efficiency, sustainability, and livability of an urban area. While there's some debate about what strictly constitutes a "smart" city, there's no argument about how important their development is in building a sustainable future.[^1] Given the profound impact humanity is having on Earth's climate, anything done to reduce the environmental impact of cities — the epicenters of modern civilization — is quite literally [the Lord's work](https://idioms.thefreedictionary.com/God%27s+work){:target="_blank"}.[^2][^3]
 
 To safeguard the planet’s future, cities must adopt strategies to minimize their climate impact. Smart cities, with their tech-driven approach to improving urban life, are poised to play a significant role in global sustainability efforts. However, effectively managing and monitoring a smart city's assets can prove complex, especially in sprawling metropolises where resource management and carbon accounting pose intricate challenges.[^4] Smart cities often incorporate [IoT devices](https://www.google.com/search?q=What+are+IoT+Devices){:target="_blank"}, monitoring tools, and infrastructure solutions from various providers. This diversity can complicate the task of comprehensively assessing the city's sustainability performance, particularly in relation to carbon emission and energy efficiency objectives.
 
