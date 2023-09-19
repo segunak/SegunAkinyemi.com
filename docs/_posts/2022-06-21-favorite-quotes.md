@@ -1,7 +1,8 @@
 ---
 title: "Favorite Quotes"
 excerpt: "A collection of awesome quotes from various sources."
-last_modified_at: 2023-09-18T22:44:40
+pinned: true
+last_modified_at: 2023-09-19T17:37:42
 classes: wide
 header:
   teaser: /assets/images/coolkingdom.jpg

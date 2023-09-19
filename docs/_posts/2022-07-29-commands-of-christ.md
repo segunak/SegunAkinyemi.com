@@ -1,7 +1,8 @@
 ---
 title: "The Commands of Christ"
 excerpt: "A catalog of commands issued by Jesus Christ throughout the Bible."
-last_modified_at: 2023-08-07T04:34:58
+pinned: true
+last_modified_at: 2023-09-19T17:37:42
 toc: true
 toc_label: "On This Page"
 toc_icon: "book"

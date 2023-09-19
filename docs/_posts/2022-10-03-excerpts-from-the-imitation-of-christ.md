@@ -1,7 +1,8 @@
 ---
 title: "Excerpts From The Imitation of Christ"
 excerpt: "Noteworthy excerpts from the Christian devotional The Imitation of Christ by Thomas à Kempis."
-last_modified_at: 2023-08-07T04:34:58
+pinned: true
+last_modified_at: 2023-09-19T17:37:42
 classes: wide
 breadcrumbs: true
 author_profile: true

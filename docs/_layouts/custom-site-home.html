@@ -2,9 +2,27 @@
 layout: archive
 ---
 
-{{ content }}
+<style>
+  .page__hero--overlay {
+    padding: 5em 0;
+  }
+  
+  .archive__item-title { 
+    margin-top: 1em;
+  }
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+  .archive__subtitle { 
+    font-size: 1.25em;
+    border-bottom: 2px solid #cecfd1;
+  }
+
+  .archive__item-title { 
+    font-size: 1.17em;
+  }
+
+</style>
+
+{{ content }}
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -13,6 +31,27 @@ layout: archive
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
+
+<h3 class="archive__subtitle">All Posts</h3>
+
+Click <a href="/blog">here</a> to see all of my blog posts.
+
+<h3 class="archive__subtitle">Pinned Posts</h3>
+
+Here are some posts that I think are worth keeping front and center.
+
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% if post.pinned %}
+      {% include archive-single.html type=entries_layout %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+Here's some of what I've been writing about recently.
+
 <div class="entries-{{ entries_layout }}">
   {% for post in posts limit:5 %}
     {% include archive-single.html type=entries_layout %}
