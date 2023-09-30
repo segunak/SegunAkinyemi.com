@@ -6,12 +6,28 @@ categories:
   - blog
 tags:
   - tech
-link: https://www.microsoft.com/en-us/industry/blog/government/2021/05/12/the-future-of-smart-cities-starts-with-people-not-technology/
 ---
 
 <style>
-  .gifformat {
-      width: 70%;
+  /* X-Small devices (portrait phones, less than 576px) */
+  @media (max-width: 575.98px) {
+    .gifformat {
+      width: 100%;
+    }
+  }
+
+  /* Small devices (landscape phones, less than 768px) */
+  @media (max-width: 767.98px) {
+    .gifformat {
+      width: 100%;
+    }
+  }
+
+  /* Tablets and larger */
+  @media (min-width: 767.98px) {
+    .gifformat {
+      width: 60%;
+    }
   }
 </style>
 
@@ -28,3 +44,5 @@ Of all the articles I've read about smart cities, there's one by Microsoft's [Je
 </p>
 
 Technology is cool, but it's [just a tool](https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/26/technology-is-just-a-tool-why-people-are-the-heart-of-everything-we-do-in-business){:target="_blank"} we use to solve problems. It doesn't replace the need for smart people and quality data to drive change. As a Software Engineer, I'm trained to think about problems in a technical way, but I appreciate the article's reminder that people (and good data) are critical pieces of any successful project. I highly suggest you give it a read using the link below. Also, check out an [article](/blog/microsoft-cloud-for-sustainability){:target="_blank"} I wrote on Microsoft Cloud for Sustainability and its potential as a digital ecosystem for smart cities.
+
+<a href="https://www.microsoft.com/en-us/industry/blog/government/2021/05/12/the-future-of-smart-cities-starts-with-people-not-technology/" class="btn btn--primary">Link to Article</a>
