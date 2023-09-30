@@ -1,0 +1,29 @@
+---
+title: "Smart Cities Need Smart People, Not Just Smart Things"
+classes: wide
+categories:
+  - blog
+tags:
+  - tech
+link: https://www.microsoft.com/en-us/industry/blog/government/2021/05/12/the-future-of-smart-cities-starts-with-people-not-technology/
+---
+
+<style>
+  .gifformat {
+      width: 70%;
+  }
+</style>
+
+I've developed something of an obsession with smart cities recently and have been reading all I can on the topic. I'm specifically interested in how they can help drive sustainability, and thereby lessen humanity's impact on global climate change. Incase you weren't aware, we're seriously [messing up the planet's climate](https://climate.nasa.gov/evidence/){:target="_blank"}. Seeing as [most people live in cities](https://www.un.org/development/desa/pd/content/urbanization-0){:target="_blank"} these days, it makes sense they'd be our top target for sustainability efforts. Making cities more environmentally friendly would [do wonders](https://dailytargum.com/article/2023/02/malik-creating-sustainable-cities-is-key-to-fighting-climate-change-if-we){:target="_blank"} for mitigating climate change.
+
+Of all the articles I've read about smart cities, there's one by Microsoft's [Jeremy M. Goldberg](https://www.linkedin.com/in/jeremymgoldberg/){:target="_blank"} that stands out for keeping things real. Smart cities are "smart" because of how they use technology, but if they're ever going to gain widespread adoption, we've got to focus first on the people behind them. Here's a great quote from the article.
+
+> Still, over the past decade, we have seen some ambitious "smart cities" projects fail. Sometimes technology is treated like a science project, rather than being tied to a specific problem. And sometimes cities aren’t set up to support these projects because they do not have the right people or processes in place. In my experience, data must be at the center of the conversation. Too often it is a secondary consideration.
+>
+> <cite>[Jeremy M. Goldberg](https://www.microsoft.com/en-us/industry/blog/government/2021/05/12/the-future-of-smart-cities-starts-with-people-not-technology/#:~:text=Still%2C%20over%20the,a%20secondary%20consideration.){:target="_blank"}</cite>
+
+<p align="center">
+    <img class="gifformat" src="/assets/images/chefskiss.gif"/>
+</p>
+
+Technology is cool, but it's [just a tool](https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/26/technology-is-just-a-tool-why-people-are-the-heart-of-everything-we-do-in-business){:target="_blank"} we use to solve problems. It doesn't replace the need for smart people and quality data to drive change. As a Software Engineer, I'm trained to think about problems in a technical way, but I appreciate the article's reminder that people (and good data) are critical pieces of any successful project. I highly suggest you give it a read using the link below. Also, check out an [article](/blog/microsoft-cloud-for-sustainability){:target="_blank"} I wrote on Microsoft Cloud for Sustainability and its potential as a digital ecosystem for smart cities.

@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "jedi"
-last_modified_at: 2023-09-20T06:24:23
+last_modified_at: 2023-09-30T18:36:24
 header:
   teaser: /assets/images/mcslogo.png
   overlay_image: /assets/images/coruscant.jpg
@@ -101,7 +101,7 @@ Ultimately, sustainability, especially in urban settings, is a priority for inno
 
 <p align="center">
   <a href="https://knowyourmeme.com/memes/im-doing-my-part" target="_blank">
-    <img class="gifformat" src="/assets/images/im-doing-my-part-serious.gif" alt="Open ESPN.com"/>
+    <img class="gifformat" src="/assets/images/im-doing-my-part-serious.gif"/>
   </a>
 </p>
 
