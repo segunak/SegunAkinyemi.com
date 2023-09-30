@@ -1,5 +1,6 @@
 ---
 title: "Smart Cities Need Smart People, Not Just Smart Things"
+excerpt: "To solve pressing problems, smart cities need to focus on people."
 classes: wide
 categories:
   - blog
