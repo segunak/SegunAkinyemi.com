@@ -15,9 +15,9 @@
     border-bottom: none !important;
 }
 
-/* This is what keeps the buttons from jumping up and down when new quote are phased in */
+/* This is what keeps the buttons from jumping up and down when new quotes are phased in */
 #random-quote-wrapper { 
-    height: 12em;
+    height: 10em;
     overflow-y: auto;
 }
 
@@ -25,6 +25,7 @@
     margin-bottom: 20px;
     opacity: 1;
     transition: all 0.8s cubic-bezier(0.44, 1.13, 0.58, 1);
+    font-size: 18px;
 }
 
 #quote-buttons {
