@@ -8,15 +8,15 @@
     width: 90%;
     padding: 25px 25px;
     background-color: #fff;
-    color:black;
+    color: black;
 }
 
-.random-quote-box blockquote { 
+.random-quote-box blockquote {
     border-bottom: none !important;
 }
 
 /* This is what keeps the buttons from jumping up and down when new quotes are phased in */
-#random-quote-wrapper { 
+#random-quote-wrapper {
     height: 10em;
     overflow-y: auto;
 }
@@ -26,6 +26,16 @@
     opacity: 1;
     transition: all 0.8s cubic-bezier(0.44, 1.13, 0.58, 1);
     font-size: 18px;
+
+    /* X-Small devices (portrait phones, less than 576px) */
+    @media (max-width: 575.98px) {
+        font-size: 1em;
+    }
+
+    /* Small devices (landscape phones, less than 768px) */
+    @media (max-width: 767.98px) {
+        font-size: 1em;
+    }
 }
 
 #quote-buttons {
@@ -46,7 +56,7 @@
     opacity: 0.8;
 }
 
-  
+
 i.fa.fa-quote-left {
     font-size: 1.8em;
     position: relative;
@@ -84,7 +94,7 @@ i.fa.fa-twitter {
 
 /* X-Small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
-    #random-quote-wrapper { 
+    #random-quote-wrapper {
         height: 14em;
     }
 
@@ -95,10 +105,10 @@ i.fa.fa-twitter {
 
 /* Small devices (landscape phones, less than 768px) */
 @media (max-width: 767.98px) {
-    #random-quote-wrapper { 
+    #random-quote-wrapper {
         height: 14em;
     }
-    
+
     .random-quote-box {
         width: 100%;
     }
