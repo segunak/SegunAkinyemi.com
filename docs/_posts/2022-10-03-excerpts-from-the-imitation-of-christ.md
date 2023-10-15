@@ -2,10 +2,14 @@
 title: "Excerpts From The Imitation of Christ"
 excerpt: "Noteworthy excerpts from the Christian devotional The Imitation of Christ by Thomas à Kempis."
 pinned: true
-last_modified_at: 2023-09-19T17:37:42
-classes: wide
-breadcrumbs: true
-author_profile: true
+last_modified_at: 2023-10-15T17:10:41
+toc: true
+toc_label: "On This Page"
+toc_icon: "book"
+toc_sticky: true
+breadcrumbs: false
+read_time: false
+author_profile: false
 header:
   teaser: /assets/images/iocteaser.jpg
   og_image: /assets/images/iocpic.jpg
@@ -22,6 +26,14 @@ tags:
   .page__hero--overlay {
       padding: 8em 0;
       background-position: center 40%;
+  }
+
+  article.page {
+      width: 100%;
+  }
+
+  .page__related {
+    float: left;
   }
 
   .quote-container {
@@ -58,6 +70,8 @@ tags:
     }
   }
 </style>
+
+## Introduction
 
 *The Imitation of Christ* is a Christian devotional written by late medieval period author [Thomas à Kempis](https://en.wikipedia.org/wiki/Thomas_%C3%A0_Kempis){:target="_blank"}. It's one of the most popular Christian books of all time and one that I only just recently completed. How I wish I had read it sooner!
 
