@@ -2,7 +2,7 @@
 title: "Favorite Quotes"
 excerpt: "A collection of awesome quotes from various sources."
 pinned: true
-last_modified_at: 2023-09-19T17:37:42
+last_modified_at: 2023-10-18T13:11:05
 classes: wide
 header:
   teaser: /assets/images/coolkingdom.jpg
@@ -66,14 +66,14 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 
 <div class="quote-container" markdown="1">
 
+> We need to read - above all the Word of God, but also history and biographies and great novels. If we don't read, we condemn ourselves to chronic stupidity and a conditioning by mass media that have no sympathy for the things we believe. If we fill our heads with poison and junk, we make ourselves angry and dumb.
+>
+> <cite>[Archbishop Charles Caput](https://catholicphilly.com/2017/07/homilies-speeches/whats-next-catholics-america-and-a-world-made-new/){:target="_blank"}</cite>
+
+
 > For what it’s worth: it’s never too late or, in my case, too early to be whoever you want to be. There’s no time limit, stop whenever you want. You can change or stay the same, there are no rules to this thing. We can make the best or the worst of it. I hope you make the best of it. And I hope you see things that startle you. I hope you feel things you never felt before. I hope you meet people with a different point of view. I hope you live a life you’re proud of. And if you find that you’re not, I hope you have the courage to start all over again
 >
 > <cite>[Francis Scott Fitzgerald](https://www.goodreads.com/quotes/7452670-for-what-it-s-worth-it-s-never-too-late-or-in){:target="_blank"}</cite>
-
-
-> We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for. To quote from Whitman, "O me! O life!... of the questions of these recurring; of the endless trains of the faithless... of cities filled with the foolish; what good amid these, O me, O life?" Answer. That you are here - that life exists, and identity; that the powerful play goes on and you may contribute a verse. That the powerful play *goes on* and you may contribute a verse. What will your verse be?
->
-> <cite>[John Keating in "The Dead Poets Society"](https://en.wikipedia.org/wiki/Dead_Poets_Society){:target="_blank"}</cite>
 
 
 > Only a fool tests the depth of water with both feet.
@@ -81,9 +81,9 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 > <cite>[Nigerian Proverb](https://www.educationworld.com/a_tsl/TM/WS_african_proverbs.shtml){:target="_blank"}</cite>
 
 
-> Hope is never mere, even when it is meager. When all other senses sleep, the eye of hope is first to awaken, last to shut.
+> It is better to trust in the Lord than to put confidence in man.
 >
-> <cite>[Elven High King Gil-Galad "The Lord of the Rings: The Rings of Power"](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power){:target="_blank"}</cite>
+> <cite>[Psalm 118:8](https://www.biblegateway.com/passage/?search=Psalm+118&version=NKJV){:target="_blank"}</cite>
 
 
 > Columbus went out not knowing where he was going; and when he got there he did not know where he was, and when he got back he did not know where he had been, and he did it all on other people's money.
@@ -91,9 +91,9 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 > <cite>[A.W. Tozer in "The Purpose of Man: Designed to Worship"](https://www.google.com/search?q=The+Purpose+of+Man+A.W.+Tozer){:target="_blank"}</cite>
 
 
-> We need to read - above all the Word of God, but also history and biographies and great novels. If we don't read, we condemn ourselves to chronic stupidity and a conditioning by mass media that have no sympathy for the things we believe. If we fill our heads with poison and junk, we make ourselves angry and dumb.
+> Hope is never mere, even when it is meager. When all other senses sleep, the eye of hope is first to awaken, last to shut.
 >
-> <cite>[Archbishop Charles Caput](https://catholicphilly.com/2017/07/homilies-speeches/whats-next-catholics-america-and-a-world-made-new/){:target="_blank"}</cite>
+> <cite>[Elven High King Gil-Galad "The Lord of the Rings: The Rings of Power"](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power){:target="_blank"}</cite>
 
 
 > Money will never be, and has never been, the mark of God's approval on someone's life.
@@ -101,9 +101,9 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 > <cite>[Dr. Daniel Olukoya](https://www.google.com/search?q=Dr.+Daniel+Olukoya){:target="_blank"}</cite>
 
 
-> A fool pulls the leaves. A brute chops the trunk. A sage digs the roots.
+> I have set the Lord always before me: because he is at my right hand, I shall not be moved.
 >
-> <cite>[Lorn au Arcos in "Golden Son"](https://en.wikipedia.org/wiki/Golden_Son){:target="_blank"}</cite>
+> <cite>[Psalm 16:8](https://www.biblegateway.com/passage/?search=Psalm+16%3A8&version=KJV){:target="_blank"}</cite>
 
 
 > Through personal feeling true perspective is easily lost.
@@ -126,13 +126,13 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 > <cite>[The Vision in "WandaVision"](https://www.youtube.com/watch?v=y6y0Dhj783w){:target="_blank"}</cite>
 
 
-> Now, we all have a great need for acceptance. But you must trust that your beliefs are unique, your own, even though others may think them odd or unpopular, even though the herd may go, "That's baaaaad."
->
-> <cite>[John Keating in "The Dead Poets Society"](https://en.wikipedia.org/wiki/Dead_Poets_Society){:target="_blank"}</cite>
-
 > But suppose I had found a watch upon the ground, and it should be inquired how the watch happened to be in that place. Its mechanism being observed, the inference, we think, is inevitable, that the watch must have had a maker: that there must have existed, at some time, and at some place or other, an artificer or artificers who formed it for the purpose which we find it actually to answer; who comprehended its construction, and designed its use.
 >
 > <cite>[William Paley in "Natural Theology or Evidences of the Existence and Attributes of the Deity"](https://en.wikipedia.org/wiki/Natural_Theology_or_Evidences_of_the_Existence_and_Attributes_of_the_Deity){:target="_blank"}</cite>
 
+
+> I believe that almost anyone who is seriously involved in any church will realize that churchgoing is not synonymous with personal spirituality. Having participated throughout my life in organized church and community service groups, I have found that attending church does not necessarily mean living the principles taught in those meetings. You can be active in a church and inactive in its gospel.
+>
+> <cite>[Stephen R. Covey in "The 7 Habits of Highly Effective People"](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People){:target="_blank"}</cite>
 
 </div>
