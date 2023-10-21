@@ -4,7 +4,7 @@ excerpt: "Dragon Ball Z has a message for anyone feeling stuck by their corporat
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
-last_modified_at: 2023-09-12T08:53:12
+last_modified_at: 2023-10-21T14:11:57
 header:
   teaser: /assets/images/itsover9000.jpg
   overlay_image: /assets/images/gokuvsvegeta-1.jpg
@@ -84,4 +84,4 @@ While I understand the merits of corporate leveling systems, I can't help but fe
   <img class="gifformat" src="/assets/images/super-saiyan-transformation.gif"/>
 </p>
 
-Now, of course, be reasonable. Don’t go applying for a job as a brain surgeon if you've no background, experience, or training in the field. That’s a waste of your time, and that of the hiring team, who like you are deserving of respect. However, if there's a job you're interested in, and maybe you don't meet all the requirements, or it's a step or two above your current level, don't be discouraged. Apply. Don’t wait around for your company to finally put you on the "right" level. Don't limit your potential or aspirations based on the company's current estimation of your abilities. If you apply to a position and don’t get it, that’s alright. Imagine if Goku had only fought people he thought were weaker than him. He'd have never surpassed his limits to become a [Super Saiyan](https://dragonball.fandom.com/wiki/Super_Saiyan){:target="_blank"}. Don't be defeated before you've even tried. Put yourself out there and see what happens. [Shooters shoot](https://www.urbandictionary.com/define.php?term=shooters%20shoot){:target="_blank"}, take your shot.
+Now, of course, be reasonable. Don’t go applying for a job as a brain surgeon if you've no background, experience, or training in the field. That’s a waste of your time, and that of the hiring team, who like you are deserving of respect. However, if there's a job you're interested in, and maybe you don't meet all the requirements, or it's a step or two above your current level, don't be discouraged. Apply. Don’t wait around for your company to finally put you on the "right" level. Don't limit your potential or aspirations based on the company's current estimation of your abilities. If you apply to a position and don’t get it, that’s alright. Imagine if Goku had only fought people he knew he could beat. He'd have never surpassed his limits to become a [Super Saiyan](https://dragonball.fandom.com/wiki/Super_Saiyan){:target="_blank"}. Don't be defeated before you've even tried. Put yourself out there and see what happens. [Shooters shoot](https://www.urbandictionary.com/define.php?term=shooters%20shoot){:target="_blank"}, take your shot.
