@@ -2,7 +2,7 @@
 title: "The Commands of Christ"
 excerpt: "A catalog of commands issued by Jesus Christ throughout the Bible."
 pinned: true
-last_modified_at: 2023-09-19T17:37:42
+last_modified_at: 2023-10-22T00:13:09
 toc: true
 toc_label: "On This Page"
 toc_icon: "book"
@@ -909,5 +909,3 @@ The following resources were used in compiling the scriptures found in this arti
 * [What are the commands of Christ?](https://iblp.org/questions/what-are-commands-christ){:target="_blank"} by the [Institute in Basic Life Principles](https://iblp.org/){:target="_blank"}
 * [49 Commands of Christ](http://www.discipleshiptools.org/apps/articles/default.asp?articleid=36885&columnid=){:target="_blank"} by the [Discipleship Tools Organization](http://www.discipleshiptools.org/){:target="_blank"}
 * [What commands did Jesus give us?](https://carm.org/about-jesus/what-commandments-did-jesus-give-us/){:target="_blank"} by [Matt Slick](https://carm.org/author/matt/){:target="_blank"} of the [Christian Apologetics and Research Ministry](https://carm.org/){:target="_blank"}.
-
-<script src="/assets/js/quotes.js"></script>

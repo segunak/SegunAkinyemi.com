@@ -2,7 +2,7 @@
 title: "Excerpts From The Imitation of Christ"
 excerpt: "Noteworthy excerpts from the Christian devotional The Imitation of Christ by Thomas à Kempis."
 pinned: true
-last_modified_at: 2023-10-15T17:10:41
+last_modified_at: 2023-10-22T00:13:09
 toc: true
 toc_label: "On This Page"
 toc_icon: "book"
@@ -526,5 +526,3 @@ If you don't feel like scrolling through the entire webpage, you can generate a 
 > God, eternal, incomprehensible, and infinitely powerful, does great and inscrutable things in heaven and on earth, and there is no searching into His marvelous works. **If all the works of God were such that human reason could easily grasp them, they would not be called wonderful or beyond the power of words to tell.**
 >
 > <cite>Book Four, Chapter 18</cite>
-
-<script src="/assets/js/quotes.js"></script>
