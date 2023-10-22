@@ -4,7 +4,7 @@ excerpt: "Dragon Ball Z has a message for anyone feeling stuck by their corporat
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
-last_modified_at: 2023-10-21T14:11:57
+last_modified_at: 2023-10-22T23:04:24
 header:
   teaser: /assets/images/itsover9000.jpg
   overlay_image: /assets/images/gokuvsvegeta-1.jpg
@@ -44,7 +44,7 @@ tags:
 
 ## Shattering the Scouter
 
-There's no denying the enduring legacy of [Dragon Ball Z](https://en.wikipedia.org/wiki/Dragon_Ball_Z){:target="_blank"}. Its influence persists in music, sports, television, film, social media, and popular culture, cementing its lasting relevance. Whether or not you've seen an episode, chances are you've encountered references to the show, perhaps unknowingly! We have it to thank for one of the [greatest memes of all time](https://knowyourmeme.com/memes/its-over-9000){:target="_blank"}, namely [Vegeta's](https://dragonball.fandom.com/wiki/Vegeta){:target="_blank"} dumbfounded "It's over 9000!" remark after assessing [Goku's](https://dragonball.fandom.com/wiki/Goku){:target="_blank"} power level with a [scouter](https://dragonball.fandom.com/wiki/Scouter){:target="_blank"} device.
+There's no denying the enduring legacy of [Dragon Ball Z](https://en.wikipedia.org/wiki/Dragon_Ball_Z){:target="_blank"}. Its influence persists throughout music, sports, television, film, social media, and popular culture, cementing its lasting relevance. Whether you've seen an episode or not, chances are you've encountered references to the show, perhaps unknowingly! We have it to thank for one of the [greatest memes of all time](https://knowyourmeme.com/memes/its-over-9000){:target="_blank"}, namely [Vegeta's](https://dragonball.fandom.com/wiki/Vegeta){:target="_blank"} dumbfounded "It's over 9000!" remark after assessing [Goku's](https://dragonball.fandom.com/wiki/Goku){:target="_blank"} power level with a [scouter](https://dragonball.fandom.com/wiki/Scouter){:target="_blank"} device.
 
 <p align="center">
   <img class="gifformat" src="/assets/images/itsover9000gif.gif"/>
