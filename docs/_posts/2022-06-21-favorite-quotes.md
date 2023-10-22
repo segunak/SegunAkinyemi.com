@@ -2,7 +2,7 @@
 title: "Favorite Quotes"
 excerpt: "A collection of awesome quotes from various sources."
 pinned: true
-last_modified_at: 2023-10-18T13:11:05
+last_modified_at: 2023-10-22T23:07:15
 classes: wide
 header:
   teaser: /assets/images/coolkingdom.jpg
@@ -93,7 +93,7 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 
 > Hope is never mere, even when it is meager. When all other senses sleep, the eye of hope is first to awaken, last to shut.
 >
-> <cite>[Elven High King Gil-Galad "The Lord of the Rings: The Rings of Power"](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power){:target="_blank"}</cite>
+> <cite>[Elven High King Gil-Galad in "The Lord of the Rings: The Rings of Power"](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power){:target="_blank"}</cite>
 
 
 > Money will never be, and has never been, the mark of God's approval on someone's life.
