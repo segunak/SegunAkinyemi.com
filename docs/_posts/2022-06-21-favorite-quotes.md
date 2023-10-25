@@ -2,7 +2,7 @@
 title: "Favorite Quotes"
 excerpt: "A collection of awesome quotes from various sources."
 pinned: true
-last_modified_at: 2023-10-22T23:07:15
+last_modified_at: 2023-10-25T15:28:48
 classes: wide
 header:
   teaser: /assets/images/coolkingdom.jpg
@@ -91,9 +91,9 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 > <cite>[A.W. Tozer in "The Purpose of Man: Designed to Worship"](https://www.google.com/search?q=The+Purpose+of+Man+A.W.+Tozer){:target="_blank"}</cite>
 
 
-> Hope is never mere, even when it is meager. When all other senses sleep, the eye of hope is first to awaken, last to shut.
+> Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself from being polluted by the world.
 >
-> <cite>[Elven High King Gil-Galad in "The Lord of the Rings: The Rings of Power"](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power){:target="_blank"}</cite>
+> <cite>[James 1:27](https://www.biblegateway.com/passage/?search=James+1%3A27&version=NIV){:target="_blank"}</cite>
 
 
 > Money will never be, and has never been, the mark of God's approval on someone's life.
