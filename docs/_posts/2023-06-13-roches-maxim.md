@@ -2,7 +2,7 @@
 title: "Roche's Maxim: Essential Wisdom For Simplifying Data Transformation"
 excerpt: "Embrace the simple but powerful wisdom of Roche's Maxim to enhance the way you approach data transformation."
 classes: wide
-last_modified_at: 2023-08-22T17:48:13
+last_modified_at: 2023-11-11T15:59:06
 header:
   teaser: /assets/images/thinker.jpg
 categories:
@@ -11,7 +11,7 @@ tags:
   - tech
 ---
 
-You ever hear a word or phrase that perfectly describes something you'd often thought about, but didn't have a name for? The joy that comes from discovering that official (or colloquial) term is downright vindicating. I recently had this satisfying experience after coming across a concept called [Roche's Maxim of Data Transformation](https://ssbipolar.com/2021/05/31/roches-maxim/){:target="_blank"}.
+Have you ever heard a word or phrase that perfectly describes something you'd often thought about, but didn't have a name for? The joy that comes from discovering that official (or colloquial) term is downright vindicating. I recently had this satisfying experience after coming across a concept called [Roche's Maxim of Data Transformation](https://ssbipolar.com/2021/05/31/roches-maxim/){:target="_blank"}.
 
 It states:
 
