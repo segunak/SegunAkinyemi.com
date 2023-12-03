@@ -2,11 +2,13 @@
 title: > 
   The Final Triumph: Attack on Titan Cements Itself Among the Greatest Anime of All Time
 excerpt: "A grand journey, more than a decade in the making, culminated in Attack on Titan's epic (albeit flawed) conclusion, solidifying its place among the anime greats."
+last_modified_at: 2023-12-03T23:26:25
 breadcrumbs: true
-toc: true
-toc_sticky: true
-toc_label: "On This Page"
-toc_icon: "crown"
+classes: wide
+author_profile: false
+sidebar:
+  title: "On This Page"
+  nav: attackontitan
 header:
   teaser: /assets/images/aot3.jpg
   og_image: /assets/images/aot3.jpg # OG = Open Graph, shows up in social sharing situations.
@@ -21,6 +23,25 @@ tags:
 <style>
   .page__hero--overlay {
       padding: 10em 0;
+  }
+  
+  #youtubeimage {
+    width: 70%;
+    align: center;
+  }
+
+  /*X-Small devices (portrait phones, less than 576px)*/
+  @media (max-width: 575.98px) {
+    #youtubeimage {
+      width: 100%;
+    }
+  }
+
+  /*Small devices (landscape phones, less than 768px)*/
+  @media (max-width: 767.98px) {
+    #youtubeimage {
+      width: 100%;
+    }
   }
 </style>
 
@@ -43,7 +64,7 @@ This tendency, to speak sensationally online, is often dismissed as mere joking,
 
 I say all this in a premeditated defense of my next claim. Note that it is made with a clear and composed mind, devoid of any sensationalism, hyperbole, or exaggeration. It is not a product of fleeting emotion or fandom-induced delusion, but rather a carefully crafted and analytically derived conclusion. Remember that as you read on. I'm totally not exaggerating.
 
-## Attack on Titan's Place Among the Greats
+## Evaluating Anime's Greatest
 
 In 2013, a new [anime](https://en.wikipedia.org/wiki/Anime){:target="_blank"} took the world by storm, capturing the hearts of fans in ways that will last a lifetime. With its November 2023 conclusion, [Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan_(TV_series)){:target="_blank"} (AoT) cemented its status as a genre-defining masterpiece, establishing groundbreaking storytelling and foreshadowing techniques that have become hallmarks of anime excellence. For some, it was their anime baptism, while for others, it reshaped their perception of the medium's narrative depths, leaving them wanting for more. It holds a special place among my anime favorites, and with its imperfect yet satisfying conclusion, stands as one of the greatest of all time, [no cap](https://www.urbandictionary.com/define.php?term=No%20cap){:target="_blank"}.
 
@@ -51,7 +72,7 @@ Unlike some shows that were headed towards GOAT status but fumbled the ending (I
 
 Naturally, declaring a single undisputed anime GOAT is an exercise in futility. Personal preferences and tastes vary widely among fans, making all deliberations, debates, and discussions inherently subjective. However, despite its flaws, I believe AoT's ending was sufficient to secure it a permanent place among the greats. Any serious conversation about the greatest anime of all time must forever include Attack on Titan. Leaving it out is nothing short of malice, willful ignorance, genuine ignorance, or dare I say, intransigence. To help illustrate my point, I present a real-world analogy.
 
-## A Sporting Analogy
+## A Basketball Analogy
 
 If you're having a conversation about the greatest basketball player of all time, you have to mention [LeBron James](https://en.wikipedia.org/wiki/LeBron_James){:target="_blank"}. Anyone failing to do so is either woefully misinformed or deliberately obstinate (looking at you [Skip Bayless](https://en.wikipedia.org/wiki/Skip_Bayless){:target="_blank"}). LeBron's place among the greats was cemented by his 2016 NBA Finals performance, where he led the Cavaliers back from a 3-1 deficit against the [record-breaking](https://en.wikipedia.org/wiki/2015%E2%80%9316_Golden_State_Warriors_season){:target="_blank"} juggernaut Golden State Warriors. The Cavaliers were all but hopeless. Both fans and media alike had written them off, with LeBron drawing a wealth of criticism for his performance. Many pundits saw it as yet another example of him wilting under pressure and lacking the "it" factor that made [Michael Jordan](https://en.wikipedia.org/wiki/Michael_Jordan){:target="_blank"} an all-time great.
 
@@ -71,7 +92,7 @@ There's a great video from the YouTuber Gigguk that I think perfectly captures h
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=kCyJiC_25tA" target="_blank">
-    <img src="/assets/images/aot-preview-2.jpg">
+    <img id="youtubeimage" src="/assets/images/aot-preview-2.jpg">
   </a>
 </p>
 
