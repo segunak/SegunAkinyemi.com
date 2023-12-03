@@ -2,7 +2,7 @@
 title: "Favorite Quotes"
 excerpt: "A collection of awesome quotes from various sources."
 pinned: true
-last_modified_at: 2023-10-25T15:28:48
+last_modified_at: 2023-12-03T20:46:14
 classes: wide
 header:
   teaser: /assets/images/coolkingdom.jpg
@@ -101,7 +101,7 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 > <cite>[Dr. Daniel Olukoya](https://www.google.com/search?q=Dr.+Daniel+Olukoya){:target="_blank"}</cite>
 
 
-> I have set the Lord always before me: because he is at my right hand, I shall not be moved.
+> I have set the Lord always before me: because He is at my right hand, I shall not be moved.
 >
 > <cite>[Psalm 16:8](https://www.biblegateway.com/passage/?search=Psalm+16%3A8&version=KJV){:target="_blank"}</cite>
 

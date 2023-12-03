@@ -2,7 +2,7 @@
 title: > 
   So What's a "god" in the Marvel Cinematic Universe?
 excerpt: "*Thor: Love and Thunder* has only served to blur the lines on who and what a god is in the MCU."
-last_modified_at: 2023-06-09T14:57:50
+last_modified_at: 2023-12-03T20:46:14
 toc: true
 toc_label: "On This Page"
 toc_icon: "bolt"
@@ -16,7 +16,7 @@ header:
 categories:
   - blog
 tags:
-  - film
+  - entertainment
 ---
 
 <style>

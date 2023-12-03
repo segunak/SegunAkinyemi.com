@@ -4,7 +4,7 @@ excerpt: "Dragon Ball Z has a message for anyone feeling stuck by their corporat
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
-last_modified_at: 2023-11-11T15:59:06
+last_modified_at: 2023-12-03T20:46:14
 header:
   teaser: /assets/images/itsover9000.jpg
   overlay_image: /assets/images/gokuvsvegeta-1.jpg
@@ -61,16 +61,16 @@ In the corporate world, there's a system similar to Dragon Ball Z's power levels
 Companies may use different terminology, but the basic idea of corporate leveling is the same. Employees are hired at a level and must meet certain (sometimes vague) requirements to be promoted to the next one. There's a great website called [Levels.fyi](https://www.levels.fyi/){:target="_blank"} that pools leveling and compensation data for many large corporations. I find it particularly useful for seeing how levels at different companies measure up to one another. Check out how Software Engineering levels at Google and Apple compare.
 
 <p align="center">
-  <img class="gifformat" src="/assets/images/levels.jpg"/>
+  <img src="/assets/images/levels.jpg"/>
 </p>
 
-You can see that there's overlap, and some disconnect, between their notions of what makes you a Junior, Senior, and Principal Software Engineer. You could be an `L4 Software Engineer III` at Google doing work Apple would consider worthy of their `ICT4 Senior Software Engineer` post. There are many such combinations of levels being comparable in some ways and not in others across companies. The takeaway is that while leveling is instrumental to an employee's experience, it can also be arbitrary, inaccurate, and potentially limiting one's career velocity.
+You can see that there's overlap, and some disconnect, between their notions of what makes you a Junior, Senior, and Principal Software Engineer. You could be an `L4 Software Engineer III` at Google doing work Apple would consider worthy of their `ICT4 Senior Software Engineer` post. There are many such combinations of levels being comparable in some ways and not in others across companies. The takeaway is that while leveling is instrumental to an employee's experience, it can also be arbitrary, inaccurate, and potentially limiting to one's career velocity.
 
-If you've ever browsed the professional social network [Blind](https://teamblind.com/){:target="_blank"}, you'll see employees from across tech congregating to discuss, debate, and seek advice related to leveling. Just like Vegeta, many of us define ourselves by a leveling system that's meant to determine our value, potential, and power within a company. There are good reasons for having levels, but things become dangerous when we start viewing our careers through the lens of a corporation's imperfect leveling system.
+If you've ever browsed the professional social network [Blind](https://teamblind.com/){:target="_blank"}, you'll see employees from across tech congregating to discuss, debate, and seek advice related to leveling. Just like Vegeta, many of us define ourselves by a leveling system that's meant to determine our value, potential, and power within a company. There are good reasons for having levels, but things become dangerous when we start viewing our careers through the lens of a corporation's estimation of our abilities.
 
 ## The Perils of Corporate Leveling
 
-I recently had lunch with a former teammate who was unhappy with his new team. As we discussed his concerns, it became clear that making another move, either internally or externally, would be best for him. He had been applying for internal transfers, but only at his current level. There's a sort of unspoken rule at our company that internal transfers are horizontal. You typically aren't able to ascend in level by switching teams, although there are some cases where it happens. My colleague was certain that hiring managers would only consider him for a position at his current level. While this conventional wisdom was true, there was something about it that didn’t sit right with me.
+I recently had lunch with a former teammate who was unhappy with his new team. As we discussed his concerns, it became clear that making another move, either internally or externally, would be best for him. He had been applying for internal transfers, but only at his current level. There's a sort of unspoken rule at our company that internal transfers are horizontal. You typically aren't able to ascend in level by switching teams, except in rare cases. My colleague was certain that hiring managers would only consider him for a position at his current level. While this conventional wisdom was sound, there was something about it that didn’t sit right with me.
 
 Our company's leveling system is well-intentioned, but it's inherently flawed. I've seen people demonstrate skills beyond their current level for well over a year, and yet, they weren't promoted. I've also seen people at higher levels produce less value than you'd expect, with junior members carrying a lot of the team's load. We're told that to be promoted, we must be operating at our target level for some arbitrary amount of time. While getting paid on your current level, you're meant to be producing like the next. The idea is that during the annual rewards season, things will balance out with a nice bonus and a promotion. But what if that doesn't happen? It can have a devastating impact on employee morale. Some people leave the company, while others become lethargic, viewing hard work as wasted effort. Still, others develop [impostor syndrome](https://www.ncbi.nlm.nih.gov/books/NBK585058/){:target="_blank"}, doubting their abilities in ways that can be paralyzing.
 
