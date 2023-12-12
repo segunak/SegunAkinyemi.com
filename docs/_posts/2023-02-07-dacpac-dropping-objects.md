@@ -1,8 +1,8 @@
 ---
 title: "Dropping Database Objects During DACPAC Deployments Can Get Weird"
 excerpt: "Even with a pre-deployment script, BlockOnPossibleDataLoss, and DropObjectsNotInSource, SQLPackage may still refuse to let your stale objects die."
-last_modified_at: 2023-12-12T14:27:40
-classes: wide
+last_modified_at: 2023-12-12T14:37:13
+#classes: wide
 toc: true
 toc_label: "On This Page"
 toc_icon: "database"
@@ -16,6 +16,8 @@ tags:
 ---
 
 <script src="/assets/js/mermaid.min.js"></script>
+
+## Background
 
 Consider the following scenario:
 
@@ -33,7 +35,7 @@ You end up continuing your research and discover database project [pre-deploymen
 
 I've been the developer in this scenario and found myself scouring the Internet in search of answers. Microsoft, the creators of SQLPackage, DACPAC's, and SQL Server data projects, don't have much to say about this issue. But thankfully, the global developer community does. Members of the worldwide beloved hodgepodge of geeks, nerds, programmers, developers, hackers, engineers, data scientists, data analysts, data wizards, and all-around tech enthusiasts came through for me. Thanks to them, I was able to get past this issue. Here's what I learned.
 
-## DACPAC Deployment Stages
+## How DACPAC Deployments Work
 
 The reason a DACPAC deployment might refuse to drop objects despite having `BlockOnPossibleDataLoss=False`, `DropObjectsNotInSource=True`, and a pre-deployment script is because of how its internal stages are organized. The order of operations is key. I learned this from an unsung Stack Overflow hero who answered [this question](https://stackoverflow.com/questions/62162380/dacpac-pre-pre-script-avilale*/){:target="_blank"} with details that should seriously exist somewhere on Microsoft's official documentation site. Here's how DACPAC deployments work.
 
@@ -46,7 +48,7 @@ The reason a DACPAC deployment might refuse to drop objects despite having `Bloc
 
 Looking at the steps above, it becomes clear why my deployment was failing no matter what I tried. The evaluation in Step 3 is the problem. It doesn't respect parameters like `BlockOnPossibleDataLoss` and `DropObjectsNotInSource`, and it runs before the pre-deployment script where I had tried manually handling object drops. In my case, I was trying to drop a column from an existing table. The column had data, but I knew it was okay to lose it. The column and data within had been deprecated and I was under a mandate to do away with both. However, this "evaluation" step wouldn't let me. It insisted on protecting me from what it deemed to be a dangerous operation, which I fully understand. I'd be more concerned if it didn't stop and alert users to the potential for data loss. What's frustrating though is that there's no way to get this evaluation to "chill out" in certain scenarios. It's not configurable at all, and as such, must be worked around. I learned as much while searching online for a solution to this problem.
 
-## Shift Left <s>Testing</s> Deployments
+## Solving the Issue
 
  As discussed above, the pre-deployment script built into SQL Server data projects doesn't run before the potentially blocking schema comparison and evaluation step. Furthermore, parameters like `BlockOnPossibleDataLoss` and `DropObjectsNotInSource` don't affect that step, so they're useless for overcoming a blocking "data loss may occur" problem.
 
@@ -85,5 +87,7 @@ Then, when your project artifacts are uploaded to wherever you place them for de
     deployType: sqlTask
     sqlFile: "/Path/To/Pre-Pre-Deployment.sql"
 ```
+
+## Wrapping Things Up
 
 And so, there you have it. Writing this article was a cathartic experience for me. The amount of time I spent trying to figure out what was wrong, only to learn there's no native way to resolve it, was more than I'd like to admit. The ideal solution to this problem would be for the schema comparison step to be configurable. The fact that parameters passed to SQLPackage are ignored during that step isn't cool at all. That being said, if you're reading this right now, I pray that all your DACPAC deployments finish without a hitch. Godspeed.
