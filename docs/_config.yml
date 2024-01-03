@@ -163,7 +163,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# When you run build locally, this will open a webpage automatically showing you the content.
+# When building locally this will open a webpage automatically showing you the content.
 # open_url: true
 
 include:
