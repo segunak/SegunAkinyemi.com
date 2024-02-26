@@ -13,10 +13,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (quoteButtonsExist) {
         randomBtn.addEventListener('click', () => {
-            const quoteContainer = document.querySelector('.quote-container');
-            const quotes = quoteContainer.querySelectorAll('blockquote');
-            const randomIndex = Math.floor(Math.random() * quotes.length);
-            const randomQuote = quotes[randomIndex].innerHTML;
+            const quoteContainers = document.querySelectorAll('.quote-container');
+            const randomQuoteContainersIndex = Math.floor(Math.random() * quoteContainers.length);
+            const quotes = quoteContainers[randomQuoteContainersIndex].querySelectorAll('blockquote');
+            const randomQuoteIndex = Math.floor(Math.random() * quotes.length);  
+            const randomQuote = quotes[randomQuoteIndex].innerHTML;
             const quoteDisplay = document.querySelector('#random-quote-display');
             quoteDisplay.innerHTML = randomQuote;
         });
