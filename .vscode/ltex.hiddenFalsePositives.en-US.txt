@@ -1,0 +1,1 @@
+{"rule":"TO_NON_BASE","sentence":"^\\QI hope whatever you're counting down to goes well!\\E$"}
