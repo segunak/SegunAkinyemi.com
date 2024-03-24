@@ -11,7 +11,7 @@ tags:
   - tech
 ---
 
-I recently planned an event that had a lot of moving parts, participants, and busy people on the planning team. To help us stay on track, I created automated reminders of how long we had until event day using Power Automate. Here's how to do that.
+I recently planned an event (side note, event planning is exhausting) that had a lot of moving parts, participants, and busy people on the planning team. To help us stay on track, I created automated reminders of how long we had until event day using Power Automate. Here's how to do that.
 
 ## Craft Your Message Variable
 
