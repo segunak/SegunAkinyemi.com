@@ -1,6 +1,6 @@
 ---
 title: "How To Create Dynamic Countdown Timer Messages Using Power Automate"
-excerpt: "Here's how to create messages with a countdown timer to a given date or time using Power Automate."
+excerpt: "Here's how to create messages with a countdown timer to a given date using Power Automate."
 toc: true
 toc_sticky: true
 header:
