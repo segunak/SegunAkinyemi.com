@@ -97,21 +97,13 @@ away from Event Name!
 
 To understand this code, let's use an example. A `DateDifference` value of `3.15:30:45` represents a timespan of 3 days, 15 hours, 30 minutes, and 45 seconds until the event. The expression code breaks down this value to populate the countdown message accurately. Here's how the code would parse this timespan.
 
-**Extracting Days:**
+1. **Extracting Days:** `split(variables('DateDifference'),'.')[0]` isolates `3` from `3.15:30:45`. The split function cuts the string at the period ('.'), and [0] picks the first element of the resulting array, which is the number of days.
 
-`split(variables('DateDifference'),'.')[0]` isolates `3` from `3.15:30:45`. The split function cuts the string at the period ('.'), and [0] picks the first element of the resulting array, which is the number of days.
+2. **Extracting Hours:** `split(split(variables('DateDifference'),'.')[1],':')[0]` first takes `15:30:45` (the part after the period in `3.15:30:45`) and then splits it at the colon (':'), selecting the first element `[0]` which represents hours, `15`.
 
-**Extracting Hours:**
+3. **Extracting Minutes:** `split(split(variables('DateDifference'),'.')[1],':')[1]` follows a similar pattern to hours, but this time, it selects the second element `[1]` from the split operation, which yields `30` minutes.
 
-`split(split(variables('DateDifference'),'.')[1],':')[0]` first takes `15:30:45` (the part after the period in `3.15:30:45`) and then splits it at the colon (':'), selecting the first element `[0]` which represents hours, `15`.
-
-**Extracting Minutes:**
-
-`split(split(variables('DateDifference'),'.')[1],':')[1]` follows a similar pattern to hours, but this time, it selects the second element `[1]` from the split operation, which yields `30` minutes.
-
-**Extracting Seconds:**
-
-`split(split(variables('DateDifference'),'.')[1],':')[2]` takes the third element `[2]` after splitting by colon, giving us `45`, the number of seconds remaining.
+4. **Extracting Seconds:** `split(split(variables('DateDifference'),'.')[1],':')[2]` takes the third element `[2]` after splitting by colon, giving us `45`, the number of seconds remaining.
 
 ## Formatting The Message
 
