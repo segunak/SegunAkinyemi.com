@@ -1,12 +1,12 @@
 ---
-title: "How to Have Global Parameters in Azure Synapse Analytics"
+title: "How To Have Global Parameters in Azure Synapse Analytics"
 excerpt: "Unlike Azure Data Factory, Azure Synapse Analytics doesn't currently provide global parameters, but there are some ways to work around and achieve similar functionality."
 toc: true
 toc_label: "On This Page"
 toc_icon: "database"
 toc_sticky: true
 author_profile: true
-last_modified_at: 2023-08-13T04:52:20
+last_modified_at: 2024-03-25T07:01:43
 header:
   teaser: /assets/images/SynapseTeaser.jpg
 categories:
