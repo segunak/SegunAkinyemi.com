@@ -2,7 +2,7 @@
 title: "The Commands of Christ"
 excerpt: "A catalog of commands issued by Jesus Christ throughout the Bible."
 pinned: true
-last_modified_at: 2023-10-22T00:13:09
+last_modified_at: 2024-03-31T16:58:39
 toc: true
 toc_label: "On This Page"
 toc_icon: "book"
@@ -178,7 +178,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 >
 > <cite>[Matthew 5:44-48](https://www.biblegateway.com/passage/?search=Matthew5:44-48&version=NKJV){:target="_blank"}</cite>
 
-> Take heed that you do not do your charitable deeds before men, to be seen by them. Otherwise you have no reward from your Father in heaven. Therefore, when you do a charitable deed, do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets, that they may have glory from men. Assuredly, I say to you, they have their reward. But when you do a charitable deed, do not let your left hand know what your right hand is doing, 4 that your charitable deed may be in secret; and your Father who sees in secret will Himself reward you openly.
+> Take heed that you do not do your charitable deeds before men, to be seen by them. Otherwise you have no reward from your Father in heaven. Therefore, when you do a charitable deed, do not sound a trumpet before you as the hypocrites do in the synagogues and in the streets, that they may have glory from men. Assuredly, I say to you, they have their reward. But when you do a charitable deed, do not let your left hand know what your right hand is doing, that your charitable deed may be in secret; and your Father who sees in secret will Himself reward you openly.
 >
 > <cite>[Matthew 6:1-4](https://www.biblegateway.com/passage/?search=Matthew6:1-4&version=NKJV){:target="_blank"}</cite>
 
