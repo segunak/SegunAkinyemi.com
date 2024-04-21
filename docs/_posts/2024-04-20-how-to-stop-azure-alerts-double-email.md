@@ -41,11 +41,11 @@ To set the stage, I present to you a story in classic [green text](https://knowy
     >software engineer working on a data project using Azure Synapse Analytics.<br>
     >get asked by project management team to send emails when the pipeline has completed.<br>
     >simple enough, right? Just use Azure Monitor Alerts. They are so easy. Click here, click there, export <s><a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview" target="_blank">ARM</a></s> <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep" target="_blank">Bicep</a> template for deployments, done.<br>
-    >alert goes live, everyone's gets two emails.<br>
+    >alert goes live, everyone gets two emails.<br>
     >PM's start asking questions.<br>
     >What have you done?<br>
     >Why did we get two emails?<br>
-    >Which email really tells us the pipeline is complete?<br>
+    >Which email tells us the pipeline is complete?<br>
     >What makes you think it's acceptable to violate the sanctity of our inboxes in such amateur fashion?<br>
     >Why are the emails so ugly?<br>
     >Can you add pictures?<br>
@@ -62,7 +62,7 @@ In summary, I needed to send emails when something happened in Azure without ann
 
 ## Why Redundant Email Notifications Occur
 
-By default, Azure's [action groups](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/action-groups){:target="_blank"} are configured to notify on both state changes for an alert rule — when it fires and when it resolves. This setup ensures thorough communication but can lead to unnecessary email clutter. You're not alone in viewing this as an issue. Here are some others who've seen the same thing.
+By default, Azure's [action groups](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/action-groups){:target="_blank"} are configured to notify on both state changes for an alert rule — when it fires and when it resolves. This setup ensures thorough communication but can lead to unnecessary email clutter. You're not alone if you find this annoying, although technically speaking, it's not a bug. Here are some others who've seen the same thing.
 
 [Alert is fired twice: first time with "fired", other on "resolved" monitorCondition](https://github.com/MicrosoftDocs/azure-docs/issues/57247){:target="_blank"}
 [Configuring Alert Rules to Not Send Secondary Resolved Notification](https://learn.microsoft.com/en-us/answers/questions/202429/configuring-alert-rules-to-not-send-secondary-reso){:target="_blank"}
