@@ -84,7 +84,7 @@ If you want to ensure you only get one email from your Azure alert rule, here's 
     ![AlertRules](/assets/images/scopeandfilter.png)
 8. Proceed to the `Rule settings` page and choose `Suppress notifications`, which does exactly what it sounds like. The alert will still fire, but its action groups won't be invoked, so you won't receive any notifications when it fires.
     ![AlertRules](/assets/images/rulesettings.png)
-9. Proceed to the `Scheduling` page and select `Always` so that the alert processing rule is always suppressing notifications for your noisome alert rule.
+9. Proceed to the `Scheduling` page and select `Always` to ensure the alert processing rule is always active.
     ![AlertRules](/assets/images/scheduling.png)
 10. Proceed to the `Details` page and select a resource group for your alert processing rule. Give it a sensible name and description.
     ![AlertRules](/assets/images/detailsscreen.png)
