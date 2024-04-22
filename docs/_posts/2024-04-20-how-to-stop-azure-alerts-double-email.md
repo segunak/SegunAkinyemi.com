@@ -2,6 +2,7 @@
 title: "How To Stop Azure Monitor Alerts From Sending Redundant 'Fired' and 'Resolved' Emails"
 excerpt: "Learn how to configure Azure alert rules to stop getting two emails when an alert is fired and then resolved."
 classes: wide
+last_modified_at: 2024-04-22T15:21:53
 header:
   teaser: /assets/images/azure3.png
 categories:
@@ -95,7 +96,7 @@ If you want to ensure you only get one email from your Azure alert rule, here's 
 
 The trickiest part of the instructions above is selecting the correct scope for your alert processing rule. It took me a few tries to get the right configuration that would apply to my Synapse workspace indirectly through the Log Analytics workspace it emits to. If you go through the instructions and are still getting two emails, double-check your scope.
 
-## Automating with Bicep Templates
+## Automating With Bicep Templates
 
 If you manage your Azure resources through code, setting up alert processing rules via Bicep (or ARM, Terraform, etc.) templates is a must for [CI/CD](https://en.wikipedia.org/wiki/CI/CD){:target="_blank"}. Below is a sample Bicep script to configure an alert processing rule. Here's the [relevant Microsoft documentation page](https://learn.microsoft.com/en-us/azure/templates/microsoft.alertsmanagement/actionrules?pivots=deployment-language-bicep){:target="_blank"}.
 
