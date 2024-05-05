@@ -184,14 +184,14 @@ What follows are specific learning resources for these advanced subdomains of AI
 
 > **Stanford University:** [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction){:target="_blank"}
 >
-This course by Stanford University—in partnership with DeepLearning.AI, a near-ubiquitous fixture in the AI education space—offers a comprehensive dive into the world of machine learning. From basic concepts to advanced algorithms, it offers the kind of content that's needed for those looking to build AI models.
+This course by Stanford University—in partnership with DeepLearning.AI, a near-ubiquitous fixture in the AI education space—offers a comprehensive dive into the world of machine learning. From basic concepts to advanced algorithms, it offers the kind of content that's needed for those looking to build and manipulate AI models.
 >
 > **Free or Paid:** Free to audit, paid to access graded materials and get a certificate of completion.
 {: .notice--primary}
 
 > **Chirstopher Bishop:** [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf){:target="_blank"}
 >
-[Christopher Bishop](https://en.wikipedia.org/wiki/Christopher_Bishop){:target="_blank"}—a [Microsoft Technical Fellow](https://en.wikipedia.org/wiki/Fellow#Industry_and_corporate_fellows){:target="_blank"} and director of their [AI Research division](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/){:target="_blank"}—has been doing groundbreaking work in AI since before it was mainstream. His contributions have not only pushed the boundaries of what AI can achieve but also helped position Microsoft at the forefront of the field. His book—_Pattern Recognition and Machine Learning_—was first published in 2006 but has undergone continuous updates since. It's widely recognized as a foundational text for machine learning and is required reading in many programs around the world.
+[Christopher Bishop](https://en.wikipedia.org/wiki/Christopher_Bishop){:target="_blank"}—a [Microsoft Technical Fellow](https://en.wikipedia.org/wiki/Fellow#Industry_and_corporate_fellows){:target="_blank"} and director of their [AI Research Division](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/){:target="_blank"}—has been doing groundbreaking work in AI since before it was mainstream. His contributions have not only pushed the boundaries of what AI can achieve but also helped position Microsoft at the forefront of the field. His book—_Pattern Recognition and Machine Learning_—was first published in 2006 but has undergone continuous updates since. It's widely recognized as a foundational text for machine learning and is required reading in many programs around the world.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
