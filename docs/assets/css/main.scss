@@ -16,6 +16,8 @@ Anything you place after this point will therefore "cascade and override" the pr
 @import "_styleoverrides"; // Style changes for either skin/theme. To change, go to file _styleoverrides.scss in the _sass folder.
 /* For any code that must apply to all pages, put it in _styleoverrides.scss. Changes their will apply to either active theme. */
 
+/* This is here because it only applies to the main (lighter) theme. If you want something to apply everywhere,
+put it in _styleoverrides.scss*/
 .random-quote-box .btn {
     background: #0092ca;
 }

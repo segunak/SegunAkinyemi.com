@@ -2,7 +2,7 @@
 title: "Favorite Quotes"
 excerpt: "A collection of awesome quotes from various sources."
 pinned: true
-last_modified_at: 2023-12-03T20:46:14
+last_modified_at: 2024-05-05T14:19:03
 classes: wide
 header:
   teaser: /assets/images/coolkingdom.jpg
@@ -47,6 +47,44 @@ tags:
     }
   }
 </style>
+
+<script>
+  /*
+    This code does the following:
+    1. When the page loads, it selects all the blockquote elements within the quote-container div.
+    2. It checks if there is an odd number of blockquotes. If so, it removes the last one from the
+      quote-container and places it just below the quote-container div.
+    3. It then sorts the remaining blockquotes based on the length of their text content. Blockquotes
+      with similar text lengths will be placed next to each other.
+    4. Finally, it rearranges the blockquotes within the quote-container div according to the sorted order,
+      so that blockquotes with similar text lengths are grouped together.
+  */
+  window.addEventListener('load', function() {
+    const quoteContainer = document.querySelector('.quote-container');
+    const blockquotes = Array.from(quoteContainer.querySelectorAll('blockquote'));
+
+    // Check if there is an odd number of blockquotes
+    // If so, remove the last one and place it outside the quote-container
+    if (blockquotes.length % 2 !== 0) {
+      const lastBlockquote = blockquotes.pop();
+      quoteContainer.removeChild(lastBlockquote);
+      quoteContainer.parentNode.insertBefore(lastBlockquote, quoteContainer.nextSibling);
+    }
+
+    // Sort the blockquotes based on the length of their text content
+    // Blockquotes with similar text lengths will be placed next to each other
+    blockquotes.sort((a, b) => {
+      const lengthA = a.innerText.length;
+      const lengthB = b.innerText.length;
+      return lengthA - lengthB;
+    });
+
+    // Rearrange the blockquotes in the quote-container according to the sorted order
+    blockquotes.forEach(blockquote => {
+      quoteContainer.appendChild(blockquote);
+    });
+  });
+</script>
 
 This page is an ongoing collection of some of my favorite quotes. I'll start with one that requires an annotation.
 
@@ -94,6 +132,11 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 > Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself from being polluted by the world.
 >
 > <cite>[James 1:27](https://www.biblegateway.com/passage/?search=James+1%3A27&version=NIV){:target="_blank"}</cite>
+
+
+> It is the mark of an educated mind to be able to entertain a thought without accepting it.
+>
+> <cite>[Aristotle](https://en.wikiquote.org/wiki/Aristotle#:~:text=It%20is%20the%20mark%20of%20an%20educated%20mind%20to%20be%20able%20to%20entertain%20a%20thought%20without%20accepting%20it.){:target="_blank"}</cite>
 
 
 > Money will never be, and has never been, the mark of God's approval on someone's life.

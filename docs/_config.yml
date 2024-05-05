@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.\
 # Font Awesome Icons: Version 5 is used in Minimal Mistakes.
-# https://fontawesome.com/v5/
+# https://fontawesome.com/v5/search#
 
 # To build this site (and not serve) bundle exec jekyll build
 

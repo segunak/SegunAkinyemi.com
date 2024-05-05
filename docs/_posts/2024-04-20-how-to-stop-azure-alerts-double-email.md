@@ -1,8 +1,11 @@
 ---
 title: "How To Stop Azure Monitor Alerts From Sending Redundant 'Fired' and 'Resolved' Emails"
 excerpt: "Learn how to configure Azure alert rules to stop getting two emails when an alert is fired and then resolved."
-classes: wide
-last_modified_at: 2024-04-22T15:21:53
+# classes: wide
+toc: true
+toc_sticky: true
+toc_label: "On This Page"
+last_modified_at: 2024-05-05T14:19:03
 header:
   teaser: /assets/images/azure3.png
 categories:
