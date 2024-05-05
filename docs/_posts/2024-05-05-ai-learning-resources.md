@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-05-05T14:19:04
+last_modified_at: 2024-05-05T17:17:04
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -171,8 +171,8 @@ Do you remember when video games (excluding Madden and NBA 2K) ditched the "rele
 Machine Learning, Neural Networks, and Deep Learning are all important domains of artificial intelligence. Understanding what they are, and the differences between them, is key to building AI expertise. Here's an **intentionally oversimplified** rundown of those terms.
 
 * **Machine Learning** is all about teaching computers to get smarter over time, like giving them the building blocks and basic know-how to tackle problems on their own. But you can't just kick back and let the computer do all the work—you'll still need to guide it along the way, tweaking things here and there to get the best results.
-* **Neural Networks** are the engines that power many machine learning systems. They are designed to mimic the way the human brain operates, allowing them to learn from vast amounts of data. These networks consist of layers of interconnected parts that process data sequentially, enhancing their ability to make complex decisions and predictions.
-* **Deep Learning** is like machine learning's overachieving sibling. It's a specific type of machine learning that relies heavily on neural networks to process massive amounts of data. Deep learning excels at handling unstructured data like audio, video, and images. But much like machine learning, it still requires careful preparation and labeling of data before it can work its "magic".
+* **Neural Networks** are the engines that power many Machine Learning systems. They are designed to mimic the way the human brain operates, allowing them to learn from vast amounts of data. These networks consist of layers of interconnected parts that process data sequentially, enhancing their ability to make complex decisions and predictions.
+* **Deep Learning** is like Machine Learning's overachieving sibling. It's a specific type of Machine Learning that relies heavily on Neural Networks to process massive amounts of data. Deep Learning excels at handling unstructured data like audio, video, and images. But much like Machine Learning, it still requires careful preparation and labeling of data before it can work its "magic".
 
 This image from [Data Camp](https://www.datacamp.com/blog/how-to-learn-ai){:target="_blank"} does an excellent job of breaking down the terminology and their relationships.
 
@@ -184,14 +184,14 @@ What follows are specific learning resources for these advanced subdomains of AI
 
 > **Stanford University:** [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction){:target="_blank"}
 >
-This course by Stanford University—in partnership with DeepLearning.AI, a near-ubiquitous fixture in the AI education space—offers a comprehensive dive into the world of machine learning. From basic concepts to advanced algorithms, it offers the kind of content that's needed for those looking to build and manipulate AI models.
+This course by Stanford University—in partnership with DeepLearning.AI, a near-ubiquitous fixture in the AI education space—offers a comprehensive dive into the world of Machine Learning. From basic concepts to advanced algorithms, it offers the kind of content that's needed for those looking to build and manipulate AI models.
 >
 > **Free or Paid:** Free to audit, paid to access graded materials and get a certificate of completion.
 {: .notice--primary}
 
 > **Chirstopher Bishop:** [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf){:target="_blank"}
 >
-[Christopher Bishop](https://en.wikipedia.org/wiki/Christopher_Bishop){:target="_blank"}—a [Microsoft Technical Fellow](https://en.wikipedia.org/wiki/Fellow#Industry_and_corporate_fellows){:target="_blank"} and director of their [AI Research Division](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/){:target="_blank"}—has been doing groundbreaking work in AI since before it was mainstream. His contributions have not only pushed the boundaries of what AI can achieve but also helped position Microsoft at the forefront of the field. His book—_Pattern Recognition and Machine Learning_—was first published in 2006 but has undergone continuous updates since. It's widely recognized as a foundational text for machine learning and is required reading in many programs around the world.
+[Christopher Bishop](https://en.wikipedia.org/wiki/Christopher_Bishop){:target="_blank"}—a [Microsoft Technical Fellow](https://en.wikipedia.org/wiki/Fellow#Industry_and_corporate_fellows){:target="_blank"} and director of their [AI Research Division](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/){:target="_blank"}—has been doing groundbreaking work in AI since before it was mainstream. His contributions have not only pushed the boundaries of what AI can achieve but also helped position Microsoft at the forefront of the field. His book—_Pattern Recognition and Machine Learning_—was first published in 2006 but has undergone continuous updates since. It's widely recognized as a foundational text for Machine Learning and is required reading in many programs around the world.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
@@ -200,14 +200,14 @@ This course by Stanford University—in partnership with DeepLearning.AI, a near
 
 > **Andrej Karpathy:** [Neural Networks - Zero to Hero](https://karpathy.ai/zero-to-hero.html){:target="_blank"}
 >
-To thoroughly explore and understand neural networks, there are few better resources than this video series by [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy){:target="_blank"}. He's one of OpenAI's co-founders, a former director of AI and Autopilot Vision at Tesla, and an all-around brilliant computer scientist. The YouTube playlist for the series can be found [here](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ){:target="_blank"}, but Andrej also has a website for the course linked above.
+To thoroughly explore and understand Neural Networks, there are few better resources than this video series by [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy){:target="_blank"}. He's one of OpenAI's co-founders, a former director of AI and Autopilot Vision at Tesla, and an all-around brilliant computer scientist. The YouTube playlist for the series can be found [here](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ){:target="_blank"}, but Andrej also has a website for the course linked above.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
 
 > **Michael Nielsen:** [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/){:target="_blank"}
 >
-[Michael Nielsen](https://en.wikipedia.org/wiki/Michael_Nielsen){:target="_blank"}, a quantum physicist and AI researcher, authored the accessible yet profound _Neural Networks and Deep Learning_ in 2015. The book is a treasure trove for anyone diving into the mechanics of neural networks, which are a fundamental aspect of AI. The book exists online on his website, but if you prefer, you can likely find a PDF version with a [quick search](https://www.google.com/search?q=filetype%3Apdf+neural+networks+and+deep+learning+michael+nielsen){:target="_blank"}.
+[Michael Nielsen](https://en.wikipedia.org/wiki/Michael_Nielsen){:target="_blank"}, a quantum physicist and AI researcher, authored the accessible yet profound _Neural Networks and Deep Learning_ in 2015. The book is a treasure trove for anyone diving into the mechanics of Neural Networks, which are a fundamental aspect of AI. The book exists online on his website, but if you prefer, you can likely find a PDF version with a [quick search](https://www.google.com/search?q=filetype%3Apdf+neural+networks+and+deep+learning+michael+nielsen){:target="_blank"}.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
@@ -216,25 +216,25 @@ To thoroughly explore and understand neural networks, there are few better resou
 
 > **Parand Tony Darugar:** [A Completely Non-Technical Explanation of AI and Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html){:target="_blank"}
 >
-Compared to the other resources in this section, this is a lighter read. It's meant to get you familiar with the concepts behind AI and deep learning without the fancy terminology of academic writing. I find it refreshingly humorous while still being informative. It's a good starting place before wading into _deeper_ waters with _deep_ learning. [Parand Tony Dugar](https://www.linkedin.com/in/parand/){:target="_blank"} has an extensive history as a tech VP and entrepreneur. His blog features other similarly written articles that make AI concepts approachable in a non-stuffy way. It's worth [checking out](https://www.parand.com/){:target="_blank"}!
+Compared to the other resources in this section, this is a lighter read. It's meant to get you familiar with the concepts behind AI and Deep Learning without the fancy terminology of academic writing. I find it refreshingly humorous while still being informative. It's a good starting place before wading into _deeper_ waters with _Deep_ Learning. [Parand Tony Dugar](https://www.linkedin.com/in/parand/){:target="_blank"} has an extensive history as a tech VP and entrepreneur. His blog features other similarly written articles that make AI concepts approachable in a non-stuffy way. It's worth [checking out](https://www.parand.com/){:target="_blank"}!
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
 
 > **DeepLearning.AI:** [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning){:target="_blank"}
 >
-This series of courses by [DeepLearning.AI](https://www.deeplearning.ai/){:target="_blank"} offers a structured approach to understanding the core concepts and techniques of deep learning. It gets into advanced concepts that aspiring AI Engineers will find valuable, all while maintaining a focus on real-world usage.
+This series of courses by [DeepLearning.AI](https://www.deeplearning.ai/){:target="_blank"} offers a structured approach to understanding the core concepts and techniques of Deep Learning. It gets into advanced concepts that aspiring AI Engineers will find valuable, all while maintaining a focus on real-world usage.
 >
 > **Free or Paid:** Free to audit, paid to access graded materials and get a certificate of completion.
 {: .notice--primary}
 
 > **Fast AI:** [Practical Deep Learning](https://course.fast.ai/){:target="_blank"}
 >
-If you already have coding experience and want to skip straight to practical applications of deep learning, this free course created by [fast.ai](https://www.fast.ai/about.html){:target="_blank"} is a good fit. It's less "reasoning from first principles" and more "here's what to know so that you can use this right now".
+If you already have coding experience and want to skip straight to practical applications of Deep Learning, this free course created by [fast.ai](https://www.fast.ai/about.html){:target="_blank"} is a good fit. It's less "reasoning from first principles" and more "here's what to know so that you can use this right now".
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
 
 ## Conclusion
 
-There's a lot of content out there related to AI. With this post, I'm trying to pare it down to what's distinctly worth spending time—mankind's most precious resource—on. There are resources on this page that I haven't even finished combing through. I relied heavily on suggestions from prominent AI experts—and tech-savvy users on [Hacker News](https://news.ycombinator.com/){:target="_blank"}, [Reddit](https://www.reddit.com/r/artificial/){:target="_blank"}, and [Stack Exchange](https://stackexchange.com/sites){:target="_blank"}—while compiling this list. I'm keeping it updated as I find new resources, or conclude that existing resources aren't worth keeping listed. Feel free to share your thoughts with me using my [contact page](/contact) or the comment section at the bottom. I hope you got some value out of this article!
+There's a lot of content out there related to AI. With this post, I'm trying to pare things down to what's uniquely worth spending time on. Time is precious, and now more than ever, curated content that gets to the heart of what you're looking for is needed to make the most of it. There are resources on this page that I haven't even finished combing through. I relied heavily on suggestions from prominent AI experts and tech-savvy users on [Hacker News](https://news.ycombinator.com/){:target="_blank"}, [Reddit](https://www.reddit.com/r/artificial/){:target="_blank"}, and [Stack Exchange](https://stackexchange.com/sites){:target="_blank"} while compiling this list. I'm keeping it updated as I find new resources, or conclude that existing resources aren't worth keeping listed. Feel free to share your thoughts with me using my [contact page](/contact) or the comment section at the bottom. I hope you got some value out of this article!
