@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-05-05T17:42:05
+last_modified_at: 2024-05-05T17:51:02
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -182,6 +182,8 @@ What follows are specific learning resources for these advanced subdomains of AI
 
 #### Machine Learning
 
+Notable learning resources for diving into Machine Learning.
+
 > **Stanford University:** [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction){:target="_blank"}
 >
 This course by Stanford University—in partnership with DeepLearning.AI, a near-ubiquitous fixture in the AI education space—offers a comprehensive dive into the world of Machine Learning. From basic concepts to advanced algorithms, it offers the kind of content that's needed for those looking to build and manipulate AI models.
@@ -198,6 +200,8 @@ This course by Stanford University—in partnership with DeepLearning.AI, a near
 
 #### Neural Networks
 
+Notable learning resources for diving into Neural Networks.
+
 > **Andrej Karpathy:** [Neural Networks - Zero to Hero](https://karpathy.ai/zero-to-hero.html){:target="_blank"}
 >
 To thoroughly explore and understand Neural Networks, there are few better resources than this video series by [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy){:target="_blank"}. He's one of OpenAI's co-founders, a former director of AI and Autopilot Vision at Tesla, and an all-around brilliant computer scientist. The YouTube playlist for the series can be found [here](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ){:target="_blank"}, but Andrej also has a website for the course linked above.
@@ -213,6 +217,8 @@ To thoroughly explore and understand Neural Networks, there are few better resou
 {: .notice--primary}
 
 #### Deep Learning
+
+Notable learning resources for diving into Deep Learning.
 
 > **Parand Tony Darugar:** [A Completely Non-Technical Explanation of AI and Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html){:target="_blank"}
 >
