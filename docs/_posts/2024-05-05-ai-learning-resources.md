@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-05-05T17:51:02
+last_modified_at: 2024-05-05T18:06:39
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -161,7 +161,7 @@ Published in [2017](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need){:ta
 
 > **Stuart J. Russell & Peter Norvig** [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/){:target="_blank"}
 >
-Do you remember when video games (excluding Madden and NBA 2K) ditched the "release a new game every year" format in favor of the "release a game and support it for years with DLCs and bug fixes" format? That's what this book is for AI. It is **the** AI textbook across universities globally and has been since its original publication in 1995. Despite its _ostensibly_ ancient publication date, it's nowhere near outdated. The authors periodically release new editions to keep with the times, each one improving on the last. The most recent edition was released in 2020 and is filled with the latest research, up-to-date examples, and insights into both the foundational theories and the cutting-edge applications of AI. If you want to dive deep into AI, make this your swimming pool.
+Do you remember when video games (excluding Madden and NBA 2K) ditched the "release a new game every year" format in favor of the "release a game and support it for years with DLCs and bug fixes" format? That's what this book is for AI. It is **the** AI textbook across universities globally and has been since its original publication in 1995. Despite its _ostensibly_ ancient publication date, it's nowhere near outdated. The authors periodically release new editions to keep with the times, each one improving on the last. The most recent edition was released in 2020 and is filled with the latest research, up-to-date examples, and insights into both the foundational theories and cutting-edge applications of AI. If you want to dive deep into AI, make this your swimming pool.
 >
 > **Free or Paid:** Technically speaking, [paid](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach-dp-0134610997/dp/0134610997/ref=dp_ob_title_bk){:target="_blank"}, but actually, [free](https://dl.ebooksworld.ir/books/Artificial.Intelligence.A.Modern.Approach.4th.Edition.Peter.Norvig.%20Stuart.Russell.Pearson.9780134610993.EBooksWorld.ir.pdf){:target="_blank"}.
 {: .notice--primary}
