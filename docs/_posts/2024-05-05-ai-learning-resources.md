@@ -154,7 +154,7 @@ Published in [2017](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need){:ta
 
 > **Google Research:** [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805){:target="_blank"}
 >
-In 2018, [Google Research](https://research.google/){:target="_blank"} revolutionized the way machines understand human language with the introduction of [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)){:target="_blank"} (Bidirectional Encoder Representations from Transformers). This paper describes a method that allows AI to better comprehend the nuances and context of language as it's used in the real world. BERT set a new standard for natural language processing tasks, such as answering questions, translating languages, and even summarizing long articles. All of those learnings have become critical parts of major AI tools (ChatGPT, Claude, Gemini, etc.) If you're diving into AI, especially the language part, getting familiar with BERT is akin to learning the secret recipes that master chefs use for their signature dishes.
+  In 2018, [Google Research](https://research.google/){:target="_blank"} revolutionized the way machines understand human language with the introduction of [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)){:target="_blank"} (Bidirectional Encoder Representations from Transformers). This paper describes a method that allows AI to better comprehend the nuances and context of language as it's used in the real world. BERT set a new standard for natural language processing tasks, such as answering questions, translating languages, and even summarizing long articles. All of those learnings have become critical parts of major AI tools (ChatGPT, Claude, Gemini, etc.) If you're diving into AI, especially the language part, getting familiar with BERT is worth the time investment.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
@@ -168,11 +168,11 @@ Do you remember when video games (excluding Madden and NBA 2K) ditched the "rele
 
 ### Advanced Concepts
 
-Machine learning, neural networks, and deep learning are all important domains of artificial intelligence. Understanding what they are, and the differences between them, is key to building AI expertise. Here's an **intentionally oversimplified** rundown of those terms.
+Machine Learning, Neural Networks, and Deep Learning are all important domains of artificial intelligence. Understanding what they are, and the differences between them, is key to building AI expertise. Here's an **intentionally oversimplified** rundown of those terms.
 
-* **Machine learning** is all about teaching computers to get smarter over time, like giving them the building blocks and basic know-how to tackle problems on their own. But you can't just kick back and let the computer do all the work—you'll still need to guide it along the way, tweaking things here and there to get the best results.
+* **Machine Learning** is all about teaching computers to get smarter over time, like giving them the building blocks and basic know-how to tackle problems on their own. But you can't just kick back and let the computer do all the work—you'll still need to guide it along the way, tweaking things here and there to get the best results.
 * **Neural Networks** are the engines that power many machine learning systems. They are designed to mimic the way the human brain operates, allowing them to learn from vast amounts of data. These networks consist of layers of interconnected parts that process data sequentially, enhancing their ability to make complex decisions and predictions.
-* **Deep learning** is like machine learning's overachieving sibling. It's a specific type of machine learning that relies heavily on neural networks to process massive amounts of data. Deep learning excels at handling unstructured data like audio, video, and images. But much like machine learning, it still requires careful preparation and labeling of data before it can work its "magic".
+* **Deep Learning** is like machine learning's overachieving sibling. It's a specific type of machine learning that relies heavily on neural networks to process massive amounts of data. Deep learning excels at handling unstructured data like audio, video, and images. But much like machine learning, it still requires careful preparation and labeling of data before it can work its "magic".
 
 This image from [Data Camp](https://www.datacamp.com/blog/how-to-learn-ai){:target="_blank"} does an excellent job of breaking down the terminology and their relationships.
 
