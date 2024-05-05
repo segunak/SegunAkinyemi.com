@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-05-05T17:17:04
+last_modified_at: 2024-05-05T17:42:05
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -116,7 +116,7 @@ Quick and easy, this tutorial takes you through what you need to know to peel ba
 
 > **Déborah Mesquita:** [Python AI: How to Build a Neural Network & Make Predictions](https://realpython.com/python-ai-neural-network/){:target="_blank"}
 >
-[Real Python](https://realpython.com/){:target="_blank"} is a blog that puts out great learning resources, ranging from beginner to advanced, for coding with Python. [Deborah Mesquita](https://deborahmesquita.com/){:target="_blank"} is a data scientist and member of the Real Python blogging team. She's written a great article that walks you through building a neural network—a foundational part of AI—using Python. By the end of it, you'll know enough to be dangerous wielding Python as a tool for doing AI stuff ([and thangs](https://www.urbandictionary.com/define.php?term=stuff%20and%20thangs){:target="_blank"}).
+[Real Python](https://realpython.com/){:target="_blank"} is a blog that puts out great learning resources, ranging from beginner to advanced, for coding with Python. [Déborah Mesquita](https://deborahmesquita.com/){:target="_blank"} is a data scientist and member of the Real Python blogging team. She's written a great article that walks you through building a neural network—a foundational part of AI—using Python. By the end of it, you'll know enough to be dangerous wielding Python as a tool for doing AI stuff ([and thangs](https://www.urbandictionary.com/define.php?term=stuff%20and%20thangs){:target="_blank"}).
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
