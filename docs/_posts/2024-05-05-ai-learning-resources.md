@@ -105,7 +105,7 @@ To truly understand the inner workings of LLM's, there's no substitute for imple
 
 ### Python + AI
 
-Python is [the programming language of AI](https://en.wikipedia.org/wiki/List_of_programming_languages_for_artificial_intelligence){:target="_blank"}, so getting familiar with is worthwhile. These resources center on writing Python code to do stuff ([and thangs](https://www.urbandictionary.com/define.php?term=stuff%20and%20thangs){:target="_blank"}) with AI. if you're not familiar with Python, [Google's Python Class](https://developers.google.com/edu/python){:target="_blank"} is a good place to start.
+Python is [the programming language of AI](https://en.wikipedia.org/wiki/List_of_programming_languages_for_artificial_intelligence){:target="_blank"}, so getting familiar with is worthwhile. These resources center on writing Python code to do stuff ([and thangs](https://www.urbandictionary.com/define.php?term=stuff%20and%20thangs){:target="_blank"}) with AI. If you're not familiar with Python, [Google's Python Class](https://developers.google.com/edu/python){:target="_blank"} is a good place to start.
 
 > **OpenAI:** [API Developer Quickstart](https://platform.openai.com/docs/quickstart){:target="_blank"}
 >
@@ -130,7 +130,7 @@ Harvard University's name speaks for itself. They put a surprising amount of the
 
 ## Diving Deep
 
-If you're set on making AI your bread and butter, then this stuff is your jam (🙃). This is "I want to be an AI Researcher", "I want to be an AI Engineer", "I want to be a Machine Learning Engineer", and/or "I want to help advance humanity towards [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence){:target="_blank"}" territory.
+If you're set on making AI your bread and butter, then this stuff is your jam 🙃. This is "I want to be an AI Researcher", "I want to be an AI Engineer", "I want to be a Machine Learning Engineer", and/or "I want to help advance humanity towards [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence){:target="_blank"}" territory.
 
 It's beyond what's needed for practical application. The earlier resources are sufficient for being the "AI guy" at most companies. However, if you _really_ want to know your stuff when it comes to AI—like going from the "car guy" to the "creator of novel automotive engineering advancements guy"—these resources will help.
 
