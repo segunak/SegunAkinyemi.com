@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-05-06T20:04:06
+last_modified_at: 2024-05-06T20:11:44
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -56,7 +56,7 @@ Both Microsoft and Google have entry-level "get started with AI" courses that ar
 
 ### Excel + AI
 
-There seems to be no limit to what can be done in Microsoft Excel. It is in many ways the foundation upon which the entire business world rests. The stuff people have pulled off in Excel is insane; like [this guy who built a game engine in it](https://www.reddit.com/r/gamedev/comments/11osft6/i_made_a_complete_game_engine_in_excel_and_then_i/). There are companies out there whose continued existence rests on a handful of Excel spreadsheets masquerading as databases. Dread it, run from it, Excel [remains all the same](https://www.notboring.co/p/excel-never-dies), for what is [<s>dead</s>](https://www.reddit.com/r/freefolk/comments/17begif/what_is_the_meaning_of_what_is_dead_may_never_die/) Excel may never die!
+There seems to be no limit to what can be done in Microsoft Excel. It is in many ways the foundation upon which the entire business world rests. The stuff people have pulled off in Excel is insane; like [this guy who built a game engine in it](https://www.reddit.com/r/gamedev/comments/11osft6/i_made_a_complete_game_engine_in_excel_and_then_i/). There are companies out there whose continued existence rests on a handful of Excel spreadsheets masquerading as databases. Dread it, run from it, Excel [remains all the same](https://www.notboring.co/p/excel-never-dies).
 
 > **Ishan Anand:** [Spreadsheets Are All You Need](https://spreadsheets-are-all-you-need.ai/)
 >
