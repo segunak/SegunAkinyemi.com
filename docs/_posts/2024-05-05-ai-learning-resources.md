@@ -91,7 +91,7 @@ Next, check out this extremely thorough collection of guides, papers, lectures, 
 
 A large language model (LLM) is a type of AI trained on massive amounts of text data. This training enables it to understand and generate content in response to instructions (prompts). An example is OpenAI's GPT ([Generative Pre-trained Transformer](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer)), where _Generative_ highlights its ability to create new content, _Pre-trained_ indicates it has been trained on a wide array of text data, and _Transformer_ refers to the model’s architecture, designed to handle complex patterns in data efficiently. Understanding LLMs is key to moving beyond the basics and towards AI expertise.
 
-> **Andrej Karpath:** [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+> **Andrej Karpathy:** [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 >
 Andrej Karpathy is an AI heavyweight, just read through his [Wikipedia page](https://en.wikipedia.org/wiki/Andrej_Karpathy) and you'll understand why. He's one of OpenAI's co-founders and—in addition to being a brilliant engineer—is an excellent educator, dropping AI knowledge for free on his YouTube channel. This 1-hour video where he introduces large language models comes highly recommended by engineers around the web. I see it linked in "How do I learn AI" threads all the time. It's certainly worth a watch!
 >
