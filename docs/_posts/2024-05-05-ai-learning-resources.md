@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-05-06T16:38:19
+last_modified_at: 2024-05-06T20:04:06
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -161,7 +161,7 @@ Published in [2017](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) by 
 > **Free or Paid:** Free.
 {: .notice--primary}
 
-> **Stuart J. Russell & Peter Norvig** [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/)
+> **Stuart J. Russell & Peter Norvig:** [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/)
 >
 Do you remember when video games (excluding Madden and NBA 2K) ditched the "release a new game every year" format in favor of the "release a game and support it for years with DLCs and bug fixes" format? That's what this book is for AI. It is **the** AI textbook across universities globally and has been since its original publication in 1995. Despite its _ostensibly_ ancient publication date, it's nowhere near outdated. The authors periodically release new editions to keep with the times, each one improving on the last. The most recent edition was released in 2020 and is filled with the latest research, up-to-date examples, and insights into both the foundational theories and cutting-edge applications of AI. If you want to dive deep into AI, make this your swimming pool.
 >
