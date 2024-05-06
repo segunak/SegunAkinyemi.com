@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-05-05T18:06:39
+last_modified_at: 2024-05-06T11:37:43
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -186,7 +186,7 @@ Notable learning resources for diving into Machine Learning.
 
 > **Stanford University:** [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction){:target="_blank"}
 >
-This course by Stanford University—in partnership with DeepLearning.AI, a near-ubiquitous fixture in the AI education space—offers a comprehensive dive into the world of Machine Learning. From basic concepts to advanced algorithms, it offers the kind of content that's needed for those looking to build and manipulate AI models.
+This course bundle by Stanford University—in partnership with DeepLearning.AI, a near-ubiquitous fixture in the AI education space—offers a comprehensive dive into the world of Machine Learning. From basic concepts to advanced applications, it provides the kind of content that'll prove extremely valuable for those interested in building and manipulating AI models.
 >
 > **Free or Paid:** Free to audit, paid to access graded materials and get a certificate of completion.
 {: .notice--primary}
