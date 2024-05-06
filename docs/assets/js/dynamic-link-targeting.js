@@ -17,19 +17,23 @@ document.addEventListener("DOMContentLoaded", function () {
         return isMobile;
     };
 
-    // Function to update the target attribute of all links based on the detected device type
+    // Function to update the target attribute of all links based on the detected device type and if the link is internal
     const updateLinkTargets = () => {
         // Retrieve all 'a' elements (links) in the document
         const links = document.getElementsByTagName('a');
 
-        // Determine the appropriate target attribute value based on whether the device is mobile
-        // Use '_self' to open links in the same tab for mobile devices and '_blank' to open links in a new tab for non-mobile devices
-        const targetAttribute = isMobileDevice() ? '_self' : '_blank';
-
-        // Convert the HTMLCollection of links into an array and iterate over each link
+        // Iterate over each link to determine the correct target attribute
         [...links].forEach(link => {
-            // Set the 'target' attribute of each link to the appropriate value determined above
-            link.target = targetAttribute;
+            // Check if the link is internal by comparing the link's host with the current window's host
+            if (link.hostname === window.location.hostname) {
+                // If the link is internal, open it in the same tab
+                link.target = '_self';
+            } else {
+                // Determine the appropriate target attribute value based on whether the device is mobile
+                // Use '_self' to open links in the same tab for mobile devices and '_blank' to open links in a new tab for non-mobile devices
+                const targetAttribute = isMobileDevice() ? '_self' : '_blank';
+                link.target = targetAttribute;
+            }
         });
     };
 
