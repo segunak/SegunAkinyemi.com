@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-05-06T20:11:44
+last_modified_at: 2024-05-15T22:38:35
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -34,6 +34,17 @@ While being undeniably [so hot right now](https://knowyourmeme.com/memes/x-is-so
 ## Wading In
 
 Most people have heard of AI in some way (ChatGPT, Midjourney, Firefly, Copilot, [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)), etc.), but if you want to get started with understanding what's going on under the hood, here are some good resources.
+
+### Talking the Talk
+
+To start, it's worth getting familiar with the various terms and concepts associated with AI. There's a flurry of 'new' (to the non-AI expert plebeian public) AI terminology floating around these days. Understanding these concepts will significantly boost your comprehension and engagement with AI topics, which is crucial to effective learning.
+
+> **Microsoft:** [10 AI Terms Everyone Should Know](https://news.microsoft.com/10-ai-terms/) & [10 More AI Terms Everyone Should Know](https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/)
+>
+These articles from Microsoft walk through a total of 20 terms that are fundamental to the AI field. They each stand out for being written in an approachable beginner-friendly way. Reading and understanding the content within them will help you speak confidently about AI (and sound smart to your friends) while navigating your learning journey.
+>
+> **Free or Paid:** Free.
+{: .notice--primary}
 
 ### Intro Courses
 
