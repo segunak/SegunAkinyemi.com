@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-05-15T22:38:35
+last_modified_at: 2024-05-16T01:52:57
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -37,7 +37,7 @@ Most people have heard of AI in some way (ChatGPT, Midjourney, Firefly, Copilot,
 
 ### Talking the Talk
 
-To start, it's worth getting familiar with the various terms and concepts associated with AI. There's a flurry of 'new' (to the non-AI expert plebeian public) AI terminology floating around these days. Understanding these concepts will significantly boost your comprehension and engagement with AI topics, which is crucial to effective learning.
+To start, it's worth getting familiar with the various terms and concepts associated with AI. There's a flurry of 'new' (to the general public) AI terminology floating around these days. Understanding these concepts will significantly boost your comprehension and engagement with AI topics, which is crucial to effective learning.
 
 > **Microsoft:** [10 AI Terms Everyone Should Know](https://news.microsoft.com/10-ai-terms/) & [10 More AI Terms Everyone Should Know](https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/)
 >
