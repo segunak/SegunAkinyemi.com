@@ -29,52 +29,56 @@ Anything you place after this point will therefore "cascade and override" the pr
 }
 
 #form-container {
-    border-color: #f21368 !important;
-  
-    button {
-      color: #f21368 !important;
-      border-color: #f21368 !important;
-    }
-  
-    h1 {
-      color: #f21368 !important;
-    }
-  
-    .icon {
-      fill: #f21368 !important;
-    }
-  
-    input[type='text'],
-    [type='email'],
-    textarea {
-      color: #f21368 !important;
-      border-bottom-color: #f21368 !important;
-    }
-  
-    select {
-      background-image: url('https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-down-32.png');
-    }
-  }
-  
-  ::-webkit-input-placeholder {
-    color: #f21368 !important;
-  }
-  
-  :-moz-placeholder {
-    color: #f21368 !important;
-    opacity: 1;
-  }
-  
-  ::-moz-placeholder {
-    color: #f21368 !important;
-    opacity: 1;
-  }
-  
-  :-ms-input-placeholder {
-    color: #f21368 !important;
-  }
-  
-  #form_button {
+  border-color: #f21368 !important;
+
+  button {
     color: #f21368 !important;
     border-color: #f21368 !important;
   }
+
+  h1 {
+    color: #f21368 !important;
+  }
+
+  .icon {
+    fill: #f21368 !important;
+  }
+
+  input[type='text'],
+  [type='email'],
+  textarea {
+    color: #f21368 !important;
+    border-bottom-color: #f21368 !important;
+  }
+
+  select {
+    background-image: url('https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-down-32.png');
+  }
+}
+
+::-webkit-input-placeholder {
+  color: #f21368 !important;
+}
+
+:-moz-placeholder {
+  color: #f21368 !important;
+  opacity: 1;
+}
+
+::-moz-placeholder {
+  color: #f21368 !important;
+  opacity: 1;
+}
+
+:-ms-input-placeholder {
+  color: #f21368 !important;
+}
+
+#form_button {
+  color: #f21368 !important;
+  border-color: #f21368 !important;
+}
+
+.highlight .c, .highlight .cm, .highlight .cp, .highlight .c1, .highlight .cs {
+  color: gray; /* Comment styles */
+}
