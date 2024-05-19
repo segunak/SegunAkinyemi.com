@@ -1,7 +1,7 @@
 ---
 title: "How To Reference Linked Services in Azure Synapse Analytics Notebooks"
 excerpt: "Learn how to reference linked services when writing Apache Spark code in Azure Synapse Analytics notebooks."
-last_modified_at: 2024-05-18T20:41:56
+last_modified_at: 2024-05-19T09:55:39
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -15,7 +15,7 @@ tags:
 
 <script src="/assets/js/dynamic-link-targeting.js"></script>
 
-[Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/) is described by Microsoft as a "limitless analytics service that brings together enterprise data warehousing and Big Data analytics". I'd say _limitless_ is a rather strong word—considering the meteoric rise of their own competing product dubbed [Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-explained-for-existing-synapse-users/)—but if you're trying to query a [Linked Service](https://learn.microsoft.com/en-us/azure/data-factory/concepts-linked-services?tabs=data-factory) from a [Synapse notebook](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks), here's how to do so. It's not a well-documented feature, but it's possible.
+[Azure Synapse Analytics](https://learn.microsoft.com/en-us/azure/synapse-analytics/) is described by Microsoft as a "limitless analytics service that brings together enterprise data warehousing and Big Data analytics". I'd say _limitless_ is a rather strong word—considering the meteoric rise of their own ~~competing~~ successor product dubbed [Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-explained-for-existing-synapse-users/)—but if you're trying to query a [Linked Service](https://learn.microsoft.com/en-us/azure/data-factory/concepts-linked-services?tabs=data-factory) from a [Synapse notebook](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks), here's how to do so. This feature is documented in more detail [here](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-secure-credentials-with-tokenlibrary?pivots=programming-language-python#adls-gen2-storage-with-linked-services).
 
 ## The Code
 
@@ -66,7 +66,7 @@ spark.conf.set("spark.storage.synapse.linkedServiceName", "LinkedServiceName")
 spark.conf.set("fs.azure.account.oauth.provider.type", "com.microsoft.azure.synapse.tokenlibrary.LinkedServiceBasedTokenProvider")
 ```
 
-This is the most important part of the whole thing. These configurations let your Spark session authenticate using the same credentials already established in your linked service. By design, every linked service requires an authentication method upon creation. So, when you access a resource through an established linked service, there's no need (or there shouldn't be) to replicate authentication, it's already configured in the linked service. You simply need to ensure that the Spark session in your notebook recognizes this configuration. In the provided code:
+This is the most important part of the whole thing, which is covered in more detail [here](https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-secure-credentials-with-tokenlibrary?pivots=programming-language-python#adls-gen2-storage-with-linked-services). These configurations let your Spark session authenticate using the same credentials already established in your linked service. By design, every linked service requires an authentication method upon creation. So, when you access a resource through an established linked service, there's no need (or there shouldn't be) to replicate authentication, it's already configured in the linked service. You simply need to ensure that the Spark session in your notebook recognizes this configuration. In the provided code:
 
 * The first line specifies the linked service to use. Replace `LinkedServiceName` with the name of your linked service, which will utilize the authentication settings you've predefined.
 * The second line determines the type of OAuth provider that Synapse utilizes, effectively linking the authentication process directly to your specified linked service.
