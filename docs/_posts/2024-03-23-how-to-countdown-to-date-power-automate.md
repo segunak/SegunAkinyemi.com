@@ -4,7 +4,7 @@ excerpt: "Here's how to create messages with a countdown timer to a given date u
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
-last_modified_at: 2024-05-05T14:19:03
+last_modified_at: 2024-05-19T19:03:54
 header:
   teaser: /assets/images/PowerAutomate.png
 categories:
@@ -17,9 +17,9 @@ I recently planned an event (side note, event planning is exhausting) that had a
 
 ## Craft Your Message Variable
 
-For simplicity, you'll want to use the "initialize a variable" [action](https://learn.microsoft.com/en-us/power-automate/create-variable-store-values?tabs=classic-designer#initialize-a-variable){:target="_blank"} to store your countdown message. This will make it easier to send your message later on in your connector of choice (Teams, Outlook, Slack, Gmail, etc.). Throughout this article, my screenshots of results are in Microsoft Teams.
+For simplicity, you'll want to use the "initialize a variable" [action](https://learn.microsoft.com/en-us/power-automate/create-variable-store-values?tabs=classic-designer#initialize-a-variable) to store your countdown message. This will make it easier to send your message later on in your connector of choice (Teams, Outlook, Slack, Gmail, etc.). Throughout this article, my screenshots of results are in Microsoft Teams.
 
-Here's how you could initialize a variable to get started. Change the time zone to whichever you're in (options [here](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/default-time-zones?view=windows-11#time-zones){:target="_blank"}), the date, which is `2024-06-22` in the example below, to the date of your event, and the language to reflect how you'd like to communicate.
+Here's how you could initialize a variable to get started. Change the time zone to whichever you're in (options [here](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/default-time-zones?view=windows-11#time-zones)), the date, which is `2024-06-22` in the example below, to the date of your event, and the language to reflect how you'd like to communicate.
 
 ### Expression Code
 
@@ -37,15 +37,15 @@ Hello! We are @{int(split(dateDifference(convertTimeZone(utcNow(), 'UTC', 'Easte
 
 Here's what's going on in that code.
 
-1. **`utcNow()`:** Returns the current date and time in UTC as a timestamp. It does not take any parameters. [utcNow() documentation](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference#utcnow){:target="_blank"}.
+1. **`utcNow()`:** Returns the current date and time in UTC as a timestamp. It does not take any parameters. [utcNow() documentation](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference#utcnow).
 
-2. **`convertTimeZone()`:** Converts the time from one timezone to another. In this expression, it's converting the current UTC time to 'Eastern Standard Time'. The format `yyyy-MM-dd` ensures the date is outputted in a specific format (Year-Month-Day). [convertTimeZone() documentation](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference#converttimezone){:target="_blank"}.
+2. **`convertTimeZone()`:** Converts the time from one timezone to another. In this expression, it's converting the current UTC time to 'Eastern Standard Time'. The format `yyyy-MM-dd` ensures the date is outputted in a specific format (Year-Month-Day). [convertTimeZone() documentation](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference#converttimezone).
 
-3. **`dateDifference()`:** Calculates the difference between two dates. Here, it's used to find the difference between the current date (in Eastern Standard Time) and the event date `2024-06-22`. The result is a string representing the time difference in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601){:target="_blank"} format. [dateDifference() documentation](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference#datedifference){:target="_blank"}.
+3. **`dateDifference()`:** Calculates the difference between two dates. Here, it's used to find the difference between the current date (in Eastern Standard Time) and the event date `2024-06-22`. The result is a string representing the time difference in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format. [dateDifference() documentation](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference#datedifference).
 
-4. **`split()`:** The `dateDifference()` function returns the difference in a format that includes days, hours, etc., separated by periods. `split()` is used to divide this string into an array using '.' as the delimiter, effectively isolating the days from the rest of the time units. [split() documentation](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference#split){:target="_blank"}.
+4. **`split()`:** The `dateDifference()` function returns the difference in a format that includes days, hours, etc., separated by periods. `split()` is used to divide this string into an array using '.' as the delimiter, effectively isolating the days from the rest of the time units. [split() documentation](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference#split).
 
-5. **`int()`:** Converts the string representation of the number of days (the first element of the array created by `split()`) into an integer. This is necessary to remove any leading zeros and ensure that the message displays a clean number. [int() documentation](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference#int){:target="_blank"}
+5. **`int()`:** Converts the string representation of the number of days (the first element of the array created by `split()`) into an integer. This is necessary to remove any leading zeros and ensure that the message displays a clean number. [int() documentation](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference#int)
 
 To summarize, this expression dynamically calculates the number of days remaining until `2024-06-22`, converts this number into an integer, and embeds it into a friendly message indicating how many days are left until the event.
 

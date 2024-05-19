@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-05-16T01:52:57
+last_modified_at: 2024-05-19T19:03:54
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -19,8 +19,6 @@ tags:
     font-style: normal !important;
   }
 </style>
-
-<script src="/assets/js/dynamic-link-targeting.js"></script>
 
 ![HelloThereGif](/assets/images/obiwan.gif)
 
@@ -52,7 +50,7 @@ These courses walk you through the basics of AI. By basics, I mean the basics of
 
 > **DeepLearning.AI:** [Generative AI For Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
 >
-This course, taught by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) is an excellent introduction to AI for anyone regardless of background. Andrew is a big deal in the AI community, like [three legendary Sannin](https://naruto.fandom.com/wiki/Sannin) level big. As a co-founder of [Google Brain](https://en.wikipedia.org/wiki/Google_Brain), he played a role in building a division that went on to make many significant contributions to the field of AI. He also founded [DeepLearning.AI](https://www.deeplearning.ai/about/) and co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), the platform where you'll find his course.
+This course, taught by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) is an excellent introduction to AI for anyone regardless of background. Andrew is a big deal in the AI community, like [three legendary Sannin](https://naruto.fandom.com/wiki/Sannin) big. As a co-founder of [Google Brain](https://en.wikipedia.org/wiki/Google_Brain), he played a role in building a division that went on to make many significant contributions to the field of AI. He also founded [DeepLearning.AI](https://www.deeplearning.ai/about/) and co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), the platform where you'll find his course.
 >
 > **Free or Paid:** Free to audit, paid to access graded materials and get a certificate of completion.
 {: .notice--primary}

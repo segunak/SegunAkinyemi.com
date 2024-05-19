@@ -1,12 +1,3 @@
-
-
-
-# make a script that takes in a table, maybe in csv file form, with two columns.
-# one column you put the quote, one column you put the source, then you generate the quote format you need.
-
-# for bible stuff, you could  also just make it one colunn. You put the bible verse in the column and then go
-# out to bible.com, get the scripture, format it in quote format and spit back out a text file with the quote.
-
 import os
 import re
 import sys
@@ -18,10 +9,6 @@ import requests
 import unicodedata
 from bs4 import BeautifulSoup
 from datetime import datetime
-
-# Example Bible Gateway verse link
-# https://www.biblegateway.com/passage/?search=Psalm119:2-9&version=NKJV
-#https://www.biblegateway.com/passage/?search=Matthew3&version=NKJV
 
 # TODO: Offer the ability to download as a PDF, Excel Spreadsheet, Word Document for Bible Studies.
 

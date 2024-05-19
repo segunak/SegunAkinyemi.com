@@ -5,7 +5,7 @@ excerpt: "Learn how to configure Azure alert rules to stop getting two emails wh
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
-last_modified_at: 2024-05-05T14:19:03
+last_modified_at: 2024-05-19T19:03:54
 header:
   teaser: /assets/images/azure3.png
 categories:
@@ -38,7 +38,7 @@ If you're getting two emails from your Azure Monitor alert rule and want it to s
 
 ## Story Time
 
-To set the stage, I present to you a story in classic [green text](https://knowyourmeme.com/memes/greentext-stories){:target="_blank"} fashion, a narrative style [cherished](https://www.reddit.com/r/greentext/){:target="_blank"} by the denizens of the Internet's back pages.
+To set the stage, I present to you a story in classic [green text](https://knowyourmeme.com/memes/greentext-stories) fashion, a narrative style [cherished](https://www.reddit.com/r/greentext/) by the denizens of the Internet's back pages.
 
 <blockquote class="greentext">
     >be me<br>
@@ -66,17 +66,17 @@ In summary, I needed to send emails when something happened in Azure without ann
 
 ## Why Redundant Email Notifications Occur
 
-By default, Azure's [action groups](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/action-groups){:target="_blank"} are configured to notify on both state changes for an alert rule — when it fires and when it resolves. This setup ensures thorough communication but can lead to unnecessary email clutter. You're not alone if you find this annoying, although technically speaking, it's not a bug. Here are some others who've seen the same thing.
+By default, Azure's [action groups](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/action-groups) are configured to notify on both state changes for an alert rule — when it fires and when it resolves. This setup ensures thorough communication but can lead to unnecessary email clutter. You're not alone if you find this annoying, although technically speaking, it's not a bug. Here are some others who've seen the same thing.
 
-[Alert is fired twice: first time with "fired", other on "resolved" monitorCondition](https://github.com/MicrosoftDocs/azure-docs/issues/57247){:target="_blank"}
+[Alert is fired twice: first time with "fired", other on "resolved" monitorCondition](https://github.com/MicrosoftDocs/azure-docs/issues/57247)
 
-[Configuring Alert Rules to Not Send Secondary Resolved Notification](https://learn.microsoft.com/en-us/answers/questions/202429/configuring-alert-rules-to-not-send-secondary-reso){:target="_blank"}
+[Configuring Alert Rules to Not Send Secondary Resolved Notification](https://learn.microsoft.com/en-us/answers/questions/202429/configuring-alert-rules-to-not-send-secondary-reso)
 
 ## The Solution
 
-If you want to ensure you only get one email from your Azure alert rule, here's what to do. You'll need to use something called an [alert processing rule](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-processing-rules?tabs=portal){:target="_blank"}, which is different from an alert rule, despite sounding similar.
+If you want to ensure you only get one email from your Azure alert rule, here's what to do. You'll need to use something called an [alert processing rule](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-processing-rules?tabs=portal), which is different from an alert rule, despite sounding similar.
 
-1. Set up your [alert rule](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-types){:target="_blank"}. I'm going to assume that if you're reading this article, you already have an alert rule, and it's causing you problems, so this step is likely done.
+1. Set up your [alert rule](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-types). I'm going to assume that if you're reading this article, you already have an alert rule, and it's causing you problems, so this step is likely done.
 2. In the Azure Portal, go to `Alerts –> Alert processing rules`.
     ![AlertRules](/assets/images/alertprocessingrules.png)
 3. Click `Create` on the `Alert processing rules` page.
@@ -101,7 +101,7 @@ The trickiest part of the instructions above is selecting the correct scope for 
 
 ## Automating With Bicep Templates
 
-If you manage your Azure resources through code, setting up alert processing rules via Bicep (or ARM, Terraform, etc.) templates is a must for [CI/CD](https://en.wikipedia.org/wiki/CI/CD){:target="_blank"}. Below is a sample Bicep script to configure an alert processing rule. Here's the [relevant Microsoft documentation page](https://learn.microsoft.com/en-us/azure/templates/microsoft.alertsmanagement/actionrules?pivots=deployment-language-bicep){:target="_blank"}.
+If you manage your Azure resources through code, setting up alert processing rules via Bicep (or ARM, Terraform, etc.) templates is a must for [CI/CD](https://en.wikipedia.org/wiki/CI/CD). Below is a sample Bicep script to configure an alert processing rule. Here's the [relevant Microsoft documentation page](https://learn.microsoft.com/en-us/azure/templates/microsoft.alertsmanagement/actionrules?pivots=deployment-language-bicep).
 
 ```bicep
 resource suppressMainPipelineResolvedAlert 'Microsoft.AlertsManagement/actionRules@2021-08-08' = {
