@@ -84,65 +84,62 @@ a.reversefootnote {
 }
 
 
-.toggle_Pssr {
+
+.themeToggleContainer {
   cursor: pointer;
   position: relative;
   touch-action: pan-x;
-  user-select: none
+  user-select: none;
 }
 
-.toggleScreenReader_JnkT {
+.themeToggleScreenReader {
   clip: rect(0 0 0 0);
   border: 0;
   height: 1px;
   margin: -1px;
   overflow: hidden;
   position: absolute;
-  width: 1px
+  width: 1px;
 }
 
-.toggleDisabled_jDku {
-  cursor: not-allowed
-}
-
-.toggleTrack_SSoT {
+.themeToggleTrack {
   background-color: #4d4d4d;
   border-radius: 30px;
   height: 24px;
   transition: .2s;
-  width: 50px
+  width: 50px;
 }
 
-.toggleTrackCheck_XobZ,.toggleTrackX_YkSC {
+.themeToggleTrackCheck, .themeToggleTrackX {
   bottom: 0;
   height: 10px;
   margin: auto 0;
   top: 0;
-  position: absolute
+  position: absolute;
 }
 
-.toggleTrackCheck_XobZ {
+.themeToggleTrackCheck {
   left: 8px;
   opacity: 0;
   transition: opacity .25s;
-  width: 14px
+  width: 14px;
 }
 
-.toggleChecked_cnQY .toggleTrackCheck_XobZ,.toggleTrackX_YkSC,[data-theme=dark] .toggle_Pssr .toggleTrackCheck_XobZ {
+.themeToggleChecked .themeToggleTrackCheck, .themeToggleTrackX, [data-theme=dark] .themeToggleContainer .themeToggleTrackCheck {
   opacity: 1;
-  transition: opacity .25s
+  transition: opacity .25s;
 }
 
-.toggleTrackX_YkSC {
+.themeToggleTrackX {
   right: 10px;
-  width: 10px
+  width: 10px;
 }
 
-.toggleChecked_cnQY .toggleTrackX_YkSC,[data-theme=dark] .toggle_Pssr .toggleTrackX_YkSC {
-  opacity: 0
+.themeToggleChecked .themeToggleTrackX, [data-theme=dark] .themeToggleContainer .themeToggleTrackX {
+  opacity: 0;
 }
 
-.toggleTrackThumb_uRm4 {
+.themeToggleThumb {
   background-color: #fafafa;
   border: 1px solid #4d4d4d;
   border-radius: 50%;
@@ -151,25 +148,24 @@ a.reversefootnote {
   position: absolute;
   top: 1px;
   transition: .25s;
-  width: 22px
+  width: 22px;
 }
 
-.toggleFocused_A7DC .toggleTrackThumb_uRm4,.toggle_Pssr:hover .toggleTrackThumb_uRm4 {
-  box-shadow: 0 0 2px 3px var(--ifm-color-primary)
+.themeToggleFocused .themeToggleThumb, .themeToggleContainer:hover .themeToggleThumb {
+  box-shadow: 0 0 2px 3px var(--ifm-color-primary);
 }
 
-.toggleChecked_cnQY .toggleTrackThumb_uRm4,[data-theme=dark] .toggle_Pssr .toggleTrackThumb_uRm4 {
-  left: 27px
+.themeToggleChecked .themeToggleThumb, [data-theme=dark] .themeToggleContainer .themeToggleThumb {
+  left: 27px;
 }
 
-.toggle_Pssr:active:not(.toggleDisabled_jDku) .toggleTrackThumb_uRm4 {
-  box-shadow: 0 0 5px 5px var(--ifm-color-primary)
-}
-
-.toggleIcon_eZtF {
+.themeToggleIcon {
   align-items: center;
   display: flex;
   height: 10px;
   justify-content: center;
-  width: 10px
+  width: 10px;
 }
+
+
+

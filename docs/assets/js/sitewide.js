@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', function () {
             setDesiredTheme("light");
         }
 
-        themeSwitcher.classList.toggle('toggleChecked_cnQY');
+        themeSwitcher.classList.toggle('themeToggleChecked');
     }
 
     function initializeThemeSwitcherButton() {
@@ -156,10 +156,10 @@ document.addEventListener('DOMContentLoaded', function () {
         // Check the current state of the main theme stylesheet.
         if (lightTheme.getAttribute('rel') === 'stylesheet') {
             // If the light theme is currently active (linked as a stylesheet), remove the toggleChecked_cnQY class
-            themeSwitcher.classList.remove('toggleChecked_cnQY');
+            themeSwitcher.classList.remove('themeToggleChecked');
         } else {
             // If the dark theme is active, add the toggleChecked_cnQY class
-            themeSwitcher.classList.add('toggleChecked_cnQY');
+            themeSwitcher.classList.add('themeToggleChecked');
         }
     }
 
