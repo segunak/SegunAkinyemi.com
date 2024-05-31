@@ -67,21 +67,6 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 
-    function themeSwitch() {
-        var lightTheme = document.getElementById('theme_source');  // Reference to the main theme stylesheet. Light mode.
-        var darkTheme = document.getElementById('theme_source_2'); // Reference to an alternate theme stylesheet. Dark mode.
-        sessionStorage.setItem('hasUserClickedThemeButton', 'true');
-
-        // Check the current state of the main theme stylesheet.
-        if (lightTheme.getAttribute('rel') == 'stylesheet') {
-            // If the light theme is currently active (linked as a stylesheet), do the following:
-            setDesiredTheme("dark");
-        } else {
-            // Else If the dark theme is active, do the following:
-            setDesiredTheme("light");
-        }
-    }
-
     function setThemeBasedOnTime() {
         // Get the current date/time in Eastern Time
         const currentTime = new Date().toLocaleString("en-US", { timeZone: "America/New_York" });
@@ -147,16 +132,35 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     };
 
+    function switchSiteTheme() {
+        var themeSwitcher = document.getElementById('theme-switcher');
+        var lightTheme = document.getElementById('theme_source');  // Reference to the main theme stylesheet. Light mode.
+        sessionStorage.setItem('hasUserClickedThemeButton', 'true');
+
+        // Check the current state of the main theme stylesheet.
+        if (lightTheme.getAttribute('rel') == 'stylesheet') {
+            // If the light theme is currently active (linked as a stylesheet), do the following:
+            setDesiredTheme("dark");
+        } else {
+            // Else If the dark theme is active, do the following:
+            setDesiredTheme("light");
+        }
+
+        themeSwitcher.classList.toggle('toggleChecked_cnQY');
+    }
+
     // Call the function to initially set the target attributes for all links
     updateLinkTargets();
+
+    // Get the theme-switcher element
+    const themeSwitcher = document.getElementById('theme-switcher');
+
+    // Add the event listener to the theme-switcher element
+    themeSwitcher.addEventListener('click', switchSiteTheme)
 
     // Add an event listener to the window to handle resizing
     // This ensures that link targets are updated if the window size changes, which might change the device classification (e.g., from portrait to landscape)
     window.addEventListener('resize', updateLinkTargets);
-
-    // Activate the theme switching button in the upper right hand corner.
-    const themeSwitchButton = document.getElementById('theme-switch-button');
-    themeSwitchButton.addEventListener('click', themeSwitch);
 
     // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
     setThemeBasedOnTime();
