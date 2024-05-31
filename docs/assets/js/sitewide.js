@@ -149,6 +149,20 @@ document.addEventListener('DOMContentLoaded', function () {
         themeSwitcher.classList.toggle('toggleChecked_cnQY');
     }
 
+    function initializeThemeSwitcherButton() {
+        var themeSwitcher = document.getElementById('theme-switcher');
+        var lightTheme = document.getElementById('theme_source');
+
+        // Check the current state of the main theme stylesheet.
+        if (lightTheme.getAttribute('rel') === 'stylesheet') {
+            // If the light theme is currently active (linked as a stylesheet), remove the toggleChecked_cnQY class
+            themeSwitcher.classList.remove('toggleChecked_cnQY');
+        } else {
+            // If the dark theme is active, add the toggleChecked_cnQY class
+            themeSwitcher.classList.add('toggleChecked_cnQY');
+        }
+    }
+
     // Call the function to initially set the target attributes for all links
     updateLinkTargets();
 
@@ -164,4 +178,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
     setThemeBasedOnTime();
+
+    // Initialize the theme switcher button state
+    initializeThemeSwitcherButton();
 });
