@@ -160,6 +160,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // Call the function to initially set the target attributes for all links
     updateLinkTargets();
 
+    // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
+    setThemeBasedOnTime();
+
     // Get the theme-switcher element
     const themeSwitcher = document.getElementById('theme-switcher');
 
@@ -169,9 +172,6 @@ document.addEventListener('DOMContentLoaded', function () {
     // Add an event listener to the window to handle resizing
     // This ensures that link targets are updated if the window size changes, which might change the device classification (e.g., from portrait to landscape)
     window.addEventListener('resize', updateLinkTargets);
-
-    // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
-    setThemeBasedOnTime();
 
     // Initialize the theme switcher button state
     initializeThemeSwitcherButton();
