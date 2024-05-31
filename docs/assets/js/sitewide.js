@@ -1,11 +1,5 @@
 // You can change this to "load" to wait for literally everything to be loaded if you're running into issues.
 document.addEventListener('DOMContentLoaded', function () {
-    // Function to get the color of the blockquote's border-left
-    function getBlockquoteBorderColor() {
-        const blockquote = document.querySelector('blockquote');
-        const computedStyle = getComputedStyle(blockquote);
-        return computedStyle.getPropertyValue('border-left-color');
-    }
 
     const randomBtn = document.querySelector('#random-quote-btn');
     const twitterShareButton = document.querySelector('#twitter-share-button')
@@ -146,22 +140,22 @@ document.addEventListener('DOMContentLoaded', function () {
             setDesiredTheme("light");
         }
 
-        themeSwitcher.classList.toggle('themeToggleChecked');
+        themeSwitcher.classList.toggle('darkThemeToggled');
     }
 
     function initializeThemeSwitcherButton() {
         var themeSwitcher = document.getElementById('theme-switcher');
         var lightTheme = document.getElementById('theme_source');
-
+    
         // Check the current state of the main theme stylesheet.
-        if (lightTheme.getAttribute('rel') === 'stylesheet') {
-            // If the light theme is currently active (linked as a stylesheet), remove the toggleChecked_cnQY class
-            themeSwitcher.classList.remove('themeToggleChecked');
+        if (lightTheme.getAttribute('rel') !== 'stylesheet') {
+            // If the dark theme is active, add the darkThemeToggled class
+            themeSwitcher.classList.add('darkThemeToggled');
         } else {
-            // If the dark theme is active, add the toggleChecked_cnQY class
-            themeSwitcher.classList.add('themeToggleChecked');
+            // If the light theme is active, remove the darkThemeToggled class
+            themeSwitcher.classList.remove('darkThemeToggled');
         }
-    }
+    }    
 
     // Call the function to initially set the target attributes for all links
     updateLinkTargets();

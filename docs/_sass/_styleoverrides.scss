@@ -125,7 +125,7 @@ a.reversefootnote {
   width: 14px;
 }
 
-.themeToggleChecked .themeToggleTrackCheck, .themeToggleTrackX, [data-theme=dark] .themeToggleContainer .themeToggleTrackCheck {
+.darkThemeToggled .themeToggleTrackCheck, .themeToggleTrackX, [data-theme=dark] .themeToggleContainer .themeToggleTrackCheck {
   opacity: 1;
   transition: opacity .25s;
 }
@@ -135,7 +135,7 @@ a.reversefootnote {
   width: 10px;
 }
 
-.themeToggleChecked .themeToggleTrackX, [data-theme=dark] .themeToggleContainer .themeToggleTrackX {
+.darkThemeToggled .themeToggleTrackX, [data-theme=dark] .themeToggleContainer .themeToggleTrackX {
   opacity: 0;
 }
 
@@ -155,7 +155,7 @@ a.reversefootnote {
   box-shadow: 0 0 2px 3px var(--ifm-color-primary);
 }
 
-.themeToggleChecked .themeToggleThumb, [data-theme=dark] .themeToggleContainer .themeToggleThumb {
+.darkThemeToggled .themeToggleThumb, [data-theme=dark] .themeToggleContainer .themeToggleThumb {
   left: 27px;
 }
 
