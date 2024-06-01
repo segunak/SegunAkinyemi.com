@@ -143,10 +143,26 @@ document.addEventListener('DOMContentLoaded', function () {
         themeSwitcher.classList.toggle('darkThemeToggled');
     }
 
+    // Call the function to initially set the target attributes for all links
+    updateLinkTargets();
+
+    // Get the theme-switcher element and add the event listener to the theme-switcher element
+    const themeSwitcher = document.getElementById('theme-switcher');
+    themeSwitcher.addEventListener('click', switchSiteTheme)
+
+    // Add an event listener to the window to handle resizing This ensures that link targets are updated if the window size changes, which might change the device classification (e.g., from portrait to landscape)
+    window.addEventListener('resize', updateLinkTargets);
+
+    // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
+    setThemeBasedOnTime();
+});
+
+window.onload = function () {
+
     function initializeThemeSwitcherButton() {
         var themeSwitcher = document.getElementById('theme-switcher');
         var lightTheme = document.getElementById('theme_source');
-    
+
         // Check the current state of the main theme stylesheet.
         if (lightTheme.getAttribute('rel') !== 'stylesheet') {
             // If the dark theme is active, add the darkThemeToggled class
@@ -155,24 +171,7 @@ document.addEventListener('DOMContentLoaded', function () {
             // If the light theme is active, remove the darkThemeToggled class
             themeSwitcher.classList.remove('darkThemeToggled');
         }
-    }    
-
-    // Call the function to initially set the target attributes for all links
-    updateLinkTargets();
-
-    // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
-    setThemeBasedOnTime();
-
-    // Get the theme-switcher element
-    const themeSwitcher = document.getElementById('theme-switcher');
-
-    // Add the event listener to the theme-switcher element
-    themeSwitcher.addEventListener('click', switchSiteTheme)
-
-    // Add an event listener to the window to handle resizing
-    // This ensures that link targets are updated if the window size changes, which might change the device classification (e.g., from portrait to landscape)
-    window.addEventListener('resize', updateLinkTargets);
-
+    }
     // Initialize the theme switcher button state
     initializeThemeSwitcherButton();
-});
+};
