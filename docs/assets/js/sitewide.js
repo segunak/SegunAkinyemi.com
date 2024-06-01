@@ -1,8 +1,105 @@
-// You can change this to "load" to wait for literally everything to be loaded if you're running into issues.
-document.addEventListener('DOMContentLoaded', function () {
+const setDesiredTheme = (desiredTheme) => {
+    var lightTheme = document.getElementById('theme_source');  // Reference to the main theme stylesheet. Light mode.
+    var darkTheme = document.getElementById('theme_source_2'); // Reference to an alternate theme stylesheet. Dark mode.
+    var currentTheme = lightTheme.getAttribute('rel') === 'stylesheet' ? 'light' : 'dark';
 
+    if (currentTheme === desiredTheme) {
+        return;
+    }
+
+    if (desiredTheme === "light") {
+        // Change the 'rel' attribute of the light theme stylesheet to 'stylesheet'.
+        lightTheme.setAttribute('rel', 'stylesheet');
+        // Schedule the following code to run after a 10ms delay.
+        setTimeout(function () {
+            // After the delay, change the 'rel' attribute of the dark theme stylesheet to 'stylesheet alternate'.
+            darkTheme.setAttribute('rel', 'stylesheet alternate');
+        }, 10);
+        // Store the theme state ('light') in the session storage to remember it.
+        sessionStorage.setItem('theme', 'light');
+    }
+    else if (desiredTheme === "dark") {
+        // Change the 'rel' attribute of the dark theme stylesheet to 'stylesheet'.
+        darkTheme.setAttribute('rel', 'stylesheet');
+        // Schedule the following code to run after a 10ms delay.
+        setTimeout(function () {
+            // After the delay, change the 'rel' attribute of the light theme stylesheet to 'stylesheet alternate'.
+            lightTheme.setAttribute('rel', 'stylesheet alternate');
+        }, 10);
+        // Store the theme state ('dark') in the session storage to remember it.
+        sessionStorage.setItem('theme', 'dark');
+    }
+}
+
+const setThemeBasedOnTime = () => {
+    // Get the current date/time in Eastern Time
+    const currentTime = new Date().toLocaleString("en-US", { timeZone: "America/New_York" });
+    const easternTime = new Date(currentTime);
+    const easternHours = easternTime.getHours();
+    var hasUserClickedThemeButton = sessionStorage.getItem('hasUserClickedThemeButton');
+
+    if (hasUserClickedThemeButton === "true") {
+        // Respect a user who has chosen a theme by clicking the button. If so, do nothing, leave it as they requested.
+        return;
+    }
+
+    // Check if the current time in Eastern Time is between 7 PM (19:00) and 9 AM (09:00).
+    if (1 == 1) { //(easternHours >= 19 || easternHours < 9) {
+        setDesiredTheme("dark");
+    } else {
+        setDesiredTheme("light");
+    }
+}
+
+const switchSiteTheme = () => {
+    var themeSwitcher = document.getElementById('theme-switcher');
+    var lightTheme = document.getElementById('theme_source');  // Reference to the main theme stylesheet. Light mode.
+    sessionStorage.setItem('hasUserClickedThemeButton', 'true');
+
+    // Check the current state of the main theme stylesheet.
+    if (lightTheme.getAttribute('rel') == 'stylesheet') {
+        // If the light theme is currently active (linked as a stylesheet), do the following:
+        setDesiredTheme("dark");
+    } else {
+        // Else If the dark theme is active, do the following:
+        setDesiredTheme("light");
+    }
+
+    themeSwitcher.classList.toggle('darkThemeToggled');
+}
+
+const initializeThemeSwitcherButton = () => {
+    var themeSwitcher = document.getElementById('theme-switcher');
+    var lightTheme = document.getElementById('theme_source');  // Reference to the main theme stylesheet. Light mode.
+    var currentTheme = lightTheme.getAttribute('rel') === 'stylesheet' ? 'light' : 'dark';
+
+    if (currentTheme === "light") {
+        themeSwitcher.classList.remove('darkThemeToggled');
+    }
+    else if (currentTheme === "dark") {
+        themeSwitcher.classList.add('darkThemeToggled');
+    }
+}
+
+// Function to determine if the device is likely a mobile
+const isMobileDevice = () => {
+    // Set the breakpoint for mobile vs tablet/desktop
+    const mobileBreakpoint = 768; // Typical tablet size in portrait mode
+
+    // Access the user-agent string and convert it to lowercase for case-insensitive matching
+    const userAgent = navigator.userAgent.toLowerCase();
+
+    // Check if the window's inner width is less than or equal to the breakpoint or if the user agent contains 'mobile'
+    // This helps determine if the device is mobile based on screen size or user-agent indications
+    const isMobile = window.innerWidth <= mobileBreakpoint || /mobile/i.test(userAgent);
+
+    // Return true if either condition is met (indicating a mobile device), otherwise false
+    return isMobile;
+};
+
+function setupQuoteButtons() {
     const randomBtn = document.querySelector('#random-quote-btn');
-    const twitterShareButton = document.querySelector('#twitter-share-button')
+    const twitterShareButton = document.querySelector('#twitter-share-button');
     const quoteButtonsExist = randomBtn !== null && twitterShareButton !== null;
 
     if (quoteButtonsExist) {
@@ -26,122 +123,40 @@ document.addEventListener('DOMContentLoaded', function () {
             window.open(twitterUrl);
         });
     }
+}
 
-    function setDesiredTheme(desiredTheme) {
-        var lightTheme = document.getElementById('theme_source');  // Reference to the main theme stylesheet. Light mode.
-        var darkTheme = document.getElementById('theme_source_2'); // Reference to an alternate theme stylesheet. Dark mode.
+// Function to update the target attribute of all links based on the detected device type and if the link is internal
+const updateLinkTargets = () => {
+    // Retrieve all 'a' elements (links) in the document
+    const links = document.getElementsByTagName('a');
 
-        var currentTheme = lightTheme.getAttribute('rel') === 'stylesheet' ? 'light' : 'dark';
-
-        if (currentTheme === desiredTheme) {
+    // Iterate over each link to determine the correct target attribute
+    [...links].forEach(link => {
+        // Check if the link's target is explicitly set to '_blank' and skip updating it. Allow override if I really want a new tab opened.
+        if (link.target === '_blank') {
             return;
         }
-
-        if (desiredTheme === "light") {
-            // Change the 'rel' attribute of the light theme stylesheet to 'stylesheet'.
-            lightTheme.setAttribute('rel', 'stylesheet');
-            // Schedule the following code to run after a 10ms delay.
-            setTimeout(function () {
-                // After the delay, change the 'rel' attribute of the dark theme stylesheet to 'stylesheet alternate'.
-                darkTheme.setAttribute('rel', 'stylesheet alternate');
-            }, 10);
-            // Store the theme state ('light') in the session storage to remember it.
-            sessionStorage.setItem('theme', 'light');
+        // Check if the link is internal by comparing the link's host with the current window's host
+        else if (link.hostname === window.location.hostname) {
+            // If the link is internal, open it in the same tab
+            link.target = '_self';
         }
-        else if (desiredTheme === "dark") {
-            // Change the 'rel' attribute of the dark theme stylesheet to 'stylesheet'.
-            darkTheme.setAttribute('rel', 'stylesheet');
-            // Schedule the following code to run after a 10ms delay.
-            setTimeout(function () {
-                // After the delay, change the 'rel' attribute of the light theme stylesheet to 'stylesheet alternate'.
-                lightTheme.setAttribute('rel', 'stylesheet alternate');
-            }, 10);
-            // Store the theme state ('dark') in the session storage to remember it.
-            sessionStorage.setItem('theme', 'dark');
-        }
-    }
-
-    function setThemeBasedOnTime() {
-        // Get the current date/time in Eastern Time
-        const currentTime = new Date().toLocaleString("en-US", { timeZone: "America/New_York" });
-        const easternTime = new Date(currentTime);
-        const easternHours = easternTime.getHours();
-        var hasUserClickedThemeButton = sessionStorage.getItem('hasUserClickedThemeButton');
-
-        if (hasUserClickedThemeButton === "true") {
-            // Respect a user who has chosen a theme by clicking the button. If so, do nothing, leave it as they requested.
+        // Check if the link's target is explicitly set to '_blank' and skip updating it. Allow override if I really want a new tab opened.
+        else if (link.target === '_blank') {
             return;
         }
-
-        // Check if the current time in Eastern Time is between 7 PM (19:00) and 9 AM (09:00).
-        if (easternHours >= 19 || easternHours < 9) {
-            setDesiredTheme("dark");
-        } else {
-            setDesiredTheme("light");
+        else {
+            // Determine the appropriate target attribute value based on whether the device is mobile
+            // Use '_self' to open links in the same tab for mobile devices and '_blank' to open links in a new tab for non-mobile devices
+            const targetAttribute = isMobileDevice() ? '_self' : '_blank';
+            link.target = targetAttribute;
         }
-    }
+    });
+};
 
-    // Function to determine if the device is likely a mobile
-    const isMobileDevice = () => {
-        // Set the breakpoint for mobile vs tablet/desktop
-        const mobileBreakpoint = 768; // Typical tablet size in portrait mode
 
-        // Access the user-agent string and convert it to lowercase for case-insensitive matching
-        const userAgent = navigator.userAgent.toLowerCase();
-
-        // Check if the window's inner width is less than or equal to the breakpoint or if the user agent contains 'mobile'
-        // This helps determine if the device is mobile based on screen size or user-agent indications
-        const isMobile = window.innerWidth <= mobileBreakpoint || /mobile/i.test(userAgent);
-
-        // Return true if either condition is met (indicating a mobile device), otherwise false
-        return isMobile;
-    };
-
-    // Function to update the target attribute of all links based on the detected device type and if the link is internal
-    const updateLinkTargets = () => {
-        // Retrieve all 'a' elements (links) in the document
-        const links = document.getElementsByTagName('a');
-
-        // Iterate over each link to determine the correct target attribute
-        [...links].forEach(link => {
-            // Check if the link's target is explicitly set to '_blank' and skip updating it. Allow override if I really want a new tab opened.
-            if (link.target === '_blank') {
-                return;
-            }
-            // Check if the link is internal by comparing the link's host with the current window's host
-            else if (link.hostname === window.location.hostname) {
-                // If the link is internal, open it in the same tab
-                link.target = '_self';
-            }
-            // Check if the link's target is explicitly set to '_blank' and skip updating it. Allow override if I really want a new tab opened.
-            else if (link.target === '_blank') {
-                return;
-            }
-            else {
-                // Determine the appropriate target attribute value based on whether the device is mobile
-                // Use '_self' to open links in the same tab for mobile devices and '_blank' to open links in a new tab for non-mobile devices
-                const targetAttribute = isMobileDevice() ? '_self' : '_blank';
-                link.target = targetAttribute;
-            }
-        });
-    };
-
-    function switchSiteTheme() {
-        var themeSwitcher = document.getElementById('theme-switcher');
-        var lightTheme = document.getElementById('theme_source');  // Reference to the main theme stylesheet. Light mode.
-        sessionStorage.setItem('hasUserClickedThemeButton', 'true');
-
-        // Check the current state of the main theme stylesheet.
-        if (lightTheme.getAttribute('rel') == 'stylesheet') {
-            // If the light theme is currently active (linked as a stylesheet), do the following:
-            setDesiredTheme("dark");
-        } else {
-            // Else If the dark theme is active, do the following:
-            setDesiredTheme("light");
-        }
-
-        themeSwitcher.classList.toggle('darkThemeToggled');
-    }
+document.addEventListener('DOMContentLoaded', function () {
+    setupQuoteButtons();
 
     // Call the function to initially set the target attributes for all links
     updateLinkTargets();
@@ -155,22 +170,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
     setThemeBasedOnTime();
+
+    setTimeout(function () {
+        // Initialize the theme switcher button state
+        initializeThemeSwitcherButton();
+    }, 10);
 });
 
-window.addEventListener('load', function () {
-    function initializeThemeSwitcherButton() {
-        var themeSwitcher = document.getElementById('theme-switcher');
-        var lightTheme = document.getElementById('theme_source');
 
-        // Check the current state of the main theme stylesheet.
-        if (lightTheme.getAttribute('rel') !== 'stylesheet') {
-            // If the dark theme is active, add the darkThemeToggled class
-            themeSwitcher.classList.add('darkThemeToggled');
-        } else {
-            // If the light theme is active, remove the darkThemeToggled class
-            themeSwitcher.classList.remove('darkThemeToggled');
-        }
-    }
-    // Initialize the theme switcher button state
-    initializeThemeSwitcherButton();
-});
