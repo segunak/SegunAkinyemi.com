@@ -173,5 +173,5 @@ document.addEventListener('DOMContentLoaded', function () {
     setTimeout(function () {
         // Initialize the theme switcher button state
         initializeThemeSwitcherButton();
-    }, 5);
+    }, 2);
 });
