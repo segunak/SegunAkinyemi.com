@@ -170,8 +170,10 @@ document.addEventListener('DOMContentLoaded', function () {
     // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
     setThemeBasedOnTime();
 
-    setTimeout(function () {
-        // Initialize the theme switcher button state
-        initializeThemeSwitcherButton();
-    }, 1);
+    // setTimeout(function () {
+    //     // Initialize the theme switcher button state
+    //     initializeThemeSwitcherButton();
+    // }, 1);
+    
+    initializeThemeSwitcherButton();
 });
