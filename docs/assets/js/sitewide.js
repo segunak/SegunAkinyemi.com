@@ -44,7 +44,7 @@ const setThemeBasedOnTime = () => {
     }
 
     // Check if the current time in Eastern Time is between 7 PM (19:00) and 9 AM (09:00).
-    if (1 == 1) { //(easternHours >= 19 || easternHours < 9) {
+    if (easternHours >= 19 || easternHours < 9) {
         setDesiredTheme("dark");
     } else {
         setDesiredTheme("light");
@@ -153,7 +153,6 @@ const updateLinkTargets = () => {
         }
     });
 };
-
 
 document.addEventListener('DOMContentLoaded', function () {
     setupQuoteButtons();
