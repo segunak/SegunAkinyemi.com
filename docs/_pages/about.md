@@ -14,7 +14,7 @@ For a bit of background about me, I grew up in Seattle, Washington, but in 2014,
 
 Now as a working professional, I'm a software engineer, but I like to style myself more broadly as an all-around tech enthusiast. I'm fascinated by technology and its ability to transform the world around us. I consider myself fortunate to have been born in our present era of computing innovation, problem-solving, and discovery. At the rate we're advancing, it seems like [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) might just need an update! If you're wondering what I'm up to career-wise, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/segunakinyemi){:target="_blank"}.
 
-Regarding my personal convictions, I strive to live in a way that emulates the character of [Jesus Christ](/blog/commands-of-christ/){:target="_blank"}. His words guide my life, my definition of who I am, and my understanding of what's truly important. I could speak at length on this topic, but this page is meant to be only a brief introduction, so I'll refrain. Instead, I leave you with one of my [favorite quotes](/blog/favorite-quotes){:target="_blank"} below.
+Regarding my personal convictions, I strive to live in a way that emulates the character of [Jesus Christ](/blog/commands-of-christ/){:target="_blank"}. His words guide my life, my definition of who I am, and my understanding of what's truly important. I could speak at length on this topic, but this page is meant to be only a brief introduction, so I'll refrain. Instead, I leave you with one of my [favorite quotes](/blog/favorite-quotes) below.
 
 > Let your light shine before men in such a way that they may see your good works, and glorify your Father in heaven.
 >
