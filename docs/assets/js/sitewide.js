@@ -157,8 +157,7 @@ document.addEventListener('DOMContentLoaded', function () {
     setThemeBasedOnTime();
 });
 
-window.onload = function () {
-
+window.addEventListener('load', function () {
     function initializeThemeSwitcherButton() {
         var themeSwitcher = document.getElementById('theme-switcher');
         var lightTheme = document.getElementById('theme_source');
@@ -174,4 +173,4 @@ window.onload = function () {
     }
     // Initialize the theme switcher button state
     initializeThemeSwitcherButton();
-};
+});
