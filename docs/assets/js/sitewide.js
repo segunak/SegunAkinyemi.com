@@ -29,27 +29,27 @@ const setDesiredTheme = (desiredTheme) => {
         // Change the 'rel' attribute of the light theme stylesheet to 'stylesheet'.
         lightTheme.setAttribute('rel', 'stylesheet');
 
+        // Store the theme state ('light') in the local storage to remember it.
+        localStorage.setItem('theme', 'light');
+
         // Schedule the following code to run after a specified delay
         setTimeout(function () {
             // After the delay, change the 'rel' attribute of the dark theme stylesheet to 'stylesheet alternate'.
             darkTheme.setAttribute('rel', 'stylesheet alternate');
         }, 300); // Adjust the delay duration as needed
-
-        // Store the theme state ('light') in the local storage to remember it.
-        localStorage.setItem('theme', 'light');
     }
     else if (desiredTheme === "dark") {
         // Change the 'rel' attribute of the dark theme stylesheet to 'stylesheet'.
         darkTheme.setAttribute('rel', 'stylesheet');
 
+        // Store the theme state ('dark') in the local storage to remember it.
+        localStorage.setItem('theme', 'dark');
+        
         // Schedule the following code to run after a specified delay
         setTimeout(function () {
             // After the delay, change the 'rel' attribute of the light theme stylesheet to 'stylesheet alternate'.
             lightTheme.setAttribute('rel', 'stylesheet alternate');
         }, 300); // Adjust the delay duration as needed
-
-        // Store the theme state ('dark') in the local storage to remember it.
-        localStorage.setItem('theme', 'dark');
     }
 }
 
@@ -177,7 +177,7 @@ const updateLinkTargets = () => {
 };
 
 document.addEventListener('DOMContentLoaded', function () {
-    setupThemeState(); 
+    setupThemeState();
 
     setupQuoteButtons();
 
