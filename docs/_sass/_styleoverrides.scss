@@ -165,5 +165,6 @@ a.reversefootnote {
   width: 10px;
 }
 
-
-
+body.theme-transition {
+  transition: background-color .2s ease, color .2s ease;
+}
