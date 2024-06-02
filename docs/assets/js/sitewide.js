@@ -16,13 +16,26 @@ const setDesiredTheme = (desiredTheme) => {
         // Change the 'rel' attribute of the light theme stylesheet to 'stylesheet'.
         lightTheme.setAttribute('rel', 'stylesheet');
 
-        darkTheme.setAttribute('rel', 'stylesheet alternate');
+        // Schedule the following code to run after a 10ms delay.
+        setTimeout(function () {
+            // After the delay, change the 'rel' attribute of the dark theme stylesheet to 'stylesheet alternate'.
+            darkTheme.setAttribute('rel', 'stylesheet alternate');
+        }, 3);
+
+        // Store the theme state ('light') in the session storage to remember it.
+        sessionStorage.setItem('theme', 'light');
     }
     else if (desiredTheme === "dark") {
         // Change the 'rel' attribute of the dark theme stylesheet to 'stylesheet'.
         darkTheme.setAttribute('rel', 'stylesheet');
+        // Schedule the following code to run after a 10ms delay.
+        setTimeout(function () {
+            // After the delay, change the 'rel' attribute of the light theme stylesheet to 'stylesheet alternate'.
+            lightTheme.setAttribute('rel', 'stylesheet alternate');
+        }, 3);
 
-        lightTheme.setAttribute('rel', 'stylesheet alternate');
+        // Store the theme state ('dark') in the session storage to remember it.
+        sessionStorage.setItem('theme', 'dark');
     }
 }
 
