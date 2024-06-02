@@ -116,27 +116,6 @@ a.reversefootnote {
   position: absolute;
 }
 
-.themeToggleMoon {
-  left: 8px;
-  opacity: 0;
-  transition: opacity .25s;
-  width: 14px;
-}
-
-.darkThemeToggled .themeToggleMoon, .themeToggleSun, [data-theme=dark] .themeToggleContainer .themeToggleMoon {
-  opacity: 1;
-  transition: opacity .25s;
-}
-
-.themeToggleSun {
-  right: 10px;
-  width: 10px;
-}
-
-.darkThemeToggled .themeToggleSun, [data-theme=dark] .themeToggleContainer .themeToggleSun {
-  opacity: 0;
-}
-
 .themeToggleCircleButton {
   background-color: #fafafa;
   border: 1px solid #4d4d4d;
@@ -153,10 +132,6 @@ a.reversefootnote {
   box-shadow: 0 0 2px 3px var(--ifm-color-primary);
 }
 
-.darkThemeToggled .themeToggleCircleButton, [data-theme=dark] .themeToggleContainer .themeToggleCircleButton {
-  left: 27px;
-}
-
 .themeToggleIcon {
   align-items: center;
   display: flex;
@@ -164,4 +139,3 @@ a.reversefootnote {
   justify-content: center;
   width: 10px;
 }
-

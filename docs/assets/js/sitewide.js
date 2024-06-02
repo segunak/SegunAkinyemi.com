@@ -62,7 +62,6 @@ const setThemeBasedOnTime = () => {
 }
 
 const switchSiteTheme = () => {
-    var themeSwitcher = document.getElementById('theme-switcher');
     var lightTheme = document.getElementById('theme_source');
     localStorage.setItem('hasUserClickedThemeButton', 'true');
 
@@ -73,20 +72,6 @@ const switchSiteTheme = () => {
     } else {
         // Else If the dark theme is active, do the following:
         setDesiredTheme("light");
-    }
-
-    themeSwitcher.classList.toggle('darkThemeToggled');
-}
-
-const initializeThemeSwitcherButtonState = () => {
-    var themeSwitcher = document.getElementById('theme-switcher');
-    var currentTheme = localStorage.getItem('theme');
-
-    if (currentTheme === "light") {
-        themeSwitcher.classList.remove('darkThemeToggled');
-    }
-    else if (currentTheme === "dark") {
-        themeSwitcher.classList.add('darkThemeToggled');
     }
 }
 
@@ -179,9 +164,4 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Add an event listener to the window to handle resizing This ensures that link targets are updated if the window size changes, which might change the device classification (e.g., from portrait to landscape)
     window.addEventListener('resize', updateLinkTargets);
-});
-
-window.addEventListener('load', function () {
-    // Ensure the theme switcher button reflects whatever theme is active.
-    initializeThemeSwitcherButtonState();
 });
