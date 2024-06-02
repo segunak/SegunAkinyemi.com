@@ -2,26 +2,13 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-const setupThemeState = () => {
-    var lightTheme = document.getElementById('theme_source');
-    var currentTheme = lightTheme.getAttribute('rel') === 'stylesheet' ? 'light' : 'dark';
-
-    if (currentTheme === "light") {
-        localStorage.setItem('theme', 'light');
-    }
-    else if (currentTheme === "dark") {
-        localStorage.setItem('theme', 'dark');
-    }
-
-    console.log(`The current theme is ${currentTheme} at page load.`)
-}
-
 const setDesiredTheme = (desiredTheme) => {
     var lightTheme = document.getElementById('theme_source');  // Reference to the main theme stylesheet. Light mode.
     var darkTheme = document.getElementById('theme_source_2'); // Reference to an alternate theme stylesheet. Dark mode.
     var currentTheme = lightTheme.getAttribute('rel') === 'stylesheet' ? 'light' : 'dark';
 
     if (currentTheme === desiredTheme) {
+        localStorage.setItem('theme', desiredTheme);
         return;
     }
 
@@ -36,7 +23,7 @@ const setDesiredTheme = (desiredTheme) => {
         setTimeout(function () {
             // After the delay, change the 'rel' attribute of the dark theme stylesheet to 'stylesheet alternate'.
             darkTheme.setAttribute('rel', 'stylesheet alternate');
-        }, 300); // Adjust the delay duration as needed
+        }, 100); // Adjust the delay duration as needed
     }
     else if (desiredTheme === "dark") {
         // Change the 'rel' attribute of the dark theme stylesheet to 'stylesheet'.
@@ -49,7 +36,7 @@ const setDesiredTheme = (desiredTheme) => {
         setTimeout(function () {
             // After the delay, change the 'rel' attribute of the light theme stylesheet to 'stylesheet alternate'.
             lightTheme.setAttribute('rel', 'stylesheet alternate');
-        }, 300); // Adjust the delay duration as needed
+        }, 100); // Adjust the delay duration as needed
     }
 }
 
@@ -76,7 +63,7 @@ const setThemeBasedOnTime = () => {
 
 const switchSiteTheme = () => {
     var themeSwitcher = document.getElementById('theme-switcher');
-    var lightTheme = document.getElementById('theme_source');  // Reference to the main theme stylesheet. Light mode.
+    var lightTheme = document.getElementById('theme_source');
     localStorage.setItem('hasUserClickedThemeButton', 'true');
 
     // Check the current state of the main theme stylesheet.
@@ -177,9 +164,6 @@ const updateLinkTargets = () => {
 };
 
 document.addEventListener('DOMContentLoaded', function () {
-    // Ensure local storage knows what theme the page is starting with.
-    setupThemeState();
-
     // Get the theme-switcher element and add the event listener to the theme-switcher element
     const themeSwitcher = document.getElementById('theme-switcher');
     themeSwitcher.addEventListener('click', switchSiteTheme);
