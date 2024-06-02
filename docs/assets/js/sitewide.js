@@ -44,7 +44,7 @@ const setDesiredTheme = (desiredTheme) => {
 
         // Store the theme state ('dark') in the local storage to remember it.
         localStorage.setItem('theme', 'dark');
-        
+
         // Schedule the following code to run after a specified delay
         setTimeout(function () {
             // After the delay, change the 'rel' attribute of the light theme stylesheet to 'stylesheet alternate'.
@@ -177,24 +177,27 @@ const updateLinkTargets = () => {
 };
 
 document.addEventListener('DOMContentLoaded', function () {
+    // Ensure local storage knows what theme the page is starting with.
     setupThemeState();
 
+    // Get the theme-switcher element and add the event listener to the theme-switcher element
+    const themeSwitcher = document.getElementById('theme-switcher');
+    themeSwitcher.addEventListener('click', switchSiteTheme);
+
+    // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
+    setThemeBasedOnTime();
+
+    // On pages that use the random quote button, set the functionality.
     setupQuoteButtons();
 
     // Call the function to initially set the target attributes for all links
     updateLinkTargets();
 
-    // Get the theme-switcher element and add the event listener to the theme-switcher element
-    const themeSwitcher = document.getElementById('theme-switcher');
-    themeSwitcher.addEventListener('click', switchSiteTheme)
-
     // Add an event listener to the window to handle resizing This ensures that link targets are updated if the window size changes, which might change the device classification (e.g., from portrait to landscape)
     window.addEventListener('resize', updateLinkTargets);
-
-    // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
-    setThemeBasedOnTime();
 });
 
 window.addEventListener('load', function () {
+    // Ensure the theme switcher button reflects whatever theme is active.
     initializeThemeSwitcherButtonState();
 });
