@@ -23,7 +23,7 @@ const setDesiredTheme = (desiredTheme) => {
         setTimeout(function () {
             // After the delay, change the 'rel' attribute of the dark theme stylesheet to 'stylesheet alternate'.
             darkTheme.setAttribute('rel', 'stylesheet alternate');
-        }, 100); // Adjust the delay duration as needed
+        }, 10); // Adjust the delay duration as needed
     }
     else if (desiredTheme === "dark") {
         // Change the 'rel' attribute of the dark theme stylesheet to 'stylesheet'.
@@ -36,7 +36,7 @@ const setDesiredTheme = (desiredTheme) => {
         setTimeout(function () {
             // After the delay, change the 'rel' attribute of the light theme stylesheet to 'stylesheet alternate'.
             lightTheme.setAttribute('rel', 'stylesheet alternate');
-        }, 100); // Adjust the delay duration as needed
+        }, 10); // Adjust the delay duration as needed
     }
 }
 
@@ -146,14 +146,8 @@ const updateLinkTargets = () => {
         }
     });
 };
+
 document.addEventListener('DOMContentLoaded', function () {
-    // Get the theme-switcher element and add the event listener to the theme-switcher element
-    const themeSwitcher = document.getElementById('theme-switcher');
-    themeSwitcher.addEventListener('click', switchSiteTheme);
-
-    // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
-    setThemeBasedOnTime();
-
     // On pages that use the random quote button, set the functionality.
     setupQuoteButtons();
 
@@ -162,4 +156,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Add an event listener to the window to handle resizing This ensures that link targets are updated if the window size changes, which might change the device classification (e.g., from portrait to landscape)
     window.addEventListener('resize', updateLinkTargets);
+
+    // Get the theme-switcher element and add the event listener to the theme-switcher element
+    const themeSwitcher = document.getElementById('theme-switcher');
+    themeSwitcher.addEventListener('click', switchSiteTheme);
+
+    // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
+    setThemeBasedOnTime();
 });
