@@ -100,7 +100,7 @@ a.reversefootnote {
   width: 1px;
 }
 
-.themeToggleTrack {
+.themeToggleWidget {
   background-color: #4d4d4d;
   border-radius: 30px;
   height: 24px;
@@ -108,7 +108,7 @@ a.reversefootnote {
   width: 50px;
 }
 
-.themeToggleTrackCheck, .themeToggleTrackX {
+.themeToggleMoon, .themeToggleSun {
   bottom: 0;
   height: 10px;
   margin: auto 0;
@@ -116,28 +116,28 @@ a.reversefootnote {
   position: absolute;
 }
 
-.themeToggleTrackCheck {
+.themeToggleMoon {
   left: 8px;
   opacity: 0;
   transition: opacity .25s;
   width: 14px;
 }
 
-.darkThemeToggled .themeToggleTrackCheck, .themeToggleTrackX, [data-theme=dark] .themeToggleContainer .themeToggleTrackCheck {
+.darkThemeToggled .themeToggleMoon, .themeToggleSun, [data-theme=dark] .themeToggleContainer .themeToggleMoon {
   opacity: 1;
   transition: opacity .25s;
 }
 
-.themeToggleTrackX {
+.themeToggleSun {
   right: 10px;
   width: 10px;
 }
 
-.darkThemeToggled .themeToggleTrackX, [data-theme=dark] .themeToggleContainer .themeToggleTrackX {
+.darkThemeToggled .themeToggleSun, [data-theme=dark] .themeToggleContainer .themeToggleSun {
   opacity: 0;
 }
 
-.themeToggleThumb {
+.themeToggleCircleButton {
   background-color: #fafafa;
   border: 1px solid #4d4d4d;
   border-radius: 50%;
@@ -149,11 +149,11 @@ a.reversefootnote {
   width: 22px;
 }
 
-.themeToggleFocused .themeToggleThumb, .themeToggleContainer:hover .themeToggleThumb {
+.themeToggleFocused .themeToggleCircleButton, .themeToggleContainer:hover .themeToggleCircleButton {
   box-shadow: 0 0 2px 3px var(--ifm-color-primary);
 }
 
-.darkThemeToggled .themeToggleThumb, [data-theme=dark] .themeToggleContainer .themeToggleThumb {
+.darkThemeToggled .themeToggleCircleButton, [data-theme=dark] .themeToggleContainer .themeToggleCircleButton {
   left: 27px;
 }
 
