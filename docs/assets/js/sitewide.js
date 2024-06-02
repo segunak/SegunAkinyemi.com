@@ -150,8 +150,6 @@ const updateLinkTargets = () => {
 };
 
 document.addEventListener('DOMContentLoaded', function () {
-    storeThemeState();
-
     setupQuoteButtons();
 
     // Call the function to initially set the target attributes for all links
