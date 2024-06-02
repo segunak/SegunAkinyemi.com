@@ -119,25 +119,24 @@ function setupQuoteButtons() {
     }
 }
 
-// Function to update the target attribute of all links based on the detected device type and if the link is internal
 const updateLinkTargets = () => {
     // Retrieve all 'a' elements (links) in the document
     const links = document.getElementsByTagName('a');
 
     // Iterate over each link to determine the correct target attribute
     [...links].forEach(link => {
+        // Check if the link belongs to the masthead menu and skip updating it
+        if (link.closest('.visible-links')) {
+            return;
+        }
         // Check if the link's target is explicitly set to '_blank' and skip updating it. Allow override if I really want a new tab opened.
-        if (link.target === '_blank') {
+        else if (link.target === '_blank') {
             return;
         }
         // Check if the link is internal by comparing the link's host with the current window's host
         else if (link.hostname === window.location.hostname) {
             // If the link is internal, open it in the same tab
             link.target = '_self';
-        }
-        // Check if the link's target is explicitly set to '_blank' and skip updating it. Allow override if I really want a new tab opened.
-        else if (link.target === '_blank') {
-            return;
         }
         else {
             // Determine the appropriate target attribute value based on whether the device is mobile
@@ -147,7 +146,6 @@ const updateLinkTargets = () => {
         }
     });
 };
-
 document.addEventListener('DOMContentLoaded', function () {
     // Get the theme-switcher element and add the event listener to the theme-switcher element
     const themeSwitcher = document.getElementById('theme-switcher');
