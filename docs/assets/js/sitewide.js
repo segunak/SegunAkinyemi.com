@@ -1,3 +1,8 @@
+
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 const setDesiredTheme = (desiredTheme) => {
     var lightTheme = document.getElementById('theme_source');  // Reference to the main theme stylesheet. Light mode.
     var darkTheme = document.getElementById('theme_source_2'); // Reference to an alternate theme stylesheet. Dark mode.
@@ -10,24 +15,14 @@ const setDesiredTheme = (desiredTheme) => {
     if (desiredTheme === "light") {
         // Change the 'rel' attribute of the light theme stylesheet to 'stylesheet'.
         lightTheme.setAttribute('rel', 'stylesheet');
-        // Schedule the following code to run after a 10ms delay.
-        setTimeout(function () {
-            // After the delay, change the 'rel' attribute of the dark theme stylesheet to 'stylesheet alternate'.
-            darkTheme.setAttribute('rel', 'stylesheet alternate');
-        }, 10);
-        // Store the theme state ('light') in the session storage to remember it.
-        sessionStorage.setItem('theme', 'light');
+
+        darkTheme.setAttribute('rel', 'stylesheet alternate');
     }
     else if (desiredTheme === "dark") {
         // Change the 'rel' attribute of the dark theme stylesheet to 'stylesheet'.
         darkTheme.setAttribute('rel', 'stylesheet');
-        // Schedule the following code to run after a 10ms delay.
-        setTimeout(function () {
-            // After the delay, change the 'rel' attribute of the light theme stylesheet to 'stylesheet alternate'.
-            lightTheme.setAttribute('rel', 'stylesheet alternate');
-        }, 10);
-        // Store the theme state ('dark') in the session storage to remember it.
-        sessionStorage.setItem('theme', 'dark');
+
+        lightTheme.setAttribute('rel', 'stylesheet alternate');
     }
 }
 
@@ -68,9 +63,9 @@ const switchSiteTheme = () => {
     themeSwitcher.classList.toggle('darkThemeToggled');
 }
 
-const initializeThemeSwitcherButton = () => {
+const initializeThemeSwitcherButtonState = () => {
     var themeSwitcher = document.getElementById('theme-switcher');
-    var lightTheme = document.getElementById('theme_source');  // Reference to the main theme stylesheet. Light mode.
+    var lightTheme = document.getElementById('theme_source');
     var currentTheme = lightTheme.getAttribute('rel') === 'stylesheet' ? 'light' : 'dark';
 
     if (currentTheme === "light") {
@@ -155,6 +150,8 @@ const updateLinkTargets = () => {
 };
 
 document.addEventListener('DOMContentLoaded', function () {
+    storeThemeState();
+
     setupQuoteButtons();
 
     // Call the function to initially set the target attributes for all links
@@ -169,9 +166,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
     setThemeBasedOnTime();
+});
 
-    setTimeout(function () {
-        // Initialize the theme switcher button state
-        initializeThemeSwitcherButton();
-    }, .5);
+window.addEventListener('load', function () {
+    initializeThemeSwitcherButtonState();
 });
