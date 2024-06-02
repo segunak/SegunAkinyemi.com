@@ -2,75 +2,83 @@ function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+// Function to set the desired theme (light or dark)
 const setDesiredTheme = (desiredTheme) => {
-    var lightTheme = document.getElementById('theme_source');  // Reference to the main theme stylesheet. Light mode.
-    var darkTheme = document.getElementById('theme_source_2'); // Reference to an alternate theme stylesheet. Dark mode.
-    var currentTheme = lightTheme.getAttribute('rel') === 'stylesheet' ? 'light' : 'dark';
+    // Get references to the light and dark theme stylesheets
+    const lightTheme = document.getElementById('light-theme');
+    const darkTheme = document.getElementById('dark-theme');
+    const currentTheme = lightTheme.getAttribute('rel') === 'stylesheet' ? 'light' : 'dark';
 
     if (currentTheme === desiredTheme) {
         localStorage.setItem('theme', desiredTheme);
         return;
     }
 
+    // Check if the desired theme is "light"
     if (desiredTheme === "light") {
-        // Change the 'rel' attribute of the light theme stylesheet to 'stylesheet'.
+        // Set the light theme as the active stylesheet by setting its 'rel' attribute to 'stylesheet'
         lightTheme.setAttribute('rel', 'stylesheet');
 
-        // Store the theme state ('light') in the local storage to remember it.
-        localStorage.setItem('theme', 'light');
-
-        // Schedule the following code to run after a specified delay
         setTimeout(function () {
-            // After the delay, change the 'rel' attribute of the dark theme stylesheet to 'stylesheet alternate'.
+            // Set the dark theme as the alternate stylesheet by setting its 'rel' attribute to 'stylesheet alternate'
             darkTheme.setAttribute('rel', 'stylesheet alternate');
         }, 10); // Adjust the delay duration as needed
     }
+    // Check if the desired theme is "dark"
     else if (desiredTheme === "dark") {
-        // Change the 'rel' attribute of the dark theme stylesheet to 'stylesheet'.
+        // Set the dark theme as the active stylesheet by setting its 'rel' attribute to 'stylesheet'
         darkTheme.setAttribute('rel', 'stylesheet');
 
-        // Store the theme state ('dark') in the local storage to remember it.
-        localStorage.setItem('theme', 'dark');
-
-        // Schedule the following code to run after a specified delay
         setTimeout(function () {
-            // After the delay, change the 'rel' attribute of the light theme stylesheet to 'stylesheet alternate'.
+            // Set the light theme as the alternate stylesheet by setting its 'rel' attribute to 'stylesheet alternate'
             lightTheme.setAttribute('rel', 'stylesheet alternate');
         }, 10); // Adjust the delay duration as needed
     }
+    // If the desired theme is neither "light" nor "dark", log an error message
+    else {
+        console.log("setDesiredTheme(): Something is wrong with the theme logic. The provided desiredTheme value is neither light nor dark.")
+    }
+
+    // Store the desired theme in the browser's local storage for future reference
+    localStorage.setItem('theme', desiredTheme);
 }
 
-const setThemeBasedOnTime = () => {
+const setSiteThemeOnLoad = () => {
     // Get the current date/time in Eastern Time
     const currentTime = new Date().toLocaleString("en-US", { timeZone: "America/New_York" });
     const easternTime = new Date(currentTime);
     const easternHours = easternTime.getHours();
-    var hasUserClickedThemeButton = localStorage.getItem('hasUserClickedThemeButton');
 
-    if (hasUserClickedThemeButton === "true") {
-        const userChosenTheme = localStorage.getItem('theme');
-        setDesiredTheme(userChosenTheme);
-        return;
-    }
+    const savedTheme = localStorage.getItem('theme');
+    const userSetTheme = localStorage.getItem('userSetTheme');
 
-    // Check if the current time in Eastern Time is between 7 PM (19:00) and 9 AM (09:00).
-    if (easternHours >= 19 || easternHours < 9) {
-        setDesiredTheme("dark");
+    // If the user hasn't set a theme manually, set the theme based on time
+    if (!userSetTheme) {
+        if (easternHours >= 19 || easternHours < 9) {
+            setDesiredTheme('dark');
+        } else {
+            setDesiredTheme('light');
+        }
     } else {
-        setDesiredTheme("light");
+        setDesiredTheme(savedTheme);
     }
 }
 
+// Function to switch the site theme between light and dark
 const switchSiteTheme = () => {
-    var lightTheme = document.getElementById('theme_source');
-    localStorage.setItem('hasUserClickedThemeButton', 'true');
+    // Get a reference to the light theme stylesheet
+    const lightTheme = document.getElementById('light-theme');
+    // Set a flag in the browser's local storage to indicate that the user has manually set the theme
+    localStorage.setItem('userSetTheme', 'true');
 
-    // Check the current state of the main theme stylesheet.
-    if (lightTheme.getAttribute('rel') == 'stylesheet') {
-        // If the light theme is currently active (linked as a stylesheet), do the following:
+    // Check the current state of the light theme stylesheet
+    if (lightTheme.getAttribute('rel') === 'stylesheet') {
+        // If the light theme is currently active (its 'rel' attribute is 'stylesheet'),
+        // switch to the dark theme by calling the setDesiredTheme function with "dark" as the argument
         setDesiredTheme("dark");
     } else {
-        // Else If the dark theme is active, do the following:
+        // If the dark theme is currently active (the light theme's 'rel' attribute is not 'stylesheet'),
+        // switch to the light theme by calling the setDesiredTheme function with "light" as the argument
         setDesiredTheme("light");
     }
 }
@@ -155,12 +163,12 @@ document.addEventListener('DOMContentLoaded', function () {
     updateLinkTargets();
 
     // Add an event listener to the window to handle resizing This ensures that link targets are updated if the window size changes, which might change the device classification (e.g., from portrait to landscape)
-    window.addEventListener('resize', updateLinkTargets);
+    //window.addEventListener('resize', updateLinkTargets);
 
     // Get the theme-switcher element and add the event listener to the theme-switcher element
     const themeSwitcher = document.getElementById('theme-switcher');
     themeSwitcher.addEventListener('click', switchSiteTheme);
 
-    // Dynamically set the theme based on time of day. Users can override this using the theme switch button.
-    setThemeBasedOnTime();
+    // Dynamically set the theme of the site.
+    setSiteThemeOnLoad();
 });

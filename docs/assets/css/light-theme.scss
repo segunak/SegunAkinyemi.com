@@ -18,6 +18,7 @@ Anything you place after this point will therefore "cascade and override" the pr
 
 /* This is here because it only applies to the main (lighter) theme. If you want something to apply everywhere,
 put it in _styleoverrides.scss*/
+
 .random-quote-box .btn {
     background: #0092ca;
 }
@@ -32,3 +33,4 @@ put it in _styleoverrides.scss*/
 .themeToggleMoon {
     opacity: 0;
 }
+
