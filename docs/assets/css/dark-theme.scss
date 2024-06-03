@@ -82,18 +82,3 @@ Anything you place after this point will therefore "cascade and override" the pr
 .highlight .c, .highlight .cm, .highlight .cp, .highlight .c1, .highlight .cs {
   color: gray; /* Comment styles */
 }
-
-.themeToggleCircleButton {
-  left: 27px;
-}
-
-.themeToggleSun {
-  opacity: 0;
-}
-
-.themeToggleMoon {
-  left: 8px;
-  width: 14px;
-  opacity: 1;
-  transition: opacity .25s;
-}

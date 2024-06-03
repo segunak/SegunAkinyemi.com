@@ -27,15 +27,7 @@
         </button>
         {% endif %}
         {% if site.minimal_mistakes_skin2 %}
-        <div class="themeToggleContainer" id="theme-switcher">
-          <div class="themeToggleWidget" role="button" tabindex="-1">
-            <div class="themeToggleMoon"><span class="themeToggleIcon">🌜</span></div>
-            <div class="themeToggleSun"><span class="themeToggleIcon">🌞</span></div>
-            <div class="themeToggleCircleButton"></div>
-          </div>
-          <input type="checkbox" class="themeToggleScreenReader"
-            aria-label="Switch between dark and light mode">
-        </div>
+        <i id="theme-switcher" class="fas fa-fw fa-adjust" aria-hidden="true"></i>
         {% endif %}
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
