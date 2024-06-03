@@ -6,6 +6,8 @@ author_profile: true
 permalink: /about/
 ---
 
+<script src="/assets/js/dynamic-link-targeting.js"></script>
+
 ![Obi-Wan](/assets/images/obiwan.gif)
 
 Hello there, I'm Segun Akinyemi—pronounced _sheh-goon ah-keen-yeh-mee_—a [Yoruba](https://en.wikipedia.org/wiki/Yoruba_people) name that is, in truth, much longer (if you ever run into me, ask me my full name). This website is a place where I share my passions and interests, such as faith, technology, literature, entertainment, and more. I'm glad you're here!

@@ -6,6 +6,8 @@ author_profile: true
 permalink: /projects/
 ---
 
+<script src="/assets/js/dynamic-link-targeting.js"></script>
+
 Welcome to my projects page. Here I track stuff I'm working on, have worked on, would like to work on, or just think is cool.
 
 ## Featured Projects

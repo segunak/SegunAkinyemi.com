@@ -2,7 +2,7 @@
 title: "Favorite Quotes"
 excerpt: "A collection of awesome quotes from various sources."
 pinned: true
-last_modified_at: 2024-05-19T19:03:51
+last_modified_at: 2024-06-03T02:37:45
 classes: wide
 header:
   teaser: /assets/images/coolkingdom.jpg
@@ -11,6 +11,8 @@ categories:
 tags:
   - miscellaneous
 ---
+
+<script src="/assets/js/dynamic-link-targeting.js"></script>
 
 <style>
   .quote-container {
