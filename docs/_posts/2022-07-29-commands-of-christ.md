@@ -581,7 +581,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Luke 5:27](https://www.biblegateway.com/passage/?search=Luke5:27&version=NKJV){:target="_blank"}</cite>
 
 
-> Blessed are you when men hate you, And when they exclude you, And revile you, and cast out your name as evil, For the Son of Man’s sake. Rejoice in that day and leap for joy! For indeed your reward is great in heaven, For in like manner their fathers did to the prophets.
+> Blessed are you when men hate you, and when they exclude you, and revile you, and cast out your name as evil, for the Son of Man’s sake. Rejoice in that day and leap for joy! For indeed your reward is great in heaven, For in like manner their fathers did to the prophets.
 >
 > <cite>[Luke 6:22-23](https://www.biblegateway.com/passage/?search=Luke6:22-23&version=NKJV){:target="_blank"}</cite>
 
