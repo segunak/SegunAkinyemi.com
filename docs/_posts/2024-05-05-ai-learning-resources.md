@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-06-03T02:28:16
+last_modified_at: 2024-08-07T21:02:56
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -26,7 +26,7 @@ tags:
 
 This page is an ongoing list of learning resources for AI, ranging from stuff to get you started to stuff for diving deep. My goal is for this to be a targeted collection, quality over quantity. I started it for myself—a software engineer looking for ways to use AI in my workflows—and figured others might find it useful. **None of these are affiliate links.**
 
-While being undeniably [so hot right now](https://knowyourmeme.com/memes/x-is-so-hot-right-now), AI education [isn't exactly a novel field](https://ai100.stanford.edu/). However, the overwhelming demand for content in the space is certainly new. This list is my attempt at [separating the wheat from the <s>shaft</s> chaff 😏](https://www.merriam-webster.com/dictionary/separate%20the%20wheat%20from%20the%20chaff).
+While being undeniably [so hot right now](https://knowyourmeme.com/memes/x-is-so-hot-right-now), AI education [isn't exactly a novel field](https://ai100.stanford.edu/). However, the overwhelming demand for content in the space is certainly new. This list is my attempt at [separating the wheat from the chaff](https://www.merriam-webster.com/dictionary/separate%20the%20wheat%20from%20the%20chaff).
 
 **Nerd Note:** If you read the title of this article and went "What do you mean whatever Yoda was? Yoda was no mere Jedi Master, he was a Grand Master!", you're a nerd, and I love you. Yes, Yoda was a Jedi Grand Master, but it could be said he reached a level of power, influence, and status that went far beyond a title he [shared](https://starwars.fandom.com/wiki/Grand_Master#:~:text=The%20title%20was%20shared%20by%20Jedi%20Masters%20Xo%20Lahru%2C%20Pra%2DTre%20Veter%2C%20and%20Yoda%20during%20the%20High%20Republic%20Era) with several counterparts. Yoda's [Jedi lineage is insane](https://www.reddit.com/r/StarWarsCantina/comments/16wj3w1/master_yodas_jedi_lineage_is_an_insane_thing/). He is a master of masters many generations over. The Star Wars equivalent of [Abraham](https://en.wikipedia.org/wiki/Abraham). I believe he should have his own category, Chief Grand Master or something, especially considering his ability to remain prudent despite his infamous [ketamine addiction](https://knowyourmeme.com/memes/yodas-ketamine-addiction).
 {: .notice--warning}

@@ -26,6 +26,11 @@ h3 blockquote {
   color: green;
 }
 
+blockquote {
+  margin-inline-start: 1em;
+  margin-inline-end: 1em;
+}
+
 .breadcrumbs {
   max-width: 85%;
 }
@@ -99,4 +104,35 @@ a.reversefootnote {
 
 .archive__item-title { 
   font-size: 1.17em;
+}
+
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.image-credit {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  font-size: 7px;
+  font-style: italic;
+  color: gray;
+  opacity: 0.5;
+  background-color: #000;
+  padding: 2px;
+  z-index: 5;
+  border-radius: 4px 0 0 0;
+  text-align: end;
+  inset-inline-end: 0;
+  margin: 0 auto;
+}
+
+.image-credit a {
+  color: gray;
+  text-decoration: none;
+}
+
+.image-credit a:hover {
+  text-decoration: underline;
 }
