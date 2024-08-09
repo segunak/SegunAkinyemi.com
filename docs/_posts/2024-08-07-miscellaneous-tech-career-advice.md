@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous Advice For People Interested In Tech Careers"
 excerpt: "An assorted collection of one man's advice related to careers in technology."
-last_modified_at: 2024-08-09T04:40:32
+last_modified_at: 2024-08-09T16:05:24
 toc: true
 toc_sticky: true
 read_time: false
@@ -471,7 +471,7 @@ Here are some alternative paths to consider:
 4. **Open Source Contributions:** Contributing to open source projects on platforms like [GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) can demonstrate your coding skills and your ability to work on real-world projects. Check out the [Open Source Guide](https://github.com/github/opensource.guide).
 5. **Personal Projects:** Building your own apps, websites, or other tech projects can be a great way to showcase your skills. Make sure to document and share your work on [GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) or a personal portfolio site.
 
-Now, to be frank, it's harder to get into tech without a degree. Not impossible, just harder. You're going to have to [get it out the mud](https://www.urbandictionary.com/define.php?term=Get+it+out+the+mud). Hustle. Leverage free online learning resources. Join a reputable but affordable coding boot camp or training program. Get an associate's degree at your local community college with little to no debt. Hunt far and wide for technical training or scholarship programs that upskill people without putting them in debt (check if your state has any). Join the [AmeriCorps](https://americorps.gov/). Look for startups or small companies that'll take a chance on someone with passion but no degree. If college isn't an option, you're going to have to get savvy. It won't be easy, but it can be done!
+Now, to be frank, it's harder to get into tech without a degree. Not impossible, just harder. You're going to have to [get it out the mud](https://www.urbandictionary.com/define.php?term=Get+it+out+the+mud). [Hustle](https://www.youtube.com/watch?v=gEVLvBRB96Y). [Hard](https://www.youtube.com/watch?v=bVwyrk3Ftc4). Leverage free online learning resources. Join a reputable but affordable coding boot camp or training program. Get an associate's degree at your local community college with little to no debt. Hunt far and wide for technical training or scholarship programs that upskill people without putting them in debt (check if your state has any). Join the [AmeriCorps](https://americorps.gov/). Look for startups or small companies that'll take a chance on someone with passion but no degree. If college isn't an option, you're going to have to get savvy. It won't be easy, but it can be done!
 
 All that being said, if you can go to college **without putting yourself in massive debt**, I highly suggest that you do. It offers a structured learning environment with instructor-led teaching, networking opportunities, classmates for support, and resources like career centers, fairs, and advisors—all extremely beneficial to students who fully utilize them.
 
