@@ -1,4 +1,6 @@
 // The styles here apply across the website and will override any default styles from minimal mistakes
+// Check https://github.com/mmistakes/minimal-mistakes/blob/master/_sass/minimal-mistakes/_variables.scss
+// to discover the values of the $small, $medium, $large, etc. breakpoints.
 
 html {
   font-size: 16px; // originally 16px
@@ -91,6 +93,14 @@ a.reversefootnote {
 .page__hero--overlay {
   padding: 5em 0;
   background-position: center left;
+}
+
+/* For super extra large screens, make cover photos vertically taller */
+@media (min-width: 1400px) {
+  .page__hero--overlay {
+    padding: 7em 0;
+    background-position: center left;
+  }
 }
 
 .archive__item-title { 
