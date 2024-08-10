@@ -203,7 +203,7 @@ To that end, I know many people in tech with job titles that make no sense to me
 * Envisioning Specialist
 * Portfolio Analyst
 * Audit Manager
-* Renewable Energy Analyst
+* Literally anything with "Manager", "Analyst", or "Specialist" in the title
 
 ### Interview Preparation
 
