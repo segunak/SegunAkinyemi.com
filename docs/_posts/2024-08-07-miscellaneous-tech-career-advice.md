@@ -40,6 +40,7 @@ Here are job titles that are either synonymous with or similar to "Software Engi
 * Software Development Engineer
 * Computer Programmer
 * Computer Systems Analyst
+* Platform Engineer
 * Data Scientist
 * Data Engineer
 * Backend Developer
