@@ -1,7 +1,7 @@
 ---
 title: "How To Reference Linked Services in Azure Synapse Analytics Notebooks"
 excerpt: "Learn how to reference linked services when writing Apache Spark code in Azure Synapse Analytics notebooks."
-last_modified_at: 2024-06-03T02:28:16
+last_modified_at: 2024-08-30T22:51:48
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -101,7 +101,7 @@ With the Spark session configured to your linked service, you can now access var
 
 ### Conclusion
 
-I've nothing else _germane_ (the word "relevant" could've been used here, but I'm feeling fancy) to this article's theme to say, so I'm just going to talk about stuff.
+I've nothing else _germane_ (the word "relevant" could've been used here, but I'm feeling fancy) to this article's theme to say, so I'm just going to talk about stuff ([and thangs](https://www.urbandictionary.com/define.php?term=stuff%20and%20thangs)).
 
 If you're still using Synapse, Microsoft wants you to use [Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview), but it's like, Synapse is already a bunch of Microsoft products pooled under one roof. The primary functions of [Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/introduction), [Azure Databricks](https://learn.microsoft.com/en-us/azure/databricks/introduction/), and [SQL Data Warehouse](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is) were bundled up and ~~shoved~~ copied under the Synapse roof. And now Fabric takes all of that plus [Power BI](https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview) and shoves it under a yet larger roof. It is an ambitious approach, to say the least. Particularly because Fabric is a [SaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas) solution in contrast to the aforementioned [PaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas) solutions.
 
