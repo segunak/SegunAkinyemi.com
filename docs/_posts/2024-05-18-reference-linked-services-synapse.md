@@ -1,7 +1,7 @@
 ---
-title: "How To Reference Linked Services in Azure Synapse Analytics Notebooks"
+title: "How To Reference Linked Services In Azure Synapse Analytics Notebooks"
 excerpt: "Learn how to reference linked services when writing Apache Spark code in Azure Synapse Analytics notebooks."
-last_modified_at: 2024-08-30T22:51:48
+last_modified_at: 2024-09-05T20:09:43
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
