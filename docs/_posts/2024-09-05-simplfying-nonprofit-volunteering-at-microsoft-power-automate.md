@@ -1,7 +1,7 @@
 ---
-title: "Check Out My Post on Microsoft's Blog: Simplifying Nonprofit Volunteering with Power Automate"
+title: "Check Out My Post on Microsoft's Blog: Simplifying Nonprofit Volunteering With Power Automate"
 excerpt: "I had the opportunity to write for Microsoft's blog about Power Automate and community service, check it out!"
-last_modified_at: 2024-09-05T20:15:36
+last_modified_at: 2024-09-06T11:51:39
 classes: wide
 categories:
   - blog
