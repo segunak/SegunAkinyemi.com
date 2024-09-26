@@ -1,7 +1,7 @@
 ---
 title: "How To Send and Receive Emails From a Squarespace Forwarding Alias Using Gmail"
 excerpt: "Learn how to set up Gmail to send and receive emails using a Squarespace forwarding alias."
-last_modified_at: 2024-09-25T21:07:28
+last_modified_at: 2024-09-26T04:30:16
 classes: wide
 header:
   teaser: /assets/images/squarespace-and-gmail.png
@@ -13,7 +13,7 @@ tags:
 
 <script src="/assets/js/dynamic-link-targeting.js"></script>
 
-In 2023, [Squarespace acquired Google Domains](https://support.squarespace.com/hc/en-us/articles/17131164996365-About-the-Google-Domains-migration-to-Squarespace), which meant that anyone with a domain purchased through Google, myself included, was now a Squarespace customer. One great feature of Squarespace is the ability to create an email alias for any domain you own. While this alias doesn't have its own inbox, you could use Gmail to send and receive emails from it via [forwarding](https://support.squarespace.com/hc/en-us/articles/19000909092237-Email-forwarding-with-a-Squarespace-domain).
+In 2023, [Squarespace acquired Google Domains](https://support.squarespace.com/hc/en-us/articles/17131164996365-About-the-Google-Domains-migration-to-Squarespace), which meant that anyone with a domain purchased through Google—me among them—was now a Squarespace customer. One great feature of Squarespace is the ability to create an email alias for any domain you own. While this alias doesn't have its own inbox, you could use Gmail to send and receive emails from it via [forwarding](https://support.squarespace.com/hc/en-us/articles/19000909092237-Email-forwarding-with-a-Squarespace-domain).
 
 This functionality is still available, but the migration from Google Domains to Squarespace [messed up some stuff behind the scenes](https://forum.squarespace.com/topic/297984-issue-with-email-forwarding-after-google-domain-migration/page/2/). I recently had to reconfigure everything to ensure that emails sent to my Squarespace alias would arrive in my personal Gmail account, and that I could also reply from Gmail **using my Squarespace alias**. Here's how to get that set up.
 
