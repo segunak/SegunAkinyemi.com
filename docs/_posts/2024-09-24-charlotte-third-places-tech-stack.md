@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "coffee"
-last_modified_at: 2024-09-24T06:59:48
+last_modified_at: 2024-09-30T14:53:30
 header:
   teaser: /assets/images/skyline-vibrant.jpeg
 categories:
@@ -41,7 +41,7 @@ Here are the frontend software development tools used to build this project.
 
 ### Vercel
 
-[Vercel](https://vercel.com/segun-akinyemis-projects) is the most developer friendly cloud platform I have every used. Seriously. They have done such an amazing job of making software development and deployments painless for developers. Particularly for hobby projects. Everything just works off your GitHub repo, you can configure most everything, either via their portal or `.json` file, the documentation is clear and well-written, they have a generous free plan, just all-around awesome. Charlotte Third Places is hosted on Vercel. They also happen to be the creators of Next.js.
+[Vercel](https://vercel.com/segun-akinyemis-projects) is the most developer friendly cloud platform I have every used. Seriously. They have done such an amazing job of making software development and deployments painless for developers. Particularly for hobby projects. Everything just works off your GitHub repo, you can configure most things, either via their portal or a `.json` file, the documentation is clear and well-written, they have a generous free hobby plan that [won't surprise you](https://www.reddit.com/r/nextjs/comments/1cfxuz1/comment/l1s3srr/) (at least, [not anymore](https://www.reddit.com/r/nextjs/comments/12dngvg/small_mistake_leads_to_3000_bill_from_vercel_and/)) with charges. It's just an all-around awesome platform. Charlotte Third Places is hosted on Vercel. They also happen to be the creators of Next.js.
 
 ### Next.js
 
