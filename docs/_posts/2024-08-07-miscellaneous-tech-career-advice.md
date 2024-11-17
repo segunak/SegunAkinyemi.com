@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous Advice For People Interested In Tech Careers"
 excerpt: "An assorted collection of one man's advice related to careers in technology."
-last_modified_at: 2024-08-20T17:53:13
+last_modified_at: 2024-11-17T21:20:15
 toc: true
 toc_sticky: true
 read_time: false
@@ -263,6 +263,7 @@ Career programs for students currently in college.
 
 * [Various Leadership & Rotational Programs](https://careers.northeastern.edu/article/leadership-rotational-programs/)  - Northeastern University in Boston has created an amazing list of rotational programs that provide mentoring and training to college students across different industries. Check it out!
 * [Road to Hire](https://www.roadtohire.org/) - In their own words, _Road to Hire interrupts cycles of intergenerational poverty by ensuring the young people in its programs have access to higher education, high-earning careers and prosperous futures. R2H programs are designed to meet students where they are and provide pathways to high-growth careers in STEM. Road to Hire's High School, College and Apprenticeship programs serve first-gen college students, students of color and students from low-income backgrounds._ So they help young people from high school through recent graduates find their way into careers with training, mentorship, job placement, and more.
+* [The New Technologists Program](https://www.newtechnologists.com/index.html) - A 7-week "innovation academy" (training program) in partnership with Microsoft for college freshmen and sophomores interested in pursuing a career in tech. The program provides hands-on training and real-world experience with senior engineers, and teaches the skills necessary to navigate the professional world.
 * [Explore Microsoft Program](https://careers.microsoft.com/v2/global/en/exploremicrosoft) - Internships at Microsoft for first and second-year college students.
 * [Microsoft Student Opportunities](https://careers.microsoft.com/v2/global/en/students) - A page with Microsoft's various internship and employment offerings for college students of all levels.
 * [Microsoft Imagine Cup](https://imaginecup.microsoft.com/en-us) - A global hackathon competition with significant prizes put on by Microsoft every year. You must be 18+ to participate. Students form groups of no more than 4 and build ideas that use Azure to solve problems or make cool things. Projects are then judged by Microsoft representatives, with winning teams receiving awards, including cash investments (up to $50,000 last I checked).
