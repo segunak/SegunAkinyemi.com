@@ -96,19 +96,21 @@ a.reversefootnote {
 }
 
 .page__hero--overlay .wrapper {
-  max-width: 85%;
+  @include breakpoint($large) {
+    max-width: 85%;
+  }
 }
 
-.archive__item-title { 
+.archive__item-title {
   margin-top: 1em;
 }
 
-.archive__subtitle { 
+.archive__subtitle {
   font-size: 1.25em;
   border-bottom: 2px solid #cecfd1;
 }
 
-.archive__item-title { 
+.archive__item-title {
   font-size: 1.17em;
 }
 
@@ -142,4 +144,3 @@ a.reversefootnote {
 .image-credit a:hover {
   text-decoration: underline;
 }
-
