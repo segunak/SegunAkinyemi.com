@@ -1,7 +1,7 @@
 ---
 title: "STEM Workshops: Exploring Responsible Generative AI Through Music With Microsoft Copilot and Suno"
 excerpt: "Discover how to use Microsoft Copilot and Suno's Generative AI to engage students in hands-on STEM learning and Responsible AI practices through an interactive music creation workshop."
-last_modified_at: 2024-11-19T02:46:04
+last_modified_at: 2024-11-19T16:54:28
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -30,11 +30,11 @@ The turning point for me, the moment that opened my eyes to computer science, ca
 
 Whether by divine providence (my preferred interpretation) or dumb luck, that conversation set me on the path toward computer science and my career as a software engineer. I'm set on making sure others don't have to rely on chance to discover how cool this field can be. I want people to truly understand it—beyond the surface-level "you should learn to code" or "tech is important" messaging we hear so often today.
 
-To that end, I started and maintain a program that brings students to my employer's [local office](https://maps.app.goo.gl/Zsvwcxrw4VFR8nU49) for a day of tech-centric learning and discovery. The highlight of these visits is a 1-hour STEM workshop where I do my best to make computer science fun and accessible. The goal isn't to make them experts, only to pique their interest, and hopefully send them home with a desire to keep learning.
+To that end, I started and maintain a program that brings students to my [employer's](https://en.wikipedia.org/wiki/Microsoft) local office for a day of tech-centric learning and discovery. The highlight of these visits is a 1-hour STEM workshop where I do my best to make computer science fun and accessible. The goal isn't to make them experts, only to pique their interest, and hopefully send them home with a desire to keep learning.
 
 I've developed a handful of workshops for these events that I'll be sharing here on my blog from time to time. I'm starting off by sharing an AI-discovery focused workshop I developed for a much larger event I led (side note, event planning is exhausting) this past March, which you can read more about [here](https://www.microsoft.com/insidetrack/blog/simplifying-nonprofit-volunteering-at-microsoft-with-power-automate/?ocid=InsideTrack_Promotion_10669#:~:text=Every%20year%2C%20the,across%20the%20region.), and get a recap of [here](https://www.linkedin.com/posts/microsoft_600-students-from-28-schools-across-north-ugcPost-7196494793907048449-6Oad/).
 
-## Workshop Overview
+## Workshop Summary
 
 The goal of this workshop is to help students grasp just how massive the impact of Generative AI is—and will continue to be—by getting them involved in something fun and tangible: making AI-generated music that sounds real. Using Microsoft's flagship AI product, [Microsoft Copilot](https://copilot.microsoft.com/), with the [Suno](https://suno.com/) plugin (Suno leads the AI-music creation space), students can turn a simple prompt into a 2-minute AI-generated song, giving them a firsthand look at how powerful the right input ([prompt engineering](https://www.google.com/search?q=prompt+engineering)) can be.
 
@@ -42,7 +42,7 @@ Beyond just making music, this workshop emphasizes Responsible AI usage, encoura
 
 ## Required Materials
 
-Here's what needed to run this workshop.
+Here's what's needed to run this workshop.
 
 * **Internet Access:** Required for connecting students with Microsoft Copilot and Suno AI.
 * **Computing Devices:** Each student (or small group of 4-5 students) needs a smartphone, tablet, laptop, or desktop computer to access Microsoft Copilot and Suno.

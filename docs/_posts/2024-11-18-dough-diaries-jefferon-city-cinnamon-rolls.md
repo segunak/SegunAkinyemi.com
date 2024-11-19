@@ -1,7 +1,7 @@
 ---
 title: "Dough Diaries: On the Nature of Cinnamon Rolls in Jefferson City, Missouri"
 excerpt: "Read on to discover one man's journey through the cinnamon roll scene of Jefferson City, Missouri."
-last_modified_at: 2024-11-19T03:01:42
+last_modified_at: 2024-11-19T16:54:28
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -32,9 +32,13 @@ Of all the pastries ever invented, from the genesis of mankind to this day, and 
 
 **Among pastries, cinnamon rolls are the best.**
 
-For those who know me personally, this statement is no surprise. I am not shy about my passion for cinnamon rolls. I enjoy sharing them with others, and sparingly, enjoying them myself. You see, familiarity breeds contempt, and I believe that consuming something too often renders it commonplace. I reserve my cinnamon roll indulgence for special occasions, celebrations, and instances where emotional reprieve is duly needed. This ensures that when I do partake, it truly means something to me. It's not an everyday affair; it's a treat. And a treat ceases to be such when it's had too often.
+Now, I know there are those who might disagree—perhaps the croissant connoisseurs or the danish devotees. To anyone entertaining such heretical thoughts, I have but one response:
 
-I spare no effort to provide a [surplus](https://www.biblegateway.com/passage/?search=Matthew%2014%3A19-20&version=NIV) of cinnamon rolls at events where I serve as the lead organizer, particularly those dedicated to engaging students in STEM education—a field where I've taken on a leadership role at my employer's [local office](https://maps.app.goo.gl/Zsvwcxrw4VFR8nU49). If I'm running the event and cinnamon rolls are nowhere to be found, you can bet I moved heaven and earth trying to secure them. Whether the challenge was logistical, budgetary, or some mysterious obstacle in between, rest assured I made every attempt to furnish the people with cinnamon rolls.
+<img class="gifformat" alt="Naruto Meme" style="width: 100%;" src="/assets/images/naruto-lightning-village-no.gif"/>
+
+For those who know me personally, my cinnamon roll elitism comes as no surprise. I am not shy about my passion for cinnamon rolls. I enjoy sharing them with others, and sparingly, enjoying them myself. You see, familiarity breeds contempt, and I believe that consuming something too often renders it commonplace. I reserve my cinnamon roll indulgence for special occasions, celebrations, and instances where emotional reprieve is duly needed. This ensures that when I do partake, it truly means something to me. It's not an everyday affair; it's a treat. And a treat ceases to be such when it's had too often.
+
+I spare no effort to provide a [surplus](https://www.biblegateway.com/passage/?search=Matthew%2014%3A19-20&version=NIV) of cinnamon rolls at events where I serve as the lead organizer, particularly those dedicated to engaging students in STEM education—a field where I've taken on a leadership role at my [employer's](https://en.wikipedia.org/wiki/Microsoft) local office. If I'm running the event and cinnamon rolls are nowhere to be found, you can bet I moved heaven and earth trying to secure them. Whether the challenge was logistical, budgetary, or some mysterious obstacle in between, rest assured I made every attempt to furnish the people with cinnamon rolls.
 
 Now, what was it that the famed French queen, [Marie Antoinette](https://en.wikipedia.org/wiki/Marie_Antoinette), purportedly proclaimed? "Let them eat cake." Well, setting aside the historical debates about whether she actually said that, and stripping away the layers of royal aloofness, opulent detachment, and the tiny detail of sparking a revolution, I declare—in a spirit entirely devoid of such extravagance—"Let them eat cinnamon rolls." Unlike the ill-fated monarch, I am, dear reader, a man of the people.
 
