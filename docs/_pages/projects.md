@@ -12,11 +12,10 @@ Welcome to my projects page. Here I track stuff I'm working on, have worked on, 
 
 ## Featured Projects
 
-Here's an assorted collection of projects and initiatives I'd like to bring attention to.
+Here's an collection of projects I either created or worked on that I'd like to bring attention to.
 
-* [Flourish](https://flourish.studio/){:target="_blank"}
-* [Synthwave VSCode](https://github.com/robb0wen/synthwave-vscode){:target="_blank"}
-* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books){:target="_blank"}
+* [Charlotte Third Places](https://charlottethirdplaces.com){:target="_blank"}
+* [STEM Education](https://github.com/segunak/stem-education){:target="_blank"}
 
 ## Recent Projects
 
