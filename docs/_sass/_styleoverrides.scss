@@ -96,7 +96,7 @@ a.reversefootnote {
 }
 
 .page__hero--overlay .wrapper {
-  @include breakpoint($large) {
+  @include breakpoint($x-large) {
     max-width: 85%;
   }
 }
