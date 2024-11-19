@@ -19,17 +19,36 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const htmlText = await response.text();
 
+      // Extract main content
+      const mainContent = new DOMParser()
+        .parseFromString(htmlText, 'text/html')
+        .querySelector('.container-lg.px-3.my-5.markdown-body');
+      if (!mainContent) {
+        console.error("Main content not found in the HTML.");
+        return;
+      }
+
+      // Create container for PDF
       const container = document.createElement('div');
-      container.innerHTML = htmlText;
+      container.innerHTML = mainContent.outerHTML;
+
+      // Add styles to improve layout
+      const style = document.createElement('style');
+      style.textContent = `
+        * { page-break-inside: avoid; }
+        h1, h2, h3, h4, h5, h6, p { page-break-after: avoid; page-break-before: auto; }
+        img { max-width: 100%; height: auto; }
+      `;
+      container.appendChild(style);
 
       // Generate and download the PDF
       const opt = {
-        margin:       0.5,
-        filename:     'three-levels-of-programming.pdf',
-        image:        { type: 'jpeg', quality: 0.98 },
-        html2canvas:  { scale: 2 },
-        pagebreak:    { mode: ['css'] },
-        jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
+        margin: [0.5, 0.5, 0.5, 0.5],
+        filename: 'three-levels-of-programming.pdf',
+        image: { type: 'jpeg', quality: 0.98 },
+        html2canvas: { scale: 2, useCORS: true },
+        pagebreak: { mode: ['css', 'legacy'] },
+        jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' },
       };
 
       html2pdf().set(opt).from(container).save();

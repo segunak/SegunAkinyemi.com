@@ -1,7 +1,7 @@
 ---
 title: "STEM Workshops: Three Levels of Programming With the Petoi 'Bittle X' Robot Dog"
 excerpt: "Learn how to engage students in a journey through three levels of computer programming using the highly capable Petoi 'Bittle X' Robot Dog."
-last_modified_at: 2024-11-19T16:54:28
+last_modified_at: 2024-11-19T17:12:30
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -18,6 +18,10 @@ tags:
 ---
 
 <script src="/assets/js/dynamic-link-targeting.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="/assets/js/download-pdf.js"></script>
 
 ## Some Background
 
@@ -105,14 +109,17 @@ I've run into things here and there using the robot dogs and have kept a scratch
 
 ## Facilitation Resources
 
-A full facilitation guide for this workshop can be found below, and on GitHub [here](https://github.com/segunak/stem-education/blob/master/petoi-bittle/workshops/Three%20Levels%20of%20Programming/three-levels-of-programming.md). You can also download it as a PDF using the button below.
+A full facilitation guide for this workshop can be found below. The latest version will always be on GitHub [here](https://github.com/segunak/stem-education/blob/master/petoi-bittle/workshops/Three%20Levels%20of%20Programming/three-levels-of-programming.md).
 
-[![Download as PDF Button](https://img.shields.io/badge/Download%20AS%20pdf-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://mdtopdf.up.railway.app/convertPdf?url=https://github.com/segunak/stem-education/blob/master/petoi-bittle/workshops/Three%20Levels%20of%20Programming/three-levels-of-programming.md)
-
-<iframe src="https://segunak.github.io/stem-education/petoi-bittle/workshops/Three%20Levels%20of%20Programming/three-levels-of-programming.html" width="100%" height="500px" style="border: 1px solid gray" allowfullscreen="" ></iframe>
+<iframe
+    src="https://segunak.github.io/stem-education/petoi-bittle/workshops/Three%20Levels%20of%20Programming/three-levels-of-programming.pdf"
+    width="100%"
+    height="500px"
+    style="border: 1px solid gray">
+</iframe>
 
 ---
 
-Here's a presentation for use in delivering this workshop. If you download a copy, check the notes section, as it has guidance on key points to hit and concepts to share with students.
+Also, here's a presentation for use in delivering this workshop. If you download a copy, check the notes section, as it has guidance on key points to hit and concepts to share with students.
 
 <iframe src="https://1drv.ms/p/c/750d396c5cadcebd/IQQ67fSnJoHfQ7oYwxikid2QAUTnKamyjaM4qThDrbKBKIU?em=2&amp;wdAr=1.7777777777777777" width="100%" height="500px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
