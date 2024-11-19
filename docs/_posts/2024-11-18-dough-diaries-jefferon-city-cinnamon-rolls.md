@@ -1,7 +1,7 @@
 ---
 title: "Dough Diaries: On the Nature of Cinnamon Rolls in Jefferson City, Missouri"
-excerpt: "Read on to discover one man's journey through the cinnamon roll scene in Jefferson City, Missouri."
-last_modified_at: 2024-11-19T02:46:04
+excerpt: "Read on to discover one man's journey through the cinnamon roll scene of Jefferson City, Missouri."
+last_modified_at: 2024-11-19T03:01:42
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
