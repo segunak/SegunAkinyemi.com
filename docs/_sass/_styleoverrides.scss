@@ -95,11 +95,11 @@ a.reversefootnote {
   background-position: center left;
 }
 
-// .page__hero--overlay .wrapper {
-//   @include breakpoint($x-large) {
-//     max-width: 85%;
-//   }
-// }
+.page__hero--overlay .wrapper {
+  @include breakpoint($x-large) {
+    max-width: 85%;
+  }
+}
 
 .archive__item-title {
   margin-top: 1em;
