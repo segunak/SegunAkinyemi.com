@@ -95,6 +95,10 @@ a.reversefootnote {
   background-position: center left;
 }
 
+.page__hero--overlay .wrapper {
+  max-width: 85%;
+}
+
 .archive__item-title { 
   margin-top: 1em;
 }
@@ -138,3 +142,4 @@ a.reversefootnote {
 .image-credit a:hover {
   text-decoration: underline;
 }
+
