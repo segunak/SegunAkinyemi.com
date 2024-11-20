@@ -44,7 +44,7 @@ Now, what was it that the famed French queen, [Marie Antoinette](https://en.wiki
 
 ## Setting the Stage
 
-If at this point you haven't picked up on the jovial nature of this blog post, let me state it explicitly now, for fear of appearing something of a lunatic to those unfamiliar with my sense of humor. But for real though, I think cinnamon rolls are the best pastry.
+If at this point you haven't picked up on the jovial nature of this blog post, let me state it explicitly now, for fear of appearing a lunatic to those unfamiliar with my sense of humor. But for real though, I think cinnamon rolls are the best pastry.
 
 Anyways, as we near the holiday season of 2024, I find myself reflecting on the same period in 2023 when I spent the holidays with my family in Jefferson City, Missouri. Despite living six years in the greater St. Louis area as a college student, I had never ventured to Missouri's state capital. My only connection to Jefferson City was through my time as a track athlete at Lindenwood University. We competed in the same conference as Lincoln University, which resides there.
 
