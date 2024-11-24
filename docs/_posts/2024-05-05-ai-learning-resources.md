@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-08-07T21:02:56
+last_modified_at: 2024-11-24T23:36:38
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -35,13 +35,20 @@ While being undeniably [so hot right now](https://knowyourmeme.com/memes/x-is-so
 
 Most people have heard of AI in some way (ChatGPT, Midjourney, Firefly, Copilot, [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)), etc.), but if you want to get started with understanding what's going on under the hood, here are some good resources.
 
-### Talking the Talk
+### Laymen's Terms
 
-To start, it's worth getting familiar with the various terms and concepts associated with AI. There's a flurry of "new" (to the general public) AI terminology floating around these days. Understanding these concepts will significantly boost your comprehension and engagement with AI topics, which is crucial to effective learning.
+To start, it's worth getting familiar with the various terms and concepts associated with AI. There's a flurry of "new" (to the general public) AI terminology floating around these days. To actually understand it all, it helps to read resources that break things down into laymen's terms. Less trying to sound smart and more trying to actually get through to people. The items below do exactly that!
 
 > **Microsoft:** [10 AI Terms Everyone Should Know](https://news.microsoft.com/10-ai-terms/) & [10 More AI Terms Everyone Should Know](https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/)
 >
 These articles from Microsoft walk through a total of 20 terms that are fundamental to the AI field. They each stand out for being written in an approachable beginner-friendly way. Reading and understanding the content within them will help you speak confidently about AI (and sound smart to your friends) while navigating your learning journey.
+>
+> **Free or Paid:** Free.
+{: .notice--primary}
+
+> **Parand Tony Darugar:** [A Completely Non-Technical Explanation of AI and Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html) & [A Non-Technical Explanation of ChatGPT](https://www.parand.com/a-non-technical-explanation-of-chatgpt.html) & [A Non-Technical Explanation of ChatGPT: Deep Learning](https://www.parand.com/a-non-technical-explanation-of-chatgpt-deep-learning.html)
+>
+There's a wonderful series of articles by [Parand Tony Darugar](https://www.linkedin.com/in/parand/) that break down AI, machine learning, deep learning, ChatGPT, and related topics in clear, layman-friendly terms. As a seasoned technologist and serial entrepreneur, Darugar offers down-to-earth insights for anyone looking to truly understand how generative AI works—without the jargon and posturing.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
