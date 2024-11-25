@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-11-24T23:36:38
+last_modified_at: 2024-11-25T00:35:59
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -35,9 +35,9 @@ While being undeniably [so hot right now](https://knowyourmeme.com/memes/x-is-so
 
 Most people have heard of AI in some way (ChatGPT, Midjourney, Firefly, Copilot, [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)), etc.), but if you want to get started with understanding what's going on under the hood, here are some good resources.
 
-### Laymen's Terms
+### Layman's Terms
 
-To start, it's worth getting familiar with the various terms and concepts associated with AI. There's a flurry of "new" (to the general public) AI terminology floating around these days. To actually understand it all, it helps to read resources that break things down into laymen's terms. Less trying to sound smart and more trying to actually get through to people. The items below do exactly that!
+To start, it's worth getting familiar with the various terms and concepts associated with AI. There's a flurry of "new" (to the general public) AI terminology floating around these days. To actually understand it all, it helps to read resources that break things down into layman's terms. Less trying to sound smart and more trying to actually get through to people. The items below do exactly that!
 
 > **Microsoft:** [10 AI Terms Everyone Should Know](https://news.microsoft.com/10-ai-terms/) & [10 More AI Terms Everyone Should Know](https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/)
 >
