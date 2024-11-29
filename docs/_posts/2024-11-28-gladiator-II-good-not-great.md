@@ -1,7 +1,7 @@
 ---
 title: "At Least I Was Entertained: Gladiator II Was Good, But It Could Have Been Great"
 excerpt: "A smorgasbord of Denzel Washington was more than enough to keep me entertained, but a curious central conflict, a lethargic leading man, and over-reliance on nostalgia reduced Gladiator II to a 'middling at best' sequel to the iconic original."
-last_modified_at: 2024-11-29T02:32:51
+last_modified_at: 2024-11-29T18:49:12
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -95,7 +95,7 @@ Aside from Denzel, other good parts of *Gladiator II* include:
 
 * The music was exceptional, thanks to legendary composer [Harry Gregson-Williams](https://en.wikipedia.org/wiki/Harry_Gregson-Williams). Known to me for his work on another favorite of mine, [*The Chronicles of Narnia: The Lion, The Witch, and The Wardrobe*](https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe), Gregson-Williams delivered a score that was on point throughout the film.
 
-* A limited but memorable role from [Rory McCann](https://en.wikipedia.org/wiki/Rory_McCann)—who played Sandor "The Hound" Clegane in [*Game of Thrones*](https://en.wikipedia.org/wiki/Game_of_Thrones)—as General Tegula. It's always good to see former *Game of Thrones* actors on the big screen, especially after the way that show ended. While I'm still a huge fan of the series, Season 8 was rough. Seeing McCann felt like reconnecting with an old friend, and his presence in the film gave me a warm, nostalgic feeling. Also after writing this point, I'm remembering that Pedro Pascal was also in Game of Thrones as the strikingly flamboyant Oberyn Martell. Pascal has done so well since I honestly don't associate him as "just that actor from Game of Thrones". Good for him!
+* A limited but memorable role from [Rory McCann](https://en.wikipedia.org/wiki/Rory_McCann)—who played Sandor "The Hound" Clegane in [*Game of Thrones*](https://en.wikipedia.org/wiki/Game_of_Thrones)—as General Tegula. It's always good to see former *Game of Thrones* actors on the big screen, especially after the way that show ended. While I'm still a huge fan of the series, Season 8 was rough. Seeing McCann felt like reconnecting with an old friend, and his presence in the film gave me a warm, nostalgic feeling. Also, after writing this point, I'm remembering that Pedro Pascal was also in Game of Thrones as the strikingly flamboyant Oberyn Martell. Pascal has done so well since I honestly don't consider him as "that actor from Game of Thrones". Good for him!
 
 * The use of real life historical figures throughout the film, albeit with some artistic liberty. You can read through a list of them [here](https://screenrant.com/gladiator-2-real-people-explained/).
 
