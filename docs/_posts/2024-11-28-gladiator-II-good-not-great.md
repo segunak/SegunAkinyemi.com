@@ -1,7 +1,7 @@
 ---
 title: "At Least I Was Entertained: Gladiator II Was Good, But It Could Have Been Great"
 excerpt: "A smorgasbord of Denzel Washington was more than enough to keep me entertained, but a curious central conflict, a lethargic leading man, and over-reliance on nostalgia reduced Gladiator II to a 'middling at best' sequel to the iconic original."
-last_modified_at: 2024-11-29T02:08:34
+last_modified_at: 2024-11-29T02:32:51
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -28,6 +28,10 @@ tags:
     @media (min-width: 768px) {
         .page__hero--overlay {
             padding: 10em 0;
+        }
+
+        .page__hero--overlay .page__lead {
+            max-width: 80%;
         }
 
         .gifformat {
