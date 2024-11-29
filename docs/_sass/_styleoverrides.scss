@@ -34,7 +34,9 @@ blockquote {
 }
 
 .breadcrumbs {
-  max-width: 85%;
+  @include breakpoint($large) {
+    max-width: 85%;
+  }
 }
 
 .homepage_heading {
@@ -92,7 +94,6 @@ a.reversefootnote {
 
 .page__hero--overlay {
   padding: 7% 0;
-  background-position: center left;
 }
 
 .page__hero--overlay .wrapper {

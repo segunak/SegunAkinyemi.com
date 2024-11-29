@@ -2,7 +2,7 @@
 title: "The Commands of Christ"
 excerpt: "A catalog of commands issued by Jesus Christ throughout the Bible."
 pinned: true
-last_modified_at: 2024-06-03T02:28:15
+last_modified_at: 2024-11-29T02:08:32
 toc: true
 toc_label: "On This Page"
 toc_icon: "book"
@@ -24,8 +24,11 @@ tags:
 <script src="/assets/js/random-quote-button.js"></script>
 
 <style>
-  .page__hero--overlay {
-      padding: 10em 0;
+  /* Apply styles only on tablets and larger devices */
+  @media (min-width: 768px) {
+      .page__hero--overlay {
+          padding: 10em 0;
+      }
   }
 
   article.page {
@@ -839,6 +842,11 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > Jesus answered, "Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. That which is born of the flesh is flesh, and that which is born of the Spirit is spirit. Do not marvel that I said to you, 'You must be born again'. The wind blows where it wishes, and you hear the sound of it, but cannot tell where it comes from and where it goes. So is everyone who is born of the Spirit".
 >
 > <cite>[John 3:5-8](https://www.biblegateway.com/passage/?search=John3:5-8&version=NKJV){:target="_blank"}</cite>
+
+
+> Do not work for food that spoils, but for food that endures to eternal life, which the Son of Man will give you. For on him God the Father has placed his seal of approval.
+>
+> <cite>[John 6:27](https://www.biblegateway.com/passage/?search=John6:27&version=NIV){:target="_blank"}</cite>
 
 
 > Do not judge according to appearance, but judge with righteous judgment.
