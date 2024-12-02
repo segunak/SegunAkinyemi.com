@@ -1,7 +1,7 @@
 ---
 title: "At Least I Was Entertained: Gladiator II Was Good, But It Could Have Been Great"
 excerpt: "A smorgasbord of Denzel Washington was more than enough to keep me entertained, but a curious central conflict, a lethargic leading man, and over-reliance on nostalgia left Gladiator II a pale reflection of the original masterpiece."
-last_modified_at: 2024-11-29T18:59:05
+last_modified_at: 2024-12-02T16:19:15
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -79,7 +79,7 @@ To start, Denzel Washington was good, great really. When I saw this in the previ
     <img class="gifformat"  alt="Denzel Handshake Gif" src="/assets/images/denzel-g2-handshake.gif"/>
 </p>
 
-Now to be honest, he played himself to a certain extent. A friend of mine (shoutout JL) noted that his performance felt like *Training Day* Denzel, just in ancient times. He was "[on one](https://www.urbandictionary.com/define.php?term=on+one)" the entire film, and I loved every minute of it. If you're a fan of Denzel, you'll love him in this movie. But if you were hoping for an ancient accent or mannerisms more appropriate to the time period, you might be let down. This isn't the first time Denzel has acted in a period piece and decided to just be himself—a choice that, in my opinion, ultimately benefits the film, as it did for *Gladiator II*. You can catch a similar approach in the 1993 film adaptation of Shakespeare's [*Much Ado About Nothing*](https://en.wikipedia.org/wiki/Much_Ado_About_Nothing_(1993_film)). He was marvelous in that, though he didn't bother much with an accent or fully acquiescing to the time period.
+Now to be honest, he played himself to a certain extent. A friend of mine (shoutout JL) noted that his performance felt like *Training Day* Denzel, just in ancient times. He was "[on one](https://www.urbandictionary.com/define.php?term=on+one)" the entire film, and I loved every minute of it. If you're a fan of Denzel, you'll love him in this movie. But if you were hoping for an ancient accent or mannerisms more appropriate to the time period, you might be let down. This isn't the first time Denzel has acted in a period piece and decided to just be himself—a choice that, in my opinion, ultimately benefits the film. You can catch a similar approach in the 1993 film adaptation of Shakespeare's [*Much Ado About Nothing*](https://en.wikipedia.org/wiki/Much_Ado_About_Nothing_(1993_film)). He was marvelous in that, though he didn't bother much with an accent or fully acquiescing to the time period.
 
 That being said, please do not lump Denzel Washington in with the likes of [Dwayne "The Rock" Johnson](https://en.wikipedia.org/wiki/Dwayne_Johnson), [Vin Diesel](https://en.wikipedia.org/wiki/Vin_Diesel), or [Ryan Reynolds](https://en.wikipedia.org/wiki/Ryan_Reynolds) as actors who play themselves in every movie. If you believe that, please [contact me](/contact), and I'll personally walk you through his catalog to convince you otherwise. It's simply not true. Denzel doesn't play himself in every movie. He has a character archetype, sure, but—much like Tom Cruise before he went full action movie star—Denzel has *range*. Don't get it twisted.
 
