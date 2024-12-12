@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-11-25T00:35:59
+last_modified_at: 2024-12-12T17:06:12
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -42,6 +42,13 @@ To start, it's worth getting familiar with the various terms and concepts associ
 > **Microsoft:** [10 AI Terms Everyone Should Know](https://news.microsoft.com/10-ai-terms/) & [10 More AI Terms Everyone Should Know](https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/)
 >
 These articles from Microsoft walk through a total of 20 terms that are fundamental to the AI field. They each stand out for being written in an approachable beginner-friendly way. Reading and understanding the content within them will help you speak confidently about AI (and sound smart to your friends) while navigating your learning journey.
+>
+> **Free or Paid:** Free.
+{: .notice--primary}
+
+> **MIT Sloan:** [How ChatGPT Works: A Non-Technical Primer](https://mitsloanedtech.mit.edu/ai/basics/how-chatgpt-works-a-non-technical-primer)  
+>
+This free video lecture from [MIT Sloan](https://mitsloan.mit.edu/), led by [Professor Rama Ramakrishnan](https://mitsloan.mit.edu/faculty/directory/rama-ramakrishnan), dives into how AI models like ChatGPT actually work. It covers the basics, like the "predict the next word" mechanism that drives these models, the massive datasets they’re trained on, and the neural networks that give them their conversational superpowers. You’ll also get a behind-the-scenes look at how GPT evolved from version 3 to ChatGPT, the surprising abilities it developed along the way, and what’s being done to tackle issues like bias and nonsensical outputs.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
