@@ -1,7 +1,7 @@
 ---
 title: "STEM Workshops: How To Train Your AI—Demystifying ChatGPT With Machine Learning, Neural Networks, and Deep Learning Basics"
 excerpt: "Demystify the concepts behind tools like ChatGPT with an approachable introduction to Machine Learning, Neural Networks, and Deep Learning, the foundations of AI."
-last_modified_at: 2024-12-12T06:26:34
+last_modified_at: 2024-12-12T15:09:17
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -9,7 +9,7 @@ toc_icon: "robot"
 header:
   teaser: /assets/images/how-to-train-your-dragon.jpg
   og_image: /assets/images/how-to-train-your-dragon.jpg
-  overlay_image: /assets/images/how-to-train-your-dragon.jpg
+  overlay_image: /assets/images/how-to-train-your-dragon-smaller.jpg
   overlay_filter: 0.7
 categories:
   - blog
