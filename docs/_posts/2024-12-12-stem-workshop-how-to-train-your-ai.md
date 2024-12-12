@@ -1,5 +1,5 @@
 ---
-title: "STEM Workshops: How To Train Your AI—Demystifying ChatGPT With Machine Learning, Neural Networks, and Deep Learning Basics"
+title: "STEM Workshops: How To Train Your AI: Demystifying ChatGPT With Machine Learning, Neural Networks, and Deep Learning Basics"
 excerpt: "Demystify the concepts behind tools like ChatGPT with an approachable introduction to Machine Learning, Neural Networks, and Deep Learning, the foundations of AI."
 last_modified_at: 2024-12-12T06:26:34
 toc: true
