@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-12-12T17:06:12
+last_modified_at: 2024-12-12T17:10:00
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -55,7 +55,7 @@ This free video lecture from [MIT Sloan](https://mitsloan.mit.edu/), led by [Pro
 
 > **Parand Tony Darugar:** [A Completely Non-Technical Explanation of AI and Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html) & [A Non-Technical Explanation of ChatGPT](https://www.parand.com/a-non-technical-explanation-of-chatgpt.html) & [A Non-Technical Explanation of ChatGPT: Deep Learning](https://www.parand.com/a-non-technical-explanation-of-chatgpt-deep-learning.html)
 >
-There's a wonderful series of articles by [Parand Tony Darugar](https://www.linkedin.com/in/parand/) that break down AI, machine learning, deep learning, ChatGPT, and related topics in clear, layman-friendly terms. As a seasoned technologist and serial entrepreneur, Darugar offers down-to-earth insights for anyone looking to truly understand how generative AI works—without the jargon and posturing.
+There's a wonderful series of articles by [Parand Tony Darugar](https://www.linkedin.com/in/parand/) that break down AI, machine learning, deep learning, ChatGPT, and related topics in clear, layman-friendly terms. As a seasoned technologist and serial entrepreneur, Darugar offers down-to-earth insights for anyone looking to truly understand how generative AI works—without the jargon and posturing. I developed an entire student-centric workshop based on how well he explains things in these articles, you can check it out [here](https://segunakinyemi.com/blog/stem-workshop-how-to-train-your-ai/).
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
