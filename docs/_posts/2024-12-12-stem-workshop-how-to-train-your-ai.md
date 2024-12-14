@@ -58,7 +58,7 @@ For students, no technical background is required. Those with some coding experi
 
 - The [facilitation resources](#facilitation-resources)
 - Pen and paper for all students.
-- A laptop with internet access (one per student or group of 3–4 students works best).
+- Laptops with internet access (one per student or group of 3–4 students works best).
 - A Microsoft account logged in on the laptops to access the [Visual Studio Code for Education](https://vscodeedu.com) project found [here](https://vscodeedu.com/Q4eHFHOieGscZpldANxN).
 
 ## Workshop Structure
