@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-12-17T00:22:44
+last_modified_at: 2024-12-17T00:47:52
 header:
   teaser: /assets/images/all-might-hero-graphic.png
   og_image: /assets/images/all-might-hero-graphic.png
@@ -62,7 +62,7 @@ If you're reading this and majored in English, Journalism, or Communications and
 
 When it comes to software development in this age of AI, we've blown past the [low-code movement](https://www.google.com/search?q=What+is+the+low+code+movement) into an era where it's easier than ever for people with just a bit of tech savvy—not necessarily a full computer science degree—to build custom software solutions. I'm talking about the kind of people who master tools like Excel, Tableau, Squarespace, Airtable, Wix, or Canva and create incredible things. Of course, actually understanding code is still essential if you want to build production-grade systems at global scale (the kind of work that earns you the big bucks in big tech), but most people aren't aiming for that. They just want to make a website, an app, or something functional for their own purposes—and it's never been easier to do so. And if you *are* interested in becoming a software developer, it's also easier than ever to use AI to learn coding. We're driving automatic now; the days of manual stick shift are quickly fading into the rear view.
 
-Or put another way, **you too can become a *<s>hero</s>* Software Developer**.
+Or put another way, **you too can become a *<s>hero</s>* software developer**.
 
 <p align="center">
     <img class="gifformat" alt="All Might: You Too Can Become A Hero" src="/assets/images/all-might-you-too-hero.gif"/>
