@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-12-12T17:10:00
+last_modified_at: 2024-12-17T00:22:43
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -33,7 +33,7 @@ While being undeniably [so hot right now](https://knowyourmeme.com/memes/x-is-so
 
 ## Wading In
 
-Most people have heard of AI in some way (ChatGPT, Midjourney, Firefly, Copilot, [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)), etc.), but if you want to get started with understanding what's going on under the hood, here are some good resources.
+Most people have heard of AI in some way ([ChatGPT](https://chatgpt.com/), [Copilot](https://copilot.microsoft.com/), [Gemini](https://gemini.google.com/app), [Claude](https://claude.ai/login?returnTo=%2F%3F), [Midjourney](https://www.midjourney.com/home), [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator))), but if you want to get started with understanding what's going on under the hood, here are some good resources.
 
 ### Layman's Terms
 
