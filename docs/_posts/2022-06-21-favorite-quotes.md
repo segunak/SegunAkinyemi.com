@@ -1,7 +1,7 @@
 ---
 title: "Favorite Quotes"
 excerpt: "A collection of awesome quotes from various sources."
-last_modified_at: 2024-11-19T16:54:28
+last_modified_at: 2024-12-22T14:50:19
 classes: wide
 header:
   teaser: /assets/images/coolkingdom.jpg
@@ -115,9 +115,9 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 > <cite>[Francis Scott Fitzgerald](https://www.goodreads.com/quotes/7452670-for-what-it-s-worth-it-s-never-too-late-or-in)</cite>
 
 
-> Only a fool tests the depth of water with both feet.
+> If you want to learn something, read about it. If you want to understand something, write about it. If you want to master something, teach it.
 >
-> <cite>[Nigerian Proverb](https://www.educationworld.com/a_tsl/TM/WS_african_proverbs.shtml)</cite>
+> <cite>[Yogi Bhajan](https://skeptics.stackexchange.com/questions/17873/did-harbhajan-singh-yogi-say-to-learn-something-read-about-it)</cite>
 
 
 > It is better to trust in the Lord than to put confidence in man.
