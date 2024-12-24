@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-12-24T18:19:46
+last_modified_at: 2024-12-24T19:08:36
 header:
   teaser: /assets/images/all-might-hero-graphic.png
   og_image: /assets/images/all-might-hero-graphic.png
@@ -144,8 +144,8 @@ Start with Python. It's the go-to language for data science, machine learning, a
 
 To start learning Python:
 
-* [Visual Studio Code for Education's Intro to Python Course](https://vscodeedu.com/courses/intro-to-python) - A **free** resource from Microsoft to start learning Python in a beginner friendly way. It's similar to Codeacademy listed below in terms of the tutorial style approach to teaching content. It's also worth noting that [Guido Van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum), the inventor of the Python programming language, [works at Microsoft](https://en.wikipedia.org/wiki/Guido_van_Rossum#Microsoft) these days.
-* [Codeacademy's Python Courses](https://www.codecademy.com/catalog/language/python) – This is the platform I used to learn coding when my liberal arts school, [Lindenwood University](https://en.wikipedia.org/wiki/Lindenwood_University), wasn't quite cutting it for me (still love em though). It's interactive and beginner-friendly.
+* [Visual Studio Code for Education's Intro to Python Course](https://vscodeedu.com/courses/intro-to-python) - A **free** resource from Microsoft to start learning Python in a beginner friendly way. It's similar to Codeacademy in terms of a tutorial style teaching approach. It's also worth noting that [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum), the creator of the Python programming language, [works at Microsoft](https://en.wikipedia.org/wiki/Guido_van_Rossum#Microsoft) these days.
+* [Codeacademy's Python Courses](https://www.codecademy.com/catalog/language/python) - This is the platform I used to learn coding when my liberal arts school, [Lindenwood University](https://en.wikipedia.org/wiki/Lindenwood_University), wasn't quite cutting it for me (still love em though). It's interactive and beginner-friendly.
 * Try Harvard's famous [CS50 Introduction to Programming with Python](https://cs50.harvard.edu/python/) course for a deeper dive into coding fundamentals. It's without question the most suggested "learn how to code" course industry wide.
 * Check out [r/learnpython](https://www.reddit.com/r/learnpython/wiki/index/#wiki_new_to_python.3F) for additional resources and community support.
 
