@@ -411,7 +411,7 @@ If you don't feel like scrolling through the entire webpage, you can generate a 
 > <cite>Book Two, Chapter 1</cite>
 
 
-> Nothing so mars and defiles he heart of man as impure attachment to created things.
+> Nothing so mars and defiles the heart of man as impure attachment to created things.
 >
 > <cite>Book Two, Chapter 1</cite>
 
