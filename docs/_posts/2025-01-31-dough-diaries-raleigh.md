@@ -1,7 +1,7 @@
 ---
 title: "Dough Diaries: On the Nature of Cinnamon Rolls in Raleigh, North Carolina"
 excerpt: "Join me on a journey through Raleigh's delightful cinnamon roll scene."
-last_modified_at: 2025-02-02T14:58:28
+last_modified_at: 2025-02-02T16:10:00
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -30,7 +30,7 @@ tags:
 
 ## We're Back
 
-Here we are again with another installment in my [Dough Diaries](https://segunakinyemi.com/tags/#dough-diaries) series, where I discuss my passion for cinnamon rolls in ways bordering on obsessive. If you've seen my [Jefferson City, Missouri](https://segunakinyemi.com/tags/#dough-diaries) edition, you know the drill: I love cinnamon rolls and consider them to be **the** apex pastry. That is not an overstatement. I speak without hyperbole. I [stand on business](https://www.urbandictionary.com/define.php?term=stand+on+business). If you disagree...
+Here we are again with another installment in my [Dough Diaries](https://segunakinyemi.com/tags/#dough-diaries) series, where I discuss my passion for cinnamon rolls in ways bordering on obsessive. If you've seen my [Jefferson City, Missouri](https://segunakinyemi.com/blog/dough-diaries-jefferson-city/) edition, you know the drill: I love cinnamon rolls and consider them to be **the** apex pastry. That is not an overstatement. I speak without hyperbole. I [stand on business](https://www.urbandictionary.com/define.php?term=stand+on+business). If you disagree...
 
 <p align="center">
   <img alt="Sydney The Bear WTF Look" src="/assets/images/sydney-the-bear-wtf-look.gif"/>
@@ -44,11 +44,31 @@ Since this is my first post of 2025, before diving into my pastry-related though
 
 Let me just say: Raleigh is a fantastic place. Between Raleigh proper, Cary, Durham, and Chapel Hill, there's so much to do and see, especially if your idea of fun doesn't revolve around the clubbing/nightlife vibe you'd find in cities like Atlanta, Houston, or Los Angeles. Raleigh feels like a big small town. The downtown area is compact—smaller even than Charlotte's—but downtown isn't what makes Raleigh shine. What's special are the surrounding neighborhoods, each with its own charm and attractions. The city also benefits from the presence of major (and [academically prestigious](https://en.wikipedia.org/wiki/Southern_Ivy)) universities like Duke, NC State, UNC Chapel Hill, and Wake Forest, which bring both youthful energy and economic opportunity to the region. That's why companies like Google, Apple, and Microsoft have set up shop in Raleigh, tapping into the talent pool through partnerships with [Research Triangle Park](https://www.rtp.org/).  
 
-Now, of everything I explored, the standout by far was NC State's [James B. Hunt Jr. Library](https://maps.app.goo.gl/faYL3Bharp2UkGgz7). As someone who loves libraries, visits them often, and tries to avoid sensationalism, I say this without hesitation: it's one of the best modern libraries I've ever seen. A pristine, contemporary aesthetic that's far from generic—spacious and airy, with a rooftop patio overlooking a lake, countless cozy nooks to settle into, and, because this is NC State, an engineering marvel in the form of their [bookBot](https://www.lib.ncsu.edu/hunt/bookbot)—a robotic retrieval system that feels straight out of a sci-fi movie.
+Now, of everything I explored, the standout by far was NC State's [James B. Hunt Jr. Library](https://maps.app.goo.gl/faYL3Bharp2UkGgz7). As someone who loves libraries, visits them often, and tries to avoid sensationalism, I say this without hesitation: it's one of the best modern libraries I've ever seen. A pristine, contemporary aesthetic that's far from generic—spacious and airy, with a rooftop patio overlooking a lake, countless cozy nooks to settle into, and, because this is NC State, an engineering marvel in the form of their [bookBot](https://www.lib.ncsu.edu/hunt/bookbot)—a robotic retrieval system that feels straight out of a sci-fi movie. Most importantly, it's free and open to the public. If you ever find yourself in Raleigh, alongside hunting for cinnamon rolls (which we're about to get into), make sure you visit Hunt Library. It's absolutely worth it.
 
-Most importantly, it's free and open to the public. If you ever find yourself in Raleigh, alongside hunting for cinnamon rolls (which we're about to get into), make sure you visit Hunt Library. It's absolutely worth it.  
+Now, let's talk about Raleigh's cinnamon roll scene.
 
-Now, let's talk about Raleigh's cinnamon roll scene. **The spots below are listed in no particular order.**
+## The Top Three
+
+If you're partial to short reads, you can stop here. I get it—I'm no stranger to verbosity, and our attention spans as a society are [undoubtedly shrinking under the influence of social media](https://www.researchgate.net/publication/385214649_This_is_Your_Brain_on_Social_Media_How_Social_Media_Use_is_Changing_our_Attention_Spans). But this is a personal blog, so you'll have to forgive me for eschewing brevity in favor of depth here in my corner of the Internet.
+
+That said, I have a philosophy when it comes to ranking: top three only. Beyond that, comparisons get murky—different styles, different strengths, different techniques. Rather than stress myself out with [Keith Lee](https://en.wikipedia.org/wiki/Keith_Lee_(food_critic)) style metrics, I keep it simple with a top three. Everything else is good in its own right, but harder to rank definitively.  
+
+So, here they are—**my top three cinnamon rolls spots in Raleigh**:  
+
+1. 🥇 [**The Market Bakery**](#the-market-bakery)  
+2. 🥈 [**Hereghty Heavenly Delicious**](#hereghty-heavenly-delicious)  
+3. 🥉 [**Morning Rolls**](#morning-rolls)  
+
+Click through to each section for the full review. Beyond these rankings, the sections below contain all the spots I visited, listed in no particular order.
+
+## Little Blue Bakehouse
+
+This place is very well designed, modern, clean, and aesthetically delightful. The kind of spot where every offering looks photogenic and every pastry is placed just so. It's also home to a _massive_ cinnamon roll. They do not skimp on size, nor do they skimp on cream cheese frosting.
+
+Now, the roll itself? A bit underwhelming. The texture leans firm, even after warming. The cream cheese frosting, while abundant, could have been sweeter. A good cinnamon roll, but not a great one. Still, worth a stop if you're in the area and appreciate a well curated café space.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.86521253097!2d-78.60680372465899!3d35.7786871725559!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ac5f932a1a66dd%3A0x35d9fcd4b9e3e9bb!2sLittle%20Blue%20Bakehouse!5e0!3m2!1sen!2sus!4v1738377614093!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Morning Rolls  
 
@@ -67,12 +87,6 @@ However, no exploration of Raleigh's cinnamon roll scene feels complete without 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3233.9466265504175!2d-78.6178646246554!3d35.85031227253312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ac5953ff807e97%3A0x3551e235dc60adf2!2sMorning%20Rolls!5e0!3m2!1sen!2sus!4v1738376503197!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Hereghty Heavenly Delicious  
-
-Truly heavenly. The roll is large, the icing is abundant, and the texture is phenomenal—flaky like a croissant but structured enough to maintain integrity. Sweet but not overwhelmingly so. It tastes just as good warm as it does cold, which is a rare achievement in the cinnamon roll world. Before I tried [_The Market Bakery_](#the-market-bakery), this was my undisputed #1 in Raleigh. Worth a visit—not just for the cinnamon roll, but for the atmosphere. I spent a few hours here working on my laptop, then reading, pondering, moseying may way towards the New Year. The space has a calming presence—cozy, with dim, warm lighting and compact seating that feels snug rather than cramped. A great spot all around!
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.38558041476!2d-78.66322062465716!3d35.81501437254449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89acf6011a8b4b63%3A0x2120ec91478b9410!2sHereghty%20Heavenly%20Delicious!5e0!3m2!1sen!2sus!4v1738372147121!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 ## Boulted Bread
 
 I don't know if this is a consistent thing, but on the day I visited, they didn't have a proper cinnamon roll. What they did have was a morning bun—close, but not the same. As you might have gathered from the sheer existence of this blog post, I'm a bit of a stickler when it comes to cinnamon rolls, particularly the accuracy of the nomenclature surrounding their identification.  
@@ -87,6 +101,12 @@ And for good measure, [College Park is not Atlanta](https://www.google.com/searc
 Now to be fair, Boulted Bread has an excellent local reputation and fantastic pastries overall. I'm fairly certain they occasionally carry cinnamon rolls—I got the recommendation to check them out from someone who swore by them. With that in mind, [your mission, should you choose to accept it](https://www.google.com/search?q=Your+mission%2C+should+you+choose+to+accept+it+Mission+Impossible), is to visit Boulted Bread if you're ever in Raleigh and report back. If you do find cinnamon rolls, get one for yourself, and save one for me!
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6473.918659441954!2d-78.65106572465916!3d35.77637537255669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ac5f7976b53abd%3A0xe6ace8e09f4f178b!2sBoulted%20Bread!5e0!3m2!1sen!2sus!4v1738346384084!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Hereghty Heavenly Delicious  
+
+Truly heavenly. The roll is large, the icing is abundant, and the texture is phenomenal—flaky like a croissant but structured enough to maintain integrity. Sweet but not overwhelmingly so. It tastes just as good warm as it does cold, which is a rare achievement in the cinnamon roll world. Before I tried [_The Market Bakery_](#the-market-bakery), this was my undisputed #1 in Raleigh. Worth a visit—not just for the cinnamon roll, but for the atmosphere. I spent a few hours here working on my laptop, then reading, pondering, moseying may way towards the New Year. The space has a calming presence—cozy, with dim, warm lighting and compact seating that feels snug rather than cramped. A great spot all around!
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.38558041476!2d-78.66322062465716!3d35.81501437254449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89acf6011a8b4b63%3A0x2120ec91478b9410!2sHereghty%20Heavenly%20Delicious!5e0!3m2!1sen!2sus!4v1738372147121!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## The Market Bakery
 
@@ -111,14 +131,6 @@ The icing is applied with a true artisan's precision—generous but never excess
 If you're ever in Raleigh, you must come here. Every other place in this article can be ignored—this alone is worth the journey. But heed my warning: _arrive early_. This is a known commodity, and if you delay, you may find yourself standing in front of an empty display case, mourning what could have been. Move with all manner of immediate speed, and secure for yourself a cinnamon roll so celestial, so exquisitely formed, that it could bring even the most hardened of souls to their knees in reverence.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3237.4964719535!2d-78.66591352465983!3d35.76317907256096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89acf5a7a549fff1%3A0xd808862ea2e41ed!2sThe%20Market%20Bakery!5e0!3m2!1sen!2sus!4v1738356192587!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-## Little Blue Bakehouse
-
-This place is very well designed, modern, clean, and aesthetically delightful. The kind of spot where every offering looks photogenic and every pastry is placed just so. It's also home to a _massive_ cinnamon roll. They do not skimp on size, nor do they skimp on cream cheese frosting.
-
-Now, the roll itself? A bit underwhelming. The texture leans firm, even after warming. The cream cheese frosting, while abundant, could have been sweeter. A good cinnamon roll, but not a great one. Still, worth a stop if you're in the area and appreciate a well curated café space.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.86521253097!2d-78.60680372465899!3d35.7786871725559!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ac5f932a1a66dd%3A0x35d9fcd4b9e3e9bb!2sLittle%20Blue%20Bakehouse!5e0!3m2!1sen!2sus!4v1738377614093!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Deja Brew Coffee House  
 

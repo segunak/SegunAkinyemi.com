@@ -1,7 +1,7 @@
 ---
 title: "Dough Diaries: On the Nature of Cinnamon Rolls in Jefferson City, Missouri"
 excerpt: "Read on to discover one man's journey through the cinnamon roll scene of Jefferson City, Missouri."
-last_modified_at: 2025-02-02T02:45:01
+last_modified_at: 2025-02-02T16:10:00
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -54,6 +54,22 @@ Lincoln University was memorable for fielding an almost entirely Caribbean track
 
 Well, as it happens, quiet and boring is my specialty. I lead a quiet life that—by the standards of social media—might seem dull. But to me, it's a good life, a peaceful one. Quiet and boring towns, and people, hold a special place in my heart, Jefferson City among them. I took my family there for the 2023 holidays and found it exactly as described, much to my delight. Quaint, slow-going, down to earth, and most importantly, filled to the brim with excellent cinnamon roll spots. So much so that I'm writing about it a year later. Without further ado, here they are—the cinnamon roll spots I visited in Jefferson City, Missouri.
 
+## The Top Three
+
+This is as far as I'll go in terms of ranking the spots I visited. Once you go beyond a top three, things get murky, hard to define, a bit too subjective. So, here are my top three cinnamon roll spots in Jefferson City, Missouri:
+
+1. 🥇 [**Yanis Coffee Zone**](#yanis-coffee-zone)
+2. 🥈 [**Plate & Pour**](#plate--pour)
+3. 🥉 [**Schulte's Fresh Foods**](#schultes-fresh-foods)
+
+Click through to each section for the full review. Beyond these rankings, the sections below contain all the spots I visited, listed in no particular order.
+
+## Perkins American Food Co.
+
+Really large cinnamon rolls, jumbo-sized, but size isn't everything. These were alright. My family shared the same opinion, with some of them having harsher reviews than what I'm willing to publish on this generally positive and upbeat blog I like to keep. Where they excel though is with omelettes. The omelettes were fire, and we did actually end up ordering again here—not for cinnamon rolls, but for omelettes. We all have our talents; cinnamon rolls may not be theirs, but those omelettes—exceptional.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.039836464265!2d-92.19841062451431!3d38.55589597179904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5e9b04c40ddf%3A0x333fe53c06c30ccd!2sPerkins%20American%20Food%20Co.!5e0!3m2!1sen!2sus!4v1731978599856!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ## Yanis Coffee Zone
 
 I fell in love with this place. During my stay, I became a regular—not only for their cinnamon rolls but also for the family-oriented homey vibes. It was easy to find an outlet, the free Wi-Fi was fast, they offered tea in addition to coffee, and they had a full-fledged, restaurant-level food menu. But most importantly, they had cinnamon rolls. They were beyond good, beyond great, beyond excellent even. A different word is needed. At the risk of sounding pretentious, I'll go with _sublime_.
@@ -64,29 +80,17 @@ I spent some of my final hours in Jefferson City during that holiday period here
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6238.323628762869!2d-92.17413592451324!3d38.576121371794414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5e44645bacbd%3A0x5a183e9887853320!2sYanis%20Coffee%20Zone!5e0!3m2!1sen!2sus!4v1731978356874!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Plate & Pour
-
-They win the creativity award for cinnamon rolls in Jefferson City. They had a very unique cinnamon roll with a maple/caramel-like icing that was awesome. Warmed up very well. This spot also wins the aesthetic award of all the cinnamon roll spots I visited. Very bright, warm, inviting decor. A lot of effort was clearly put into making this place look good. The cinnamon roll also stood out. It was gooey—in a good way, not in the "they didn't let this bake long enough" way. Good stuff all around.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3119.255116225494!2d-92.17115262451343!3d38.573972571794926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5fa4ea03a9f3%3A0xd0e90fc16f93dc5b!2sPlate%20%26%20Pour!5e0!3m2!1sen!2sus!4v1731978383703!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-## Schulte's Fresh Foods
-
-They had so many cinnamon roll options here I wasn't able to reasonably try them all during my stay. There's a bakery section in the store with a case the length of a rather long wall filled with freshly baked pastries, and an entire section dedicated to cinnamon rolls. It's almost as if they let the bakers try out different kinds of cinnamon rolls to see what works. I tried at least three different types: icing, cream cheese, and some sort of tres leches fusion, and there were still a handful of others I didn't get to. Locals also let me know this is the best place in town to get donuts. The baking team here goes hard. Everything here was good.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.129655369176!2d-92.20298132451447!3d38.5538264717994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5e994a24de9f%3A0x7fbdc07df18f3d29!2sSchulte&#39;s%20Fresh%20Foods!5e0!3m2!1sen!2sus!4v1731978481846!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-## Perkins American Food Co.
-
-Really large cinnamon rolls, jumbo-sized, but size isn't everything. These were alright. My family shared the same opinion, with some of them having harsher reviews than what I'm willing to publish on this generally positive and upbeat blog I like to keep. Where they excel though is with omelettes. The omelettes were fire, and we did actually end up ordering again here—not for cinnamon rolls, but for omelettes. We all have our talents; cinnamon rolls may not be theirs, but those omelettes—exceptional.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.039836464265!2d-92.19841062451431!3d38.55589597179904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5e9b04c40ddf%3A0x333fe53c06c30ccd!2sPerkins%20American%20Food%20Co.!5e0!3m2!1sen!2sus!4v1731978599856!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 ## Scooters Coffee
 
 This is a chain that can be found throughout the Midwest. I first discovered them during the summer of 2016 in Omaha, Nebraska. I was there for an internship and—given that I was limited to public transportation—didn't do much cinnamon roll exploring. Scooter's was my rock during that time. The working man's cinnamon roll is what I'd call this. It's good; it won't (and shouldn't) win any awards, but it's good. Dependable. Reliable. It's a drive-through, so it's like a grab-and-go cinnamon roll.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3118.9377556736235!2d-92.21362862451296!3d38.58128117179327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5f27c1064501%3A0x3602682185f443d4!2sScooter&#39;s%20Coffee!5e0!3m2!1sen!2sus!4v1731978625222!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Plate & Pour
+
+They win the creativity award for cinnamon rolls in Jefferson City. They had a very unique cinnamon roll with a maple/caramel-like icing that was awesome. Warmed up very well. This spot also wins the aesthetic award of all the cinnamon roll spots I visited. Very bright, warm, inviting decor. A lot of effort was clearly put into making this place look good. The cinnamon roll also stood out. It was gooey—in a good way, not in the "they didn't let this bake long enough" way. Good stuff all around.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3119.255116225494!2d-92.17115262451343!3d38.573972571794926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5fa4ea03a9f3%3A0xd0e90fc16f93dc5b!2sPlate%20%26%20Pour!5e0!3m2!1sen!2sus!4v1731978383703!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Hy-Vee
 
@@ -99,6 +103,12 @@ A grocery store chain found throughout the country, but not everywhere, so seein
 They served an impressively large cinnamon roll, but they were a bit sparing with the icing. The taste leaned more toward a coffee roll—which, despite plebeians mistaking the two, is not the same as a proper cinnamon roll—than what I was hoping for. It was good but could've used more icing. However, the value of this spot as a "third place" in the city was second only to Yanis Coffee Zone for me. I ended up bringing my family here to hang out and enjoy the vibes.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6238.305782501838!2d-92.17453972451327!3d38.57632687179437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5f01d625cea5%3A0x85bb2f37aa6d18bb!2sHigh%20Rise%20Bakery!5e0!3m2!1sen!2sus!4v1731978720179!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Schulte's Fresh Foods
+
+They had so many cinnamon roll options here I wasn't able to reasonably try them all during my stay. There's a bakery section in the store with a case the length of a rather long wall filled with freshly baked pastries, and an entire section dedicated to cinnamon rolls. It's almost as if they let the bakers try out different kinds of cinnamon rolls to see what works. I tried at least three different types: icing, cream cheese, and some sort of tres leches fusion, and there were still a handful of others I didn't get to. Locals also let me know this is the best place in town to get donuts. The baking team here goes hard. Everything here was good.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.129655369176!2d-92.20298132451447!3d38.5538264717994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5e994a24de9f%3A0x7fbdc07df18f3d29!2sSchulte&#39;s%20Fresh%20Foods!5e0!3m2!1sen!2sus!4v1731978481846!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Love Coffee
 
