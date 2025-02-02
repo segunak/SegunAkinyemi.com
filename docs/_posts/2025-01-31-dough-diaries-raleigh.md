@@ -1,7 +1,7 @@
 ---
 title: "Dough Diaries: On the Nature of Cinnamon Rolls in Raleigh, North Carolina"
 excerpt: "Join me on a journey through Raleigh's delightful cinnamon roll scene."
-last_modified_at: 2025-02-02T02:45:01
+last_modified_at: 2025-02-02T14:13:35
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -54,7 +54,16 @@ Now, let's talk about Raleigh's cinnamon roll scene. **The spots below are liste
 
 This place was highly recommended by locals and denizens of [r/raleigh](https://www.reddit.com/r/raleigh/) alike. Cinnamon rolls aren't just something they offer; they're what they _do_. They are to cinnamon rolls what Dwayne "The Rock" Johnson is to actors playing themselves in movies—it's their specialty. And yet, I didn't love it. I tried, and while I enjoyed it, I just couldn't feel the fervor others seemed to have for their particular brand of cinnamon roll.
 
-It's good, but it leans dry. The icing doesn't quite melt into the roll; it stays caked on top. The flavor is strong, and I respect their craft, but I prefer a bit more gooey texture in a warmed roll. Objectively, it's high quality. Subjectively...yeah, [it's a no from me dawg](https://knowyourmeme.com/photos/1370777-american-idol). However, no exploration of Raleigh's cinnamon roll scene feels complete without a stop at Morning Rolls, considering their reputation and the fact that they've won [several awards](https://www.instagram.com/p/DBoJsweRNQp). If you're in the area, certainly give them a try!
+It's good, but it leans dry. The icing doesn't quite melt into the roll; it stays caked on top. The flavor is strong, and I respect their craft, but I prefer a bit more gooey texture in a warmed roll. Objectively, it's high quality. Subjectively, yeah...
+
+<p align="center">
+  <img alt="WTF Look" style="width:70%" src="/assets/images/NoFromMeDawg.jpg"/>
+</p>
+
+**Side Note:** If you didn't get that reference, I'm sorry to say you missed a great era of television, but [here you go](https://www.google.com/search?q=Randy+Jackson+American+Idol+It%27s+a+No+From+Me+Dawg+Origin).
+{: .notice--info}
+
+However, no exploration of Raleigh's cinnamon roll scene feels complete without a stop at Morning Rolls, considering their reputation and the fact that they've won [several awards](https://www.instagram.com/p/DBoJsweRNQp). If you're in the area, certainly give them a try!
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3233.9466265504175!2d-78.6178646246554!3d35.85031227253312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ac5953ff807e97%3A0x3551e235dc60adf2!2sMorning%20Rolls!5e0!3m2!1sen!2sus!4v1738376503197!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe>
 

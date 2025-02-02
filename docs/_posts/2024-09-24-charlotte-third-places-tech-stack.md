@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "coffee"
-last_modified_at: 2024-09-30T14:53:30
+last_modified_at: 2025-02-02T14:13:35
 header:
   teaser: /assets/images/skyline-vibrant.jpeg
 categories:
@@ -75,7 +75,7 @@ Here are the backend software development tools used to build this project.
 
 ### Airtable
 
-The data storage solution. I started with the notes app on my phone before moving to Airtable. I then second guessed my decision and spent some time writing a [NoSQL](https://en.wikipedia.org/wiki/NoSQL) Firebase [Firestore](https://firebase.google.com/products/firestore) solution. I quickly realized Firestore wasn't the answer when I found myself writing custom rules to support consistent schemas across documents. NoSQL is a great (*[webscale](https://www.youtube.com/watch?v=b2F-DItXtZs)*) solution for unstructured data, like social media, but that wasn't what I was dealing with, so it wasn't for me. If you ever find yourself considering NoSQL, and Firestore specifically, read these articles first. They helped me reach a "[it's a no from me dawg](https://knowyourmeme.com/photos/1370777-american-idol)" place of enlightenment.
+The data storage solution. I started with the notes app on my phone before moving to Airtable. I then second guessed my decision and spent some time writing a [NoSQL](https://en.wikipedia.org/wiki/NoSQL) Firebase [Firestore](https://firebase.google.com/products/firestore) solution. I quickly realized Firestore wasn't the answer when I found myself writing custom rules to support consistent schemas across documents. NoSQL is a great (*[webscale](https://www.youtube.com/watch?v=b2F-DItXtZs)*) solution for unstructured data, like social media, but that wasn't what I was dealing with, so it wasn't for me. If you ever find yourself considering NoSQL, and Firestore specifically, read these articles first. They helped me reach a "[it's a no from me dawg](https://www.google.com/search?q=Randy+Jackson+American+Idol+It%27s+a+No+From+Me+Dawg+Origin)" place of enlightenment.
 
 * [Why Firestore, Part I: Reasons to Love It](https://leancode.co/blog/why-firestore-firebase-pros-cons-reasons-to-love-it-part-i)
 * [Why Firestore, Part II: Reasons to Hate It](https://leancode.co/blog/why-firestore-part-2-reasons-to-hate-it)
@@ -116,7 +116,7 @@ Here's other stuff that was used for this project.
 
 Here's some tools I explored but ultimately didn't use for the project.
 
-* [React Native](https://reactnative.dev/) - My first thought for this project was to make it a cross-platform application. Web, iOS, and Android, all using 1 codebase. I did a lot of React Native vs. Flutter research and settled on React Native after some [drama](https://news.ycombinator.com/item?id=38381573) in the Flutter community regarding Google's direction for the project. After about a month of working with React Native (and [Expo](https://expo.dev/), which is actually great), I was like, [it's a no from me dawg](https://knowyourmeme.com/photos/1370777-american-idol). This is a side project. A passion project. A hobby project. React Native was giving me headaches I just couldn't justify for something I wanted to work on for fun. Pivoting to a *simple* React website made development a lot more fun.
+* [React Native](https://reactnative.dev/) - My first thought for this project was to make it a cross-platform application. Web, iOS, and Android, all using 1 codebase. I did a lot of React Native vs. Flutter research and settled on React Native after some [drama](https://news.ycombinator.com/item?id=38381573) in the Flutter community regarding Google's direction for the project. After about a month of working with React Native (and [Expo](https://expo.dev/), which is actually great), I was like, [it's a no from me dawg](https://www.google.com/search?q=Randy+Jackson+American+Idol+It%27s+a+No+From+Me+Dawg+Origin). This is a side project. A passion project. A hobby project. React Native was giving me headaches I just couldn't justify for something I wanted to work on for fun. Pivoting to a *simple* React website made development a lot more fun.
 * [Flutter](https://flutter.dev/) - I'll start by saying, any framework made or maintained by Google gives me anxiety. Their infamous reputation for killing products has impacted me more than once. I'm scarred, as are many others. Just check out the [Google Graveyard](https://killedbygoogle.com/) to see some examples. That being said, I gave Flutter a full unbiased evaluation, and there was a lot to like, and some stuff to be concerned about. This [article](https://stackoverflow.blog/2022/10/31/comparing-frameworks-for-cross-platform-apps-flutter-vs-react-native/) from Stack Overflow helped a lot in my evaluation. Another thing that increased my apprehension with Flutter is its use of [Dart](https://dart.dev/). It's just not a language I was looking to build expertise in. Read through [this thread](https://www.reddit.com/r/dartlang/comments/11xe6sz/why_isnt_dart_used_more/) for commentary on why it isn't more used as a programming language.
 
 ## Closing Thoughts
