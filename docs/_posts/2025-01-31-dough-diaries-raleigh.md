@@ -57,7 +57,7 @@ This place was highly recommended by locals and denizens of [r/raleigh](https://
 It's good, but it leans dry. The icing doesn't quite melt into the roll; it stays caked on top. The flavor is strong, and I respect their craft, but I prefer a bit more gooey texture in a warmed roll. Objectively, it's high quality. Subjectively, yeah...
 
 <p align="center">
-  <img alt="WTF Look" style="width:70%" src="/assets/images/NoFromMeDawg.jpg"/>
+  <img alt="no from me" src="/assets/images/NoFromMeDawg.jpg"/>
 </p>
 
 **Side Note:** If you didn't get that reference, I'm sorry to say you missed a great era of television, but [here you go](https://www.google.com/search?q=Randy+Jackson+American+Idol+It%27s+a+No+From+Me+Dawg+Origin).
