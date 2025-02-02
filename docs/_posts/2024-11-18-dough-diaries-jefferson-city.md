@@ -1,7 +1,7 @@
 ---
 title: "Dough Diaries: On the Nature of Cinnamon Rolls in Jefferson City, Missouri"
 excerpt: "Read on to discover one man's journey through the cinnamon roll scene of Jefferson City, Missouri."
-last_modified_at: 2024-11-29T02:08:33
+last_modified_at: 2025-02-02T02:45:01
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -62,49 +62,49 @@ Visually, the roll was unimpressive. It wasn't a perfect circle; it was somewhat
 
 I spent some of my final hours in Jefferson City during that holiday period here—writing a year-in-review reflection, quietly meditating, reading my Bible, and savoring a cinnamon roll. This place is exceptional—locally owned, authentic, down to earth. The staff were incredibly kind, and the owner frequently roamed the shop, chatting with regulars. An awesome spot.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6238.323628762869!2d-92.17413592451324!3d38.576121371794414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5e44645bacbd%3A0x5a183e9887853320!2sYanis%20Coffee%20Zone!5e0!3m2!1sen!2sus!4v1731978356874!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6238.323628762869!2d-92.17413592451324!3d38.576121371794414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5e44645bacbd%3A0x5a183e9887853320!2sYanis%20Coffee%20Zone!5e0!3m2!1sen!2sus!4v1731978356874!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Plate & Pour
 
 They win the creativity award for cinnamon rolls in Jefferson City. They had a very unique cinnamon roll with a maple/caramel-like icing that was awesome. Warmed up very well. This spot also wins the aesthetic award of all the cinnamon roll spots I visited. Very bright, warm, inviting decor. A lot of effort was clearly put into making this place look good. The cinnamon roll also stood out. It was gooey—in a good way, not in the "they didn't let this bake long enough" way. Good stuff all around.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3119.255116225494!2d-92.17115262451343!3d38.573972571794926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5fa4ea03a9f3%3A0xd0e90fc16f93dc5b!2sPlate%20%26%20Pour!5e0!3m2!1sen!2sus!4v1731978383703!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3119.255116225494!2d-92.17115262451343!3d38.573972571794926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5fa4ea03a9f3%3A0xd0e90fc16f93dc5b!2sPlate%20%26%20Pour!5e0!3m2!1sen!2sus!4v1731978383703!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Schulte's Fresh Foods
 
 They had so many cinnamon roll options here I wasn't able to reasonably try them all during my stay. There's a bakery section in the store with a case the length of a rather long wall filled with freshly baked pastries, and an entire section dedicated to cinnamon rolls. It's almost as if they let the bakers try out different kinds of cinnamon rolls to see what works. I tried at least three different types: icing, cream cheese, and some sort of tres leches fusion, and there were still a handful of others I didn't get to. Locals also let me know this is the best place in town to get donuts. The baking team here goes hard. Everything here was good.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.129655369176!2d-92.20298132451447!3d38.5538264717994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5e994a24de9f%3A0x7fbdc07df18f3d29!2sSchulte&#39;s%20Fresh%20Foods!5e0!3m2!1sen!2sus!4v1731978481846!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.129655369176!2d-92.20298132451447!3d38.5538264717994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5e994a24de9f%3A0x7fbdc07df18f3d29!2sSchulte&#39;s%20Fresh%20Foods!5e0!3m2!1sen!2sus!4v1731978481846!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Perkins American Food Co.
 
 Really large cinnamon rolls, jumbo-sized, but size isn't everything. These were alright. My family shared the same opinion, with some of them having harsher reviews than what I'm willing to publish on this generally positive and upbeat blog I like to keep. Where they excel though is with omelettes. The omelettes were fire, and we did actually end up ordering again here—not for cinnamon rolls, but for omelettes. We all have our talents; cinnamon rolls may not be theirs, but those omelettes—exceptional.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.039836464265!2d-92.19841062451431!3d38.55589597179904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5e9b04c40ddf%3A0x333fe53c06c30ccd!2sPerkins%20American%20Food%20Co.!5e0!3m2!1sen!2sus!4v1731978599856!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3120.039836464265!2d-92.19841062451431!3d38.55589597179904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5e9b04c40ddf%3A0x333fe53c06c30ccd!2sPerkins%20American%20Food%20Co.!5e0!3m2!1sen!2sus!4v1731978599856!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Scooters Coffee
 
 This is a chain that can be found throughout the Midwest. I first discovered them during the summer of 2016 in Omaha, Nebraska. I was there for an internship and—given that I was limited to public transportation—didn't do much cinnamon roll exploring. Scooter's was my rock during that time. The working man's cinnamon roll is what I'd call this. It's good; it won't (and shouldn't) win any awards, but it's good. Dependable. Reliable. It's a drive-through, so it's like a grab-and-go cinnamon roll.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3118.9377556736235!2d-92.21362862451296!3d38.58128117179327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5f27c1064501%3A0x3602682185f443d4!2sScooter&#39;s%20Coffee!5e0!3m2!1sen!2sus!4v1731978625222!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3118.9377556736235!2d-92.21362862451296!3d38.58128117179327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5f27c1064501%3A0x3602682185f443d4!2sScooter&#39;s%20Coffee!5e0!3m2!1sen!2sus!4v1731978625222!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Hy-Vee
 
 A grocery store chain found throughout the country, but not everywhere, so seeing one of these was special to me during my time in Jefferson City. The cinnamon rolls were alright. Grocery store bakery section cinnamon rolls are hit and miss. These were largely forgettable. I wasn't expecting much; I went here really because I'd never been to a Hy-Vee and wanted to check it out.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6237.297559911118!2d-92.25622932451263!3d38.58793507179176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5903afb1b5a5%3A0x485afc92e86485f6!2sHy-Vee%20Grocery%20Store!5e0!3m2!1sen!2sus!4v1731978657426!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6237.297559911118!2d-92.25622932451263!3d38.58793507179176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5903afb1b5a5%3A0x485afc92e86485f6!2sHy-Vee%20Grocery%20Store!5e0!3m2!1sen!2sus!4v1731978657426!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## High Rise Bakery
 
 They served an impressively large cinnamon roll, but they were a bit sparing with the icing. The taste leaned more toward a coffee roll—which, despite plebeians mistaking the two, is not the same as a proper cinnamon roll—than what I was hoping for. It was good but could've used more icing. However, the value of this spot as a "third place" in the city was second only to Yanis Coffee Zone for me. I ended up bringing my family here to hang out and enjoy the vibes.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6238.305782501838!2d-92.17453972451327!3d38.57632687179437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5f01d625cea5%3A0x85bb2f37aa6d18bb!2sHigh%20Rise%20Bakery!5e0!3m2!1sen!2sus!4v1731978720179!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6238.305782501838!2d-92.17453972451327!3d38.57632687179437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87db5f01d625cea5%3A0x85bb2f37aa6d18bb!2sHigh%20Rise%20Bakery!5e0!3m2!1sen!2sus!4v1731978720179!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Love Coffee
 
 This spot isn't in Jefferson City; it's in nearby Columbia, Missouri. I stopped by on my way out of town—the airport's in Columbia. The cinnamon roll was great. So a step above good, but a tad below effusive praise like "sublime" or "exceptional". What stood out most here was how nice the staff was. I hung out for an hour or so before leaving for the airport, and they came by several times to make sure I had everything I needed. The couches here are really comfy as well.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12408.755574687697!2d-92.3370007!3d38.9653546!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87dcc981cb743b7b%3A0xcdfc5ae1b5622942!2sLove%20Coffee!5e0!3m2!1sen!2sus!4v1731978183852!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12408.755574687697!2d-92.3370007!3d38.9653546!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87dcc981cb743b7b%3A0xcdfc5ae1b5622942!2sLove%20Coffee!5e0!3m2!1sen!2sus!4v1731978183852!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Final Thoughts
 
