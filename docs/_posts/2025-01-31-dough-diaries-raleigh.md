@@ -1,7 +1,7 @@
 ---
 title: "Dough Diaries: On the Nature of Cinnamon Rolls in Raleigh, North Carolina"
 excerpt: "Join me on a journey through Raleigh's delightful cinnamon roll scene."
-last_modified_at: 2025-02-02T14:13:35
+last_modified_at: 2025-02-02T14:58:28
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -33,7 +33,7 @@ tags:
 Here we are again with another installment in my [Dough Diaries](https://segunakinyemi.com/tags/#dough-diaries) series, where I discuss my passion for cinnamon rolls in ways bordering on obsessive. If you've seen my [Jefferson City, Missouri](https://segunakinyemi.com/tags/#dough-diaries) edition, you know the drill: I love cinnamon rolls and consider them to be **the** apex pastry. That is not an overstatement. I speak without hyperbole. I [stand on business](https://www.urbandictionary.com/define.php?term=stand+on+business). If you disagree...
 
 <p align="center">
-  <img alt="WTF Look" style="width:70%" src="/assets/images/sydney-the-bear-wtf-look.gif"/>
+  <img alt="Sydney The Bear WTF Look" src="/assets/images/sydney-the-bear-wtf-look.gif"/>
 </p>
 
 Nah, just joking, it's okay. I respect your right to be wrong. That's the foundation of an intellectually honest society—one where we gather, exchange ideas, debate opinions, and engage with even the most catastrophically misguided perspectives, all while hoping reason prevails and the wayward eventually find their way to the truth. So, it's fine if you disagree with my _unyieldingly dogmatic_ stance on cinnamon rolls. It is, after all, [the mark of an educated mind to be able to entertain a thought without accepting it](https://www.google.com/search?q=the+mark+of+an+educated+mind+to+be+able+to+entertain+a+thought+without+accepting+it). I do hope though that you'll one day see the light. Probably after a bite of the perfect cinnamon roll, which might just be found in Raleigh, North Carolina.
