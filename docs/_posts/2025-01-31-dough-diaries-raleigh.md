@@ -1,7 +1,7 @@
 ---
 title: "Dough Diaries: On the Nature of Cinnamon Rolls in Raleigh, North Carolina"
 excerpt: "Join me on a journey through Raleigh's delightful cinnamon roll scene."
-last_modified_at: 2025-02-01T15:44:49
+last_modified_at: 2025-02-02T02:37:16
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -44,7 +44,9 @@ Since this is my first post of 2025, before diving into my pastry-related though
 
 Let me just say: Raleigh is a fantastic place. Between Raleigh proper, Cary, Durham, and Chapel Hill, there's so much to do and see, especially if your idea of fun doesn't revolve around the clubbing/nightlife vibe you'd find in cities like Atlanta, Houston, or Los Angeles. Raleigh feels like a big small town. The downtown area is compact—smaller even than Charlotte's—but downtown isn't what makes Raleigh shine. What's special are the surrounding neighborhoods, each with its own charm and attractions. The city also benefits from the presence of major (and [academically prestigious](https://en.wikipedia.org/wiki/Southern_Ivy)) universities like Duke, NC State, UNC Chapel Hill, and Wake Forest, which bring both youthful energy and economic opportunity to the region. That's why companies like Google, Apple, and Microsoft have set up shop in Raleigh, tapping into the talent pool through partnerships with [Research Triangle Park](https://www.rtp.org/).  
 
-Now, of everything I explored, the standout by far was NC State's [James B. Hunt Jr. Library](https://maps.app.goo.gl/faYL3Bharp2UkGgz7). As someone who loves libraries, visits them often, and tries to avoid sensationalism, I say this without hesitation: it's the best library I've ever seen. Modern yet still having smatterings of classic aesthetics, spacious and airy, with a stunning rooftop patio overlooking a lake, countless cozy nooks to settle into, and—because this is NC State—an engineering marvel in the form of their [bookBot](https://www.lib.ncsu.edu/hunt/bookbot), a robotic retrieval system that feels straight out of a sci-fi movie. Most importantly, it's free and open to the public. If you ever find yourself in Raleigh, alongside hunting for cinnamon rolls (which we're about to get into), make sure you visit Hunt Library. It's absolutely worth it.  
+Now, of everything I explored, the standout by far was NC State's [James B. Hunt Jr. Library](https://maps.app.goo.gl/faYL3Bharp2UkGgz7). As someone who loves libraries, visits them often, and tries to avoid sensationalism, I say this without hesitation: it's one of the best modern libraries I've ever seen. A pristine, contemporary aesthetic that's far from generic—spacious and airy, with a rooftop patio overlooking a lake, countless cozy nooks to settle into, and, because this is NC State, an engineering marvel in the form of their [bookBot](https://www.lib.ncsu.edu/hunt/bookbot)—a robotic retrieval system that feels straight out of a sci-fi movie.
+
+Most importantly, it's free and open to the public. If you ever find yourself in Raleigh, alongside hunting for cinnamon rolls (which we're about to get into), make sure you visit Hunt Library. It's absolutely worth it.  
 
 Now, let's talk about Raleigh's cinnamon roll scene. **The spots below are listed in no particular order.**
 
