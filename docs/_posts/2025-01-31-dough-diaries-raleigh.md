@@ -1,7 +1,7 @@
 ---
 title: "Dough Diaries: On the Nature of Cinnamon Rolls in Raleigh, North Carolina"
 excerpt: "Join me on a journey through Raleigh's delightful cinnamon roll scene."
-last_modified_at: 2025-02-02T16:10:00
+last_modified_at: 2025-02-03T18:58:09
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -20,8 +20,11 @@ tags:
 <script src="/assets/js/dynamic-link-targeting.js"></script>
 
 <style>
-  .page__hero--overlay {
-      padding: 10em 0;
+  /* Tablet and larger */
+  @media (min-width: 768px) {
+      .page__hero--overlay {
+          padding: 10em 0;
+      }
   }
 </style>
 
