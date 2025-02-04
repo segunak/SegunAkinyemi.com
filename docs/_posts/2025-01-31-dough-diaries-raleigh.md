@@ -1,7 +1,7 @@
 ---
 title: "Dough Diaries: On the Nature of Cinnamon Rolls in Raleigh, North Carolina"
 excerpt: "Join me on a journey through Raleigh's delightful cinnamon roll scene."
-last_modified_at: 2025-02-03T18:58:09
+last_modified_at: 2025-02-04T17:56:59
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -149,6 +149,12 @@ Lovely aesthetic, like something out of the Barbie movie. But they're a cupcake 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6473.461180610666!2d-78.64996862465881!3d35.78199367255489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ac5f65bcb0a07b%3A0x184d107ec06eebde!2sThe%20Cupcake%20Shoppe%20Bakery%20%2B%20Coffee!5e0!3m2!1sen!2sus!4v1738377880226!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+## Cinnaholic
+
+A delightful establishment, but it's not local to Raleigh. It's a chain with locations [across the country](https://locations.cinnaholic.com), each offering a unique cinnamon roll experience that's worth trying. Think of it as the Chipotle or Subway of cinnamon rolls, where you can customize your order to your liking. They offer over 20 options for both icing and frosting, which are not the same thing! Icing is thinner and glossier, while frosting is thicker and creamier. Most traditional cinnamon rolls use icing, but Cinnaholic provides choices like cream cheese frosting, cookie dough frosting, caramel frosting, and various toppings, allowing for extensive customization. I'm partial to their cookie dough frosting, and traditional _Old Skool_ cinnamon roll. It's truly a cinnamon roll lover's heaven, and I appreciate their locations in every city I find them.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15735.416745099954!2d-78.6717114739691!3d35.79142946631357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89acf5aa43e358e7%3A0xdd6620da8ef15dca!2sCinnaholic!5e0!3m2!1sen!2sus!4v1738690487713!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ## Sir Walter Coffee + Kitchen
 
 Now this was a great cinnamon roll. They call it a cinnamon bun, but as someone with demonstrated expertise in this area, let me clarify that it's a cinnamon roll. Great cinnamon presence, just the right amount of icing, and a texture that's equally enjoyable warm or cold. The coffee shop itself has a great vibe too—cozy, warm, and welcoming. I'd absolutely return for both the cinnamon roll and the overall ambience. Raleigh did well with this one.
@@ -211,7 +217,7 @@ A fantastic market filled with high-quality European imports, fresh-baked bread,
 
 ## Honorable Mentions  
 
-While I didn't get the chance to visit these spots, they came highly recommended by locals and [r/raleigh](https://www.reddit.com/r/raleigh/). If you find yourself in Raleigh and have an affinity for cinnamon rolls, they're worth checking out:  
+While I didn't get the chance to visit most of these spots, they came highly recommended by locals and [r/raleigh](https://www.reddit.com/r/raleigh/). If you find yourself in Raleigh and have an affinity for cinnamon rolls, they're worth checking out:
 
 - [**Craft Public House**](https://maps.app.goo.gl/iogFo69QTeJCAxVW9): A local favorite, especially for brunch. I've heard good things about their pastries, and their cinnamon rolls are said to be a standout. If you're in Cary, it's a spot to keep on your radar.
 
