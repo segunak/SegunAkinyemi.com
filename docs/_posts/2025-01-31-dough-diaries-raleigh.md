@@ -1,7 +1,7 @@
 ---
 title: "Dough Diaries: On the Nature of Cinnamon Rolls in Raleigh, North Carolina"
 excerpt: "Join me on a journey through Raleigh's delightful cinnamon roll scene."
-last_modified_at: 2025-02-04T17:56:59
+last_modified_at: 2025-02-04T17:59:15
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -229,11 +229,9 @@ If you visit any of these places and try their cinnamon rolls, I'd love to [hear
 
 ## Final Thoughts  
 
-Raleigh has a serious cinnamon roll scene. Some places missed the mark, but [_The Market Bakery_](#the-market-bakery) set a new standard for me. If you love cinnamon rolls, you owe it to yourself to explore these spots, find your own favorite, and savor the process of discovery.  
+Raleigh has a serious cinnamon roll scene. Some places missed the mark, but [_The Market Bakery_](#the-market-bakery) set a new standard for me. If you love cinnamon rolls, you owe it to yourself to explore these spots, find your own favorite, and savor the process of discovery.
 
-And as always, I dare not leave you without invoking my own play on the infamous words of [a certain French queen](https://en.wikipedia.org/wiki/Marie_Antoinette). But, instead of detached aristocratic arrogance, or pretentious derision towards the common man, I leave you with my own proclamation, one born not of condescension, but of pure, unfiltered enthusiasm. A simple, heartfelt truth from one cinnamon roll devotee to another:
-
-_Let them eat cinnamon rolls._
+That said, this was a lot of writing, and I'm tired. If you actually read this entire article, please [contact me](/contact) because I want to be your friend. Anyways, Godspeed.
 
 <p align="center">
   <img alt="Laptop Closing" src="/assets/images/sydney-the-bear-laptop-close.gif"/>
