@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2025-02-17T01:26:17
+last_modified_at: 2025-02-22T19:29:04
 header:
   teaser: /assets/images/be-water.jpeg
   og_image: /assets/images/be-water.jpeg
@@ -18,6 +18,10 @@ tags:
 ---
 
 <style>
+    .notice--primary {
+        font-style: normal !important;
+    }
+
     .gifformat {
         width: 100%;
     }
@@ -65,7 +69,7 @@ I'm firmly in the latter camp. I'm not going to sit around whining about how AI 
 With that in mind, the article that sparked this one is linked below. I highly recommend you read it. The rest of this post is my response.
 
 > **Read More:** [GitHub Copilot: The Agent Awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
-{: .notice--info}
+{: .notice--primary}
 
 ## Why Is It Called Copilot?
 
@@ -80,7 +84,7 @@ So there you have it. It's called _Copilot_ because GitHub—the world's leading
 Now, are there reasons to be skeptical? Absolutely—especially when you consider what _Agent Mode_ is capable of (more on that later). But I've chosen to take an optimistic view of what life as a software developer looks like with AI-powered tools. I've written about a related concept called Natural Language Programming, which is making the field more accessible than ever. If that interests you, check out the article below.
 
 > **Read More:** [Natural Language Programming Is Lowering Software Development's Barrier to Entry](https://segunakinyemi.com/blog/natural-language-programming/)
-{: .notice--info}
+{: .notice--primary}
 
 But for now, let's dive deeper into what GitHub Copilot's _Agent Mode_ is all about.
 
@@ -159,3 +163,22 @@ If you're a software developer, early in your career, a student, or just trying 
 You can complain, meme, fearmonger, and be cynical all you want. Or, as [Sandor Clegane](https://gameofthrones.fandom.com/wiki/Sandor_Clegane) would put it, you can [whinge](https://www.google.com/search?q=whinge+definition). That's your right. But if you love building things with software, or if you want a future in a lucrative industry with massive potential, then you need to understand how GitHub—and by extension, Microsoft—is using AI to develop software. Not just chatbots, not just consumer gimmicks, but real software development powered by AI. The [shrewd](https://www.biblegateway.com/passage/?search=Matthew%2010%3A16&version=NIV) move is to align yourself with the [skills](https://learn.microsoft.com/en-us/ai/?tabs=developer) that will let you use these tools to build the future.
 
 Or, put more simply: [Adapt or die](https://www.google.com/search?q=what+does+adapt+or+die+mean).
+
+## Additional Reading
+
+If you're interested in where the future is headed with AI, particularly regarding software development and computer science education, these are excellent reads.
+
+> **Nisha Talagala - Forbes:** [Is Coding Education As We Know It Dead?](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/)
+>
+This piece by [Nisha Talagala](https://www.linkedin.com/in/nisha-talagala-6a6b20) is my go-to when I run into college students freaking out about whether there'll be any jobs left in tech by the time they graduate, or if their computer science degree is useless. It's also a great read for professors and educators thinking, "_So how do we teach coding in an AI-driven world?_". The traditional ways of teaching computer science are no longer sufficient, Talagala breaks down why you should care.
+{: .notice--primary}
+
+> **Thomas Dohmke - GitHub:** [Developer Odyssey](https://ashtom.github.io/developer-odyssey)
+>
+If you think I'm too optimistic about AI's impact on software development, you'll find [Thomas Dohmke](https://www.linkedin.com/in/ashtom), CEO of GitHub, downright nauseating in this article—but I still think you should read it! His post walks through the evolution of software development: from early, near-hardware languages like assembly to high-level languages such as Python and C#, then the "low-code" wave, and finally the age of AI-assisted programming. The point is tech changes constantly, and you never really reach the mythical "_I can stop learning now_" plateau. If you're freaking out about AI eliminating literally all dev jobs, reading this might actually calm you down because—spoiler—it's just another shift in how we code, not the end times.
+{: .notice--primary}
+
+> **Namanyay Goel:** [New Junior Developers Can't Actually Code](https://nmn.gl/blog/ai-and-learning)
+>
+Another fantastic read for computer science students, educators, or any developer in the trenches. While the previous articles focus on the future, [Namanyay Goel](https://www.linkedin.com/in/namanyayg) snaps you back to the present: folks are using AI as a crutch to avoid actually learning how to code. Copy, paste, done. No clue what's happening under the hood. That kind of behavior is how we end up with Matrix-level [Machines](https://matrix.fandom.com/wiki/Machines) or a Terminator [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)) scenario: random AI code shoved into critical systems by humans who barely understand it. There's hope though. Treat AI chatbots more like Stack Overflow threads. Ask follow-up questions, learn what's behind the answers, develop actual understanding. Because yeah, you still need to know what your code is doing.
+{: .notice--primary}
