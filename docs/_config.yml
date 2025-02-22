@@ -78,10 +78,12 @@ paginate: 7 # amount of posts to show
 paginate_path: /blog/page:num/
 timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "segunsanguine"
+# Removed as disqus started injecting adds into comment plugins.
+# Comment options at https://mmistakes.github.io/minimal-mistakes/docs/configuration/#comments
+# comments:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "segunsanguine"
 
 plugins:
   - jekyll-feed
@@ -90,7 +92,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-archives
-  - jekyll-feed
   - jemoji
 
 author:
