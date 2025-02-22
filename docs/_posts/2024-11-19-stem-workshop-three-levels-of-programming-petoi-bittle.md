@@ -1,7 +1,7 @@
 ---
 title: "STEM Workshops: Three Levels of Programming With the Petoi 'Bittle X' Robot Dog"
 excerpt: "Learn how to engage students in a journey through three levels of computer programming using the highly capable Petoi 'Bittle X' Robot Dog."
-last_modified_at: 2025-02-22T19:29:04
+last_modified_at: 2025-02-22T19:31:11
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -35,7 +35,7 @@ tags:
     }
 </style>
 
-**Update:** This workshop is now featured on Petoi's blog! Read more about it in the article [New Bittle Robotics Curriculum & Microsoft Event Focusing on K12 STEM Education](https://www.petoi.com/blogs/blog/new-bittle-curriculum-microsoft-event).
+**Update:** This workshop is now featured on Petoi's blog! Read more about it in the article: [New Bittle Robotics Curriculum & Microsoft Event Focusing on K12 STEM Education](https://www.petoi.com/blogs/blog/new-bittle-curriculum-microsoft-event).
 {: .notice--info}
 
 ## Some Background
