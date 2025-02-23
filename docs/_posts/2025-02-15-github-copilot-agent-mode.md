@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2025-02-23T13:06:20
+last_modified_at: 2025-02-23T13:10:43
 header:
   teaser: /assets/images/be-water.jpeg
   og_image: /assets/images/be-water.jpeg
@@ -185,5 +185,5 @@ Another fantastic read for computer science students, educators, or any develope
 
 > **Segun Akinyemi (Me):** [From Padawan to Jedi Master to Whatever Yoda Was: A Curated List of AI Learning Resources](https://segunakinyemi.com/blog/ai-learning-resources/)
 >
-Shameless plug. I wrote an article filled with AI learning resources that bridge the gap between "I know how to use AI chatbots" and "I actually understand the science and technical concepts behind this stuff". I try to keep it updated, it's essentially my  personal study stash. My hope is that it'll be a solid resource for anyone wanting to grow from surface-level AI chatter (and the inevitable doomsday-hot-takes) to real, meaningful discussions grounded in how these models actually work. If you've got a minute, check it out!
+Shameless plug. I wrote an article filled with AI learning resources that bridge the gap between "_I know how to use AI chatbots_" and "_I actually understand the science and technical concepts behind this stuff_". I try to keep it updated; it's essentially my personal study stash. My hope is that it'll be a solid resource for anyone wanting to grow from surface-level AI chatter to deeper discussions grounded in how these models actually work. If you've got a minute, check it out!
 {: .notice--primary}
