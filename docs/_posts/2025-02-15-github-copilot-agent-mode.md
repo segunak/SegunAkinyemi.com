@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2025-02-23T13:10:43
+last_modified_at: 2025-02-23T15:27:09
 header:
   teaser: /assets/images/be-water.jpeg
   og_image: /assets/images/be-water.jpeg
@@ -43,6 +43,9 @@ tags:
 </style>
 
 <script src="/assets/js/dynamic-link-targeting.js"></script>
+
+**Author's Note:** While researching this article, I spent a fair amount of time using GitHub Copilot (and its Agent Mode). I discovered that some privacy settings—specifically how they use your code and data—are on by default from the [moment you interact with Copilot](https://www.reddit.com/r/github/comments/1hhrntv/comment/m388n38/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). If you have a GitHub account, I **strongly suggest** heading to the [Copilot page](https://github.com/settings/copilot) and double-checking your privacy settings. Maybe disable **"Allow GitHub to use my data for product improvements"** and **"Allow GitHub to use my data for AI model training"**. GitHub is owned by Microsoft—who have a [significant stake in OpenAI](https://finance.yahoo.com/news/microsoft-openai-haggling-over-tech-170816471.html), the folks behind ChatGPT—so trust me, they'll be just fine without your data. Privacy first!
+{: .notice--primary}
 
 ## A New Era
 
@@ -128,15 +131,15 @@ If you have a few minutes, watch this video.
 
 If you don't, let me sum it up: **_Agent Mode_ is insane**.
 
-Watching that demo was like seeing hours—sometimes days—of work done in minutes. Debugging, creating and updating tests, troubleshooting build issues, handling local environment quirks, validating changes—all automated. The developer's role shifts to defining the vision, setting the destination, and then verifying that the AI's work aligns with it—making adjustments as needed. The real test of its quality will come when it rolls out for general availability. For now, you can try it by downloading [VS Code Insiders](https://code.visualstudio.com/insiders/)—as I have—but stability isn't where it will be once it's fully live.
+Watching that demo was like seeing hours of work done in minutes. Debugging, creating and updating tests, troubleshooting build issues, handling local environment quirks, validating changes—all automated. The developer's role shifts to defining the goal and verifying the AI's work, adjusting as needed. That said, we'll see its true daily-driver quality when it hits general availability. For now, you can try it on [VS Code Insiders](https://code.visualstudio.com/insiders/).
 
-Still, the fact that it's already this capable in preview mode says a lot. If you show that video to a developer and they hit you with  "_lol, it still sucks, it'll never be good enough_"—please don't take career advice from that person. They can't see the forest for the trees. GitHub is improving it every day, and it's only going to get better from here. Seriously better, if you believe GitHub's vision for what they're dubbing _Project [Padawan](https://www.google.com/search?q=What+is+a+padawan)_.
+Still, the fact that it's already this capable in preview says a lot. If you show that video to a developer and they hit you with  "_lol, it still sucks, it'll never be good enough_"—please don't take career advice from that person. They can't see the forest for the trees. GitHub is improving it every day, and it's only going to get better from here. Seriously better, if you believe GitHub's vision for what they're dubbing _Project [Padawan](https://www.google.com/search?q=What+is+a+padawan)_.
 
 > Project Padawan ships later this year, it will allow you to directly assign issues to GitHub Copilot, using any of the GitHub clients, and have it produce fully tested pull requests. Once a task is finished, Copilot will assign human reviewers to the PR, and work to resolve feedback they add. In a sense, it will be like onboarding Copilot as a contributor to every repository on GitHub.
 >
 > [Thomas Dohmke - GitHub CEO](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#:~:text=We%E2%80%99re%20excited%20to,repository%20on%20GitHub.)
 
-So, like… this thing is just straight-up a developer on your team now? That's what it sounds like. You assign it tasks, it does _all the things_, and you just loop back for a PR review? Ayo fam, this is wild. Seriously. Let me emphasize this again—any developer who reads that [article](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens), watches the [demo](https://www.youtube.com/watch?v=of--3Fq1M3w), and says, "_Eh, not a big deal_," is in denial. This is one of the rare times where the often overused word _revolutionary_ actually fits.
+So, like…this thing is just straight-up a developer on your team now? You assign it tasks, it does _all the things_, and you just loop back for a PR review? That's wild. Seriously. Let me emphasize again—any developer who reads that [article](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens), watches the [demo](https://www.youtube.com/watch?v=of--3Fq1M3w), and says, "_Eh, not a big deal_," is in denial. This is one of the rare times where the overused word _innovation_ actually fits.
 
 ## So Are We Cooked?
 
@@ -180,7 +183,7 @@ If you think I'm too optimistic about AI's impact on software development, you'l
 
 > **Namanyay Goel:** [New Junior Developers Can't Actually Code](https://nmn.gl/blog/ai-and-learning)
 >
-Another fantastic read for computer science students, educators, or any developer in the trenches. While the previous articles focus on the future, [Namanyay Goel](https://www.linkedin.com/in/namanyayg) snaps you back to the present: folks are using AI as a crutch to avoid actually learning how to code. Copy, paste, done. No clue what's happening under the hood. That kind of behavior is how we end up with Matrix-level [Machines](https://matrix.fandom.com/wiki/Machines) or a Terminator [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)) scenario: random AI code shoved into critical systems by humans who barely understand it. There's hope though. Treat AI chatbots more like Stack Overflow threads. Ask follow-up questions, learn what's behind the answers, develop actual understanding. Because yeah, you still need to know what your code is doing.
+Another fantastic read for computer science students, educators, or any developer in the trenches. While the previous articles focus on the future, [Namanyay Goel](https://www.linkedin.com/in/namanyayg) snaps you back to the present: people are using AI as a shortcut instead of actually learning to code. Copy, paste, done. No clue what's happening under the hood. That's how we get Matrix-level [Machines](https://matrix.fandom.com/wiki/Machines) or Terminator [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)). Goel offers hope though: treat AI chatbots like way better Stack Overflow. Ask follow-ups, dig into the answers, build real understanding—because you still need to know what your code does.
 {: .notice--primary}
 
 > **Segun Akinyemi (Me):** [From Padawan to Jedi Master to Whatever Yoda Was: A Curated List of AI Learning Resources](https://segunakinyemi.com/blog/ai-learning-resources/)
