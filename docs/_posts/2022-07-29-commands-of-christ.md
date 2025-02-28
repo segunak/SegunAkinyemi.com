@@ -1,9 +1,9 @@
 ---
 title: "The Commands of Christ"
 excerpt: "A catalog of commands issued by Jesus Christ throughout the Bible."
-pinned: true
-last_modified_at: 2024-11-29T02:08:32
+last_modified_at: 2025-02-28T02:43:52
 toc: true
+pinned: true
 toc_label: "On This Page"
 toc_icon: "book"
 toc_sticky: true
@@ -101,7 +101,7 @@ The question then becomes, what are the commandments of Jesus Christ?
 
 ## Random Command
 
-If you don't feel like scrolling through the entire webpage, you can generate a random command using the widget below.
+If you don't feel like scrolling through the entire page, you can generate a random command using the widget below.
 
 <link rel="stylesheet" href="/assets/css/quotes.css">
 <div class="random-quote-box">
