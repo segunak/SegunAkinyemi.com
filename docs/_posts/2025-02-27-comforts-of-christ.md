@@ -2,7 +2,7 @@
 title: "The Comforts of Christ"
 excerpt: "A catalog of comforting words spoken by Jesus Christ throughout the Bible."
 pinned: true
-last_modified_at: 2025-02-28T02:53:33
+last_modified_at: 2025-02-28T03:17:32
 toc: true
 toc_label: "On This Page"
 toc_icon: "book"
@@ -30,7 +30,7 @@ tags:
   @media (min-width: 768px) {
       .page__hero--overlay {
         padding: 10em 0;
-        background-position: bottom;
+        background-position: center 92%;
       }
   }
 
