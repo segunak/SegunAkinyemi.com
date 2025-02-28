@@ -2,7 +2,7 @@
 title: "The Comforts of Christ"
 excerpt: "A catalog of comforting words spoken by Jesus Christ throughout the Bible."
 pinned: true
-last_modified_at: 2025-02-28T02:48:02
+last_modified_at: 2025-02-28T02:53:33
 toc: true
 toc_label: "On This Page"
 toc_icon: "book"
@@ -87,7 +87,7 @@ That post accomplished its goal. I've referred back to it often and shared it wi
 >
 > <cite>[Psalm 94:19](https://www.biblegateway.com/passage/?search=Psalm%2094%3A19&version=NKJV)</cite>
 
-When you're already overwhelmed, anxious, and burdened, a list of commands to follow just feels taxing. And yet Jesus is far more than a moral rulebook—He offers us actual rest and relief:
+When you're already overwhelmed, anxious, and burdened, a list of commands to follow just feels taxing. And yet Jesus is far more than a moral rulebook, He offers us actual rest and relief:
 
 > Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls. For My yoke is easy and My burden is light.
 >
