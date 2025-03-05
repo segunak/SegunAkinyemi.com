@@ -79,10 +79,10 @@ Using Python files in the Visual Studio Code for Education [project](https://vsc
 
 ## Facilitation Resources
 
-You can find the facilitation guide for this workshop below, with the latest version always available on GitHub [here](https://github.com/segunak/stem-education/blob/2292d891dd56f63fe9d84f7fab6ef55cdf145210/workshops/How%20To%20Train%20Your%20AI/how-to-train-your-ai.md).  
+You can find the facilitation guide for this workshop below, with the latest version always available on GitHub [here](https://github.com/segunak/stem-education/blob/master/workshops/How-To-Train-Your-AI/how-to-train-your-ai.md).
 
 <iframe
-    src="https://segunak.github.io/stem-education/workshops/How%20To%20Train%20Your%20AI/how-to-train-your-ai.pdf"
+    src="https://segunak.github.io/stem-education/workshops/How-To-Train-Your-AI/how-to-train-your-ai.pdf"
     width="100%"
     height="500px"
     style="border: 1px solid gray">
