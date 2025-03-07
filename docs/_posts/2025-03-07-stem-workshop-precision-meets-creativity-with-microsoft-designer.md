@@ -51,10 +51,7 @@ This workshop introduces students to Prompt Engineering—the skill of writing c
 
 To build this understanding, students start with a Prompt Comparison Activity, where they're shown an AI-generated image and two different prompts. Their challenge is to determine which prompt actually created the image and explain why. This exercise helps students grasp how word choice, structure, and specificity influence AI-generated results.
 
-After this, students apply what they've learned by using Microsoft Designer to generate images, experimenting with how small wording changes impact outputs. To guide them through this process, I built a website that walks them through structured prompt templates. The site simplifies things by providing fill-in-the-blank prompts, leveraging Designer's [prompt sharing feature](https://www.youtube.com/watch?v=fSXOP7jPiHU). Students modify key details rather than writing full prompts from scratch, making it easy to focus on the workshop's lessons rather than typing.
-
-* **Short Link:** <https://aka.ms/msdw>
-* **Full Link:** <https://segunak.github.io/stem-education/workshops/Precision-Meets-Creativity-with-Microsoft-Designer/>
+After this, students apply what they've learned by using Microsoft Designer to generate images, experimenting with how small wording changes impact outputs. To guide them through this process, I built a [website](https://segunak.github.io/stem-education/workshops/Precision-Meets-Creativity-with-Microsoft-Designer/) that walks them through structured prompt templates. The site simplifies things by providing fill-in-the-blank prompts, leveraging Designer's [prompt sharing feature](https://www.youtube.com/watch?v=fSXOP7jPiHU). Students modify key details rather than writing full prompts from scratch, making it easy to focus on the workshop's lessons rather than typing.
 
 Here's a breakdown of the workshop. It's **1 hour** total.
 
@@ -109,8 +106,8 @@ Facilitators should have the following:
 * **Basic Knowledge of Prompt Engineering** – Reviewing the [Required Expertise](#required-expertise) section will help facilitators confidently lead discussions and assist students.
 * **Workshop Presentation** – Access the official slide deck [here](#workshop-presentation).
 * **Workshop Website** - Accessible at:
-  * Short Link: <https://aka.ms/msdw>
-  * Full URL: <https://segunak.github.io/stem-education/workshops/Precision-Meets-Creativity-with-Microsoft-Designer/>
+  * **Short Link:** <https://aka.ms/msdw>
+  * **Full Link:** <https://segunak.github.io/stem-education/workshops/Precision-Meets-Creativity-with-Microsoft-Designer/>
 
 ## Workshop Presentation
 
