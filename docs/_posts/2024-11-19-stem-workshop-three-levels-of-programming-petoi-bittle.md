@@ -1,5 +1,5 @@
 ---
-title: "STEM Workshops: Three Levels of Programming With the Petoi 'Bittle X' Robot Dog"
+title: "Three Levels of Programming With the Petoi 'Bittle X' Robot Dog"
 excerpt: "Learn how to engage students in a journey through three levels of computer programming using the highly capable Petoi 'Bittle X' Robot Dog."
 last_modified_at: 2025-02-22T19:31:11
 toc: true
@@ -40,7 +40,7 @@ tags:
 
 ## Some Background
 
-STEM education is an area of passion for me, one that I'm fortunate to be able to act on through volunteer programs sponsored by my [employer](https://en.wikipedia.org/wiki/Microsoft). As I started working with students, I quickly found that interactive activities are the best way to ensure they don't fall asleep—especially in our present TikTok generation and the [receding attention spans it's producing](https://jolt.richmond.edu/2024/03/06/tiktok-brain-can-we-save-childrens-attention-spans/).  With the goal of being both informative and "cool", I set out to find tools that allow me to teach coding in a way that's fun. Not only for students into tech, but also for those still exploring and finding their passions.
+STEM education is an area of passion for me, one that I'm fortunate to be able to act on through volunteer programs sponsored by my [employer](https://en.wikipedia.org/wiki/Microsoft). As I started working with students, I quickly found that interactive activities are the best way to ensure they don't fall asleep—especially in our present TikTok generation and the [receding attention spans it's producing](https://jolt.richmond.edu/2024/03/06/tiktok-brain-can-we-save-childrens-attention-spans/). With the goal of being both informative and "cool", I set out to find tools that allow me to teach coding in a way that's fun. Not only for students into tech, but also for those still exploring and finding their passions.
 
 Robots turned out to be a great way to do that, and after a brief stint with the impressive but unreliable [Tello Talent](https://www.dji.com/robomaster-tt) programmable flying drone, I've settled on something more grounded. Namely, a robot dog, built in the image of Boston Dynamics' famous [Spot](https://bostondynamics.com/products/spot/), but on a much smaller, and therefore approachable, scale. The [Petoi 'Bittle X' Robot Dog](https://www.petoi.com/products/petoi-robot-dog-bittle-x-voice-controlled) has become a mainstay of STEM workshops I've developed, which you can check out [here](https://github.com/segunak/stem-education/tree/master/petoi-bittle/workshops). Students from middle school through college love interacting with it, and I love Petoi's open source approach whereby educators can bring their own imagination to working with the dog.
 

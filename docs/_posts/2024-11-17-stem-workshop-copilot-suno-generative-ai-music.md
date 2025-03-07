@@ -1,5 +1,5 @@
 ---
-title: "STEM Workshops: Exploring Responsible Generative AI Through Music With Microsoft Copilot and Suno"
+title: "Exploring Responsible Generative AI Through Music With Microsoft Copilot and Suno"
 excerpt: "Discover how to use Microsoft Copilot and Suno's Generative AI to engage students in hands-on STEM learning and Responsible AI practices through an interactive music creation workshop."
 last_modified_at: 2024-11-19T17:16:35
 toc: true
