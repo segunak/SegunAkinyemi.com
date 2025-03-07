@@ -33,7 +33,7 @@ This post is part of my ongoing series of [STEM Workshops](https://segunakinyemi
 
 ## Some Background
 
-Every year, my [employer](https://en.wikipedia.org/wiki/Microsoft) hosts a [tech-focused conference](https://www.google.com/search?q=bam+minority+student+day) for high school students that usually brings in a few hundred participants. I volunteer at this event alongside other employees, and going in, we know the students come from varying backgrounds, each with their own unique interests that sometimes lie outside of technology. Because of this, we aim to avoid overly technical content. Instead, we focus on creating activities that are fun yet informative—engaging everyone, whether they're hardcore techies or just casually curious.
+Every year, my [employer](https://en.wikipedia.org/wiki/Microsoft) hosts a [tech-focused conference](https://www.google.com/search?q=bam+minority+student+day) for high school students that usually brings in a few hundred participants. I volunteer at this event with other employees, and going in, we know the students come from varying backgrounds, each with their own unique interests that sometimes lie outside of technology. Because of this, we aim to avoid overly technical content. Instead, we focus on creating activities that are fun yet informative—engaging everyone, whether they're hardcore techies or just casually curious.
 
 For last year's event, I created a [workshop](https://segunakinyemi.com/blog/stem-workshop-copilot-suno-generative-ai-music/) that explored Generative AI through music. Students used [Microsoft Copilot](https://copilot.microsoft.com/) and [Suno](https://suno.com/) to create AI-generated songs, but before that, they participated in an activity that explored the ethics of Generative AI. Using a set of [Responsible AI principles]((https://www.microsoft.com/en-us/ai/principles-and-approach)), we got students thinking critically about right and wrong use of AI, and its broader implications on education and society.
 
@@ -49,19 +49,19 @@ In my experience, Designer works pretty well for creating specific types of visu
 
 This workshop introduces students to Prompt Engineering—the skill of writing clear instructions to guide AI-generated content. AI doesn't think or create the way humans do; it follows patterns based on its training data. The key to getting high-quality outputs is understanding how **specificity, clarity, and creativity** shape AI responses through hands-on experimentation.
 
-To build this understanding, students start with a Prompt Comparison Activity, where they are shown an AI-generated image and two different prompts. Their challenge is to determine which prompt actually created the image and explain why. This exercise helps students grasp how word choice, structure, and specificity influence AI-generated results.
+To build this understanding, students start with a Prompt Comparison Activity, where they're shown an AI-generated image and two different prompts. Their challenge is to determine which prompt actually created the image and explain why. This exercise helps students grasp how word choice, structure, and specificity influence AI-generated results.
 
-After this, students apply what they've learned by using Microsoft Designer to generate images, experimenting with how small wording changes impact outputs. To guide them through this process, I built a website that walks them through structured prompt templates. The site simplifies things by providing fill-in-the-blank prompts, leveraging Designer's [prompt customization feature](https://www.youtube.com/watch?v=fSXOP7jPiHU). Students modify key details rather than writing full prompts from scratch, reinforcing the principles of effective prompting.
+After this, students apply what they've learned by using Microsoft Designer to generate images, experimenting with how small wording changes impact outputs. To guide them through this process, I built a website that walks them through structured prompt templates. The site simplifies things by providing fill-in-the-blank prompts, leveraging Designer's [prompt sharing feature](https://www.youtube.com/watch?v=fSXOP7jPiHU). Students modify key details rather than writing full prompts from scratch, making it easy to focus on the workshop's lessons rather than typing.
 
-* Short Link: <https://aka.ms/msdw>
-* Full URL: <https://segunak.github.io/stem-education/workshops/Precision-Meets-Creativity-with-Microsoft-Designer/>
+* **Short Link:** <https://aka.ms/msdw>
+* **Full Link:** <https://segunak.github.io/stem-education/workshops/Precision-Meets-Creativity-with-Microsoft-Designer/>
 
 Here's a breakdown of the workshop. It's **1 hour** total.
 
-* **Icebreaker & Intro to Generative AI (5 min)** – Discuss how students use AI and give a quick overview of Generative AI.  
-* **Prompt Comparison Activity (10 min)** – Students analyze AI-generated images and match them to the correct prompts.  
-* **Hands-On Microsoft Designer Activity (35 min)** – Students refine prompts and generate AI images using structured templates.  
-* **Wrap-Up & Key Takeaways (5 min)** – Final discussion on how AI follows structured input and next steps for learning.
+* **Icebreaker & Intro to Generative AI (5 min):** Discuss how students use AI and give a quick overview of Generative AI.  
+* **Prompt Comparison Activity (15 min):** Students analyze AI-generated images and match them to the correct prompts.  
+* **Hands-On Microsoft Designer Activity (35 min):** Students refine prompts and generate AI images using structured templates.  
+* **Wrap-Up & Key Takeaways (5 min):** Final discussion on how AI follows structured input and next steps for learning.
 
 ## Workshop Goals
 
@@ -69,19 +69,19 @@ Here's the primary objectives of this workshop. The goal isn't just to teach the
 
 By the end of the session, students will:
 
-* **Understand how Generative AI works** – AI doesn't "think" or "create" like humans; it predicts responses based on patterns in its training data.  
-* **Recognize the importance of clear and specific prompts** – The quality of AI output depends entirely on how well-structured the input is.  
-* **Practice modifying and refining AI prompts** – Small changes in wording can significantly impact AI-generated content.  
-* **Engage in critical discussions about AI** – Students will reflect on AI's capabilities, limitations, and how it can be guided effectively.  
-* **Explore future AI learning opportunities** – The workshop introduces [Microsoft's AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us) as a resource for students to continue developing AI-related skills.
+* **Understand how Generative AI works:** – AI doesn't "think" or "create" like humans; it predicts responses based on patterns in its training data.  
+* **Recognize the importance of clear and specific prompts:** The quality of AI output depends entirely on how well-structured the input is.  
+* **Practice modifying and refining AI prompts:** Small changes in wording can significantly impact AI-generated content.  
+* **Engage in critical discussions about AI:** Students will reflect on AI's capabilities, limitations, and how it can be guided effectively.  
+* **Explore future AI learning opportunities:** The workshop introduces [Microsoft's AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us) as a resource for students to continue developing AI-related skills.
 
 ## Required Expertise
 
 Delivering this workshop doesn't require deep technical knowledge, coding skills, or an AI research background. You just need to get familiar with Prompt Engineering and understand the basics of Generative AI. These resources provide the knowledge needed to confidently deliver this workshop.
 
-* **[OpenAI: Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)** – Covers how AI responds to structured input, why specificity matters, and techniques for writing better prompts.  
-* **[Microsoft: 10 AI Terms Everyone Should Know](https://news.microsoft.com/10-ai-terms/)** – Explains fundamental AI concepts like machine learning, large language models, and neural networks.  
-* **[Microsoft: 10 More AI Terms Everyone Should Know](https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/)** – Expands on key AI topics, including bias, reinforcement learning, and ethical AI.  
+* **[OpenAI: Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering):** Covers how AI responds to structured input, why specificity matters, and techniques for writing better prompts.  
+* **[Microsoft: 10 AI Terms Everyone Should Know](https://news.microsoft.com/10-ai-terms/):** Explains fundamental AI concepts like machine learning, large language models, and neural networks.  
+* **[Microsoft: 10 More AI Terms Everyone Should Know](https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/):** Expands on key AI topics, including bias, reinforcement learning, and ethical AI.  
 
 **Before the workshop, test Microsoft Designer** using the fill-in-the-blank templates on the [workshop website](https://segunak.github.io/stem-education/workshops/Precision-Meets-Creativity-with-Microsoft-Designer/).
 
