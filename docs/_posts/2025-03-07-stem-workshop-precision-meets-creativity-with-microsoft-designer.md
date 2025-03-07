@@ -111,7 +111,7 @@ Facilitators should have the following:
 
 ## Workshop Presentation
 
-Below is the slide deck for the workshop. The **slide notes are essential**, providing step-by-step instructions, discussion prompts, and key takeaways—making them a facilitation guide in themselves. To access them, **click the "open in a new window" button** in the bottom right and download the presentation.
+Below is the slide deck for the workshop. The **slide notes are essential**, providing step-by-step instructions, discussion prompts, and key takeaways—making them a facilitation guide in themselves. To access them, **click the "Open in New Window" button** in the bottom right and download the presentation.
 
 <iframe
     src="https://1drv.ms/p/c/750d396c5cadcebd/IQSE_slIMswMRpeAew1t9TPuAT5j7dSZKqCW1_ZvS4jDk_E?em=2&amp;wdAr=1.7777777777777777"
