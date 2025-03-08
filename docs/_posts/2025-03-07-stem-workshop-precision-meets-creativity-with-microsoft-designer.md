@@ -1,7 +1,7 @@
 ---
 title: "Prompt Engineering: Precision Meets Creativity with Microsoft Designer"
 excerpt: "Explore how specificity, clarity, and creativity in writing shape Generative AI results with this Microsoft Designer workshop."
-last_modified_at:
+last_modified_at: 2025-03-08T16:32:10
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -66,7 +66,7 @@ Here's the primary objectives of this workshop. The goal isn't just to teach the
 
 By the end of the session, students will:
 
-* **Understand how Generative AI works:** – AI doesn't "think" or "create" like humans; it predicts responses based on patterns in its training data.  
+* **Understand how Generative AI works:** AI doesn't "think" or "create" like humans; it predicts responses based on patterns in its training data.  
 * **Recognize the importance of clear and specific prompts:** The quality of AI output depends entirely on how well-structured the input is.  
 * **Practice modifying and refining AI prompts:** Small changes in wording can significantly impact AI-generated content.  
 * **Engage in critical discussions about AI:** Students will reflect on AI's capabilities, limitations, and how it can be guided effectively.  
@@ -76,9 +76,9 @@ By the end of the session, students will:
 
 Delivering this workshop doesn't require deep technical knowledge, coding skills, or an AI research background. You just need to get familiar with Prompt Engineering and understand the basics of Generative AI. These resources provide the knowledge needed to confidently deliver this workshop.
 
-* **[OpenAI: Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering):** Covers how AI responds to structured input, why specificity matters, and techniques for writing better prompts.  
-* **[Microsoft: 10 AI Terms Everyone Should Know](https://news.microsoft.com/10-ai-terms/):** Explains fundamental AI concepts like machine learning, large language models, and neural networks.  
-* **[Microsoft: 10 More AI Terms Everyone Should Know](https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/):** Expands on key AI topics, including bias, reinforcement learning, and ethical AI.  
+* [OpenAI: Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering): Covers how AI responds to structured input, why specificity matters, and techniques for writing better prompts.  
+* [Microsoft: 10 AI Terms Everyone Should Know](https://news.microsoft.com/10-ai-terms/): Explains fundamental AI concepts like machine learning, large language models, and neural networks.  
+* [Microsoft: 10 More AI Terms Everyone Should Know](https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/): Expands on key AI topics, including bias, reinforcement learning, and ethical AI.  
 
 **Before the workshop, test Microsoft Designer** using the fill-in-the-blank templates on the [workshop website](https://segunak.github.io/stem-education/workshops/Precision-Meets-Creativity-with-Microsoft-Designer/).
 
@@ -102,7 +102,7 @@ Facilitators should have the following:
 
 * **Laptop** – Required for showing the workshop presentation.
 * **Projector or Large Display** – Required for showing the workshop presentation and guiding students through activities.  
-* **Microsoft Designer Familiarity** – Facilitators should test Designer in advance by generating images and using the **fill-in-the-blank prompt feature** from the [workshop site](https://segunak.github.io/stem-education/workshops/Precision-Meets-Creativity-with-Microsoft-Designer/).  
+* **Microsoft Designer Familiarity** – Facilitators should test Designer in advance by generating images and using the fill-in-the-blank prompt feature from the [workshop site](https://segunak.github.io/stem-education/workshops/Precision-Meets-Creativity-with-Microsoft-Designer/).  
 * **Basic Knowledge of Prompt Engineering** – Reviewing the [Required Expertise](#required-expertise) section will help facilitators confidently lead discussions and assist students.
 * **Workshop Presentation** – Access the official slide deck [here](#workshop-presentation).
 * **Workshop Website** - Accessible at:
