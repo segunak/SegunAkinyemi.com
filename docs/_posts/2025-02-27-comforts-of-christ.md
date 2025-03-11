@@ -2,7 +2,7 @@
 title: "The Comforts of Christ"
 excerpt: "A catalog of comforting words spoken by Jesus Christ throughout the Bible."
 pinned: true
-last_modified_at: 2025-02-28T04:08:05
+last_modified_at: 2025-03-11T04:58:45
 toc: true
 toc_label: "On This Page"
 toc_icon: "book"
@@ -139,19 +139,14 @@ I can't promise this list is exhaustive, and I'm always open to adding more. If 
 
 <div class="quote-container" markdown="1">
 
-> Yes, I am coming soon.
+> Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they? Can any one of you by worrying add a single hour to your life?
 >
-> <cite>[Revelation 22:20](https://www.biblegateway.com/passage/?search=Revelation+22:20&version=NIV)</cite>
+> <cite>[Matthew 6:25-27](https://www.biblegateway.com/passage/?search=Matthew%206%3A25-27&version=NIV)</cite>
 
 
-> Can any one of you by worrying add a single hour to your life?
+> When Jesus had raised Himself up and saw no one but the woman, He said to her, "Woman, where are those accusers of yours? Has no one condemned you?" She said, "No one, Lord." And Jesus said to her, "Neither do I condemn you; go and sin no more."
 >
-> <cite>[Matthew 6:27](https://www.biblegateway.com/passage/?search=Matthew+6:27&version=NIV)</cite>
-
-
-> Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?
->
-> <cite>[Matthew 6:25](https://www.biblegateway.com/passage/?search=Matthew+6:25&version=NIV)</cite>
+> <cite>[John 8:10-11](https://www.biblegateway.com/passage/?search=John%208%3A10-11&version=NKJV)</cite>
 
 
 > Are not five sparrows sold for two pennies? Yet not one of them is forgotten by God. Indeed, the very hairs of your head are all numbered. Don't be afraid; you are worth more than many sparrows.
@@ -159,14 +154,34 @@ I can't promise this list is exhaustive, and I'm always open to adding more. If 
 > <cite>[Luke 12:6-7](https://www.biblegateway.com/passage/?search=Luke+12:6-7&version=NIV)</cite>
 
 
-> But seek first his kingdom and his righteousness, and all these things will be given to you as well.  
+> Then he said to her, "Daughter, your faith has healed you. Go in peace."
 >
-> <cite>[Matthew 6:33](https://www.biblegateway.com/passage/?search=Matthew+6%3A33&version=NIV)</cite>
+> <cite>[Luke 8:48](https://www.biblegateway.com/passage/?search=Luke%208%3A48&version=NIV)</cite>
 
 
-> Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.  
+> For where two or three gather in my name, there am I with them.
 >
-> <cite>[Matthew 6:34](https://www.biblegateway.com/passage/?search=Matthew+6%3A34&version=NIV)</cite>
+> <cite>[Matthew 18:20](https://www.biblegateway.com/passage/?search=Matthew+18%3A20&version=NIV)</cite>
+
+
+> But seek first his kingdom and his righteousness, and all these things will be given to you as well. Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.  
+>
+> <cite>[Matthew 6:33-34](https://www.biblegateway.com/passage/?search=Matthew%206%3A33-34&version=NIV)</cite>
+
+
+> Again Jesus said, "Peace be with you! As the Father has sent me, I am sending you." And with that he breathed on them and said, "Receive the Holy Spirit."
+>
+> <cite>[John 20:21-22](https://www.biblegateway.com/passage/?search=John%2020%3A21-22&version=NIV)</cite>
+
+
+> You are my friends if you do what I command. I no longer call you servants, because a servant does not know his master's business. Instead, I have called you friends, for everything that I learned from my Father I have made known to you.
+>
+> <cite>[John 15:14-15](https://www.biblegateway.com/passage/?search=John%2015%3A14-15&version=NIV)</cite>
+
+
+> And I will ask the Father, and he will give you another advocate to help you and be with you forever—the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you.
+>
+> <cite>[John 14:16-17](https://www.biblegateway.com/passage/?search=John%2014%3A16-17&version=NIV)</cite>
 
 
 > Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
@@ -262,11 +277,6 @@ I can't promise this list is exhaustive, and I'm always open to adding more. If 
 > Truly I tell you, today you will be with me in paradise.  
 >
 > <cite>[Luke 23:43](https://www.biblegateway.com/passage/?search=Luke+23%3A43&version=NIV)</cite>
-
-
-> Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?
->
-> <cite>[Matthew 6:26](https://www.biblegateway.com/passage/?search=Matthew+6:26&version=NIV)</cite>
 
 
 > Whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life.
@@ -379,13 +389,13 @@ I can't promise this list is exhaustive, and I'm always open to adding more. If 
 > <cite>[John 16:24](https://www.biblegateway.com/passage/?search=John+16%3A24&version=NIV)</cite>
 
 
+> Yes, I am coming soon.
+>
+> <cite>[Revelation 22:20](https://www.biblegateway.com/passage/?search=Revelation+22:20&version=NIV)</cite>
+
+
 > I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.  
 >
 > <cite>[John 16:33](https://www.biblegateway.com/passage/?search=John+16%3A33&version=NIV)</cite>
-
-
-> One night the Lord spoke to Paul in a vision: "Do not be afraid; keep on speaking, do not be silent. For I am with you, and no one is going to attack and harm you, because I have many people in this city."
->
-> <cite>[Acts 18:9-10](https://www.biblegateway.com/passage/?search=Acts+18:9-10&version=NIV)</cite>
 
 </div>
