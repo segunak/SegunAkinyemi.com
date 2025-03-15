@@ -1,7 +1,7 @@
 ---
 title: "The Commands of Christ"
 excerpt: "A catalog of commands issued by Jesus Christ throughout the Bible."
-last_modified_at: 2025-02-28T02:43:52
+last_modified_at: 2025-03-15T16:56:50
 toc: true
 pinned: true
 toc_label: "On This Page"
@@ -74,7 +74,7 @@ tags:
   }
 </style>
 
-**Note:** You can skip the intro and go straight to a list of Jesus Christ's commandments by clicking [here](#the-commands-of-christ).
+**Note:** You can skip the intro and go straight to a list of Jesus Christ's commandments by clicking [here](#the-commands-of-christ). For a list of comforting words from Jesus, check out my follow-up post, [The Comforts of Christ](https://segunakinyemi.com/blog/comforts-of-christ/).
 {: .notice--info}
 
 ## Introduction
