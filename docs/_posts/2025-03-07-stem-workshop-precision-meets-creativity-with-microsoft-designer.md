@@ -1,7 +1,7 @@
 ---
 title: "Prompt Engineering: Precision Meets Creativity with Microsoft Designer"
 excerpt: "Explore how specificity, clarity, and creativity in writing shape Generative AI results with this Microsoft Designer workshop."
-last_modified_at: 2025-03-08T16:32:10
+last_modified_at: 2025-03-16T12:01:00
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -95,8 +95,7 @@ Students will need the following to participate:
 * **Microsoft Account** – All students must be signed into a Microsoft account to use Designer.  
   * If students have school-issued Microsoft accounts, use those.
   * If not, facilitators should ensure shared laptops are pre-logged into a workshop account.
-
-### Facilitators
+* **Microsoft Copilot Pro Access** – Suggested for accounts to have [Microsoft Copilot Pro](https://www.microsoft.com/en-us/store/b/copilotpro) access, as it provides the necessary credits to generate more than just a few images with Microsoft Designer.
 
 Facilitators should have the following:
 
