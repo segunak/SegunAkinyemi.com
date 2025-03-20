@@ -68,7 +68,7 @@ A video lecture from [MIT Sloan](https://mitsloan.mit.edu/), led by [Professor R
 >
 Google's hub of AI resources, specifically designed for educators. It offers straightforward guidance for integrating AI into teaching, classroom management, and curriculum design. **If your school uses Google Classroom and Chromebooks**, this is a great place to browse to see what might already be available to you.
 >
-> **Free or Paid:** Freemium <span class="tooltip-container"><span class="tooltip-icon">i</span> <span class="tooltip-text">Free access is available, but some features or tools require payment.</span></span>
+> **Free or Paid:** Freemium _(some features or tools require payment)_.
 {: .notice--primary}
 
 > **Parand Tony Darugar:** [A Completely Non-Technical Explanation of AI and Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html) & [A Non-Technical Explanation of ChatGPT](https://www.parand.com/a-non-technical-explanation-of-chatgpt.html) & [A Non-Technical Explanation of ChatGPT: Deep Learning](https://www.parand.com/a-non-technical-explanation-of-chatgpt-deep-learning.html)
@@ -82,7 +82,7 @@ A series of wonderful articles from [Parand Tony Darugar](https://www.linkedin.c
 >
 Microsoft's hub featuring resources, news, and practical advice specifically tailored to educators navigating AI. **If your school has an Office subscription**, definitely check this page out.
 >
-> **Free or Paid:** Freemium <span class="tooltip-container"><span class="tooltip-icon">i</span> <span class="tooltip-text">Free access is available, but some features or tools require payment.</span></span>
+> **Free or Paid:** Freemium _(some features or tools require payment)_.
 {: .notice--primary}
 
 > **Segun Akinyemi (Me):** [From Padawan to Jedi Master to Whatever Yoda Was: A Curated List of AI Learning Resources](https://segunakinyemi.com/blog/ai-learning-resources/)
@@ -114,7 +114,7 @@ Brings a real-world coding environment into the classroom via a web browser, per
 >
 Creates high-quality images from simple text prompts—think Canva, but driven mostly by AI, and with a more generous free tier. Great for creative classroom projects that emphasize idea generation over technical skills. I created a workshop on Prompt Engineering fundamentals that features it, check it out [here](https://segunakinyemi.com/blog/stem-workshop-precision-meets-creativity-with-microsoft-designer/).
 >
-> **Free or Paid:** Freemium <span class="tooltip-container"><span class="tooltip-icon">i</span> <span class="tooltip-text">Free access is available, but some features or tools require payment.</span></span>
+> **Free or Paid:** Freemium _(some features or tools require payment)_.
 {: .notice--primary}
 
 > **Google:** [Socratic](https://socratic.org/)
@@ -128,7 +128,7 @@ An AI-powered homework helper app that provides clear explanations and step-by-s
 >
 Another excellent AI-powered assistant designed to support educators with personalized instruction and classroom management. For more details, check out Microsoft's [introductory blog post](https://www.microsoft.com/en-us/education/blog/2024/08/khanmigo-for-teachers-your-free-ai-powered-teaching-tool/) about Khanmigo. The platform is powered by Microsoft's Azure cloud platform.
 >
-> **Free or Paid:** Freemium <span class="tooltip-container"><span class="tooltip-icon">i</span> <span class="tooltip-text">Free access is available, but some features or tools require payment.</span></span>
+> **Free or Paid:** Freemium _(some features or tools require payment)_.
 {: .notice--primary}
 
 ## Privacy First Tools
