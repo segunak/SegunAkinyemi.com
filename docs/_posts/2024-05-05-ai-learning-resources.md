@@ -48,7 +48,7 @@ These articles from Microsoft walk through a total of 20 terms that are fundamen
 
 > **MIT Sloan:** [How ChatGPT Works: A Non-Technical Primer](https://mitsloanedtech.mit.edu/ai/basics/how-chatgpt-works-a-non-technical-primer)  
 >
-This free video lecture from [MIT Sloan](https://mitsloan.mit.edu/), led by [Professor Rama Ramakrishnan](https://mitsloan.mit.edu/faculty/directory/rama-ramakrishnan), dives into how AI models like ChatGPT actually work. It covers the basics, like the "predict the next word" mechanism that drives these models, the massive datasets they’re trained on, and the neural networks that give them their conversational superpowers. You’ll also get a behind-the-scenes look at how GPT evolved from version 3 to ChatGPT, the surprising abilities it developed along the way, and what’s being done to tackle issues like bias and nonsensical outputs.
+This free video lecture from [MIT Sloan](https://mitsloan.mit.edu/), led by [Professor Rama Ramakrishnan](https://mitsloan.mit.edu/faculty/directory/rama-ramakrishnan), dives into how AI models like ChatGPT actually work. It covers the basics, like the "predict the next word" mechanism that drives these models, the massive datasets they're trained on, and the neural networks that give them their conversational superpowers. You'll also get a behind-the-scenes look at how GPT evolved from version 3 to ChatGPT, the surprising abilities it developed along the way, and what's being done to tackle issues like bias and nonsensical outputs.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
@@ -114,7 +114,7 @@ Next, check out this extremely thorough collection of guides, papers, lectures, 
 
 ### Large Language Models
 
-A large language model (LLM) is a type of AI trained on massive amounts of text data. This training enables it to understand and generate content in response to instructions (prompts). An example is OpenAI's GPT ([Generative Pre-trained Transformer](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer)), where _Generative_ highlights its ability to create new content, _Pre-trained_ indicates it has been trained on a wide array of text data, and _Transformer_ refers to the model’s architecture, designed to handle complex patterns in data efficiently. Understanding LLMs is key to moving beyond the basics and towards AI expertise.
+A large language model (LLM) is a type of AI trained on massive amounts of text data. This training enables it to understand and generate content in response to instructions (prompts). An example is OpenAI's GPT ([Generative Pre-trained Transformer](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer)), where _Generative_ highlights its ability to create new content, _Pre-trained_ indicates it has been trained on a wide array of text data, and _Transformer_ refers to the model's architecture, designed to handle complex patterns in data efficiently. Understanding LLMs is key to moving beyond the basics and towards AI expertise.
 
 > **Andrej Karpathy:** [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 >
@@ -231,7 +231,14 @@ Notable learning resources for diving into Neural Networks.
 
 > **Andrej Karpathy:** [Neural Networks - Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 >
-To thoroughly explore and understand Neural Networks, there are few better resources than this video series by [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy). He's one of OpenAI's co-founders, a former director of AI and Autopilot Vision at Tesla, and an all-around brilliant computer scientist. The YouTube playlist for the series can be found [here](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ), but Andrej also has a website for the course linked above.
+To thoroughly explore and understand Neural Networks, there are few better resources than this video series by [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy). He's one of OpenAI's co-founders, a former director of AI and Autopilot Vision at Tesla, and an all-around brilliant computer scientist. The YouTube playlist for the series can be found [here](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ), but Andrej also has a [website](https://karpathy.ai/zero-to-hero.html) for the course.
+>
+> **Free or Paid:** Free.
+{: .notice--primary}
+
+> **3Blue1Brown:** [Neural Networks Video Series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)  
+>
+If you're a visual learner, this is the neural networks resource for you. It was created by [3Blue1Brown](https://www.youtube.com/c/3blue1brown), one of the most respected educational channels on YouTube, and breaks down how neural networks work with impressive visuals and animations. It's one of the most frequently recommended resources on developer forums like [Hacker News](https://news.ycombinator.com/) and [r/MachineLearning](https://www.reddit.com/r/MachineLearning/), and for good reason. Seeing the math _come to life_ helps makes all the abstract AI concepts click. If you'd rather read than watch the videos (they're long), there's a written and interactive form of the series [here](https://www.3blue1brown.com/topics/neural-networks).
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
