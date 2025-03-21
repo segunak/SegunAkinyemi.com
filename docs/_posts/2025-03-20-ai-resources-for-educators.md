@@ -15,6 +15,7 @@ categories:
   - blog
 tags:
   - stem-education
+  - artificial-intelligence
 ---
 
 <script src="/assets/js/dynamic-link-targeting.js"></script>

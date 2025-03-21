@@ -15,6 +15,7 @@ categories:
   - blog
 tags:
   - tech
+  - artificial-intelligence
 ---
 
 <style>

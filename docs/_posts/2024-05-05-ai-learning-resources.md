@@ -12,6 +12,7 @@ categories:
   - blog
 tags:
   - tech
+  - artificial-intelligence
 ---
 
 <script src="/assets/js/dynamic-link-targeting.js"></script>

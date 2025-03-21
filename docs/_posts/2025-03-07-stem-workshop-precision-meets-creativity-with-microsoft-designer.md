@@ -15,6 +15,7 @@ categories:
   - blog
 tags:
   - stem-workshops
+  - artificial-intelligence
 ---
 
 <script src="/assets/js/dynamic-link-targeting.js"></script>

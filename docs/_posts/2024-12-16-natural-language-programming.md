@@ -15,6 +15,7 @@ categories:
   - blog
 tags:
   - tech
+  - artificial-intelligence
 ---
 
 <script src="/assets/js/dynamic-link-targeting.js"></script>
@@ -39,6 +40,9 @@ tags:
         }
     }
 </style>
+
+Check out my collection of AI-related articles [here](https://segunakinyemi.com/tags/artificial-intelligence), and a similar article I wrote that expands on this topic at: [GitHub Copilot's Agent Mode Is Rather Impressive, But the Real Question Is, Are Software Developers Cooked?](https://segunakinyemi.com/blog/github-copilot-agent-mode/)
+{: .notice--primary}
 
 ## AI Everything Everywhere All at Once
 
