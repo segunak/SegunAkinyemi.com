@@ -25,6 +25,9 @@ tags:
   </div>
 </p>
 
+**Note:** Check out my companion post to this one, [On the Nature of Artificial Intelligence in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/), for tech career advice that specifically hones in on the impact AI is having on the field.
+{: .notice--info}
+
 Greetings! This post is a collection of tech-related career advice that I hope to keep updated regularly. I've been asked many times by students and job seekers I work with about this sort of stuff, so I figured it'd be easier to write it down rather than regurgitate this information every time the topic arises. To be abundantly clear, in my writing here, I represent no one but myself. All opinions are my own.
 
 ## Software Engineering
@@ -459,6 +462,9 @@ I don't know anything about getting into those companies beyond what you'd find 
 That's like wanting to go to college and only applying to [Ivy League](https://en.wikipedia.org/wiki/Ivy_League) schools. Yes, you should apply to all the Ivy League schools, but if you don't get in, should you conclude that college is impossible nobody can get in and everyone should give up on it? Certainly not! You only applied to literally the hardest schools on earth to get into. Be pragmatic, apply to your local schools as well, apply to academically prestigious schools that aren't in the Ivy League (shout out to [Washington University in St. Louis](https://en.wikipedia.org/wiki/Washington_University_in_St._Louis), [Stanford](https://en.wikipedia.org/wiki/Stanford_University), [MIT](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology), [Duke](https://en.wikipedia.org/wiki/Duke_University), [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago), [Rice](https://en.wikipedia.org/wiki/Rice_University), [Vanderbilt](https://en.wikipedia.org/wiki/Vanderbilt_University), [Northwestern](https://en.wikipedia.org/wiki/Northwestern_University)), apply to [HBCU's](https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities), apply to community colleges, apply to international schools, apply everywhere. There's more than one path to college, just like there's more than one way into tech. More on that below.
 
 ## Frequently Asked Questions
+
+**Note:** Check out my companion post to this one, [On the Nature of Artificial Intelligence in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/), for tech career advice that specifically hones in on the impact AI is having on the field.
+{: .notice--info}
 
 Here are some questions I hear a lot from students or job seekers interested in tech careers.
 
