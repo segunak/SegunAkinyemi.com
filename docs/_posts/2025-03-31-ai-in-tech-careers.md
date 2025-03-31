@@ -129,7 +129,7 @@ Remember: AI is ultimately a tool. Its value is a function of how you're using i
 These tools are transforming how tech professionals work by integrating AI directly into workflows. Unlike general-purpose chatbots that require constant context switching, these specialized tools enhance your existing processes. The landscape evolves rapidly, but these are the standout options that I believe will remain relevant through 2025 and beyond.
 
 <details markdown="1">
-<summary><strong>🛠️ AI Coding Tools</strong></summary>
+<summary>🛠️ AI Coding Tools</summary>
 <ul>
   <li><a href="https://code.visualstudio.com/docs/copilot/copilot-chat" target="_blank">GitHub Copilot Agent Mode</a> - This is my daily driver. It enables natural language conversations about code within VS Code, helping with writing, debugging, and explaining code through dialog. With Microsoft owning both GitHub and VS Code, and having strong OpenAI ties, it provides access to cutting-edge AI models while staying in your IDE. It's model-agnostic too—you can use Claude, Gemini, DeepSeek and others.</li>
   <li><a href="https://codeassist.google/" target="_blank">Gemini Code Assist</a> - Google's AI coding assistant that integrates with popular IDEs to provide contextual code completions and suggestions based on your codebase and documentation. It excels at understanding and generating code for Google-specific technologies and cloud services.</li>
@@ -139,17 +139,18 @@ These tools are transforming how tech professionals work by integrating AI direc
 </details>
 
 <details markdown="1">
-<summary><strong>🧰 Development Platforms</strong></summary>
+<summary>🧰 Development Platforms</summary>
 <ul>
   <li><a href="https://v0.dev/" target="_blank">Vercel v0</a> - A generative UI system that converts plain text descriptions into React code, dramatically speeding up front-end development. It's especially powerful for React projects using NextJS, creating production-ready components from natural language descriptions.</li>
   <li><a href="https://lovable.dev/" target="_blank">Lovable.dev</a> - A tool that enables creating functional websites through conversational prompts, making web development more accessible to non-developers. It handles complex logic and responsive design without requiring coding knowledge.</li>
   <li><a href="https://replit.com/ghostwriter" target="_blank">Replit GhostWriter</a> - An AI coding assistant built into Replit's browser-based development platform. It's perfect for quick experiments, learning to code, and collaborative projects without local environment setup.</li>
-  <li><a href="https://githubnext.com/projects/github-spark" target="_blank">GitHub Spark</a> - An AI-powered tool for creating and sharing micro apps ("sparks") without writing or deploying code. These apps are directly usable from desktop and mobile devices, making it perfect for quick utilities and prototypes.</li>
+  <li><a href="https://githubnext.com/projects/github-spark" target="_blank">GitHub Spark</a> - GitHub's answer to Lovable.dev that will likely dominate once it comes out of technical preview. It lets you build and share micro apps without any code or deployment, usable from desktop or mobile devices—great for quick utilities and prototypes.
+  </li>
 </ul>
 </details>
 
 <details markdown="1">
-<summary><strong>🎨 Design Assistants</strong></summary>
+<summary>🎨 Design Assistants</summary>
 <ul>
   <li><a href="https://www.canva.com/magic-design/" target="_blank">Canva Magic Design</a> - An AI feature within Canva that generates complete design layouts based on text descriptions. It provides a ready-to-use starting point for presentations, social media graphics, and marketing materials.</li>
   <li><a href="https://designer.microsoft.com/" target="_blank">Microsoft Designer</a> - A powerful AI design tool that converts text descriptions into visual designs with extensive customization options. It integrates with Microsoft 365 and offers commercial usage rights for generated content.</li>
@@ -158,7 +159,7 @@ These tools are transforming how tech professionals work by integrating AI direc
 </details>
 
 <details markdown="1">
-<summary><strong>📚 Research Tools</strong></summary>
+<summary>📚 Research Tools</summary>
 <ul>
   <li><a href="https://notebooklm.google/" target="_blank">NotebookLM</a> - A Google tool that helps analyze and synthesize information from documents, turning passive reference material into an interactive knowledge base. It's exceptionally valuable for digesting technical documentation, research papers, and comprehensive reports.</li>
   <li><a href="https://www.perplexity.ai/" target="_blank">Perplexity AI</a> - An AI-powered search engine that provides comprehensive answers with cited sources, eliminating the need to manually sort through search results. Its ability to cite sources makes it particularly valuable for technical research and fact-checking.</li>
@@ -168,7 +169,7 @@ These tools are transforming how tech professionals work by integrating AI direc
 </details>
 
 <details markdown="1">
-<summary><strong>🔒 Privacy-Focused Tools</strong></summary>
+<summary>🔒 Privacy-Focused Tools</summary>
 <ul>
   <li><a href="https://anythingllm.com/" target="_blank">AnythingLLM</a> - An open-source, self-hosted ChatGPT-like interface that enables private document analysis without sending your code or data to third parties. It's ideal for working with sensitive or proprietary information while still leveraging AI capabilities.</li>
   <li><a href="https://lmstudio.ai/" target="_blank">LM Studio</a> - A desktop application for downloading and running open-source large language models locally on your computer. It offers a balance between powerful AI assistance and complete data privacy, though requires decent hardware.</li>
@@ -181,25 +182,25 @@ These tools are transforming how tech professionals work by integrating AI direc
 Having spent time at career fairs and hosting student field trips at [my employer's](https://en.wikipedia.org/wiki/Microsoft) offices, I get asked these questions a lot. Here are my honest answers:
 
 <details markdown="1">
-<summary><strong>❓ Is AI going to replace all software developers?</strong></summary>
+<summary>❓ Is AI going to replace all software developers?</summary>
 
 No, but it will replace developers who refuse to adapt to using AI. Look at history: calculators didn't replace mathematicians, CAD software didn't replace architects, and Excel didn't replace accountants. These tools changed how the work is done, making professionals who embraced them more valuable. I do think we'll probably end up with less developers overall though, as it'll be easier for less people to do more because AI is doing so much of the grunt work.
 </details>
 
 <details markdown="1">
-<summary><strong>❓ Should I even bother learning to code with AI around?</strong></summary>
+<summary>❓ Should I even bother learning to code with AI around?</summary>
 
-Absolutely yes. Don't just listen to me on this one though, scroll back up to <a href="#reassurance-from-ai-pioneers">this section</a>. People far smarter than me have spoken on this. Also, check out the article <a href="https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/">Is Coding Education As We Know It Dead?</a>
+Absolutely yes. Don't just listen to me on this one though, scroll back up to [this section](#reassurance-from-ai-pioneers). People far smarter than me have spoken on this. Also, check out the article [Is Coding Education As We Know It Dead?](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/)
 </details>
 
 <details markdown="1">
-<summary><strong>❓ Is using AI tools 'cheating' or making me less skilled?</strong></summary>
+<summary>❓ Is using AI tools 'cheating' or making me less skilled?</summary>
 
-No more than using Stack Overflow, libraries, or frameworks is cheating. At <a href="https://en.wikipedia.org/wiki/Microsoft">my employer</a>, we're actively encouraged to use AI tools to be more productive. The goal is solving problems and creating value, not proving you can remember syntax.
+No more than using Stack Overflow, libraries, or frameworks is cheating. At [my employer](https://en.wikipedia.org/wiki/Microsoft), we're actively encouraged to use AI tools to be more productive. The goal is solving problems and creating value, not proving you can remember syntax.
 </details>
 
 <details markdown="1">
-<summary><strong>❓ Is a computer science degree still worth it?</strong></summary>
+<summary>❓ Is a computer science degree still worth it?</summary>
 
 Yes, with a caveat: make sure your program is adapting to include AI. A good CS degree teaches fundamentals that remain valuable regardless of tools:
 
@@ -209,51 +210,51 @@ Yes, with a caveat: make sure your program is adapting to include AI. A good CS 
 - Software architecture patterns
 - Computer science theory
 
-That said, supplement your degree with practical AI skills. Check out <a href="https://aiskillsnavigator.microsoft.com/en-us">Microsoft's AI Skills Navigator</a>.
+That said, supplement your degree with practical AI skills. Check out [Microsoft's AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us).
 
-Also, consider the financial aspect. If pursuing a CS degree means accumulating massive debt, carefully weigh your options. Many successful tech professionals enter the field through community colleges, bootcamps, or certificate programs. Tech is uniquely meritocratic; four years of traditional education isn't always necessary before you can contribute meaningfully to the industry. Self-taught developers with strong portfolios and practical skills often compete successfully against degree holders, especially when they demonstrate AI proficiency. <strong>But to be clear, if you can go to college without going into massive debt, I think you should</strong>. The path for those who don't is doable, but harder.
+Also, consider the financial aspect. If pursuing a CS degree means accumulating massive debt, carefully weigh your options. Many successful tech professionals enter the field through community colleges, bootcamps, or certificate programs. Tech is uniquely meritocratic; four years of traditional education isn't always necessary before you can contribute meaningfully to the industry. Self-taught developers with strong portfolios and practical skills often compete successfully against degree holders, especially when they demonstrate AI proficiency. **But to be clear, if you can go to college without going into massive debt, I think you should**. The path for those who don't is doable, but harder.
 </details>
 
 <details markdown="1">
-<summary><strong>❓ How do I compete with AI in tech?</strong></summary>
+<summary>❓ How do I compete with AI in tech?</summary>
 
 You don't compete with AI, you use it. Or "leverage it" if I wanted to sound like a business person. Focus on skills that AI enhances rather than replaces:
 
-1. <a href="https://github.com/donnemartin/system-design-primer">System architecture and design</a> - Understanding how to design scalable, maintainable systems remains a critical human skill.
+1. [System architecture and design](https://github.com/donnemartin/system-design-primer) - Understanding how to design scalable, maintainable systems remains a critical human skill.
 
-2. Business domain knowledge - Developers who deeply understand the products and industries they're building for will always be valuable. AI can write code, but it can't replace <a href="https://martinfowler.com/bliki/DomainDrivenDesign.html">industry expertise</a> or contextual understanding of business problems.
+2. Business domain knowledge - Developers who deeply understand the products and industries they're building for will always be valuable. AI can write code, but it can't replace [industry expertise](https://martinfowler.com/bliki/DomainDrivenDesign.html) or contextual understanding of business problems.
 
-3. <a href="https://refactoring.guru/design-patterns">Problem analysis and solution design</a> - Breaking down complex requirements and designing appropriate solutions requires human judgment and creativity.
+3. [Problem analysis and solution design](https://refactoring.guru/design-patterns) - Breaking down complex requirements and designing appropriate solutions requires human judgment and creativity.
 
-4. Team collaboration and communication - AI tools can't replace the <a href="https://www.coursera.org/articles/hard-skills-vs-soft-skills">soft skills</a> needed to work effectively within a team. I've been surprised by how much career advancement in tech depends on people wanting you on their projects and teams. It isn't coding alone in a dark basement, it's deeply collaborative. Strong interpersonal skills directly impact your promotion opportunities, while poor collaboration will limit your career growth.
+4. Team collaboration and communication - AI tools can't replace the [soft skills](https://www.coursera.org/articles/hard-skills-vs-soft-skills) needed to work effectively within a team. I've been surprised by how much career advancement in tech depends on people wanting you on their projects and teams. It isn't coding alone in a dark basement, it's deeply collaborative. Strong interpersonal skills directly impact your promotion opportunities, while poor collaboration will limit your career growth.
 
-5. Technical writing and communication - The ability to write clear, precise instructions is invaluable when working with AI. This is the essence of prompt engineering. The quality of AI output directly correlates with the quality of your prompts. In many ways, the new form of coding is writing really well in natural language, what some call <a href="https://segunakinyemi.com/blog/natural-language-programming/">Natural Language Programming</a>. Developers who can articulate requirements, constraints, and goals with precision will get significantly better results from AI tools than those who can't.
+5. Technical writing and communication - The ability to write clear, precise instructions is invaluable when working with AI. This is the essence of prompt engineering. The quality of AI output directly correlates with the quality of your prompts. In many ways, the new form of coding is writing really well in natural language, what some call [Natural Language Programming](https://segunakinyemi.com/blog/natural-language-programming/). Developers who can articulate requirements, constraints, and goals with precision will get significantly better results from AI tools than those who can't.
 
-6. Security and best practices - Cybersecurity requires deep expertise that AI can enhance but not replace. Organizations need security professionals who use AI to strengthen their work, as no one wants AI alone responsible for protecting critical systems. With growing demand for security expertise, <a href="https://www.coursera.org/articles/cybersecurity-career-paths">cybersecurity career paths</a> remain promising.
+6. Security and best practices - Cybersecurity requires deep expertise that AI can enhance but not replace. Organizations need security professionals who use AI to strengthen their work, as no one wants AI alone responsible for protecting critical systems. With growing demand for security expertise, [cybersecurity career paths](https://www.coursera.org/articles/cybersecurity-career-paths) remain promising.
 
-7. <a href="https://www.microsoft.com/en-us/ai/responsible-ai">Ethical decision-making and AI governance</a> - Understanding the ethical implications of AI systems and establishing proper governance frameworks is becoming essential.
+7. [Ethical decision-making and AI governance](https://www.microsoft.com/en-us/ai/responsible-ai) - Understanding the ethical implications of AI systems and establishing proper governance frameworks is becoming essential.
 
-8. User experience (UX) understanding - Knowing how humans interact with technology remains crucial. Check out a list of UX learning resources <a href="https://blog.uxtweak.com/best-ux-resources/">here</a>.
+8. User experience (UX) understanding - Knowing how humans interact with technology remains crucial. Check out a list of UX learning resources [here](https://blog.uxtweak.com/best-ux-resources/).
 
-9. Project management and prioritization - GitHub is developing features like <a href="https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#project-padawan-swe-agents-on-github">Project Padawan</a> where you can assign AI work items on repositories and receive pull requests to review. This makes well-written, detailed user stories even more crucial. Learn more with <a href="https://www.atlassian.com/agile/project-management/user-stories">Atlassian's guide to user stories</a>.
+9. Project management and prioritization - GitHub is developing features like [Project Padawan](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#project-padawan-swe-agents-on-github) where you can assign AI work items on repositories and receive pull requests to review. This makes well-written, detailed user stories even more crucial. Learn more with [Atlassian's guide to user stories](https://www.atlassian.com/agile/project-management/user-stories).
 </details>
 
 <details markdown="1">
-<summary><strong>❓ What's the best way to start learning AI coding tools?</strong></summary>
+<summary>❓ What's the best way to start learning AI coding tools?</summary>
 
-1. <strong>Use GitHub Copilot</strong> - This is the most widely-adopted AI coding assistant that integrates directly into VS Code. With Microsoft's backing and OpenAI partnership, it's becoming the industry standard employers expect you to know. <a href="https://github.com/features/copilot">Get started here</a>.
+1. **Use GitHub Copilot** - This is the most widely-adopted AI coding assistant that integrates directly into VS Code. With Microsoft's backing and OpenAI partnership, it's becoming the industry standard employers expect you to know. [Get started here](https://github.com/features/copilot).
 
-2. <strong>Learn prompt engineering</strong> - Writing effective prompts is becoming as valuable as coding itself. Practice crafting clear, specific instructions that yield better results. Check out <a href="https://platform.openai.com/docs/guides/prompt-engineering">OpenAI's prompt engineering guide</a>.
+2. **Learn prompt engineering** - Writing effective prompts is becoming as valuable as coding itself. Practice crafting clear, specific instructions that yield better results. Check out [OpenAI's prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering).
 
-3. <strong>Use structured learning resources</strong>:
-  - <a href="https://aiskillsnavigator.microsoft.com/en-us">Microsoft's AI Skills Navigator</a> - A comprehensive roadmap to build AI skills with personalized learning paths
-  - <a href="https://grow.google/ai/">Google's AI Training Hub</a> - Free courses and resources to help you develop practical AI skills
+3. **Use structured learning resources**:
+  - [Microsoft's AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us) - A comprehensive roadmap to build AI skills with personalized learning paths
+  - [Google's AI Training Hub](https://grow.google/ai/) - Free courses and resources to help you develop practical AI skills
 
-4. <strong>Join AI communities</strong> - Places like <a href="https://www.reddit.com/r/ChatGPTCoding/">r/ChatGPTCoding</a> let you learn from others' experiences and stay updated on new techniques.
+4. **Join AI communities** - Places like [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/) let you learn from others' experiences and stay updated on new techniques.
 
-5. <strong>Practice consistently</strong> - Like any skill, improving with AI tools requires regular use. Try incorporating them into small personal projects first.
+5. **Practice consistently** - Like any skill, improving with AI tools requires regular use. Try incorporating them into small personal projects first.
 
-For more comprehensive resources, check out my <a href="https://segunakinyemi.com/blog/ai-learning-resources/">AI Learning Resources</a> guide.
+For more comprehensive resources, check out my [AI Learning Resources](https://segunakinyemi.com/blog/ai-learning-resources/) guide.
 </details>
 
 ## Closing Words
