@@ -182,9 +182,17 @@ details[open] summary::before {
   transform: rotate(90deg);
 }
 
+/* Add proper spacing between the summary button and content */
+details[open] summary {
+  margin-bottom: 1em;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  padding-bottom: 0.8em;
+}
+
 /* Style for the content inside details */
 details > *:not(summary) {
-  margin-top: 1em;
+  margin-top: 0.5em;
   margin-left: 1em;
   font-size: 0.95em; /* Make content slightly smaller than summary */
 }
