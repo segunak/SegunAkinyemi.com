@@ -146,3 +146,64 @@ a.reversefootnote {
   text-decoration: underline;
 }
 
+/* Collapsible sections styling for both light and dark themes */
+details {
+  margin: 1em 0;
+  padding: 0.7em;
+  border-radius: 0.5em;
+  overflow: hidden;
+  position: relative;
+}
+
+details summary {
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0.5em;
+  margin: -0.5em;
+  border-radius: 0.3em;
+  display: flex;
+  align-items: center;
+  list-style: none; /* Hide the default triangle */
+}
+
+details summary::-webkit-details-marker {
+  display: none; /* Hide the default triangle in Chrome */
+}
+
+/* Custom arrow for summary */
+details summary::before {
+  content: "▶";
+  display: inline-block;
+  margin-right: 0.5em;
+  transition: transform 0.2s;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+/* Style for the content inside details */
+details > *:not(summary) {
+  margin-top: 1em;
+  margin-left: 1em;
+  font-size: 0.95em; /* Make content slightly smaller than summary */
+}
+
+details ul {
+  margin: 0.5em 0 0.5em 1em;
+  padding-left: 1em;
+}
+
+details li {
+  margin-bottom: 0.5em;
+}
+
+/* Ensure proper vertical spacing between items inside details */
+details p:first-of-type {
+  margin-top: 0.5em;
+}
+
+details p:last-of-type {
+  margin-bottom: 0;
+}
+

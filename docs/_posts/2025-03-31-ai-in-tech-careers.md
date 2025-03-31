@@ -64,7 +64,7 @@ But don't take it from me, let's consult some experts.
 
 Perhaps the most compelling perspective comes from [Dr. Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), one of the most influential figures in artificial intelligence. Dr. Ng co-founded [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) (inventors of the ["T" in ChatGPT](https://en.wikipedia.org/wiki/Google_Brain#Transformer)), was the Chief Scientist at [Baidu](https://en.wikipedia.org/wiki/Baidu), co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), founded [DeepLearning.AI](https://www.deeplearning.ai/), and served as the founding lead of the [Stanford AI Lab](https://ai.stanford.edu/). As the person who helped bring deep learning into the mainstream and educated millions through his groundbreaking [Machine Learning course](https://www.coursera.org/specializations/machine-learning-introduction), his perspective on AI's impact on programming carries significant weight:
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305984835037118464" height="500" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305984835037118464" height="400" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post"></iframe>
 
 And Dr. Ng isn't alone in this view. [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), Meta's Chief AI Scientist and [Turing Award winner](https://amturing.acm.org/award_winners/lecun_6017366.cfm), strongly agrees with this assessment, as seen [here](https://www.linkedin.com/posts/yann-lecun_deepseek-r1-uncensored-qwq-32b-puts-reasoning-activity-7306472490199887873-7XtW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABvfe0cBF26Fjl_dkPhC1BORIN7IaP5xuKE). LeCun, who pioneered [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (the technology behind modern computer vision) and is considered one of the "godfathers of AI" alongside [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) and [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), emphatically supports the view that AI will enhance programming rather than replace programmers.
 
@@ -176,43 +176,30 @@ These tools are transforming how tech professionals work by integrating AI direc
 </ul>
 </details>
 
-<style>
-details {
-  margin: 10px 0;
-  padding: 10px;
-  background: #f8f9fa;
-  border-radius: 5px;
-  border: 1px solid #e9ecef;
-}
-
-details summary {
-  font-weight: bold;
-  cursor: pointer;
-  padding: 5px;
-}
-
-details[open] summary {
-  margin-bottom: 10px;
-}
-</style>
-
 ## Frequently Asked Questions
 
-Having spent time at career fairs and hosting student field trips at [my employer's](https://en.wikipedia.org/wiki/Microsoft) offices, I get asked these questions a lot. Here are my honest answers.
+Having spent time at career fairs and hosting student field trips at [my employer's](https://en.wikipedia.org/wiki/Microsoft) offices, I get asked these questions a lot. Here are my honest answers:
 
-### Is AI going to replace all software developers?
+<details>
+<summary><strong>❓ Is AI going to replace all software developers?</strong></summary>
 
 No, but it will replace developers who refuse to adapt to using AI. Look at history: calculators didn't replace mathematicians, CAD software didn't replace architects, and Excel didn't replace accountants. These tools changed how the work is done, making professionals who embraced them more valuable. I do think we'll probably end up with less developers overall though, as it'll be easier for less people to do more because AI is doing so much of the grunt work.
+</details>
 
-### Should I even bother learning to code with AI around?
+<details>
+<summary><strong>❓ Should I even bother learning to code with AI around?</strong></summary>
 
-Absolutely yes. Don't just listen to me on this one though, scroll back up to [this section](#reassurance-from-ai-pioneers). People far smarter than me have spoken on this. Also, check out the article [Is Coding Education As We Know It Dead?](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/).
+Absolutely yes. Don't just listen to me on this one though, scroll back up to <a href="#reassurance-from-ai-pioneers">this section</a>. People far smarter than me have spoken on this. Also, check out the article <a href="https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/">Is Coding Education As We Know It Dead?</a>
+</details>
 
-### Is using AI tools 'cheating' or making me less skilled?
+<details>
+<summary><strong>❓ Is using AI tools 'cheating' or making me less skilled?</strong></summary>
 
-No more than using Stack Overflow, libraries, or frameworks is cheating. At [my employer](https://en.wikipedia.org/wiki/Microsoft), we're actively encouraged to use AI tools to be more productive. The goal is solving problems and creating value, not proving you can remember syntax.
+No more than using Stack Overflow, libraries, or frameworks is cheating. At <a href="https://en.wikipedia.org/wiki/Microsoft">my employer</a>, we're actively encouraged to use AI tools to be more productive. The goal is solving problems and creating value, not proving you can remember syntax.
+</details>
 
-### Is a computer science degree still worth it?
+<details>
+<summary><strong>❓ Is a computer science degree still worth it?</strong></summary>
 
 Yes, with a caveat: make sure your program is adapting to include AI. A good CS degree teaches fundamentals that remain valuable regardless of tools:
 
@@ -222,67 +209,49 @@ Yes, with a caveat: make sure your program is adapting to include AI. A good CS 
 - Software architecture patterns
 - Computer science theory
 
-That said, supplement your degree with practical AI skills. Check out [Microsoft's AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us).
+That said, supplement your degree with practical AI skills. Check out <a href="https://aiskillsnavigator.microsoft.com/en-us">Microsoft's AI Skills Navigator</a>.
 
-Also, consider the financial aspect. If pursuing a CS degree means accumulating massive debt, carefully weigh your options. Many successful tech professionals enter the field through community colleges, bootcamps, or certificate programs. Tech is uniquely meritocratic; four years of traditional education isn't always necessary before you can contribute meaningfully to the industry. Self-taught developers with strong portfolios and practical skills often compete successfully against degree holders, especially when they demonstrate AI proficiency. **But to be clear, if you can go to college without going into massive debt, I think you should**. The path for those who don't is doable, but harder.
+Also, consider the financial aspect. If pursuing a CS degree means accumulating massive debt, carefully weigh your options. Many successful tech professionals enter the field through community colleges, bootcamps, or certificate programs. Tech is uniquely meritocratic; four years of traditional education isn't always necessary before you can contribute meaningfully to the industry. Self-taught developers with strong portfolios and practical skills often compete successfully against degree holders, especially when they demonstrate AI proficiency. <strong>But to be clear, if you can go to college without going into massive debt, I think you should</strong>. The path for those who don't is doable, but harder.
+</details>
 
-### How do I compete with AI in tech?
+<details>
+<summary><strong>❓ How do I compete with AI in tech?</strong></summary>
 
 You don't compete with AI, you use it. Or "leverage it" if I wanted to sound like a business person. Focus on skills that AI enhances rather than replaces:
 
-1. [System architecture and design](https://github.com/donnemartin/system-design-primer) - Understanding how to design scalable, maintainable systems remains a critical human skill.
+1. <a href="https://github.com/donnemartin/system-design-primer">System architecture and design</a> - Understanding how to design scalable, maintainable systems remains a critical human skill.
 
-2. Business domain knowledge - Developers who deeply understand the products and industries they're building for will always be valuable. AI can write code, but it can't replace [industry expertise](https://martinfowler.com/bliki/DomainDrivenDesign.html) or contextual understanding of business problems.
+2. Business domain knowledge - Developers who deeply understand the products and industries they're building for will always be valuable. AI can write code, but it can't replace <a href="https://martinfowler.com/bliki/DomainDrivenDesign.html">industry expertise</a> or contextual understanding of business problems.
 
-3. [Problem analysis and solution design](https://refactoring.guru/design-patterns) - Breaking down complex requirements and designing appropriate solutions requires human judgment and creativity.
+3. <a href="https://refactoring.guru/design-patterns">Problem analysis and solution design</a> - Breaking down complex requirements and designing appropriate solutions requires human judgment and creativity.
 
-4. Team collaboration and communication - AI tools can't replace the [soft skills](https://www.coursera.org/articles/hard-skills-vs-soft-skills) needed to work effectively within a team. I've been surprised by how much career advancement in tech depends on people wanting you on their projects and teams. It isn't coding alone in a dark basement, it's deeply collaborative. Strong interpersonal skills directly impact your promotion opportunities, while poor collaboration will limit your career growth.
+4. Team collaboration and communication - AI tools can't replace the <a href="https://www.coursera.org/articles/hard-skills-vs-soft-skills">soft skills</a> needed to work effectively within a team. I've been surprised by how much career advancement in tech depends on people wanting you on their projects and teams. It isn't coding alone in a dark basement, it's deeply collaborative. Strong interpersonal skills directly impact your promotion opportunities, while poor collaboration will limit your career growth.
 
-5. Technical writing and communication - The he ability to write clear, precise instructions is invaluable when working with AI. This is the essence of prompt engineering. The quality of AI output directly correlates with the quality of your prompts. In many ways, the new form of coding is writing really well in natural language, what some call [Natural Language Programming](https://segunakinyemi.com/blog/natural-language-programming/). Developers who can articulate requirements, constraints, and goals with precision will get significantly better results from AI tools than those who can't.
+5. Technical writing and communication - The ability to write clear, precise instructions is invaluable when working with AI. This is the essence of prompt engineering. The quality of AI output directly correlates with the quality of your prompts. In many ways, the new form of coding is writing really well in natural language, what some call <a href="https://segunakinyemi.com/blog/natural-language-programming/">Natural Language Programming</a>. Developers who can articulate requirements, constraints, and goals with precision will get significantly better results from AI tools than those who can't.
 
-6. Security and best practices - Cybersecurity requires deep expertise that AI can enhance but not replace. Organizations need security professionals who use AI to strengthen their work, as no one wants AI alone responsible for protecting critical systems. With growing demand for security expertise, [cybersecurity career paths](https://www.coursera.org/articles/cybersecurity-career-paths) remain promising.
+6. Security and best practices - Cybersecurity requires deep expertise that AI can enhance but not replace. Organizations need security professionals who use AI to strengthen their work, as no one wants AI alone responsible for protecting critical systems. With growing demand for security expertise, <a href="https://www.coursera.org/articles/cybersecurity-career-paths">cybersecurity career paths</a> remain promising.
 
-8. [Ethical decision-making and AI governance](https://www.microsoft.com/en-us/ai/responsible-ai) - Understanding the ethical implications of AI systems and establishing proper governance frameworks is becoming essential.
+7. <a href="https://www.microsoft.com/en-us/ai/responsible-ai">Ethical decision-making and AI governance</a> - Understanding the ethical implications of AI systems and establishing proper governance frameworks is becoming essential.
 
-9. User experience (UX) understanding - Knowing how humans interact with technology remains crucial. Check out a list of UX learning resources [here](https://blog.uxtweak.com/best-ux-resources/).
+8. User experience (UX) understanding - Knowing how humans interact with technology remains crucial. Check out a list of UX learning resources <a href="https://blog.uxtweak.com/best-ux-resources/">here</a>.
 
-10. Project management and prioritization - GitHub is developing features like [Project Padawan](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#project-padawan-swe-agents-on-github) where you can assign AI work items on repositories and receive pull requests to review. This makes well-written, detailed user stories even more crucial. Learn more with [Atlassian's guide to user stories](https://www.atlassian.com/agile/project-management/user-stories).
+9. Project management and prioritization - GitHub is developing features like <a href="https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#project-padawan-swe-agents-on-github">Project Padawan</a> where you can assign AI work items on repositories and receive pull requests to review. This makes well-written, detailed user stories even more crucial. Learn more with <a href="https://www.atlassian.com/agile/project-management/user-stories">Atlassian's guide to user stories</a>.
+</details>
 
-### What's the best way to start learning AI coding tools?
+<details>
+<summary><strong>❓ What's the best way to start learning AI coding tools?</strong></summary>
 
-1. **Use GitHub Copilot** - This is the most widely-adopted AI coding assistant that integrates directly into VS Code. With Microsoft's backing and OpenAI partnership, it's becoming the industry standard employers expect you to know. [Get started here](https://github.com/features/copilot).
+1. <strong>Use GitHub Copilot</strong> - This is the most widely-adopted AI coding assistant that integrates directly into VS Code. With Microsoft's backing and OpenAI partnership, it's becoming the industry standard employers expect you to know. <a href="https://github.com/features/copilot">Get started here</a>.
 
-2. **Learn prompt engineering** - Writing effective prompts is becoming as valuable as coding itself. Practice crafting clear, specific instructions that yield better results. Check out [OpenAI's prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering).
+2. <strong>Learn prompt engineering</strong> - Writing effective prompts is becoming as valuable as coding itself. Practice crafting clear, specific instructions that yield better results. Check out <a href="https://platform.openai.com/docs/guides/prompt-engineering">OpenAI's prompt engineering guide</a>.
 
-3. **Use structured learning resources**:
-  - [Microsoft's AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us) - A comprehensive roadmap to build AI skills with personalized learning paths
-  - [Google's AI Training Hub](https://grow.google/ai/) - Free courses and resources to help you develop practical AI skills
+3. <strong>Use structured learning resources</strong>:
+  - <a href="https://aiskillsnavigator.microsoft.com/en-us">Microsoft's AI Skills Navigator</a> - A comprehensive roadmap to build AI skills with personalized learning paths
+  - <a href="https://grow.google/ai/">Google's AI Training Hub</a> - Free courses and resources to help you develop practical AI skills
 
-4. **Join AI communities** - Places like [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/) let you learn from others' experiences and stay updated on new techniques.
+4. <strong>Join AI communities</strong> - Places like <a href="https://www.reddit.com/r/ChatGPTCoding/">r/ChatGPTCoding</a> let you learn from others' experiences and stay updated on new techniques.
 
-5. **Practice consistently** - Like any skill, improving with AI tools requires regular use. Try incorporating them into small personal projects first.
+5. <strong>Practice consistently</strong> - Like any skill, improving with AI tools requires regular use. Try incorporating them into small personal projects first.
 
-For more comprehensive resources, check out my [AI Learning Resources](https://segunakinyemi.com/blog/ai-learning-resources/) guide.
-
-## Closing Words
-
-I wrote this article because I'm tired of seeing talented people hesitate to pursue tech careers due to AI anxiety. Yes, the landscape is changing dramatically, I see it firsthand at [a company](https://en.wikipedia.org/wiki/Microsoft) heavily invested in this future. But change brings opportunity. The key is to be proactive rather than reactive.
-
-Writing this was also a learning exercise for me. As [Aristotle](https://en.wikipedia.org/wiki/Aristotle) (or maybe [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman), the internet can't seem to agree) said: "_The best way to learn is to teach_". By breaking down what I'm seeing in the industry and sharing it with you, I'm forced to really understand it myself.
-
-So whether you're:
-
-- A student wondering if tech is still worth pursuing (it is).
-- A developer worried about job security (adapt!).
-- Someone in an adjacent field curious about the AI revolution (join us!).
-
-I hope this article gave you some clarity and practical next steps.
-
-The future of tech careers isn't about competing with AI, it's about knowing how to wield it effectively. We're just getting started. 
-
-Stay curious, keep learning, and don't forget to [shine your eyes](https://www.google.com/search?q=shine+your+eyes+Nigerian+slang+meaning).
-
----
-
-Have thoughts about AI's impact on tech careers? Connect with me on [LinkedIn](https://www.linkedin.com/in/segunakinyemi) or check out my other articles about [artificial intelligence](https://segunakinyemi.com/tags/#artificial-intelligence).
-{: .notice--primary}
+For more comprehensive resources, check out my <a href="https://segunakinyemi.com/blog/ai-learning-resources/">AI Learning Resources</a> guide.
+</details>

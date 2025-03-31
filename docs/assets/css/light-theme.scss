@@ -22,3 +22,22 @@ put it in _styleoverrides.scss*/
 .random-quote-box .btn {
     background: #0092ca;
 }
+
+/* Light theme specific styles for collapsible sections */
+details {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+}
+
+details summary {
+    background-color: #f0f2f5;
+}
+
+details summary:hover {
+    background-color: #e9ecef;
+}
+
+details[open] summary {
+    background-color: #e9ecef;
+    border-bottom: 1px solid #dee2e6;
+}

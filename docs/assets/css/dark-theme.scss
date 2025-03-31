@@ -82,3 +82,22 @@ Anything you place after this point will therefore "cascade and override" the pr
 .highlight .c, .highlight .cm, .highlight .cp, .highlight .c1, .highlight .cs {
   color: gray; /* Comment styles */
 }
+
+/* Dark theme specific styles for collapsible sections */
+details {
+  background-color: #2a2d30;
+  border: 1px solid #3d4246;
+}
+
+details summary {
+  background-color: #252729;
+}
+
+details summary:hover {
+  background-color: #1e2022;
+}
+
+details[open] summary {
+  background-color: #1a1c1e;
+  border-bottom: 1px solid #3d4246;
+}
