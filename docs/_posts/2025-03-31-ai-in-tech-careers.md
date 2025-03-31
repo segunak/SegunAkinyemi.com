@@ -30,7 +30,7 @@ tags:
 </style>
 
 **Note:** This is a longer article, use the table of contents to jump around to sections that interest you. Also, check out my post [Miscellaneous Advice For People Interested In Tech Careers](https://segunakinyemi.com/blog/miscellaneous-tech-career-advice/). This article serves as a follow-up highlighting the impact and importance of AI on the field.
-{: .notice--info}
+{: .notice--primary}
 
 ## The Hype Is Real
 
@@ -64,7 +64,7 @@ But don't take it from me, let's consult some experts.
 
 Perhaps the most compelling perspective comes from [Dr. Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), one of the most influential figures in artificial intelligence. Dr. Ng co-founded [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) (inventors of the ["T" in ChatGPT](https://en.wikipedia.org/wiki/Google_Brain#Transformer)), was the Chief Scientist at [Baidu](https://en.wikipedia.org/wiki/Baidu), co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), founded [DeepLearning.AI](https://www.deeplearning.ai/), and served as the founding lead of the [Stanford AI Lab](https://ai.stanford.edu/). As the person who helped bring deep learning into the mainstream and educated millions through his groundbreaking [Machine Learning course](https://www.coursera.org/specializations/machine-learning-introduction), his perspective on AI's impact on programming carries significant weight:
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305984835037118464" height="400" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305984835037118464" height="430" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post" style="margin-bottom:23px"></iframe>
 
 And Dr. Ng isn't alone in this view. [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), Meta's Chief AI Scientist and [Turing Award winner](https://amturing.acm.org/award_winners/lecun_6017366.cfm), strongly agrees with this assessment, as seen [here](https://www.linkedin.com/posts/yann-lecun_deepseek-r1-uncensored-qwq-32b-puts-reasoning-activity-7306472490199887873-7XtW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABvfe0cBF26Fjl_dkPhC1BORIN7IaP5xuKE). LeCun, who pioneered [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (the technology behind modern computer vision) and is considered one of the "godfathers of AI" alongside [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) and [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), emphatically supports the view that AI will enhance programming rather than replace programmers.
 
@@ -128,7 +128,7 @@ Remember: AI is ultimately a tool. Its value is a function of how you're using i
 
 These tools are transforming how tech professionals work by integrating AI directly into workflows. Unlike general-purpose chatbots that require constant context switching, these specialized tools enhance your existing processes. The landscape evolves rapidly, but these are the standout options that I believe will remain relevant through 2025 and beyond.
 
-<details>
+<details markdown="1">
 <summary><strong>🛠️ AI Coding Tools</strong></summary>
 <ul>
   <li><a href="https://code.visualstudio.com/docs/copilot/copilot-chat" target="_blank">GitHub Copilot Agent Mode</a> - This is my daily driver. It enables natural language conversations about code within VS Code, helping with writing, debugging, and explaining code through dialog. With Microsoft owning both GitHub and VS Code, and having strong OpenAI ties, it provides access to cutting-edge AI models while staying in your IDE. It's model-agnostic too—you can use Claude, Gemini, DeepSeek and others.</li>
@@ -138,7 +138,7 @@ These tools are transforming how tech professionals work by integrating AI direc
 </ul>
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>🧰 Development Platforms</strong></summary>
 <ul>
   <li><a href="https://v0.dev/" target="_blank">Vercel v0</a> - A generative UI system that converts plain text descriptions into React code, dramatically speeding up front-end development. It's especially powerful for React projects using NextJS, creating production-ready components from natural language descriptions.</li>
@@ -148,7 +148,7 @@ These tools are transforming how tech professionals work by integrating AI direc
 </ul>
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>🎨 Design Assistants</strong></summary>
 <ul>
   <li><a href="https://www.canva.com/magic-design/" target="_blank">Canva Magic Design</a> - An AI feature within Canva that generates complete design layouts based on text descriptions. It provides a ready-to-use starting point for presentations, social media graphics, and marketing materials.</li>
@@ -157,7 +157,7 @@ These tools are transforming how tech professionals work by integrating AI direc
 </ul>
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>📚 Research Tools</strong></summary>
 <ul>
   <li><a href="https://notebooklm.google/" target="_blank">NotebookLM</a> - A Google tool that helps analyze and synthesize information from documents, turning passive reference material into an interactive knowledge base. It's exceptionally valuable for digesting technical documentation, research papers, and comprehensive reports.</li>
@@ -167,7 +167,7 @@ These tools are transforming how tech professionals work by integrating AI direc
 </ul>
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>🔒 Privacy-Focused Tools</strong></summary>
 <ul>
   <li><a href="https://anythingllm.com/" target="_blank">AnythingLLM</a> - An open-source, self-hosted ChatGPT-like interface that enables private document analysis without sending your code or data to third parties. It's ideal for working with sensitive or proprietary information while still leveraging AI capabilities.</li>
@@ -180,25 +180,25 @@ These tools are transforming how tech professionals work by integrating AI direc
 
 Having spent time at career fairs and hosting student field trips at [my employer's](https://en.wikipedia.org/wiki/Microsoft) offices, I get asked these questions a lot. Here are my honest answers:
 
-<details>
+<details markdown="1">
 <summary><strong>❓ Is AI going to replace all software developers?</strong></summary>
 
 No, but it will replace developers who refuse to adapt to using AI. Look at history: calculators didn't replace mathematicians, CAD software didn't replace architects, and Excel didn't replace accountants. These tools changed how the work is done, making professionals who embraced them more valuable. I do think we'll probably end up with less developers overall though, as it'll be easier for less people to do more because AI is doing so much of the grunt work.
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>❓ Should I even bother learning to code with AI around?</strong></summary>
 
 Absolutely yes. Don't just listen to me on this one though, scroll back up to <a href="#reassurance-from-ai-pioneers">this section</a>. People far smarter than me have spoken on this. Also, check out the article <a href="https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/">Is Coding Education As We Know It Dead?</a>
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>❓ Is using AI tools 'cheating' or making me less skilled?</strong></summary>
 
 No more than using Stack Overflow, libraries, or frameworks is cheating. At <a href="https://en.wikipedia.org/wiki/Microsoft">my employer</a>, we're actively encouraged to use AI tools to be more productive. The goal is solving problems and creating value, not proving you can remember syntax.
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>❓ Is a computer science degree still worth it?</strong></summary>
 
 Yes, with a caveat: make sure your program is adapting to include AI. A good CS degree teaches fundamentals that remain valuable regardless of tools:
@@ -214,7 +214,7 @@ That said, supplement your degree with practical AI skills. Check out <a href="h
 Also, consider the financial aspect. If pursuing a CS degree means accumulating massive debt, carefully weigh your options. Many successful tech professionals enter the field through community colleges, bootcamps, or certificate programs. Tech is uniquely meritocratic; four years of traditional education isn't always necessary before you can contribute meaningfully to the industry. Self-taught developers with strong portfolios and practical skills often compete successfully against degree holders, especially when they demonstrate AI proficiency. <strong>But to be clear, if you can go to college without going into massive debt, I think you should</strong>. The path for those who don't is doable, but harder.
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>❓ How do I compete with AI in tech?</strong></summary>
 
 You don't compete with AI, you use it. Or "leverage it" if I wanted to sound like a business person. Focus on skills that AI enhances rather than replaces:
@@ -238,7 +238,7 @@ You don't compete with AI, you use it. Or "leverage it" if I wanted to sound lik
 9. Project management and prioritization - GitHub is developing features like <a href="https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#project-padawan-swe-agents-on-github">Project Padawan</a> where you can assign AI work items on repositories and receive pull requests to review. This makes well-written, detailed user stories even more crucial. Learn more with <a href="https://www.atlassian.com/agile/project-management/user-stories">Atlassian's guide to user stories</a>.
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>❓ What's the best way to start learning AI coding tools?</strong></summary>
 
 1. <strong>Use GitHub Copilot</strong> - This is the most widely-adopted AI coding assistant that integrates directly into VS Code. With Microsoft's backing and OpenAI partnership, it's becoming the industry standard employers expect you to know. <a href="https://github.com/features/copilot">Get started here</a>.
@@ -276,3 +276,4 @@ Stay curious, keep learning, and don't forget to [shine your eyes](https://www.u
 ---
 
 _Have thoughts about AI's impact on tech careers? Connect with me on [LinkedIn](https://www.linkedin.com/in/segunakinyemi) or check out my other articles about [artificial intelligence](https://segunakinyemi.com/tags/artificial-intelligence)._
+{: .notice--primary}
