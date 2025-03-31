@@ -1,6 +1,6 @@
 ---
 title: "On the Nature of Artificial Intelligence in Tech Careers"
-excerpt: "A software engineer's perspective on how AI is reshaping tech careers, what tools you need to know, and how to stay relevant in this rapidly evolving landscape."
+excerpt: "A software engineer's perspective on how AI is reshaping tech careers and how to stay relevant in this rapidly evolving landscape."
 last_modified_at:
 toc: true
 toc_sticky: true
