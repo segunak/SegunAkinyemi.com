@@ -62,7 +62,7 @@ But don't take it from me, let's consult some experts.
 
 ## Reassurance From AI Pioneers
 
-Perhaps the most compelling perspective comes from [Dr. Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), one of the most influential figures in artificial intelligence. Dr. Ng co-founded [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) (inventors of the ["T" in ChatGPT](https://en.wikipedia.org/wiki/Google_Brain#Transformer)), was the Chief Scientist at [Baidu](https://en.wikipedia.org/wiki/Baidu), co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), founded [DeepLearning.AI](https://www.deeplearning.ai/), and served as the founding lead of the [Stanford AI Lab](https://ai.stanford.edu/). As the person who helped bring deep learning into the mainstream and educated millions through his groundbreaking [Machine Learning course](https://www.coursera.org/specializations/machine-learning-introduction), his perspective on AI's impact on programming carries significant weight:
+Perhaps the most compelling perspective comes from [Dr. Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), one of the most influential figures in artificial intelligence. Dr. Ng co-founded [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) (inventors of the ["T" in ChatGPT](https://en.wikipedia.org/wiki/Google_Brain#Transformer)), was the Chief Scientist at [Baidu](https://en.wikipedia.org/wiki/Baidu), co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), founded [DeepLearning.AI](https://www.deeplearning.ai/), and served as the founding lead of the [Stanford AI Lab](https://ai.stanford.edu/). As the person who helped bring deep learning into the mainstream and educated millions through his groundbreaking [Machine Learning course](https://www.coursera.org/specializations/machine-learning-introduction), his [perspective](https://www.linkedin.com/posts/andrewyng_deepseek-r1-uncensored-qwq-32b-puts-reasoning-activity-7305984835708141570-XVKU) on AI's impact on programming carries significant weight:
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305984835037118464" height="430" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post" style="margin-bottom:23px"></iframe>
 
@@ -130,51 +130,45 @@ These tools are transforming how tech professionals work by integrating AI direc
 
 <details markdown="1">
 <summary>🛠️ AI Coding Tools</summary>
-<ul>
-  <li><a href="https://code.visualstudio.com/docs/copilot/copilot-chat" target="_blank">GitHub Copilot Agent Mode</a> - This is my daily driver. It enables natural language conversations about code within VS Code, helping with writing, debugging, and explaining code through dialog. With Microsoft owning both GitHub and VS Code, and having strong OpenAI ties, it provides access to cutting-edge AI models while staying in your IDE. It's model-agnostic too—you can use Claude, Gemini, DeepSeek and others.</li>
-  <li><a href="https://codeassist.google/" target="_blank">Gemini Code Assist</a> - Google's AI coding assistant that integrates with popular IDEs to provide contextual code completions and suggestions based on your codebase and documentation. It excels at understanding and generating code for Google-specific technologies and cloud services.</li>
-  <li><a href="https://aws.amazon.com/q/developer/" target="_blank">Amazon Q Developer</a> - AWS's AI coding companion that specializes in AWS services, helping developers build cloud applications, troubleshoot issues, and navigate the vast AWS ecosystem. If your work heavily involves AWS infrastructure, this tool offers contextual assistance tailored to their services.</li>
-  <li><a href="https://www.cursor.com/" target="_blank">Cursor</a> - An AI-powered code editor built on VS Code that pioneered many features GitHub Copilot Agent Mode now offers. It provides a full context window for more accurate code generation and understanding, but may eventually be eclipsed by Copilot's deeper integration.</li>
-</ul>
+
+* [**GitHub Copilot Agent Mode**](https://code.visualstudio.com/docs/copilot/copilot-chat) - This is my daily driver. It enables natural language conversations about code within VS Code, helping with writing, debugging, and explaining code through dialog. With Microsoft owning both GitHub and VS Code, and having strong OpenAI ties, it provides access to cutting-edge AI models while staying in your IDE. It's model-agnostic too—you can use Claude, Gemini, DeepSeek and others.
+* [**Gemini Code Assist**](https://codeassist.google/) - Google's AI coding assistant that integrates with popular IDEs to provide contextual code completions and suggestions based on your codebase and documentation. It excels at understanding and generating code for Google-specific technologies and cloud services.
+* [**Amazon Q Developer**](https://aws.amazon.com/q/developer/) - AWS's AI coding companion that specializes in AWS services, helping developers build cloud applications, troubleshoot issues, and navigate the vast AWS ecosystem. If your work heavily involves AWS infrastructure, this tool offers contextual assistance tailored to their services.
+* [**Cursor**](https://www.cursor.com/) - An AI-powered code editor built on VS Code that pioneered many features GitHub Copilot Agent Mode now offers. It provides a full context window for more accurate code generation and understanding, but may eventually be eclipsed by Copilot's deeper integration.
 </details>
 
 <details markdown="1">
-<summary>🧰 Development Platforms</summary>
-<ul>
-  <li><a href="https://v0.dev/" target="_blank">Vercel v0</a> - A generative UI system that converts plain text descriptions into React code, dramatically speeding up front-end development. It's especially powerful for React projects using NextJS, creating production-ready components from natural language descriptions.</li>
-  <li><a href="https://lovable.dev/" target="_blank">Lovable.dev</a> - A tool that enables creating functional websites through conversational prompts, making web development more accessible to non-developers. It handles complex logic and responsive design without requiring coding knowledge.</li>
-  <li><a href="https://replit.com/ghostwriter" target="_blank">Replit GhostWriter</a> - An AI coding assistant built into Replit's browser-based development platform. It's perfect for quick experiments, learning to code, and collaborative projects without local environment setup.</li>
-  <li><a href="https://githubnext.com/projects/github-spark" target="_blank">GitHub Spark</a> - GitHub's answer to Lovable.dev that will likely dominate once it comes out of technical preview. It lets you build and share micro apps without any code or deployment, usable from desktop or mobile devices—great for quick utilities and prototypes.
-  </li>
-</ul>
+<summary><strong>🧰 Development Platforms</strong></summary>
+
+* [**Vercel v0**](https://v0.dev/) - A generative UI system that converts plain text descriptions into React code, dramatically speeding up front-end development. It's especially powerful for React projects using NextJS, creating production-ready components from natural language descriptions.
+* [**Lovable.dev**](https://lovable.dev/) - A tool that enables creating functional websites through conversational prompts, making web development more accessible to non-developers. It handles complex logic and responsive design without requiring coding knowledge.
+* [**Replit GhostWriter**](https://replit.com/ghostwriter) - An AI coding assistant built into Replit's browser-based development platform. It's perfect for quick experiments, learning to code, and collaborative projects without local environment setup.
+* [**GitHub Spark**](https://githubnext.com/projects/github-spark) - An AI-powered tool for creating and sharing micro apps ("sparks") without writing or deploying code. These apps are directly usable from desktop and mobile devices, making it perfect for quick utilities and prototypes.
 </details>
 
 <details markdown="1">
-<summary>🎨 Design Assistants</summary>
-<ul>
-  <li><a href="https://www.canva.com/magic-design/" target="_blank">Canva Magic Design</a> - An AI feature within Canva that generates complete design layouts based on text descriptions. It provides a ready-to-use starting point for presentations, social media graphics, and marketing materials.</li>
-  <li><a href="https://designer.microsoft.com/" target="_blank">Microsoft Designer</a> - A powerful AI design tool that converts text descriptions into visual designs with extensive customization options. It integrates with Microsoft 365 and offers commercial usage rights for generated content.</li>
-  <li><a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> - Adobe's suite of generative AI tools designed specifically for creative professionals. It's trained on licensed content and Adobe Stock, making it suitable for commercial projects without copyright concerns.</li>
-</ul>
+<summary><strong>🎨 Design Assistants</strong></summary>
+
+* [**Canva Magic Design**](https://www.canva.com/magic-design/) - An AI feature within Canva that generates complete design layouts based on text descriptions. It provides a ready-to-use starting point for presentations, social media graphics, and marketing materials.
+* [**Microsoft Designer**](https://designer.microsoft.com/) - A powerful AI design tool that converts text descriptions into visual designs with extensive customization options. It integrates with Microsoft 365 and offers commercial usage rights for generated content.
+* [**Adobe Firefly**](https://www.adobe.com/products/firefly.html) - Adobe's suite of generative AI tools designed specifically for creative professionals. It's trained on licensed content and Adobe Stock, making it suitable for commercial projects without copyright concerns.
 </details>
 
 <details markdown="1">
-<summary>📚 Research Tools</summary>
-<ul>
-  <li><a href="https://notebooklm.google/" target="_blank">NotebookLM</a> - A Google tool that helps analyze and synthesize information from documents, turning passive reference material into an interactive knowledge base. It's exceptionally valuable for digesting technical documentation, research papers, and comprehensive reports.</li>
-  <li><a href="https://www.perplexity.ai/" target="_blank">Perplexity AI</a> - An AI-powered search engine that provides comprehensive answers with cited sources, eliminating the need to manually sort through search results. Its ability to cite sources makes it particularly valuable for technical research and fact-checking.</li>
-  <li><a href="https://elicit.org/" target="_blank">Elicit</a> - An AI research assistant designed specifically for researchers to search through academic papers, ask questions about research, and summarize findings. It excels at navigating scientific literature and extracting key insights.</li>
-  <li><a href="https://scite.ai/" target="_blank">Scite.ai</a> - A platform that helps researchers evaluate the credibility of scientific papers by analyzing citation context. It shows how papers have been cited by others, revealing whether they've been supported or contradicted in subsequent research.</li>
-</ul>
+<summary><strong>📚 Research Tools</strong></summary>
+
+* [**NotebookLM**](https://notebooklm.google/) - A Google tool that helps analyze and synthesize information from documents, turning passive reference material into an interactive knowledge base. It's exceptionally valuable for digesting technical documentation, research papers, and comprehensive reports.
+* [**Perplexity AI**](https://www.perplexity.ai/) - An AI-powered search engine that provides comprehensive answers with cited sources, eliminating the need to manually sort through search results. Its ability to cite sources makes it particularly valuable for technical research and fact-checking.
+* [**Elicit**](https://elicit.org/) - An AI research assistant designed specifically for researchers to search through academic papers, ask questions about research, and summarize findings. It excels at navigating scientific literature and extracting key insights.
+* [**Scite.ai**](https://scite.ai/) - A platform that helps researchers evaluate the credibility of scientific papers by analyzing citation context. It shows how papers have been cited by others, revealing whether they've been supported or contradicted in subsequent research.
 </details>
 
 <details markdown="1">
-<summary>🔒 Privacy-Focused Tools</summary>
-<ul>
-  <li><a href="https://anythingllm.com/" target="_blank">AnythingLLM</a> - An open-source, self-hosted ChatGPT-like interface that enables private document analysis without sending your code or data to third parties. It's ideal for working with sensitive or proprietary information while still leveraging AI capabilities.</li>
-  <li><a href="https://lmstudio.ai/" target="_blank">LM Studio</a> - A desktop application for downloading and running open-source large language models locally on your computer. It offers a balance between powerful AI assistance and complete data privacy, though requires decent hardware.</li>
-  <li><a href="https://ollama.com/" target="_blank">Ollama</a> - A lightweight framework for running large language models like Llama, Mistral, and Code Llama locally. It's perfect for developers who need AI assistance but work with sensitive code or have limited internet access.</li>
-</ul>
+<summary><strong>🔒 Privacy-Focused Tools</strong></summary>
+
+* [**AnythingLLM**](https://anythingllm.com/) - An open-source, self-hosted ChatGPT-like interface that enables private document analysis without sending your code or data to third parties. It's ideal for working with sensitive or proprietary information while still leveraging AI capabilities.
+* [**LM Studio**](https://lmstudio.ai/) - A desktop application for downloading and running open-source large language models locally on your computer. It offers a balance between powerful AI assistance and complete data privacy, though requires decent hardware.
+* [**Ollama**](https://ollama.com/) - A lightweight framework for running large language models like Llama, Mistral, and Code Llama locally. It's perfect for developers who need AI assistance but work with sensitive code or have limited internet access.
 </details>
 
 ## Frequently Asked Questions
@@ -182,25 +176,25 @@ These tools are transforming how tech professionals work by integrating AI direc
 Having spent time at career fairs and hosting student field trips at [my employer's](https://en.wikipedia.org/wiki/Microsoft) offices, I get asked these questions a lot. Here are my honest answers:
 
 <details markdown="1">
-<summary>❓ Is AI going to replace all software developers?</summary>
+<summary><strong>❓ Is AI going to replace all software developers?</strong></summary>
 
 No, but it will replace developers who refuse to adapt to using AI. Look at history: calculators didn't replace mathematicians, CAD software didn't replace architects, and Excel didn't replace accountants. These tools changed how the work is done, making professionals who embraced them more valuable. I do think we'll probably end up with less developers overall though, as it'll be easier for less people to do more because AI is doing so much of the grunt work.
 </details>
 
 <details markdown="1">
-<summary>❓ Should I even bother learning to code with AI around?</summary>
+<summary><strong>❓ Should I even bother learning to code with AI around?</strong></summary>
 
 Absolutely yes. Don't just listen to me on this one though, scroll back up to [this section](#reassurance-from-ai-pioneers). People far smarter than me have spoken on this. Also, check out the article [Is Coding Education As We Know It Dead?](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/)
 </details>
 
 <details markdown="1">
-<summary>❓ Is using AI tools 'cheating' or making me less skilled?</summary>
+<summary><strong>❓ Is using AI tools 'cheating' or making me less skilled?</strong></summary>
 
 No more than using Stack Overflow, libraries, or frameworks is cheating. At [my employer](https://en.wikipedia.org/wiki/Microsoft), we're actively encouraged to use AI tools to be more productive. The goal is solving problems and creating value, not proving you can remember syntax.
 </details>
 
 <details markdown="1">
-<summary>❓ Is a computer science degree still worth it?</summary>
+<summary><strong>❓ Is a computer science degree still worth it?</strong></summary>
 
 Yes, with a caveat: make sure your program is adapting to include AI. A good CS degree teaches fundamentals that remain valuable regardless of tools:
 
@@ -216,7 +210,7 @@ Also, consider the financial aspect. If pursuing a CS degree means accumulating 
 </details>
 
 <details markdown="1">
-<summary>❓ How do I compete with AI in tech?</summary>
+<summary><strong>❓ How do I compete with AI in tech?</strong></summary>
 
 You don't compete with AI, you use it. Or "leverage it" if I wanted to sound like a business person. Focus on skills that AI enhances rather than replaces:
 
@@ -240,15 +234,15 @@ You don't compete with AI, you use it. Or "leverage it" if I wanted to sound lik
 </details>
 
 <details markdown="1">
-<summary>❓ What's the best way to start learning AI coding tools?</summary>
+<summary><strong>❓ What's the best way to start learning AI coding tools?</strong></summary>
 
 1. **Use GitHub Copilot** - This is the most widely-adopted AI coding assistant that integrates directly into VS Code. With Microsoft's backing and OpenAI partnership, it's becoming the industry standard employers expect you to know. [Get started here](https://github.com/features/copilot).
 
 2. **Learn prompt engineering** - Writing effective prompts is becoming as valuable as coding itself. Practice crafting clear, specific instructions that yield better results. Check out [OpenAI's prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering).
 
 3. **Use structured learning resources**:
-  - [Microsoft's AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us) - A comprehensive roadmap to build AI skills with personalized learning paths
-  - [Google's AI Training Hub](https://grow.google/ai/) - Free courses and resources to help you develop practical AI skills
+   - [Microsoft's AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us) - A comprehensive roadmap to build AI skills with personalized learning paths
+   - [Google's AI Training Hub](https://grow.google/ai/) - Free courses and resources to help you develop practical AI skills
 
 4. **Join AI communities** - Places like [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/) let you learn from others' experiences and stay updated on new techniques.
 
