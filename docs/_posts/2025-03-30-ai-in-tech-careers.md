@@ -1,6 +1,6 @@
 ---
 title: "On the Nature of Artificial Intelligence in Tech Careers"
-excerpt: "TBD"
+excerpt: "A software engineer's perspective on how AI is reshaping tech careers, what tools you need to know, and how to stay relevant in this rapidly evolving landscape."
 last_modified_at:
 toc: true
 toc_sticky: true
@@ -29,40 +29,54 @@ tags:
   }
 </style>
 
-**Note:** Check out my post [Miscellaneous Advice For People Interested In Tech Careers](https://segunakinyemi.com/blog/miscellaneous-tech-career-advice/) for a compilation of my general advice for those interested in tech careers. This article serves as a follow-up highlighting the impact and importance of AI on the field.
+Check out my post [Miscellaneous Advice For People Interested In Tech Careers](https://segunakinyemi.com/blog/miscellaneous-tech-career-advice/) for a compilation of my general advice for those interested in tech careers. This article serves as a follow-up highlighting the impact and importance of AI on the field.
 {: .notice--info}
 
-## Artificial Intelligence in Tech Careers
+## The Hype Is Real
 
-Artifical Intellginece (AI) is far from just being a buzzword these days. As someone working as a software engineer at [a company](https://en.wikipedia.org/wiki/Microsoft) you've likely heard of that's behind many leading AI products (including ownership of [GitHub](https://en.wikipedia.org/wiki/GitHub) and thus its suite of [Copilot AI Coding tools](https://github.com/features/copilot), a significant [stake in OpenAI](https://fortune.com/2024/10/18/microsoft-openai-equity-stake-nonprofit-for-profit-reorganization-sam-altman/) as their cloud provider, creators of [VSCode](https://en.wikipedia.org/wiki/Visual_Studio_Code), and owners of [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn)), I can tell you that AI's impact is very real. I open my laptop every day to a flood of emails from organization leaders, managers, and various divisions encouraging the use of AI tools to make us work faster, be more efficient, and most notably, write code. The AI coding revolution is not a fad. There's evne new kinds of terms popping up to describe it like [Natural Language Programming](https://segunakinyemi.com/blog/natural-language-programming/) and [Vibecoding](https://en.wikipedia.org/wiki/Vibe_coding). Companies actively want employees to use these tools. They're doing everything to make adoption as easy and smooth as possible, and the more you use these tools, the more you understand why. They're [seriously good](https://segunakinyemi.com/blog/github-copilot-agent-mode/). If you're entering or growing in a tech career today, embracing AI isn't optional—it's essential.
+Artificial Intelligence (AI) is far from just a buzzword these days. As a software engineer at [a company](https://en.wikipedia.org/wiki/Microsoft) you've probably heard of that's behind many AI infused products (including ownership of [GitHub](https://en.wikipedia.org/wiki/GitHub) and its suite of [AI coding tools](https://github.com/features/copilot), owners of [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn), a significant [stake in OpenAI](https://fortune.com/2024/10/18/microsoft-openai-equity-stake-nonprofit-for-profit-reorganization-sam-altman/), creators of [VSCode](https://en.wikipedia.org/wiki/Visual_Studio_Code), not to mention their own extensive suite of [AI products](https://www.microsoft.com/en-us/microsoft-copilot/organizations))—I can assure you that AI's impact is very real.
+
+I open my laptop every day to a flood of messages from colleagues, managers, and organizational leaders encouraging the use of AI tools to make us work faster, be more efficient, and most notably, write (or really, generate) code. The message is consistent across all levels: use AI tools. This isn't just a thing at [my employer](https://en.wikipedia.org/wiki/Microsoft), it's a consistent theme across tech.
+
+The AI coding revolution is not a fad. There are even new terms popping up to describe it like [Natural Language Programming](https://segunakinyemi.com/blog/natural-language-programming/) and [Vibe Coding](https://en.wikipedia.org/wiki/Vibe_coding). Companies are actively pushing employees to use these tools, doing everything to make adoption as easy and smooth as possible. And the more you use them, the more you understand why—they're [seriously good](https://segunakinyemi.com/blog/github-copilot-agent-mode/). 
+
+If you already work in tech and want to survive, or are looking to break into the field, embracing AI isn't optional, it's essential. This article is my attempt to help you navigate this shift, based on what I'm seeing working in the industry.
 
 ## The State of AI in Tech
 
-If you're entering the tech industry today without a strategy for how you'll use AI, you're putting yourself at a serious disadvantage. I promise you I'm not being dramatic,—AI is dramatically reshaping how we build software, design products, analyze data, and even how we communicate technical concepts.
+If you're entering the tech industry today without a strategy for how you'll use AI, you're putting yourself at a serious disadvantage. I promise you I'm not being dramatic. [No cap](https://www.urbandictionary.com/define.php?term=no%20cap). AI is legitimately changing how we build software, design products, analyze data, and more. It's ushered in a [whole new way of working](https://www.microsoft.com/en-us/worklab/ai-a-whole-new-way-of-working).
 
-The tools available now make tasks that once took hours take minutes. Code that would've required deep expertise in specific languages can now be generated and explained through natural language conversations. Systems that once needed teams of engineers can now be prototyped by individuals with the right AI-assisted tools.
+The tools available now make tasks that once took hours take minutes. Code that would've required deep expertise in specific languages can now be generated and explained through natural language conversations. Systems that once needed teams of engineers can now be prototyped by individuals with the right AI-assisted tools. As I wrote recently, the landscape is changing rapidly:
 
-As I wrote in my article [GitHub Copilot's Agent Mode Is Rather Impressive](https://segunakinyemi.com/blog/github-copilot-agent-mode/), the landscape is changing rapidly:
+> One thing is for sure, if we as developers don't adapt, we're more than cooked, we're royally fried. [...] No company will pass up a tool that makes developers faster and more effective. So, yes—developers will have to adapt. Some jobs will almost certainly be lost, especially among those who refuse AI-assisted development. When one developer using AI can do the work of several, fewer will be needed. That sucks, but the best way to stay ahead is to master these tools—be the expert guiding AI rather than competing with it.
+>
+> [GitHub Copilot's Agent Mode Is Rather Impressive, But the Real Question Is, Are Software Developers Cooked?](https://segunakinyemi.com/blog/github-copilot-agent-mode/)
 
-> One thing is for sure, if we as developers don't adapt, we're more than cooked, we're royally fried. [...] No company will pass up a tool that makes developers faster and more effective. So, yes—developers will have to adapt. Some jobs will almost certainly be lost, especially among those who refuse AI-assisted development. When one developer using AI can do the work of several, fewer will be needed.
+So, does the rise of AI mean you shouldn't pursue a tech career? Or that you shouldn't bother learning how to code? Or that a computer science degree is suddenly worthless? Or that there's no longer any point entering tech? That the golden age of tech is finished? That literally every software developer and tech worker is about to lose their job, never find work again, and society itself is doomed?
 
-Does this mean you shouldn't pursue a tech career? Absolutely not! It means you should pursue it with eyes wide open, embracing AI as your copilot rather than seeing it as your replacement.
+<p align="center">
+  <img alt="Naruto Meme" src="/assets/images/naruto-lightning-village-no.gif"/>
+</p>
 
-## AI's Impact on Software Engineering
+But don't take it from me, let's consult some experts.
 
-As a software engineer at [Microsoft](https://en.wikipedia.org/wiki/Microsoft), I'm living through this AI transformation in real-time, and I want to be completely honest with you: the relationship between AI and software engineering is changing dramatically right before our eyes.
+## Reassurance From AI Pioneers
 
-I'm not speaking as someone who has it all figured out—far from it. I'm speaking as someone who opens their laptop each morning to see new AI tools rolling out that fundamentally change how I work. I'm trying to adapt just like everyone else, and I want to share what I'm seeing from the inside.
+Perhaps the most compelling perspective comes from [Dr. Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), one of the most influential figures in artificial intelligence. Dr. Ng co-founded [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) (inventors of the ["T" in ChatGPT](https://en.wikipedia.org/wiki/Google_Brain#Transformer)), was the Chief Scientist at [Baidu](https://en.wikipedia.org/wiki/Baidu), co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), founded [DeepLearning.AI](https://www.deeplearning.ai/), and served as the founding lead of the [Stanford AI Lab](https://ai.stanford.edu/). As the person who helped bring deep learning into the mainstream and educated millions through his groundbreaking [Machine Learning course](https://www.coursera.org/specializations/machine-learning-introduction), his perspective on AI's impact on programming carries significant weight:
 
-AI tools aren't just changing how we write code—they're reshaping how we debug, how we collaborate, how we architect systems, and even how we think about what a developer actually does. Most companies aren't just experimenting with tools like [GitHub Copilot](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#project-padawan-swe-agents-on-github) anymore; they're integrating them into standard workflows and expecting engineers to use them.
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305984835037118464" height="500" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post"></iframe>
 
-In my experience writing about [GitHub Copilot Agent Mode](https://segunakinyemi.com/blog/github-copilot-agent-mode/), I compared modern developers to pilots:
+And Dr. Ng isn't alone in this view. [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), Meta's Chief AI Scientist and [Turing Award winner](https://amturing.acm.org/award_winners/lecun_6017366.cfm), strongly agrees with this assessment, as seen [here](https://www.linkedin.com/posts/yann-lecun_deepseek-r1-uncensored-qwq-32b-puts-reasoning-activity-7306472490199887873-7XtW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABvfe0cBF26Fjl_dkPhC1BORIN7IaP5xuKE). LeCun, who pioneered [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (the technology behind modern computer vision) and is considered one of the "godfathers of AI" alongside [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) and [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), emphatically supports the view that AI will enhance programming rather than replace programmers.
 
-> Think about the history of flying. Pilots used to do a lot manually. Then computers came along, and things got easier. We've now reached a point where modern pilots spend most of a flight on autopilot, with the computer doing the bulk of the flying. The human pilots are largely relegated to oversight, takeoff, landing, and stepping in when things go wrong. But here's the key: pilots still have to be experts.
+When the very inventors and pioneers of modern AI technology are telling us that programming skills remain essential—even more valuable—in the age of AI, perhaps we should listen. Before buying into doom-and-gloom narratives about tech careers, ask yourself: who would know better about AI's true impact than the people who helped create it?
 
-I'm not going to sugarcoat this: [adapt or die](https://www.google.com/search?q=what+does+adapt+or+die+mean). It sounds harsh, but it's the reality we're facing. The good news? There's absolutely a future in software engineering—it just looks different than it did before. The developers who thrive will be those who can collaborate effectively with AI tools rather than compete against them.
+## How I'm Adapting (And You Can Too)
 
-## How I'm Trying to Adapt (And You Can Too)
+While I'm embracing AI tools enthusiastically, I want to emphasize something crucial: my technical foundation as a software engineer makes these tools exponentially more powerful. This isn't just about using AI—it's about directing it with expertise.
+
+When I work with GitHub Copilot or similar tools, I'm not passively accepting what they generate. I'm actively validating output, spotting edge cases the AI missed, and making architecture decisions the AI can't make. My years invested in learning programming fundamentals, design patterns, and system architecture allow me to:
+
+1. **Guide AI toward appropriate solutions** - I can instruct: "Let's implement this using the repository pattern with dependency injection" or "Let's use Redis for this caching layer instead of in
 
 Here's how I'm personally navigating this shift, with the hope it helps you too:
 
@@ -154,4 +168,49 @@ For a quicker start, here are some top resources:
 
 ## Closing Words
 
-(Super brief wrap up of my main points mentioning I hope people learned someting from this post and explore these AI resoruces because if you want a job in tech you got to stay on top of this stuff, I myself wrote this as an exercise in teaching. Quote that saying "if yo uwant ot maste rsometing teach it" and mention how writing for me is a part of that. Then say you hope htey enjoyed.)
+I wrote this article because I hate seeing bright young minds hesitate to pursue tech careers due to AI anxiety. Yes, the landscape is changing dramatically, I see it firsthand at [a company](https://en.wikipedia.org/wiki/Microsoft) heavily invested in this future. But change brings opportunity. The key is to be proactive rather than reactive.
+
+Writing this was also a learning exercise for me. As [Aristotle](https://en.wikipedia.org/wiki/Aristotle) (or maybe [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman), the internet [can't seem to agree](https://quoteinvestigator.com/2019/02/27/teach/)) said: "_The best way to learn is to teach_". By breaking down what I'm seeing in the industry and sharing it with you, I'm forced to really understand it myself.
+
+So whether you're a student wondering if tech is still worth pursuing (it is), a developer worried about job security (adapt!), or someone in an adjacent field curious about the AI revolution (join us!)—I hope this article gave you some clarity and practical next steps.
+
+The future of tech careers isn't about competing with AI, it's about knowing how to wield it effectively. And trust me, we're just getting started. 
+
+Stay curious, keep learning, and don't forget to [shine your eyes](https://www.google.com/search?q=shine+your+eyes+Nigerian+slang+meaning).
+
+---
+
+_Have thoughts about AI's impact on tech careers? Connect with me on [LinkedIn](https://www.linkedin.com/in/segunakinyemi) or check out my other articles about [artificial intelligence](https://segunakinyemi.com/tags/#artificial-intelligence)._
+{: .notice--primary}
+
+## Frequently Asked Questions
+
+Having spent time at career fairs and hosting student field trips at [my employer's](https://en.wikipedia.org/wiki/Microsoft) offices, I get asked these questions a lot. Here are my honest answers:
+
+### "Is AI going to replace all software developers?"
+
+Short answer: No. Longer answer: AI will replace developers who refuse to adapt to using AI. It's like asking if calculators replaced mathematicians. They didn't—they just changed how math is done. The same thing is happening with AI in software development.
+
+### "Is tech even worth pursuing now because of AI?"
+
+More than ever! The [Bureau of Labor Statistics](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm) projects 25% growth in software developer jobs from 2022 to 2032. That's much faster than average. Why? Because AI is creating more demand for tech skills, not less. We need people who understand both technology and AI to build the future.
+
+### "Should I even bother learning to code now that AI is here?"
+
+Absolutely yes. Think of it like learning to drive. Even with self-driving cars on the horizon, understanding how to drive manually is still crucial. Similarly, understanding code fundamentals helps you use AI coding tools more effectively. Plus, when AI makes mistakes (and it will), you need to know enough to catch and fix them.
+
+### "Is using AI coding tools immoral or cheating?"
+
+No more than using Stack Overflow, libraries, or frameworks is cheating. In fact, at [a certain tech company](https://en.wikipedia.org/wiki/Microsoft) I know quite well, we're actively encouraged to use AI tools to be more productive. The goal is solving problems and creating value, not proving you can remember syntax.
+
+### "Is a computer science degree worth it with AI around?"
+
+Yes, but with a caveat: make sure your program is adapting to include AI. A good CS degree teaches you fundamentals that remain valuable: algorithms, data structures, system design, and problem-solving. These concepts are even more important when working with AI. That said, supplement your degree with practical AI skills—they probably won't teach you [prompt engineering](https://www.google.com/search?q=what+is+prompt+engineering) in Computer Science 101.
+
+### "How do I stay relevant in tech with AI advancing so fast?"
+
+1. **Learn the fundamentals well** - They don't change as fast as technologies do
+2. **Experiment with AI tools** - Get hands-on experience, don't just read about them
+3. **Focus on understanding systems** - AI is great at details, humans need to grasp the big picture
+4. **Develop "AI-complementary" skills** - Communication, problem-solving, system design
+5. **Stay curious and adaptable** - The only constant in tech is change
