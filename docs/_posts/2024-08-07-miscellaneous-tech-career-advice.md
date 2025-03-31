@@ -25,7 +25,7 @@ tags:
   </div>
 </p>
 
-**Note:** Check out my companion post to this one, [On the Nature of Artificial Intelligence in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/), for advice that specifically hones in on the impact AI is having on the field and how to navigate it.
+**Note:** Check out my companion post, [On the Nature of Artificial Intelligence in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/), for advice that specifically hones in on the impact AI is having on the field.
 {: .notice--info}
 
 Greetings! This post is a collection of tech-related career advice that I hope to keep updated regularly. I've been asked many times by students and job seekers I work with about this sort of stuff, so I figured it'd be easier to write it down rather than regurgitate this information every time the topic arises. To be abundantly clear, in my writing here, I represent no one but myself. All opinions are my own.
@@ -463,7 +463,7 @@ That's like wanting to go to college and only applying to [Ivy League](https://e
 
 ## Frequently Asked Questions
 
-**Note:** Check out my companion post to this one, [On the Nature of Artificial Intelligence in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/), for tech career advice that specifically hones in on the impact AI is having on the field.
+**Note:** Check out my companion, [On the Nature of Artificial Intelligence in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/), for tech career advice that specifically hones in on the impact AI is having on the field.
 {: .notice--info}
 
 Here are some questions I hear a lot from students or job seekers interested in tech careers.
