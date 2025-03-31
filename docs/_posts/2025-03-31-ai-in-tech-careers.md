@@ -210,6 +210,85 @@ The future of tech careers isn't about competing with AI, it's about knowing how
 
 Stay curious, keep learning, and don't forget to [shine your eyes](https://www.google.com/search?q=shine+your+eyes+Nigerian+slang+meaning).
 
+## AI Tools for Tech Professionals
+
+<div class="notice--info">
+<p><strong>Note:</strong> AI tools evolve rapidly—this list reflects notable options as of March 2025, focusing on tools that integrate directly into your workflow rather than requiring constant context switching.</p>
+</div>
+
+### My Daily Driver
+
+[**GitHub Copilot Agent Mode**](https://code.visualstudio.com/docs/copilot/copilot-chat) - This enables natural language conversations within VS Code for writing, debugging, and explaining code. With Microsoft's ownership of GitHub and VS Code plus strong OpenAI ties, it provides access to cutting-edge AI models while staying in your IDE. It's model-agnostic too—you can use Claude, Gemini, DeepSeek and others.
+
+<details>
+<summary><strong>🛠️ AI Coding Tools</strong></summary>
+<ul>
+  <li><a href="https://codeassist.google/" target="_blank">Gemini Code Assist</a> - Google's contextual code completion and IDE integration</li>
+  <li><a href="https://aws.amazon.com/q/developer/" target="_blank">Amazon Q Developer</a> - AWS's coding companion with AWS expertise</li>
+  <li><a href="https://www.cursor.com/" target="_blank">Cursor</a> - AI-powered code editor built on VS Code</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>🧰 Development Platforms</strong></summary>
+<ul>
+  <li><a href="https://v0.dev/" target="_blank">Vercel v0</a> - Text-to-React code generator</li>
+  <li><a href="https://lovable.dev/" target="_blank">Lovable.dev</a> - Conversational website creation</li>
+  <li><a href="https://replit.com/ghostwriter" target="_blank">Replit GhostWriter</a> - In-browser AI coding assistant</li>
+  <li><a href="https://githubnext.com/projects/github-spark" target="_blank">GitHub Spark</a> - Create micro-apps without coding</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>🎨 Design Assistants</strong></summary>
+<ul>
+  <li><a href="https://www.canva.com/magic-design/" target="_blank">Canva Magic Design</a> - AI-generated design layouts</li>
+  <li><a href="https://designer.microsoft.com/" target="_blank">Microsoft Designer</a> - Text-to-visual design tool</li>
+  <li><a href="https://www.adobe.com/products/firefly.html" target="_blank">Adobe Firefly</a> - Commercial-use AI image generator</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>📚 Research Tools</strong></summary>
+<ul>
+  <li><a href="https://notebooklm.google/" target="_blank">NotebookLM</a> - Document analysis and synthesis</li>
+  <li><a href="https://www.perplexity.ai/" target="_blank">Perplexity AI</a> - AI search with cited sources</li>
+  <li><a href="https://elicit.org/" target="_blank">Elicit</a> - AI academic research assistant</li>
+  <li><a href="https://scite.ai/" target="_blank">Scite.ai</a> - Scientific paper credibility analysis</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>🔒 Privacy-Focused Tools</strong></summary>
+<ul>
+  <li><a href="https://anythingllm.com/" target="_blank">AnythingLLM</a> - Self-hosted, private document analysis</li>
+  <li><a href="https://lmstudio.ai/" target="_blank">LM Studio</a> - Run LLMs locally for code assistance</li>
+  <li><a href="https://ollama.com/" target="_blank">Ollama</a> - Lightweight framework for running LLMs locally</li>
+</ul>
+</details>
+
+<style>
+details {
+  margin: 10px 0;
+  padding: 10px;
+  background: #f8f9fa;
+  border-radius: 5px;
+  border: 1px solid #e9ecef;
+}
+
+details summary {
+  font-weight: bold;
+  cursor: pointer;
+  padding: 5px;
+}
+
+details[open] summary {
+  margin-bottom: 10px;
+}
+</style>
+
+For a regularly updated collection of AI learning resources, check out my [AI Learning Resources](https://segunakinyemi.com/blog/ai-learning-resources/) guide.
+
 ---
 
 Have thoughts about AI's impact on tech careers? Connect with me on [LinkedIn](https://www.linkedin.com/in/segunakinyemi) or check out my other articles about [artificial intelligence](https://segunakinyemi.com/tags/#artificial-intelligence).
