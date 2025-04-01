@@ -155,6 +155,10 @@ details {
   position: relative;
 }
 
+details p {
+  margin-bottom: 0.7em !important;
+}
+
 details summary {
   font-weight: bold;
   cursor: pointer;
