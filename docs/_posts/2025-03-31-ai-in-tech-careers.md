@@ -142,17 +142,37 @@ These fundamentals haven't changed with AI:
 
 Assuming you've got a solid technical foundation (and no, that doesn't just mean coding—data, design, PM all count), here's how I'm navigating the AI shift in my career. Hopefully it sparks some ideas for yours too:
 
-1. **Let AI handle the boring stuff** – I use it for repetitive tasks so I can focus on architecture and business logic.The stronger your fundamentals, the more useful AI becomes.
+<details markdown="1">
+<summary>Let AI handle the boring stuff</summary>
 
-2. **Think in systems, not just syntax** – AI can write code, but understanding how everything fits together in the real world still requires human expertise. The [Azure](https://learn.microsoft.com/en-us/azure/architecture/) and [AWS](https://aws.amazon.com/architecture/) Architecture Centers are great for building that skill.
+I use it for repetitive tasks so I can focus on architecture and business logic. The stronger your fundamentals, the more useful AI becomes.
+</details>
 
-3. **Write better prompts** – Clear, specific prompts = better results. I treat prompt writing like coding. Learn from the [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) and [OpenAI's tips](https://platform.openai.com/docs/guides/prompt-engineering).
+<details markdown="1">
+<summary>Think in systems, not just syntax</summary>
 
-4. **Experiment more** – With AI doing the grunt work, I try more frameworks and languages. I don't need to be an expert—but I do make sure I understand enough to check its work. If you're totally lost without AI, you're doing it wrong.
+AI can write code, but understanding how everything fits together in the real world still requires human expertise. The [Azure](https://learn.microsoft.com/en-us/azure/architecture/) and [AWS](https://aws.amazon.com/architecture/) Architecture Centers are great for building that skill.
+</details>
 
-5. **Level up your system design** –  AI can write code, but building reliable, scalable systems is still on us. I'm investing in [distributed systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) and [cloud design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) because that's where long-term value—and responsibility—lives. No serious company is letting AI design critical infrastructure alone. Not when a hospital's life support system goes down, a bank's transaction engine freezes, an airline's flight routing crashes, or a power grid gets misconfigured. Someone has to answer for that. And "we let the AI do everything" isn't going to cut it.
+<details markdown="1">
+<summary>Write better prompts</summary>
 
-Remember: AI is a tool. Two people can take the same math test with the same calculator—one passes, one fails. The difference? Knowing how to use it. The best tech workers won't be the ones leaning on AI to do everything, but the ones who know how to *steer* it because they actually understand the work.
+Clear, specific prompts = better results. I treat prompt writing like coding. Learn from the [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) and [OpenAI's tips](https://platform.openai.com/docs/guides/prompt-engineering).
+</details>
+
+<details markdown="1">
+<summary>Experiment more</summary>
+
+With AI doing the grunt work, I try out more frameworks and languages (example [here](https://segunakinyemi.com/blog/charlotte-third-places-tech-stack/)). I don't need to be an expert—but I do make sure I understand enough to check its work. If you're totally lost without AI, you're doing it wrong.
+</details>
+
+<details markdown="1">
+<summary>Level up your system design</summary>
+
+AI can write code, but building reliable, scalable systems is still on us. I'm investing in [distributed systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) and [cloud design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) because that's where long-term value—and responsibility—lives. No serious company is letting AI design critical infrastructure alone. Not when a hospital's life support system goes down, a bank's transaction engine freezes, an airline's flight routing crashes, or a power grid gets misconfigured. Someone has to answer for that. And "we let the AI do everything" isn't going to cut it.
+</details>
+
+Remember: AI is a tool. Two people can take the same math test with the same calculator—one passes, one fails. The difference is knowing how to use it. The best tech workers won't be the ones leaning on AI to do everything, but the ones who know how to *steer* it because they actually understand the work.
 
 ## AI Tools for Tech Professionals
 
