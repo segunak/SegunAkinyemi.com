@@ -34,7 +34,8 @@ Greetings! This post is a collection of tech-related career advice that I hope t
 
 This section contains advice for those seeking jobs in the software engineering space, by which I mean any job where you expect to be writing code as a primary part of your duties. This kind of work spans several job titles, more on that below.
 
-### Alternative Job Titles
+<details markdown="1">
+<summary>Alternative Job Titles</summary>
 
 Here are job titles that are either synonymous with or similar to "Software Engineer" and should be considered when job hunting. Different companies often use different titles for the same role. Additionally, some of these positions, while distinct from a Software Engineer, still require a similar core skill set (coding and technical proficiency). So, I've included them in the list.
 
@@ -63,7 +64,10 @@ Here are job titles that are either synonymous with or similar to "Software Engi
 * Mobile Developer
 * Web Developer
 
-### Interview Preparation
+</details>
+
+<details markdown="1">
+<summary>Interview Preparation</summary>
 
 Here are resources I've used or that come highly recommended across the web that help with preparing for technical interviews. I see them consistently mentioned on Reddit, Blind, HackerNews, StackOverflow, and other tech forums as being worthwhile.
 
@@ -75,7 +79,10 @@ Here are resources I've used or that come highly recommended across the web that
 * [Harvard - CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
-### Learning Resources
+</details>
+
+<details markdown="1">
+<summary>Learning Resources</summary>
 
 You can learn most everything needed to start a career as a Software Engineer for free online. Now, learning on your own requires more discipline than the structured environment of a classroom, which is why college is still valuable **if you can do it without going into debt**. If not, well then, I'm happy to report there's no secret knowledge at any college anywhere when it comes to tech. Everything is online for free. If you have the motivation and discipline to learn without oversight, you'll love these resources.
 
@@ -88,7 +95,10 @@ You can learn most everything needed to start a career as a Software Engineer fo
 * [Design Patterns](https://refactoring.guru/design-patterns)
 * [From Nand to Tetris - Building a Modern Computer From First Principles](https://www.nand2tetris.org/)
 
-### Worthwhile Books
+</details>
+
+<details markdown="1">
+<summary>Worthwhile Books</summary>
 
 These are books I think are worth reading if you're interested in Software Engineering as a career. They're the ones I've heard mentioned most often by other technologists as being important to their careers. The links below take you to a Google search of the book, rather than to a specific spot where you can read it. That's because links to online purchase copies of books are always changing. I'll say, if you can, you should buy these books, but if you can't, searching `filetype:pdf Book Name Here` on Google might help you out. You can find other book recommendations in [this](https://www.reddit.com/r/cscareerquestions/comments/kzum7m/which_programming_books_are_still_must_reads_aka/?sort=top) Reddit thread.
 
@@ -97,7 +107,10 @@ These are books I think are worth reading if you're interested in Software Engin
 * [Clean Code by Robert Cecil Martin](https://www.google.com/search?q=Clean+Code+by+Robert+Cecil+Martin)
 * [Code Complete by Steve McConnell](https://www.google.com/search?q=Code+Complete+by+Steve+McConnell)
 
-### Helpful Online Communities
+</details>
+
+<details markdown="1">
+<summary>Helpful Online Communities</summary>
 
 These are online communities I think are worth engaging in for anyone interested in software engineering. Tech moves fast, and these are great places to engage with the community to stay abreast of what's what.
 
@@ -114,11 +127,14 @@ These are online communities I think are worth engaging in for anyone interested
 * [Stack Exchange - Server Fault](https://serverfault.com/)
 * [Blind](https://www.teamblind.com/) (Be careful with Blind. The community on this site tends to be rather cynical, among [other things](https://www.reddit.com/r/cscareerquestions/comments/1cz420o/blind_app_is_unusable_now/).)
 
+</details>
+
 ## Product Management
 
 This section is dedicated to Product Management, which is—at best—a nebulous job title. I'm not a PM, but I work closely with PMs and have several in my group of friends and mentors. The PM world—where the `P` can mean Product, Program, or Project—is infamous for ambiguity surrounding the difference between those roles. To me, they all seem to require the same set of core [skills and competencies](/assets/images/pm-skills.png), differentiating themselves in the nuances of the company you're at and what you're working on. In this section, I'm grouping these terms together to offer advice that applies to all of them and their related roles.
 
-### Alternative Job Titles
+<details markdown="1">
+<summary>Alternative Job Titles</summary>
 
 I believe that someone interested in Product Management would be fit for any of the job titles listed below, all of which belong to the same [genus](https://en.wikipedia.org/wiki/Genus) if not the same [species](https://en.wikipedia.org/wiki/Species). I went through my LinkedIn connections to find a lot of these. These are real job titles that real people at real tech companies have right now.
 
@@ -210,7 +226,10 @@ To that end, I know many people in tech with job titles that make no sense to me
 * Audit Manager
 * Literally anything with "Manager", "Analyst", or "Specialist" in the title
 
-### Interview Preparation
+</details>
+
+<details markdown="1">
+<summary>Interview Preparation</summary>
 
 I can't say I've got the best advice related to preparing for PM interviews, as I've never done it myself, but here are some resources I either found online or were shared with me by PMs I know.
 
@@ -218,7 +237,10 @@ I can't say I've got the best advice related to preparing for PM interviews, as 
 * [Go Practice](https://gopractice.io/)
 * [Daily Product Prep](https://dailyproductprep.com/)
 
-### Learning Resources
+</details>
+
+<details markdown="1">
+<summary>Learning Resources</summary>
 
 Here are some learning resources worthwhile for those interested in Product Management or related fields.
 
@@ -226,7 +248,10 @@ Here are some learning resources worthwhile for those interested in Product Mana
 * [University of Alberta - Introduction to Software Product Management](https://www.coursera.org/learn/introduction-to-software-product-management)
 * [The Product School](https://productschool.com/)
 
-### Worthwhile Books
+</details>
+
+<details markdown="1">
+<summary>Worthwhile Books</summary>
 
 While I'm not a PM, I asked around and did some research to find these books that are highly recommended by those deeply familiar with the world of Product Management.
 
@@ -235,7 +260,10 @@ While I'm not a PM, I asked around and did some research to find these books tha
 * [User Story Mapping: Discover the Whole Story, Build the Right Product Book by Jeff Patton](https://www.google.com/search?q=User+Story+Mapping%3A+Discover+the+Whole+Story%2C+Build+the+Right+Product+Book+by+Jeff+Patton)
 * [Reddit PM Book Thread](https://www.reddit.com/r/ProductManagement/comments/128p27t/my_ultimate_visual_guide_to_the_best_books_for/)
 
-### Helpful Online Communities
+</details>
+
+<details markdown="1">
+<summary>Helpful Online Communities</summary>
 
 Here are some online communities that should prove helpful for someone interested in Product Management or adjacent fields.
 
@@ -245,24 +273,26 @@ Here are some online communities that should prove helpful for someone intereste
 * [Reddit - ITCareerQuestions](https://www.reddit.com/r/ITCareerQuestions/)
 * [The Product School - Slack Community](https://productschool.com/slack-community)
 
+</details>
+
 ## Career Programs
 
 Companies worldwide offer training programs targeted at specific groups of people, enabling them to enter the industry and become valuable contributors. These programs exist for different reasons such as to attract diverse talent, to fill challenging roles, or to provide opportunities for individuals from nontraditional backgrounds. Whatever the reason, these programs have helped many people secure great careers at top companies who might not have otherwise had the chance.
 
 Here are some programs that I know of. I'd encourage you to also Google things like "[career training programs](https://www.google.com/search?q=career+training+programs)" or "[free technical training programs](https://www.google.com/search?q=free+technical+training+programs)" to find more options.
 
-### High School
-
-Career programs for high school students.
+<details markdown="1">
+<summary>High School</summary>
 
 * [Road to Hire](https://www.roadtohire.org/) - In their own words, _Road to Hire interrupts cycles of intergenerational poverty by ensuring the young people in its programs have access to higher education, high-earning careers and prosperous futures. R2H programs are designed to meet students where they are and provide pathways to high-growth careers in STEM. Road to Hire's High School, College and Apprenticeship programs serve first-gen college students, students of color and students from low-income backgrounds._ So they help young people from high school through recent graduates find their way into careers with training, mentorship, job placement, and more.
 * [Microsoft Discovery Program](https://careers.microsoft.com/v2/global/en/discoveryprogram) - A 4-week internship at Microsoft for high school students focused on mentorship and tech skilling. This is not nationwide, read the latest info on the program page for what cities are offering this.
 * [Various Google Programs](https://careers.google.com/stories/edu-resources-programs/) - Google has a page listing various programs they sponsor that train and develop students in high school, college, or who are recent graduates.
 * [Carolina Youth Coalition](https://www.carolinayouth.org/apply) - A 501(c)(3) non-profit organization in Charlotte, North Carolina that nurtures and propels high-achieving, under-resourced students to and through college. I've been a volunteer with the organization since 2020. They are amazing. They provide minority high school students with every possible resource to help them reach college with little to no debt and excel while they're there. You must be a high school student in the Charlotte, North Carolina area to qualify.
 
-### College
+</details>
 
-Career programs for students currently in college.
+<details markdown="1">
+<summary>College</summary>
 
 * [Various Leadership & Rotational Programs](https://careers.northeastern.edu/article/leadership-rotational-programs/)  - Northeastern University in Boston has created an amazing list of rotational programs that provide mentoring and training to college students across different industries. Check it out!
 * [Road to Hire](https://www.roadtohire.org/) - In their own words, _Road to Hire interrupts cycles of intergenerational poverty by ensuring the young people in its programs have access to higher education, high-earning careers and prosperous futures. R2H programs are designed to meet students where they are and provide pathways to high-growth careers in STEM. Road to Hire's High School, College and Apprenticeship programs serve first-gen college students, students of color and students from low-income backgrounds._ So they help young people from high school through recent graduates find their way into careers with training, mentorship, job placement, and more.
@@ -287,9 +317,10 @@ Career programs for students currently in college.
 * [Wells Fargo Programs](https://www.wellsfargojobs.com/en/early-careers/) - They have a bunch of programs, including in technology, for undergraduates and post-graduates to prepare them for various careers. Explore the site to learn more.
 * [Hewlett Packard Enterprise Global IT Early Career Program](https://www.hpe.com/us/en/about/jobs/global-information-technology.html) - Programs for current college students and recent graduates to be employed and trained by HPE in various career fields.
 
-### Recent College Graduates
+</details>
 
-Career programs for recent college graduates.
+<details markdown="1">
+<summary>Recent College Graduates</summary>
 
 * [Road to Hire](https://www.roadtohire.org/) - In their own words, _Road to Hire interrupts cycles of intergenerational poverty by ensuring the young people in its programs have access to higher education, high-earning careers and prosperous futures. R2H programs are designed to meet students where they are and provide pathways to high-growth careers in STEM. Road to Hire's High School, College and Apprenticeship programs serve first-gen college students, students of color and students from low-income backgrounds._ So they help young people from high school through recent graduates find their way into careers with training, mentorship, job placement, and more.
 * [30 Companies That Offer Professional Development Programs for Recent Graduates](https://ripplematch.com/career-advice/companies-that-offer-exceptional-professional-development-programs-for-entry-level-employees-f53abebf) - A great list of a bunch of professional development programs for recent graduates in various fields.
@@ -325,9 +356,10 @@ Career programs for recent college graduates.
 * [AIG Early Career Programs](https://www.aig.com/home/careers/students-and-graduates) - Various paid training programs to help recent graduates start their careers in finance-related fields.
 * [Hewlett Packard Enterprise Global IT Early Career Program](https://www.hpe.com/us/en/about/jobs/global-information-technology.html) - Programs for current college students and recent graduates to be employed and trained by HPE in various career fields.
 
-### Career Switchers & Returners
+</details>
 
-These are programs for people with professional experience who are looking to switch careers into tech, or for whatever reason, had to step away from their prior career. Some examples of this could be mothers returning from extended maternity leave, military personnel entering the civilian workforce, people with medical conditions that forced them out of work, or people who worked in industry, got burnt out, and are now looking to get back into things. These programs are aimed at giving people with non-traditional backgrounds or situations a path into tech.
+<details markdown="1">
+<summary>Career Switchers & Returners</summary>
 
 * [Microsoft Leap](https://leap.microsoft.com/en-US/) - A program that recruits, develops, and upskills unconventional talent for employability in the tech industry. So if you're a working professional wanting to transition to tech but have no background or experience, this program is for you. Microsoft will train you for 16 weeks and then allow you to interview for a full-time job with a strong "let's give them a shot" sort of bias. They don't accept applications year round though, so check the website regularly to see when they're open.
 * [Microsoft Software and Systems Academy](https://military.microsoft.com/mssa/) -  A program that provides transitioning service members and veterans with technical and career skills training. Basically, it helps them move from the military into a tech career through a 17-week training program.
@@ -343,24 +375,31 @@ These are programs for people with professional experience who are looking to sw
 * [Just a Start Biotechnology & Information Technology Careers Program](https://justastart.org/adult-career-training/) - A tuition-free 9-month training program for science and technology careers in Cambridge, MA. You're not paid while you're training, but they do help you get a job once things are over. Their only criterion is you have a high school diploma, so recent graduates and career switchers/returners are all eligible.
 * [TechBridge Technology Career Program](https://techbridge.org/programs/workforce-development/technology-career-program/) - In their own words, _The TechBridge Technology Career Program addresses barriers and improves economic outcomes through technology and career development training and industry-recognized certifications. At no cost to participants, the part-time programs teach unemployed and underemployed adults technology and communication skills, leading to sustainable careers._ Explore the website to learn more!
 
-### Other
+</details>
 
-These are career programs that didn't fit into any of the above categories.
+<details markdown="1">
+<summary>Other Programs</summary>
 
 * [YearUp](https://www.yearup.org/) -  A non-profit organization that provides tuition-free job training and higher education opportunities to young adults **without a four-year bachelor's degree**. So, if college wasn't an option, or you weren't interested, they'll help you find your way into tech/corporate jobs even without a degree.
 * [Google Build Your Future Programs](https://buildyourfuture.withgoogle.com/programs) - Programs either sponsored by or run by Google for career seekers of various backgrounds and experience levels.
+
+</details>
 
 ## Company Specific Advice
 
 The following section dives into advice specific to the recruitment process at certain big tech companies. I hope this information proves valuable for someone trying to find their way into one of these behemoths. I've gathered this information anecdotally, having worked at one of these companies and interviewed up to the offer stage with others. Additionally, I regularly speak with employees at all of them through conferences, tech meet-ups, hackathons, LinkedIn, etc, allowing me to learn about how they do things. This is all public information, I share no secrets. I've only pulled it together for ease of access. That being said, don't take my word as law, always do your research. Also consider that tech moves fast, and companies change, so some of this information may be dated.
 
-### An Acknowledgement
+<details markdown="1">
+<summary>An Acknowledgement</summary>
 
 I give full and deeply appreciative credit to [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell)—author of the iconic [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) book—for being the avenue by which I first learned key knowledge, insights, tips, and wisdom about finding your way into big tech companies. The _Behind the Scenes_ chapter of the book is, without question, the model after which I've written the section below. When I first read her book in 2020, I was myself trying to _crack the coding interview_, with ambitions of making my way into a big tech company. Perhaps more than any other chapter, her inside look at how Microsoft, Amazon, Google, Apple, Facebook (now Meta), and Palantir handle interviews got me ready for the recruiting cycle at several of them, ending with offers that changed the course of my life. While I certainly—as a devout Christian—give God the glory, I'd be remiss to not believe wholeheartedly that He works through people like Gayle, who devote time, effort, and energy to empowering others through knowledge.
 
 Or said another way, I'm giving Gayle her props, flowers, respect, all that. She's an [OG](https://www.urbandictionary.com/define.php?term=OG) of the industry, a legend. I don't consider myself on her level, but the section below is my attempt at providing something akin to her _Behind the Scenes_ chapter, just refreshed from the viewpoint of someone whose been plugged into tech both through and now post-COVID. You should still absolutely read [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/), or [Cracking the PM Interview](https://www.google.com/search?q=cracking+the+pm+interview+by+gayle+laakmann+mcdowell), depending on the roles you're interested in. New editions are released regularly to keep them relevant with the times.
 
-### Microsoft
+</details>
+
+<details markdown="1">
+<summary>Microsoft</summary>
 
 As [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) aptly said in [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/), _Microsoft wants smart people. Geeks. People who are passionate about technology_. I'm happy to report that's still true (even if you don't self-identify as a "Geek"), but if you want to join their ranks, it'll help to know how their talent system operates in a post-COVID world.
 
@@ -387,7 +426,10 @@ Check out the page below for interview tips directly from Microsoft.
 > **[Interviewing at Microsoft](https://careers.microsoft.com/v2/global/en/hiring-tips/interview-tips.html)**
 {: .notice--primary}
 
-### Google
+</details>
+
+<details markdown="1">
+<summary>Google</summary>
 
 Google is in many ways the opposite of Microsoft when it comes to recruiting. They are very centralized. You're applying to Google as a company, as a brand, not just 1 team within Google. To that end, they limit the number of applications you can submit within a certain time frame. When you interview at Google, they're evaluating if you're good enough for Google on the whole. It's not until after you've passed the Google hiring bar that you're placed on a team. This process is called team matching, and it's fraught with its own challenges, but we're not here to discuss that. The main takeaway is that Google is very intentional about recruiting people for _Google_ overall, rather than just teams within it. By doing things this way, they've been able to maintain their famously high hiring bar, by which they're able to boast that their employees are elite.
 
@@ -395,9 +437,11 @@ Because of their centralized approach to hiring, your recruiter at Google matter
 
 So, if you're interested in Google, head over to their [careers site](https://www.google.com/about/careers/applications/) and apply to some postings with your target job title. A word of caution, if you're planning on networking with Google recruiters, consider applying to only 1-2 postings. I say 1-2 because you don't want to hit their application limit, which was 3 the [last time I checked](https://www.google.com/search?q=google+application+limit&rlz=1C1ONGR_enUS937US937&oq=google+application+limit). The reason you don't want to hit the limit is because doing so bars you from applying for a certain period, usually 30 days. If you happen to hit things off with a Google recruiter who wants you to apply to a specific position, but you've already reached the application limit, well.
 
-<p align="center">
+<div class="meme-container">
+  <div class="meme-wrapper">
   <img alt="Played yourself gif" src="/assets/images/playedyourself.gif"/>
-</p>
+  </div>
+</div>
 
 After you've submitted your applications, your next best strategy is to network aggressively with Google recruiters on LinkedIn. They tend to be some of the best in tech and—if they take notice of you—will become your guide towards becoming a Googler. Alongside leveraging LinkedIn, go to conferences, networking events, meet-ups, hackathons, and the like where you know Google representatives will be present. Google hires a lot, they're just very intentional about it. Spamming their careers site is literally not even possible, so you've got to put some extra effort into joining their ranks.
 
@@ -406,7 +450,10 @@ Here's some general advice from Google on interviewing with them.
 > **[Interviewing at Google](https://www.google.com/about/careers/applications/interview-tips/)**
 {: .notice--primary}
 
-### Apple
+</details>
+
+<details markdown="1">
+<summary>Apple</summary>
 
 Apple, like Google, has centralized recruiting, but like Microsoft, their recruiters are usually contractors rather than employees. Also similar to Microsoft, Apple has no limit on their careers site for the number of postings you can apply to, but unlike Microsoft, spamming applications at them isn't a particularly effective strategy (although you're welcome to try it, shooters shoot). So, as is characteristic of Apple, they're unique.
 
@@ -421,7 +468,10 @@ Here's some general advice from Apple on interviewing with them.
 > **[Interviewing at Apple](https://www.apple.com/careers/us/interview_tips.html)**
 {: .notice--primary}
 
-### Meta
+</details>
+
+<details markdown="1">
+<summary>Meta</summary>
 
 Meta has a centralized recruiting process with recruiters who are usually employees. They're well-organized, and as a result, don't require people to employ any sort of special strategies to get in. Meta hires pretty consistently due to [Mark Zuckerberg's](https://en.wikipedia.org/wiki/Mark_Zuckerberg) seemingly limitless ambitions for the company, which led to their "Meta" rebranding, as they became far more than just Facebook. They also have numerous programs to help nontraditional talent secure jobs, so your chances of getting in may be higher compared to other tech companies.
 
@@ -438,7 +488,10 @@ Here's some general advice from Meta on interviewing with them.
 > **[Interviewing at Meta](https://www.metacareers.com/swe-prep-onsite/)**
 {: .notice--primary}
 
-### Amazon
+</details>
+
+<details markdown="1">
+<summary>Amazon</summary>
 
 Amazon, like Microsoft, employs the professional sports league style of decentralized recruiting. Thousands of teams, thousands of postings, an army of contract recruiters, and competition both internally and externally for talent. As a result, if you want in, you're best served applying to all postings on their [careers site](https://www.amazon.jobs/en/) that have your target job title. Your applications are going to different recruiters for different teams. You're not applying to Amazon on the whole as much as you're applying to a specific team within Amazon. The more teams you submit to, the greater your chances of one of them being interested in you.
 
@@ -451,11 +504,16 @@ To read more about interviewing at Amazon, check out the link below.
 > **[Interviewing at Amazon](https://www.amazon.jobs/content/en/how-we-hire/interviewing-at-amazon)**
 {: .notice--primary}
 
-### Other Companies
+</details>
+
+<details markdown="1">
+<summary>Other Companies</summary>
 
 Other tech or tech-adjacent companies worth mentioning are [Netflix](https://jobs.netflix.com/), [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/), [AMD](https://careers.amd.com/careers-home/jobs), [LinkedIn](https://careers.linkedin.com/), [GitHub](https://www.github.careers/careers-home), [OpenAI](https://openai.com/careers/), [Anthropic](https://www.anthropic.com/careers), [Groq](https://wow.groq.com/careers/), [Perplexity](https://www.perplexity.ai/hub/careers), [Qualcomm](https://www.qualcomm.com/company/careers), [Uber](https://www.uber.com/us/en/careers/), [Square](https://squareup.com/us/en/careers), [Spotify](https://www.spotifyjobs.com/), [PayPal](https://www.paypal.com/us/webapps/mpp/jobs), [Visa](https://usa.visa.com/careers.html), [DoorDash](https://careers.doordash.com/), [Stripe](https://stripe.com/jobs), [Plaid](https://plaid.com/careers/), [SoFi](https://www.sofi.com/careers/), [Snowflake](https://www.snowflake.com/careers/), [Lyft](https://www.lyft.com/careers), [Snap](https://www.snap.com/en-US/jobs), [Cloudflare](https://www.cloudflare.com/careers/), [Atlassian](https://www.atlassian.com/company/careers), [Salesforce](https://www.salesforce.com/company/careers/), [ByteDance (TikTok)](https://careers.tiktok.com/), [Oracle](https://www.oracle.com/careers/), [IBM](https://www.ibm.com/us-en/employment/), [Intel](https://jobs.intel.com/), [Adobe](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced), [Cisco](https://jobs.cisco.com/), [Intuit](https://careers.intuit.com/), [HP](https://jobs.hp.com/), [Mastercard](https://careers.mastercard.com/us/en/), [Sony](https://www.sonyjobs.com/), [Nintendo](https://careers.nintendo.com/), [SAP](https://www.sap.com/about/careers.html), [Samsung](https://www.samsung.com/us/careers/), [Accenture](https://www.accenture.com/us-en/careers), [USA Jobs](https://www.usajobs.gov/), [PwC](https://www.pwc.com/gx/en/careers.html), [Yahoo](https://www.yahooinc.com/careers/), [Bayer](https://www.bayer.com/en/us/careers), [Deloitte](https://www2.deloitte.com/us/en/careers/careers.html), [EY](https://www.ey.com/en_us/careers), [Booz Allen Hamilton](https://careers.boozallen.com/), [McKinsey](https://www.mckinsey.com/careers), [KPMG](https://home.kpmg/xx/en/home/careers.html), [Boeing](https://jobs.boeing.com/), [HBO](https://www.warnermediacareers.com/), [Paramount](https://www.paramount.com/careers), [Disney](https://jobs.disneycareers.com/), [eBay](https://careers.ebayinc.com/), [Centene](https://jobs.centene.com/us/en), [JPMorgan Chase](https://careers.jpmorgan.com/us/en/home), [Bank of America](https://careers.bankofamerica.com/en-us), [Ally](https://www.ally.com/about/careers/), [Truist](https://www.truist.com/careers), [Wells Fargo](https://www.wellsfargo.com/about/careers/), [Capital One](https://www.capitalonecareers.com/), [PNC](https://www.pnc.com/en/about-pnc/careers.html), [TD](https://jobs.td.com/en-CA/), [Airbnb](https://careers.airbnb.com/), [Walmart](https://careers.walmart.com/), [Target](https://corporate.target.com/careers), [John Deere](https://about.deere.com/en-us/careers), [NASCAR](https://careers.nascar.com/), [Lending Tree](https://www.lendingtree.com/careers/), [MetLife](https://jobs.metlife.com/), [Lowe's](https://talent.lowes.com/us/en), [Home Depot](https://careers.homedepot.com/), [AvidXchange](https://www.avidxchange.com/careers/), [Ford](https://corporate.ford.com/careers.html), [Worldwide Technology](https://www.wwt.com/careers), [GM](https://search-careers.gm.com/), [Verizon](https://mycareer.verizon.com/), [Charter Spectrum](https://jobs.spectrum.com/), [Citigroup](https://jobs.citi.com/), [USPS](https://about.usps.com/careers/), [UPS](https://www.jobs-ups.com/), [FedEx](https://careers.fedex.com/fedex/), [Lockheed Martin](https://www.lockheedmartinjobs.com/), [GE](https://jobs.gecareers.com/global/en), [RTX](https://careers.rtx.com/global/en), [Goldman Sachs](https://www.goldmansachs.com/careers/), [General Dynamics](https://www.gd.com/careers), [Northrop Grumman](https://www.northropgrumman.com/careers), [BAE Systems](https://jobs.baesystems.com/global/en/), [Airbus](https://www.airbus.com/en/careers), [Honeywell](https://careers.honeywell.com/us/en), [Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search), [Slalolm](https://www.slalom.com/us/en/careers), [Slalom Build](https://www.slalombuild.com/careers), [T-Mobile](https://careers.t-mobile.com/), [AT&T](https://www.att.jobs/), [CVS Health](https://jobs.cvshealth.com/), [UnitedHealth Group](https://careers.unitedhealthgroup.com/), [McKesson](https://www.mckesson.com/Careers/), [Siemens](https://new.siemens.com/global/en/company/jobs.html), [Cigna](https://jobs.cigna.com/), [Cardinal Health](https://jobs.cardinalhealth.com/), [Dell](https://jobs.dell.com/), [Procter & Gamble](https://www.pgcareers.com/), [Johnson & Johnson](https://jobs.jnj.com/), [Optum](https://www.optum.com/en/careers.html), [AbbVie](https://careers.abbvie.com/), [Red Ventures](https://www.redventures.com/careers/overview), [Duke Energy](https://www.duke-energy.com/our-company/careers), [Pinterest](https://www.pinterestcareers.com/), [Slack](https://slack.com/careers), [Zillow](https://www.zillow.com/careers/), [Dropbox](https://www.dropbox.com/jobs), [Reddit](https://www.redditinc.com/careers), [VMware](https://careers.vmware.com/), [HubSpot](https://www.hubspot.com/jobs), [Twilio](https://www.twilio.com/company/jobs), [Shopify](https://www.shopify.com/careers), [ServiceNow](https://www.servicenow.com/careers.html), [Zendesk](https://www.zendesk.com/jobs/), [Palantir](https://www.palantir.com/careers/), [Workday](https://www.workday.com/en-us/company/careers.html), [Coinbase](https://www.coinbase.com/careers), [Robinhood](https://robinhood.com/us/en/careers), [Instacart](https://careers.instacart.com/), [Zoom](https://careers.zoom.us/), [Snowflake](https://www.snowflake.com/careers/), [Databricks](https://databricks.com/company/careers), [Asana](https://asana.com/jobs), [DigitalOcean](https://www.digitalocean.com/careers/), [Elastic](https://www.elastic.co/careers), [GrubHub](https://careers.grubhub.com/), [Squarespace](https://www.squarespace.com/about/careers), [Roku](https://www.roku.com/jobs), [Epic Games](https://www.epicgames.com/site/en-US/careers), [Unity](https://careers.unity.com/), [Slack](https://slack.com/careers), [Samsung](https://www.samsung.com/us/careers/), [Edward Jones](https://careers.edwardjones.com/), [Fidelity](https://jobs.fidelity.com/), [Allstate](https://www.allstatecorporation.com/careers.aspx), [Vanguard](https://www.vanguardjobs.com/), [Capgemini](https://www.capgemini.com/us-en/careers/), [D.E Shaw](https://www.deshaw.com/careers), [Trimble](https://trimblecareers.trimble.com/careers), and [Humana](https://careers.humana.com/).
 
 I don't know anything about getting into those companies beyond what you'd find in a Google search, but I know they all hire tech professionals. I've listed them (and hyperlinked each name to the company's careers site) to encourage you to do some research and apply away!
+
+</details>
 
 **In closing this section, I beseech you, my dear friend seeking a way into tech, please don't only apply to the big glamorous companies.**
 
@@ -463,38 +521,39 @@ That's like wanting to go to college and only applying to [Ivy League](https://e
 
 ## Frequently Asked Questions
 
-**Note:** Check out my companion, [On the Nature of Artificial Intelligence in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/), for tech career advice that specifically hones in on the impact AI is having on the field.
+**Note:** Check out my companion post, [On the Nature of Artificial Intelligence in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/), for tech career advice that specifically hones in on the impact AI is having on the field.
 {: .notice--info}
 
-Here are some questions I hear a lot from students or job seekers interested in tech careers.
+<details markdown="1">
+<summary>Do I need a degree to break into tech?</summary>
 
-**Do I need a degree to break into tech?**
-
-No, but you do need some sort of training that you can showcase. This could be certificate programs, coding boot camps, skilling programs offered by companies or governments, or anything along those lines. It doesn't have to be a college degree; it just needs to be evidence that you've invested time in learning the skills of the trade. For example, it could be a major project you worked on that turned into an app or website with your name on it. In tech, people just want to see proof that you know what you're doing. The most traditional evidence of this is a college degree, but there are other options.
+No, but you do need some sort of training that you can showcase. This could be certificate programs, coding boot camps, skilling programs offered by companies or governments, or anything along those lines. It doesn't have to be a college degree; it just needs to be evidence that you've invested time in learning the skills of the trade. For example, it could be a major project you worked on that turned into an app or website with your name on it. In tech, people just wantto see proof that you know what you're doing. The most traditional evidence of this is a college degree, but there are other options.
 
 Here are some alternative paths to consider:
 
 1. **Certificate Programs:** Many universities and online platforms offer certificate programs in various tech fields. These programs are typically shorter and more focused than a full degree. They're hardly ever free though, so do your research and choose a reputable, and affordable, option. Some good options are [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/), [Grow with Google](https://grow.google/certificates/), [AWS Certification](https://aws.amazon.com/certification/), [Coursera](https://www.coursera.org/professional-certificates), [Cisco Certifications](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html), and [CompTIA](https://www.comptia.org/).
 2. **Coding Boot Camps:** These programs are designed to teach you the skills needed to land a tech job quickly. Now, to be honest, they're not as effective as they used to be. There was a time when some _misinformed_ people thought college was dead. All you'd need was a 6-month boot camp to become a software engineer. Just "[learn to code](https://knowyourmeme.com/memes/learn-to-code)". That fad has passed. With everyone and their mama wanting to be in tech now, and more college-educated people than ever before, boot camp grads are less appealing to employers than they once were. However, if you have literally no background, training, or experience with tech, they're still good places to get started. They're highly practical and project-based, helping you build a portfolio of work to show potential employers. I'd just say, **please don't go into massive debt for a boot camp**. Please. Like, I'm so serious right now. If you're paying for one, let it be a cost you can be free of in a year or two. Don't drown yourself in debt over a coding boot camp that promises to make you a big tech employee in a few months. Be wary of charlatans, as they're around in abundance.
 3. **Online Courses:** Websites like [Coursera](https://www.coursera.org/), [Udacity](https://www.udacity.com/), [Microsoft Learn](https://learn.microsoft.com/en-us/training/), [Grow With Google](https://grow.google/), [Codeacademy](https://www.codecademy.com/), [Khan Academy](https://www.khanacademy.org/), [Brilliant](https://brilliant.org/), and [edX](https://www.edx.org/) offer a wide range of courses in programming, data science, and other tech disciplines. Some of these courses come with certificates upon completion.
-4. **Open Source Contributions:** Contributing to open source projects on platforms like [GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) can demonstrate your coding skills and your ability to work on real-world projects. Check out the [Open Source Guide](https://github.com/github/opensource.guide).
+4. **Open Source Contributions:** Contributing to open source projects on platforms like [GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-andgit) can demonstrate your coding skills and your ability to work on real-world projects. Check out the [Open Source Guide](https://github.com/github/opensource.guide).
 5. **Personal Projects:** Building your own apps, websites, or other tech projects can be a great way to showcase your skills. Make sure to document and share your work on [GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) or a personal portfolio site.
 
 Now, to be frank, it's harder to get into tech without a degree. Not impossible, just harder. You're going to have to [get it out the mud](https://www.urbandictionary.com/define.php?term=Get+it+out+the+mud). [Hustle](https://www.youtube.com/watch?v=gEVLvBRB96Y). [Hard](https://www.youtube.com/watch?v=bVwyrk3Ftc4). Leverage free online learning resources. Join a reputable but affordable coding boot camp or training program. Get an associate's degree at your local community college with little to no debt. Hunt far and wide for technical training or scholarship programs that upskill people without putting them in debt (check if your state has any). Join the [AmeriCorps](https://americorps.gov/). Look for startups or small companies that'll take a chance on someone with passion but no degree. If college isn't an option, you're going to have to get savvy. It won't be easy, but it can be done!
 
 All that being said, if you can go to college **without putting yourself in massive debt**, I highly suggest that you do. It offers a structured learning environment with instructor-led teaching, networking opportunities, classmates for support, and resources like career centers, fairs, and advisors—all extremely beneficial to students who fully utilize them.
 
----
+</details>
 
-**Do I need a computer science degree to break into tech?**
+<details markdown="1">
+<summary>Do I need a computer science degree to break into tech?</summary>
 
 No, you don't, but if you can pursue one, or any degree really, **without putting yourself in massive debt**, then you should. Let's use a sports analogy. Consider someone who out of college gets a full-ride scholarship to play basketball at Duke University under legendary coach [Mike Krzyzewski (Coach K)](https://en.wikipedia.org/wiki/Mike_Krzyzewski). They have talent but need to refine it to reach their true potential. At Duke, their going to have access to world-class facilities, healthy food, academic tutors, talented teammates, and athletic trainers providing a structured environment that develops them. Furthermore, they'll have access to the wisdom and mentoring of Coach K—who has coached some of the best basketball players in human history including LeBron James, Kobe Bryant, and Kevin Durant (Team USA). They get all this free of charge since they're on scholarship. While they could grow as a basketball player by training themselves—looking up drills and techniques online—they're going to have a much easier time growing in the regimented environment that Duke provides.
 
 If you go to college on a scholarship, that's what you're getting. A structured environment with peers and mentors and all sorts of resources to help you learn and grow. Could you achieve the same growth without college? Absolutely! It'll require a good amount of self-discipline, but it can and has been done by many worldwide. What you need to evaluate is **the cost of going to college**. Everything I said about Duke and Coach K, the hypothetical student in question was getting all that for free on scholarship. If there was no scholarship, then forget all that, it's not worth putting yourself in debt over. See the question above about breaking into tech with no degree if college isn't a viable option for you.
 
----
+</details>
 
-**Does a computer science degree prepare me for a job in tech?**
+<details markdown="1">
+<summary>Does a computer science degree prepare me for a job in tech?</summary>
 
 The short answer is yes, but not in the way you might think. Getting your degree is like working with an athletic trainer who helps you grow into a strong, fast, and agile athlete. That's great. Now let's throw you on the basketball court and see how you do. Oh wait, they never taught you how to play basketball, so you suck! However, since you're a good athlete—possessing the key skills of strength, speed, and agility—you've got the foundation of what could evolve into a good basketball player. You now need to focus specifically on basketball, rather than the general skills of an athlete.
 
@@ -508,9 +567,10 @@ Also, read this article.
 
 [Forbes - Is Coding Education As We Know It Dead?](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/)
 
----
+</details>
 
-**I have a degree, but it's not in computer science. Can I break into tech?**
+<details markdown="1">
+<summary>I have a degree, but it's not in computer science. Can I break into tech?</summary>
 
 Yes. Reference the question above about how a computer science degree doesn't really even fully prepare students to work as software developers. It equips them with a solid skill set but not necessarily the specific know-how for the job. So, if your degree is in another field, you can still find your way into tech.
 
@@ -540,9 +600,10 @@ Now, If you're set on becoming a software engineer despite not having a computer
 
 Plenty of people have successfully transitioned into tech from various backgrounds. The key is to keep learning, adapting, and showcasing your skills. You can find more tips and stories from others who have made this leap on forums like Reddit [here](https://www.reddit.com/r/cscareerquestions/comments/rjdrgy/whats_the_best_path_to_get_into_tech_as_a_noncs/), [here](https://www.reddit.com/r/ITCareerQuestions/comments/13rt5s5/starting_a_career_in_it_at_30_with_no_prior/), and [here](https://www.reddit.com/r/learnprogramming/comments/104quxv/making_it_without_a_cs_degree/). Keep pushing forward—your degree is just the beginning!
 
----
+</details>
 
-**It seems like there are a lot of people interested in tech, to the point of over-saturation. Is it too late to get into tech? Is it even worth pursuing as a career? Will there even be jobs by the time I finish college/training?**
+<details markdown="1">
+<summary>It seems like there are a lot of people interested in tech, to the point of over-saturation. Is it too late?</summary>
 
 To start, only God knows the future, so take everything I say here with a grain of salt. That said, I think a brief history of tech might help in understanding where we are today.
 
@@ -562,14 +623,18 @@ Here's an exercise for you: go to LinkedIn or Indeed and type in "Software Engin
 
 Stop fixating on the NBA and concluding it's impossible to have a basketball career. There are professional basketball leagues in Canada, Europe, China, Africa, Australia, and more. There are even minor professional leagues in the U.S. that may not pay as well as the NBA, but they pay. Many current NBA players started in one of these other leagues before making their way to the NBA. They understood that professional basketball, as a field, is in demand worldwide, and many organizations beyond just the biggest one are looking for talent. The same is true of tech. Almost every company out there—millions of them, many of which you've never heard of—is looking for tech professionals. Before you conclude that tech is over, that nobody can get hired, or that a computer science major is pointless, expand your horizons. Think not just bigger, but broader. Remove the glossy allure of only the high life at big tech companies from your eyes. If you enjoy working with software and computers, start looking at opportunities at places that might not be tech companies but need tech professionals. There are plenty of them. Don't lose hope, _[you've gotta get up and try, try, try](https://youtu.be/pPtlSF4TlJE?si=DesukJFjkpsUccJw)_.
 
----
+</details>
 
-**What about layoffs?**
+<details markdown="1">
+<summary>What about layoffs?</summary>
 
 Watch [this video](https://www.youtube.com/watch?v=SkAc2P_audc) (and read the comment section) to understand why so many tech companies had layoffs post-COVID. The short answer is, if you work at a corporation, there's no such thing as complete job security. However, that doesn't mean you should sit down, give up, and lose heart. The layoffs post-COVID were unique, and the first of their kind (at such a large scale) in the tech world. Understanding why they happened can help you better understand how to navigate your career going forward.
 
----
+</details>
 
-**Is working at a big tech company still a dream job?**
+<details markdown="1">
+<summary>Is working at a big tech company still a dream job?</summary>
 
 Watch [this video](https://youtu.be/ijkTBtBWJWs?si=MzhTyVi-1GB3dHg_) (and read the comment section) to gain some knowledge that might help you answer this question **for yourself**. Nobody can answer this for you. My personal opinion is that if you go into things with your eyes wide and head on straight, you can build generational wealth for your family at the various big tech companies. If you go into things naively ([simping](https://www.urbandictionary.com/define.php?term=Simp) for a corporation), well then, you're setting yourself up for heartbreak. It should be a mutually beneficial, but ultimately transactional, relationship with **strictly defined boundaries**. Consider corporations like sports leagues, once you get into the NBA, you have massive opportunity before you, but you have to be savvy to make use of it. Some athletes go broke after they retire, and others, like Shaq, [build empires](https://en.wikipedia.org/wiki/Shaquille_O%27Neal#Business_ventures) that set their families up for generations. Don't play the fool, [be wise as serpents, and harmless as doves](https://www.biblegateway.com/passage/?search=Matthew+10%3A16&version=NKJV).
+
+</details>

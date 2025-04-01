@@ -155,8 +155,10 @@ details {
   position: relative;
 }
 
-details p {
+details p,
+details li {
   margin-bottom: 0.7em !important;
+  font-size: 0.9em !important;
 }
 
 details summary {
