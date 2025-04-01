@@ -223,23 +223,19 @@ Also, consider the financial aspect. If pursuing a CS degree means accumulating 
 
 You don't compete with AI, you use it. Or "leverage it" if I wanted to sound like a business person. Focus on skills that AI enhances rather than replaces:
 
-1. [System architecture and design](https://github.com/donnemartin/system-design-primer) - Understanding how to design scalable, maintainable systems remains a critical human skill.
+1. Business domain knowledge - Developers who deeply understand the products and industries they're building for remain valuable. AI can write code, but someone has to guide it, write the prompts, and validate what it creates. A technical person who deeply understands the product, project, and domain the code is being written for is best suited for such a task. Contextual understanding of business problems and product challenges—real subject matter expertise—is more valuable than ever. Such a person can prompt with an efficiency, clarity, and specificity that simply can't be replicated by those without their level of knowledge.
 
-2. Business domain knowledge - Developers who deeply understand the products and industries they're building for will always be valuable. AI can write code, but it can't replace [industry expertise](https://martinfowler.com/bliki/DomainDrivenDesign.html) or contextual understanding of business problems.
+2. [Problem analysis and solution design](https://refactoring.guru/design-patterns) - Breaking down complex requirements and designing appropriate solutions requires human judgment and creativity. [System architecture and design](https://github.com/donnemartin/system-design-primer) - Understanding how to design scalable, maintainable systems remains a critical human skill.
 
-3. [Problem analysis and solution design](https://refactoring.guru/design-patterns) - Breaking down complex requirements and designing appropriate solutions requires human judgment and creativity.
-
-4. Team collaboration and communication - AI tools can't replace the [soft skills](https://www.coursera.org/articles/hard-skills-vs-soft-skills) needed to work effectively within a team. I've been surprised by how much career advancement in tech depends on people wanting you on their projects and teams. It isn't coding alone in a dark basement, it's deeply collaborative. Strong interpersonal skills directly impact your promotion opportunities, while poor collaboration will limit your career growth.
+3. Team collaboration and communication - AI tools can't replace the [soft skills](https://www.coursera.org/articles/hard-skills-vs-soft-skills) needed to work effectively within a team. I've been surprised by how much career advancement in tech depends on people wanting you on their projects and teams. It isn't coding alone in a dark basement, it's deeply collaborative. Strong interpersonal skills directly impact your promotion opportunities, while poor collaboration will limit your career growth.
 
 5. Technical writing and communication - The ability to write clear, precise instructions is invaluable when working with AI. This is the essence of prompt engineering. The quality of AI output directly correlates with the quality of your prompts. In many ways, the new form of coding is writing really well in natural language, what some call [Natural Language Programming](https://segunakinyemi.com/blog/natural-language-programming/). Developers who can articulate requirements, constraints, and goals with precision will get significantly better results from AI tools than those who can't.
 
 6. Security and best practices - Cybersecurity requires deep expertise that AI can enhance but not replace. Organizations need security professionals who use AI to strengthen their work, as no one wants AI alone responsible for protecting critical systems. With growing demand for security expertise, [cybersecurity career paths](https://www.coursera.org/articles/cybersecurity-career-paths) remain promising.
 
-7. [Ethical decision-making and AI governance](https://www.microsoft.com/en-us/ai/responsible-ai) - Understanding the ethical implications of AI systems and establishing proper governance frameworks is becoming essential.
+7. User experience (UX) understanding - Knowing how humans interact with technology remains crucial. Check out a list of UX learning resources [here](https://blog.uxtweak.com/best-ux-resources/).
 
-8. User experience (UX) understanding - Knowing how humans interact with technology remains crucial. Check out a list of UX learning resources [here](https://blog.uxtweak.com/best-ux-resources/).
-
-9. Project management and prioritization - GitHub is developing features like [Project Padawan](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#project-padawan-swe-agents-on-github) where you can assign AI work items on repositories and receive pull requests to review. This makes well-written, detailed user stories even more crucial. Learn more with [Atlassian's guide to user stories](https://www.atlassian.com/agile/project-management/user-stories).
+8. Project management and prioritization - GitHub is developing features like [Project Padawan](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#project-padawan-swe-agents-on-github) where you can assign AI work items on repositories and receive pull requests to review. This makes well-written, detailed user stories even more crucial. Learn more with [Atlassian's guide to user stories](https://www.atlassian.com/agile/project-management/user-stories).
 </details>
 
 <details markdown="1">
