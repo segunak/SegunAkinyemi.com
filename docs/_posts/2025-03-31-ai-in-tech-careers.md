@@ -228,25 +228,25 @@ This is the most significant shift I've observed: AI isn't just a separate chatb
 Having spent time at career fairs and hosting student field trips at [my employer's](https://en.wikipedia.org/wiki/Microsoft) offices, I get asked these questions a lot. Here are my honest answers:
 
 <details markdown="1">
-<summary>❓ Is AI going to replace all software developers?</summary>
+<summary>Is AI going to replace all software developers?</summary>
 
 No, but it will replace developers who refuse to adapt to using AI. Look at history: calculators didn't replace mathematicians, CAD software didn't replace architects, and Excel didn't replace accountants. These tools changed how the work is done, making professionals who embraced them more valuable. I do think we'll probably end up with less developers overall though, as it'll be easier for less people to do more because AI is doing so much of the grunt work.
 </details>
 
 <details markdown="1">
-<summary>❓ Should I even bother learning to code with AI around?</summary>
+<summary>Should I even bother learning to code with AI around?</summary>
 
 Absolutely yes. Don't just listen to me on this one though, scroll back up to [this section](#reassurance-from-ai-pioneers). People far smarter than me have spoken on this. Also, check out the article [Is Coding Education As We Know It Dead?](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/)
 </details>
 
 <details markdown="1">
-<summary>❓ Is using AI tools 'cheating' or making me less skilled?</summary>
+<summary>Is using AI tools 'cheating' or making me less skilled?</summary>
 
 No more than using Stack Overflow, libraries, or frameworks is cheating. At [my employer](https://en.wikipedia.org/wiki/Microsoft), we're actively encouraged to use AI tools to be more productive. The goal is solving problems and creating value, not proving you can remember syntax.
 </details>
 
 <details markdown="1">
-<summary>❓ Is a computer science degree still worth it?</summary>
+<summary>Is a computer science degree still worth it?</summary>
 
 Yes, with a caveat: make sure your program is adapting to include AI. A good CS degree teaches fundamentals that remain valuable regardless of tools:
 
@@ -262,7 +262,7 @@ Also, consider the financial aspect. If pursuing a CS degree means accumulating 
 </details>
 
 <details markdown="1">
-<summary>❓ How do I compete with AI in tech?</summary>
+<summary>How do I compete with AI in tech?</summary>
 
 You don't compete with AI, you use it. Or "leverage it" if I wanted to sound like a business person. Focus on these skills that AI enhances rather than replaces:
 
