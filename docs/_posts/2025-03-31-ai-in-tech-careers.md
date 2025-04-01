@@ -221,39 +221,43 @@ Also, consider the financial aspect. If pursuing a CS degree means accumulating 
 <details markdown="1">
 <summary>❓ How do I compete with AI in tech?</summary>
 
-You don't compete with AI, you use it. Or "leverage it" if I wanted to sound like a business person. Focus on skills that AI enhances rather than replaces:
+You don't compete with AI, you use it. Or "leverage it" if I wanted to sound like a business person. Focus on these skills that AI enhances rather than replaces:
 
-1. Business domain knowledge - Developers who deeply understand the products and industries they're building for remain valuable. AI can write code, but someone has to guide it, write the prompts, and validate what it creates. A technical person who deeply understands the product, project, and domain the code is being written for is best suited for such a task. Contextual understanding of business problems and product challenges—real subject matter expertise—is more valuable than ever. Such a person can prompt with an efficiency, clarity, and specificity that simply can't be replicated by those without their level of knowledge.
+**1. Technical System Design & Architecture**
+* Learn [system design fundamentals](https://github.com/donnemartin/system-design-primer) and how to architect scalable systems.
+* Master [design patterns](https://refactoring.guru/design-patterns) to solve common engineering problems.
+* Study [clean architecture principles](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) for building maintainable software.
+* Take free courses on [cloud architecture](https://learn.microsoft.com/en-us/azure/architecture/) from major providers.
 
-2. [Problem analysis and solution design](https://refactoring.guru/design-patterns) - Breaking down complex requirements and designing appropriate solutions requires human judgment and creativity. [System architecture and design](https://github.com/donnemartin/system-design-primer) - Understanding how to design scalable, maintainable systems remains a critical human skill.
+**2. Domain Expertise & Business Acumen**
+* Develop [deep knowledge](https://martinfowler.com/bliki/DomainDrivenDesign.html) of the industry you're building for. This includes looking for a job at a company providing a product or service that you actually like. For example, you love basketball, but aren't that good at it, so instead of becoming a baller, you get a tech job working on stuff for the NBA. Since you actually love the core business, it's easy to marry that with tech expertise. You're not just technical, you understand how things fit into the business, why they're valuable, what people are looking for. With AI, thinking this way matters more than ever. You can't just be a code mercenary hopping from company to company with no understanding of who you're building for and why it matters. You've got to dive deep into a domain so that your value goes beyond just writing code, because AI can do that for us now.
+* Learn [how to translate business requirements](https://www.coursera.org/articles/business-analyst) into technical solutions. Seriously. Think about what AI tools need to be the most valuable. Clearly defined requirements, parameters, contextual knowledge. The better you are at this, the better you'll be able to "prompt engineer".
+* Follow industry leaders on [platforms like LinkedIn](https://www.getphyllo.com/post/ai-influencers-linkedin) to stay current in your field.
+* Take career-path-specific courses on [platforms like Microsoft Learn](https://learn.microsoft.com/en-us/training/career-paths/).
 
-3. Team collaboration and communication - AI tools can't replace the [soft skills](https://www.coursera.org/articles/hard-skills-vs-soft-skills) needed to work effectively within a team. I've been surprised by how much career advancement in tech depends on people wanting you on their projects and teams. It isn't coding alone in a dark basement, it's deeply collaborative. Strong interpersonal skills directly impact your promotion opportunities, while poor collaboration will limit your career growth.
+**3. Communication & Collaboration**
+- Improve [technical writing](https://developers.google.com/tech-writing) skills so that you can write the kind of documenation abotu the very nicehh and specific things you're building or your company is working on that can be fed to AI to help it do the busy work while you focus on the bigger picture.
+- Develop [prompt engineering skills](https://platform.openai.com/docs/guides/prompt-engineering) to get better results from AI. Check out the [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide).
+- Enhance [soft skills](https://www.coursera.org/courses?query=soft%20skills) that make people want you on their team. Seriously. I've been surprised how much of success in tech is about people actually liking working with you rather than technical acumen alone. With AI, I'd imagine this will trend will only increase.
 
-5. Technical writing and communication - The ability to write clear, precise instructions is invaluable when working with AI. This is the essence of prompt engineering. The quality of AI output directly correlates with the quality of your prompts. In many ways, the new form of coding is writing really well in natural language, what some call [Natural Language Programming](https://segunakinyemi.com/blog/natural-language-programming/). Developers who can articulate requirements, constraints, and goals with precision will get significantly better results from AI tools than those who can't.
+**4. Security & Best Practices**
+- Learn [cybersecurity fundamentals](https://www.coursera.org/professional-certificates/google-cybersecurity) to keep systems safe. With the rise of AI, companies [care about this now more than ever](https://www.microsoft.com/en-us/trust-center/security/secure-future-initiative).
+- Study [secure coding practices](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/) to protect applications being created with AI generated code. Humans who can help keep all of us safe from AI making mistakes (which it does) because they know what secure code and systems look like will remain valuable.
+- Understand [AI security challenges](https://www.microsoft.com/en-us/ai/responsible-ai) and ethical implications. You don't even have to work in tech, go become a lawyer and help regulate big tech usage of AI so we don't end up with [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)).
+- Explore [cybersecurity career paths](https://www.coursera.org/articles/cybersecurity-career-paths) as demand for experts in this field grows. Organizations want people watching AI, protecting their systems from hackers using AI, from customers trying to do inappropriate stuff with AI, from AI systems that have gone rogue, cybersecurity isn't going anywhere.
 
-6. Security and best practices - Cybersecurity requires deep expertise that AI can enhance but not replace. Organizations need security professionals who use AI to strengthen their work, as no one wants AI alone responsible for protecting critical systems. With growing demand for security expertise, [cybersecurity career paths](https://www.coursera.org/articles/cybersecurity-career-paths) remain promising.
+**5. User Experience & Human-Centered Design**
+- Study [UX design principles](https://blog.uxtweak.com/best-ux-resources/) so that you're able to properly guide AI with your prompting in creating websites or apps or dashboards or whatever that peopl eactually enjoy using.
+- Take courses on [human-computer interaction](https://www.interaction-design.org/courses) to understand user behavior.
+- Learn [accessibility standards](https://www.w3.org/WAI/fundamentals/accessibility-intro/) so that when you're generating code with AI you can do so with prompts that keep  inclusive design in mind. Be the human making sure this thing is building for all humans ot be able to use and beenfit from things.
 
-7. User experience (UX) understanding - Knowing how humans interact with technology remains crucial. Check out a list of UX learning resources [here](https://blog.uxtweak.com/best-ux-resources/).
+**6. Project Management & Execution**
+- Learn [agile methodologies](https://www.atlassian.com/agile) as humans working on teams together in this manner hasn't been changed by AI. All this stuffis still around, as annoying as it can be, it has more to do with how we work with each other rather than AI building software.
+- Master [user story creation](https://www.atlassian.com/agile/project-management/user-stories) as AI increasingly implements them
+- Study [technical program management](https://www.linkedin.com/learning/technical-program-management-foundations) to coordinate complex initiatives
+- Explore tools like [GitHub's Project Padawan](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#project-padawan-swe-agents-on-github) for AI-assisted development where you literally assign user stories to an AI agent, it does all the work, and you just loop back for a pull request review (that is insane I can't believe i just typed that.)
 
-8. Project management and prioritization - GitHub is developing features like [Project Padawan](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#project-padawan-swe-agents-on-github) where you can assign AI work items on repositories and receive pull requests to review. This makes well-written, detailed user stories even more crucial. Learn more with [Atlassian's guide to user stories](https://www.atlassian.com/agile/project-management/user-stories).
-</details>
-
-<details markdown="1">
-<summary>❓ What's the best way to start learning AI coding tools?</summary>
-
-1. **Use GitHub Copilot** - This is the most widely-adopted AI coding assistant that integrates directly into VS Code. With Microsoft's backing and OpenAI partnership, it's becoming the industry standard employers expect you to know. [Get started here](https://github.com/features/copilot).
-
-2. **Learn prompt engineering** - Writing effective prompts is becoming as valuable as coding itself. Practice crafting clear, specific instructions that yield better results. Check out [OpenAI's prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering).
-
-3. **Use structured learning resources**:
-   - [Microsoft's AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us) - A comprehensive roadmap to build AI skills with personalized learning paths
-   - [Google's AI Training Hub](https://grow.google/ai/) - Free courses and resources to help you develop practical AI skills
-
-4. **Join AI communities** - Places like [r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/) let you learn from others' experiences and stay updated on new techniques.
-
-5. **Practice consistently** - Like any skill, improving with AI tools requires regular use. Try incorporating them into small personal projects first.
-
-For more comprehensive resources, check out my [AI Learning Resources](https://segunakinyemi.com/blog/ai-learning-resources/) guide.
+As AI handles more coding tasks, your value comes from combining technical knowledge with distinctly human skills—judgment, creativity, interpersonal communication, and business understanding. These are areas where humans working with AI will move things along faster  than AI working alone (for now at least, only God knows the future).
 </details>
 
 ## Closing Words
