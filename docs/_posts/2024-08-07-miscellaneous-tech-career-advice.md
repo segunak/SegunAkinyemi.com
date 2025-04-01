@@ -25,14 +25,14 @@ tags:
   </div>
 </p>
 
-**Note:** Check out my companion post, [On the Nature of Artificial Intelligence in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/), for advice that specifically hones in on the impact AI is having on the field.
+**Note:** Check out my companion post, [On the Nature of Artificial Intelligence in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/), for advice specifically addressing AI's impact on the field.
 {: .notice--info}
 
-Greetings! This post is a collection of tech-related career advice that I hope to keep updated regularly. I've been asked many times by students and job seekers I work with about this sort of stuff, so I figured it'd be easier to write it down rather than regurgitate this information every time the topic arises. To be abundantly clear, in my writing here, I represent no one but myself. All opinions are my own.
+Greetings! This post compiles my general purpose tech career advice. After fielding these questions repeatedly from students and job seekers, I decided documenting my insights would be more efficient than relying on repeating them verbally. To be clear: all opinions expressed here are solely my own.
 
 ## Software Engineering
 
-This section contains advice for those seeking jobs in the software engineering space, by which I mean any job where you expect to be writing code as a primary part of your duties. This kind of work spans several job titles, more on that below.
+This section covers advice for those pursuing software engineering careers—any role where coding is your primary responsibility. These positions span numerous job titles, as detailed below.
 
 <details markdown="1">
 <summary>Alternative Job Titles</summary>
@@ -132,7 +132,7 @@ These are online communities I think are worth engaging in for anyone interested
 
 ## Product Management
 
-This section is dedicated to Product Management, which is—at best—a nebulous job title. I'm not a PM, but I work closely with PMs and have several in my group of friends and mentors. The PM world—where the `P` can mean Product, Program, or Project—is infamous for ambiguity surrounding the difference between those roles. To me, they all seem to require the same set of core [skills and competencies](/assets/images/pm-skills.png), differentiating themselves in the nuances of the company you're at and what you're working on. In this section, I'm grouping these terms together to offer advice that applies to all of them and their related roles.
+This section covers Product Management—a notoriously nebulous job title. While I'm not a PM myself, I work closely with many and count several as friends and mentors. In the PM world—where the `P` can mean Product, Program, or Project—confusion abounds about differences between these roles. From my observation, they all share core [skills and competencies](/assets/images/pm-skills.png), with variations based on company culture and specific projects. This section groups these related roles together to provide broadly applicable advice.
 
 <details markdown="1">
 <summary>Alternative Job Titles</summary>
@@ -279,9 +279,9 @@ Here are some online communities that should prove helpful for someone intereste
 
 ## Career Programs
 
-Companies worldwide offer training programs targeted at specific groups of people, enabling them to enter the industry and become valuable contributors. These programs exist for different reasons such as to attract diverse talent, to fill challenging roles, or to provide opportunities for individuals from nontraditional backgrounds. Whatever the reason, these programs have helped many people secure great careers at top companies who might not have otherwise had the chance.
+Companies worldwide offer training programs for specific groups to help them enter tech and become valuable contributors. These programs exist to attract diverse talent, fill challenging roles, or provide pathways for those from nontraditional backgrounds. Whatever the reason, they've helped many secure great careers who might not otherwise have had the chance.
 
-Here are some programs that I know of. I'd encourage you to also Google things like "[career training programs](https://www.google.com/search?q=career+training+programs)" or "[free technical training programs](https://www.google.com/search?q=free+technical+training+programs)" to find more options.
+Here are programs I know about. I encourage you to also search for "[career training programs](https://www.google.com/search?q=career+training+programs)" or "[free technical training programs](https://www.google.com/search?q=free+technical+training+programs)" to discover more options.
 
 <details markdown="1">
 <summary>High School</summary>
@@ -534,9 +534,13 @@ No, but you do need some sort of training that you can showcase. This could be c
 Here are some alternative paths to consider:
 
 1. **Certificate Programs:** Many universities and online platforms offer certificate programs in various tech fields. These programs are typically shorter and more focused than a full degree. They're hardly ever free though, so do your research and choose a reputable, and affordable, option. Somegood options are [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/), [Grow with Google](https://grow.google/certificates/), [AWS Certification](https://aws.amazon.com/certification/), [Coursera](https://www.coursera.org/professional-certificates), [Cisco Certifications](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html), and [CompTIA](https://www.comptia.org/).
+
 2. **Coding Boot Camps:** These programs are designed to teach you the skills needed to land a tech job quickly. Now, to be honest, they're not as effective as they used to be. There was a time when some _misinformed_ people thought college was dead. All you'd need was a 6-month boot camp to become a software engineer. Just "[learn to code](https://knowyourmeme.com/memes/learn-to-code)". That fad has passed. With everyone and their mama wanting to be in tech now, and more college-educated people than ever before, boot camp grads are less appealing to employers than they once were. However, if you have literally no background, training, or experience with tech, they're still good places to get started. They're highly practical and project-based, helping you build a portfolio of work to show potential employers. I'd just say, **please don't go into massive debt for a boot camp**. Please. Like, I'm so serious right now. If you're paying for one, let it be a cost you can be free of in a year or two. Don't drown yourself in debt over a coding boot camp that promises to make you a big tech employee in a few months. Be wary of charlatans, as they're around in abundance.
+
 3. **Online Courses:** Websites like [Coursera](https://www.coursera.org/), [Udacity](https://www.udacity.com/), [Microsoft Learn](https://learn.microsoft.com/en-us/training/), [Grow With Google](https://grow.google/), [Codeacademy](https://www.codecademy.com/), [Khan Academy](https://www.khanacademy.org/), [Brilliant](https://brilliant.org/), and [edX](https://www.edx.org/) offer a wide range of courses in programming, data science, and other tech disciplines. Some of these courses come with certificates upon completion.
+
 4. **Open Source Contributions:** Contributing to open source projects on platforms like [GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-andgit) can demonstrate your coding skills and your ability to work on real-world projects. Check out the [Open Source Guide](https://github.com/github/opensource.guide).
+
 5. **Personal Projects:** Building your own apps, websites, or other tech projects can be a great way to showcase your skills. Make sure to document and share your work on [GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) or a personal portfolio site.
 
 Now, to be frank, it's harder to get into tech without a degree. Not impossible, just harder. You're going to have to [get it out the mud](https://www.urbandictionary.com/define.php?term=Get+it+out+the+mud). [Hustle](https://www.youtube.com/watch?v=gEVLvBRB96Y). [Hard](https://www.youtube.com/watch?v=bVwyrk3Ftc4). Leverage free online learning resources. Join a reputable but affordable coding boot camp or training program. Get an associate's degree at your local community college with little to no debt. Hunt far and wide for technical training or scholarship programs that upskill people without putting them in debt (check if your state has any). Join the [AmeriCorps](https://americorps.gov/). Look for startups or small companies that'll take a chance on someone with passion but no degree. If college isn't an option, you're going to have to get savvy. It won't be easy, but it can be done!
