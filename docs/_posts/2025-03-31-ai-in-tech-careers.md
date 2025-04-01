@@ -65,46 +65,6 @@ So, does the rise of AI mean:
   </div>
 </div>
 
-<style>
-.meme-container {
-  margin: 1.5em 0;
-  display: flex;
-  justify-content: center;
-}
-
-.meme-wrapper {
-  background: #f8f9fa;
-  border-radius: 8px;
-  padding: 15px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  border-left: 4px solid #0092ca;
-  max-width: 450px;
-  text-align: center;
-}
-
-.meme-wrapper img {
-  border-radius: 4px;
-}
-
-.meme-caption {
-  margin-top: 10px;
-  font-style: italic;
-  color: #666;
-  font-size: 0.9em;
-}
-
-/* Dark mode styles */
-.dark-theme .meme-wrapper {
-  background: #2a2d30;
-  border-left: 4px solid #f21368;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-}
-
-.dark-theme .meme-caption {
-  color: #aaa;
-}
-</style>
-
 But don't take it from me, let's consult some experts.
 
 ## Reassurance From AI Pioneers

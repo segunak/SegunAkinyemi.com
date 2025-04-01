@@ -101,3 +101,14 @@ details[open] summary {
   background-color: #1a1c1e;
   border-bottom: 1px solid #3d4246;
 }
+
+/* Dark theme specific styles for meme container */
+.meme-wrapper {
+  background-color: #2a2d30;
+  border-left: 4px solid #f21368;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.meme-caption {
+  color: #aaa;
+}

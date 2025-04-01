@@ -215,3 +215,30 @@ details p:last-of-type {
   margin-bottom: 0;
 }
 
+/* Meme container styling for both light and dark themes */
+.meme-container {
+  margin: 2em 0;
+  display: flex;
+  justify-content: center;
+}
+
+.meme-wrapper {
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  text-align: center;
+}
+
+.meme-wrapper img {
+  border-radius: 4px;
+  width: 100%; /* Make image fill the container */
+  height: auto;
+}
+
+.meme-caption {
+  margin-top: 10px;
+  font-style: italic;
+  font-size: 0.9em;
+}
+
