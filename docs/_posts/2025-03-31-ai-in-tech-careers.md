@@ -327,5 +327,5 @@ I hope this article gave you some clarity and practical next steps. Stay curious
 
 ---
 
-_Have thoughts about AI's impact on tech careers? Connect with me on [LinkedIn](https://www.linkedin.com/in/segunakinyemi) or check out my other articles about [artificial intelligence](https://segunakinyemi.com/tags/artificial-intelligence)._
+_Have thoughts about AI's impact on tech careers? Connect with me on [LinkedIn](https://www.linkedin.com/in/segunakinyemi) or check out my other articles about [artificial intelligence](https://segunakinyemi.com/tags/#artificial-intelligence)._
 {: .notice--primary}
