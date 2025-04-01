@@ -34,13 +34,13 @@ tags:
 
 ## The Hype Is Real
 
-Artificial Intelligence (AI) is far from just a buzzword these days. As a software engineer at [a company](https://en.wikipedia.org/wiki/Microsoft) you've probably heard of that's behind many AI infused products (including ownership of [GitHub](https://en.wikipedia.org/wiki/GitHub) and its suite of [AI coding tools](https://github.com/features/copilot), owners of [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn), a significant [stake in OpenAI](https://fortune.com/2024/10/18/microsoft-openai-equity-stake-nonprofit-for-profit-reorganization-sam-altman/), creators of [VSCode](https://en.wikipedia.org/wiki/Visual_Studio_Code), not to mention their own extensive suite of [AI products](https://www.microsoft.com/en-us/microsoft-copilot/organizations))—I can assure you that AI's impact is very real.
+Artificial Intelligence (AI) is far from just a buzzword these days. As a software engineer at [a company](https://en.wikipedia.org/wiki/Microsoft) heavily involved in AI (in addition to their own [AI platform](https://www.microsoft.com/en-us/microsoft-copilot/organizations), they're the creators of [VS Code](https://en.wikipedia.org/wiki/Visual_Studio_Code), owners of [GitHub](https://github.com/features/copilot), owners of [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn), and the big tech sponsor behind [OpenAI](https://fortune.com/2024/10/18/microsoft-openai-equity-stake-nonprofit-for-profit-reorganization-sam-altman/))—I can assure you that AI's impact is very real.
 
 I open my laptop every day to a flood of messages from colleagues, managers, and organizational leaders encouraging the use of AI tools to make us work faster, be more efficient, and most notably, write (or really, generate) code. The message is consistent across all levels: use AI tools. This isn't just a thing at [my employer](https://en.wikipedia.org/wiki/Microsoft), it's a consistent theme across tech.
 
-The AI coding revolution is not a fad. There are even new terms popping up to describe it like [Natural Language Programming](https://segunakinyemi.com/blog/natural-language-programming/) and [Vibe Coding](https://en.wikipedia.org/wiki/Vibe_coding). Companies are actively pushing employees to use these tools, doing everything to make adoption as easy and smooth as possible. And the more you use them, the more you understand why—they're [seriously good](https://segunakinyemi.com/blog/github-copilot-agent-mode/). 
+The AI coding revolution is not a [fad](https://www.google.com/search?q=fad+definition). There are even new terms popping up to describe it like [Natural Language Programming](https://segunakinyemi.com/blog/natural-language-programming/) and [Vibe Coding](https://en.wikipedia.org/wiki/Vibe_coding). Companies are actively pushing employees to use these tools, doing everything to make adoption as easy and smooth as possible. And the more you use them, the more you understand why—they're [seriously good](https://segunakinyemi.com/blog/github-copilot-agent-mode/). 
 
-If you already work in tech and want to survive, or are looking to break into the field, embracing AI isn't optional, it's essential. This article is my attempt to help you navigate this shift, based on what I'm seeing working in the industry.
+If you already work in tech and want to survive, or are looking to break into the field, embracing AI isn't optional, it's essential. This article is my attempt at helping you navigate this shift, based on what I'm seeing working in the industry (I'm out here tryna survive myself!).
 
 ## The State of AI in Tech
 
@@ -52,11 +52,58 @@ The tools available now make tasks that once took hours take minutes. Code that 
 >
 > [GitHub Copilot's Agent Mode Is Rather Impressive, But the Real Question Is, Are Software Developers Cooked?](https://segunakinyemi.com/blog/github-copilot-agent-mode/)
 
-So, does the rise of AI mean you shouldn't pursue a tech career? Or that you shouldn't bother learning how to code? Or that a computer science degree is suddenly worthless? Or that there's no longer any point entering tech? That the golden age of tech is finished? That literally every software developer and tech worker is about to lose their job, never find work again, and society itself is doomed?
+So, does the rise of AI mean:
 
-<p align="center">
-  <img alt="Naruto Meme" src="/assets/images/naruto-lightning-village-no.gif"/>
-</p>
+* You shouldn't pursue a tech career?
+* You shouldn't bother learning how to code?
+* A computer science degree is suddenly worthless?
+* That literally every software developer and tech worker is about to lose their job, never find work again, and society itself is doomed?
+
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img alt="Naruto Meme" src="/assets/images/naruto-lightning-village-no.gif"/>
+  </div>
+</div>
+
+<style>
+.meme-container {
+  margin: 1.5em 0;
+  display: flex;
+  justify-content: center;
+}
+
+.meme-wrapper {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-left: 4px solid #0092ca;
+  max-width: 450px;
+  text-align: center;
+}
+
+.meme-wrapper img {
+  border-radius: 4px;
+}
+
+.meme-caption {
+  margin-top: 10px;
+  font-style: italic;
+  color: #666;
+  font-size: 0.9em;
+}
+
+/* Dark mode styles */
+.dark-theme .meme-wrapper {
+  background: #2a2d30;
+  border-left: 4px solid #f21368;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.dark-theme .meme-caption {
+  color: #aaa;
+}
+</style>
 
 But don't take it from me, let's consult some experts.
 
@@ -138,7 +185,7 @@ These tools are transforming how tech professionals work by integrating AI direc
 </details>
 
 <details markdown="1">
-<summary><strong>🧰 Development Platforms</strong></summary>
+<summary>🧰 Development Platforms</summary>
 
 * [**Vercel v0**](https://v0.dev/) - A generative UI system that converts plain text descriptions into React code, dramatically speeding up front-end development. It's especially powerful for React projects using NextJS, creating production-ready components from natural language descriptions.
 * [**Lovable.dev**](https://lovable.dev/) - A tool that enables creating functional websites through conversational prompts, making web development more accessible to non-developers. It handles complex logic and responsive design without requiring coding knowledge.
@@ -147,7 +194,7 @@ These tools are transforming how tech professionals work by integrating AI direc
 </details>
 
 <details markdown="1">
-<summary><strong>🎨 Design Assistants</strong></summary>
+<summary>🎨 Design Assistants</summary>
 
 * [**Canva Magic Design**](https://www.canva.com/magic-design/) - An AI feature within Canva that generates complete design layouts based on text descriptions. It provides a ready-to-use starting point for presentations, social media graphics, and marketing materials.
 * [**Microsoft Designer**](https://designer.microsoft.com/) - A powerful AI design tool that converts text descriptions into visual designs with extensive customization options. It integrates with Microsoft 365 and offers commercial usage rights for generated content.
@@ -155,7 +202,7 @@ These tools are transforming how tech professionals work by integrating AI direc
 </details>
 
 <details markdown="1">
-<summary><strong>📚 Research Tools</strong></summary>
+<summary>📚 Research Tools</summary>
 
 * [**NotebookLM**](https://notebooklm.google/) - A Google tool that helps analyze and synthesize information from documents, turning passive reference material into an interactive knowledge base. It's exceptionally valuable for digesting technical documentation, research papers, and comprehensive reports.
 * [**Perplexity AI**](https://www.perplexity.ai/) - An AI-powered search engine that provides comprehensive answers with cited sources, eliminating the need to manually sort through search results. Its ability to cite sources makes it particularly valuable for technical research and fact-checking.
@@ -164,7 +211,7 @@ These tools are transforming how tech professionals work by integrating AI direc
 </details>
 
 <details markdown="1">
-<summary><strong>🔒 Privacy-Focused Tools</strong></summary>
+<summary>🔒 Privacy-Focused Tools</summary>
 
 * [**AnythingLLM**](https://anythingllm.com/) - An open-source, self-hosted ChatGPT-like interface that enables private document analysis without sending your code or data to third parties. It's ideal for working with sensitive or proprietary information while still leveraging AI capabilities.
 * [**LM Studio**](https://lmstudio.ai/) - A desktop application for downloading and running open-source large language models locally on your computer. It offers a balance between powerful AI assistance and complete data privacy, though requires decent hardware.
@@ -176,25 +223,25 @@ These tools are transforming how tech professionals work by integrating AI direc
 Having spent time at career fairs and hosting student field trips at [my employer's](https://en.wikipedia.org/wiki/Microsoft) offices, I get asked these questions a lot. Here are my honest answers:
 
 <details markdown="1">
-<summary><strong>❓ Is AI going to replace all software developers?</strong></summary>
+<summary>❓ Is AI going to replace all software developers?</summary>
 
 No, but it will replace developers who refuse to adapt to using AI. Look at history: calculators didn't replace mathematicians, CAD software didn't replace architects, and Excel didn't replace accountants. These tools changed how the work is done, making professionals who embraced them more valuable. I do think we'll probably end up with less developers overall though, as it'll be easier for less people to do more because AI is doing so much of the grunt work.
 </details>
 
 <details markdown="1">
-<summary><strong>❓ Should I even bother learning to code with AI around?</strong></summary>
+<summary>❓ Should I even bother learning to code with AI around?</summary>
 
 Absolutely yes. Don't just listen to me on this one though, scroll back up to [this section](#reassurance-from-ai-pioneers). People far smarter than me have spoken on this. Also, check out the article [Is Coding Education As We Know It Dead?](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/)
 </details>
 
 <details markdown="1">
-<summary><strong>❓ Is using AI tools 'cheating' or making me less skilled?</strong></summary>
+<summary>❓ Is using AI tools 'cheating' or making me less skilled?</summary>
 
 No more than using Stack Overflow, libraries, or frameworks is cheating. At [my employer](https://en.wikipedia.org/wiki/Microsoft), we're actively encouraged to use AI tools to be more productive. The goal is solving problems and creating value, not proving you can remember syntax.
 </details>
 
 <details markdown="1">
-<summary><strong>❓ Is a computer science degree still worth it?</strong></summary>
+<summary>❓ Is a computer science degree still worth it?</summary>
 
 Yes, with a caveat: make sure your program is adapting to include AI. A good CS degree teaches fundamentals that remain valuable regardless of tools:
 
@@ -210,7 +257,7 @@ Also, consider the financial aspect. If pursuing a CS degree means accumulating 
 </details>
 
 <details markdown="1">
-<summary><strong>❓ How do I compete with AI in tech?</strong></summary>
+<summary>❓ How do I compete with AI in tech?</summary>
 
 You don't compete with AI, you use it. Or "leverage it" if I wanted to sound like a business person. Focus on skills that AI enhances rather than replaces:
 
@@ -234,7 +281,7 @@ You don't compete with AI, you use it. Or "leverage it" if I wanted to sound lik
 </details>
 
 <details markdown="1">
-<summary><strong>❓ What's the best way to start learning AI coding tools?</strong></summary>
+<summary>❓ What's the best way to start learning AI coding tools?</summary>
 
 1. **Use GitHub Copilot** - This is the most widely-adopted AI coding assistant that integrates directly into VS Code. With Microsoft's backing and OpenAI partnership, it's becoming the industry standard employers expect you to know. [Get started here](https://github.com/features/copilot).
 
