@@ -85,34 +85,58 @@ When I use tools like GitHub Copilot, I'm not blindly accepting output (although
 
 Learning programming fundamentals, [design patterns](https://refactoring.guru/design-patterns), and [system architecture](https://github.com/donnemartin/system-design-primer) has helped me:
 
-1. **Guide AI effectively** – I can say things like "normalize this schema" or "set up CI/CD pipelines" and the AI gets to work. Knowing what you're talking about = speed and precision.
+<details markdown="1">
+<summary>Guide AI effectively</summary>
+I can say things like "normalize this schema" or "set up CI/CD pipelines" and the AI gets to work. Knowing what you're talking about = speed and precision.
+</details>
 
-2. **Spot bad output** – AI can write code that technically works but breaks everything else. I know when to say "nah" and fix it. [Vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is real, but so is real accountability.
+<details markdown="1">
+<summary>Spot bad output</summary>
+AI can write code that technically works but breaks everything else. I know when to say "nah" and fix it. [Vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is real, but so is real accountability.
+</details>
 
-3. **Make architectural calls** – AI shouldn't decide if you need microservices vs monolith, [GraphQL](https://graphql.org/) vs [REST](https://blog.postman.com/rest-api-examples/), or which database to use. These decisions affect users, businesses, budgets, and lives. Real examples:
+<details markdown="1">
+<summary>Make architectural calls</summary>
+AI shouldn't decide if you need microservices vs monolith, [GraphQL](https://graphql.org/) vs [REST](https://blog.postman.com/rest-api-examples/), or which database to use. These decisions affect users, businesses, budgets, and lives. Real examples:
+
    - SQL or NoSQL? Postgres or something else?
    - OAuth or session-based auth?
    - Redis for caching? CDN? In-memory?
    - Serverless vs containers? State management?
   
 As IBM said back in 1979: "A computer can never be held accountable, therefore a computer must never make a management decision." Still true. AI can suggest; you decide.
+</details>
 
-If you're trying to break into tech or level up, start here:
+If you're trying to break into tech or level up, here's some advice:
 
-1. **Learn a programming language** – I recommend Python. Beginner-friendly and widely used in AI.
-   - [Harvard's CS50 Python](https://cs50.harvard.edu/python/)
+<details markdown="1">
+<summary>Learn at least one programming language</summary>
+
+I recommend Python as it's both beginner-friendly and [powerful enough for AI development](https://www.tiobe.com/tiobe-index/). Resources I recommend:
+   - [Harvard's CS50 Python Course](https://cs50.harvard.edu/python/)
    - [Google's Python Class](https://developers.google.com/edu/python)
+</details>
 
-2. **Learn core computer science concepts** – You don't need to be a [LeetCode]((https://www.techinterviewhandbook.org/grind75/)) wizard. Just know the basics: data structures, algorithms, system design.
+<details markdown="1">
+<summary>Learn core computer science concepts</summary>
+
+Having a basic understanding (you don't need to be a [LeetCode wizard](https://www.techinterviewhandbook.org/grind75/), the basics will do) data structures, algorithms, and system design will help you guide AI effectively:
+
    - [Google's Data Structures & Algorithms Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
    - [Grokking Algorithms](https://www.google.com/search?q=filetype%3Apdf+Grokking+Algorithms+by+Aditya+Y+Bhargava)
    - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+</details>
 
-3. **Study architecture patterns** – This stuff hasn't changed with AI. If anything, it matters more.
+<details markdown="1">
+<summary>Study software & cloud architecture patterns</summary>
+
+These fundamentals haven't changed with AI:
+
    - [Design Patterns](https://refactoring.guru/design-patterns)
    - [Clean Architecture](https://www.google.com/search?q=filetype%3Apdf+Clean+Architecture+by+Robert+C.+Martin)
    - [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/)
    - [AWS Architecture Center](https://aws.amazon.com/architecture/)
+</details>
 
 ## How I'm Adapting (And You Can Too)
 
