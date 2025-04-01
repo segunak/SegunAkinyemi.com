@@ -218,16 +218,22 @@ details p:last-of-type {
 /* Meme container styling for both light and dark themes */
 .meme-container {
   margin: 2em 0;
+  padding: 2em 0;
+  position: relative;
+  width: 100%;
   display: flex;
   justify-content: center;
+  border-radius: 8px;
 }
 
 .meme-wrapper {
   padding: 15px;
   border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  max-width: 800px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  max-width: 550px; /* Increased width for larger meme */
   text-align: center;
+  position: relative;
+  z-index: 2; /* Place above the gradient background */
 }
 
 .meme-wrapper img {
