@@ -39,6 +39,7 @@ This section contains advice for those seeking jobs in the software engineering 
 
 Here are job titles that are either synonymous with or similar to "Software Engineer" and should be considered when job hunting. Different companies often use different titles for the same role. Additionally, some of these positions, while distinct from a Software Engineer, still require a similar core skill set (coding and technical proficiency). So, I've included them in the list.
 
+{: .job-titles-grid}
 * Software Engineer
 * Software Developer
 * Software Development Engineer
@@ -140,6 +141,7 @@ I believe that someone interested in Product Management would be fit for any of 
 
 To that end, I know many people in tech with job titles that make no sense to me, yet they're smart, don't primarily code, and possess the same or similar skill set you'd expect in a Product Manager. Tech companies hire for all the various roles listed below. If you see a posting with one of these job titles and are like "I'm not sure if this is right for me" just stop thinking and apply. Don't let the job description intimidate you, it was probably written by ChatGPT. In my experience, even people in these roles often struggle to clearly explain exactly what it is they do. Just apply, and see what happens.
 
+{: .job-titles-grid}
 * Product Manager
 * Program Manager
 * Project Manager
