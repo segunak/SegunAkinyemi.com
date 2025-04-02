@@ -54,15 +54,19 @@ Thomas Dohmke, the CEO of [GitHub](https://en.wikipedia.org/wiki/GitHub), recent
 
 After reading through it, my initial reaction—out of deep philosophical concern for the future of software development—was…
 
-<p align="center">
-    <img class="gifformat" alt="Oscar The Office Concerned Hand on Mouth Look" src="/assets/images/concern-oscar-office.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/concern-oscar-office.gif" />
+  </div>
+</div>
 
 Which, with time and reflection, transitioned into feelings more aptly conveyed by…
 
-<p align="center">
-    <img class="gifformat" alt="Alonzo Mourning Head Nod After Disapproval Look" src="/assets/images/alonzo-mourning.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/alonzo-mourning.gif" />
+  </div>
+</div>
 
 In short, I'm concerned—but also optimistic. And at the very least, I'm here to help others understand what's happening in the industry responsible for every app, website, game, operating system, chatbot, and computer-based tool you've ever used.
 
@@ -112,9 +116,11 @@ And GitHub's ambitions go even further. Instead of just typing instructions, the
 
 If your reaction to all this as a developer is...
 
-<p align="center">
-    <img class="gifformat" alt="I'm In Danger Simpsons" src="/assets/images/im-in-danger.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/im-in-danger.gif" />
+  </div>
+</div>
 
 I feel you. The idea of an AI suggesting terminal commands—commands that could theoretically delete files, modify system configurations, or otherwise wreck your day—is enough to make even the most seasoned dev hesitate. The margin for error here isn't just "Oops, the code doesn't compile". It's "Oops, I just [rm -rf'd](https://askubuntu.com/questions/670648/what-does-rm-rf-do) my project into the shadow realm". And now, with voice mode, you don't even have to type out your own destruction—you can just say it. On one hand, hands-free coding is the stuff of sci-fi dreams. On the other, it's one bad transcription away from "I said _deploy_, not _destroy_!".
 
@@ -146,9 +152,11 @@ So, like…this thing is just straight-up a developer on your team now? You assi
 
 If you're a software developer, or in a related code-heavy position, a reaction like so to GitHub Copilot _Agent Mode_ would be understandable.
 
-<p align="center">
-    <img class="gifformat" alt="We Are Screwed Michael Scott" src="/assets/images/screwed-the-office.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/screwed-the-office.gif" />
+  </div>
+</div>
 
 Now, instead of panicking, let's evaluate an analogy inspired by the name Copilot. Think about the history of flying. Pilots used to do a lot manually. Then computers came along, and things got easier. We've now reached a point where modern pilots spend most of a flight on autopilot, with the computer doing the bulk of the flying. The human pilots are largely relegated to oversight, takeoff, landing, and stepping in when things go wrong. But here's the key: pilots still have to be experts. They know their aircraft inside and out—every instrument, every reading, every turbulence pattern, and exactly how to react in an emergency. The computer handles the grunt work—the routine, predictable stuff—but when creativity born of expertise is needed, we still trust human pilots to take the controls. Like Denzel Washington in [_Flight_](https://en.wikipedia.org/wiki/Flight_(2012_film)) (great film, by the way).
 

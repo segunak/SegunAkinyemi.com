@@ -48,9 +48,11 @@ tags:
 
 There's no denying the enduring legacy of [Dragon Ball Z](https://en.wikipedia.org/wiki/Dragon_Ball_Z). Its influence persists throughout music, sports, television, film, social media, and popular culture, cementing its lasting relevance. Whether you've seen an episode or not, chances are you've encountered references to the show, perhaps unknowingly! We have it to thank for one of the [greatest memes of all time](https://knowyourmeme.com/memes/its-over-9000), namely [Vegeta's](https://dragonball.fandom.com/wiki/Vegeta) dumbfounded "It's over 9000!" remark after assessing [Goku's](https://dragonball.fandom.com/wiki/Goku) power level with a [scouter](https://dragonball.fandom.com/wiki/Scouter) device.
 
-<p align="center">
-  <img class="gifformat" src="/assets/images/itsover9000gif.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img alt="It's Over 9000" src="/assets/images/itsover9000gif.gif"/>
+  </div>
+</div>
 
 Vegeta, the proud prince of Sayians, came to Earth with aspirations of conquest. Armed with a device capable of gauging an individual's [power level](https://dragonball.fandom.com/wiki/Power_Level) (combat ability), he viewed Earth as a feeble, primitive world, devoid of anyone who could challenge his invasion. To Vegeta, strength was everything. He believed a person was only as valuable as their power level. He'd only met a few select individuals in the galaxy with a power level greater than his own, one of whom destroyed his home planet (the scheming cosmic despot [Frieza](https://dragonball.fandom.com/wiki/Frieza)). Consequently, there was a range of power levels that he (and the scouter) considered normal. Sentient creatures fell within this established range, of which he was on the higher end. To possess a power level beyond what the scouter could measure was unconscionable. That was until Goku — a displaced Sayian, raised on Earth and thus unaware of his heritage ([like Superman](https://en.wikipedia.org/wiki/Superman)) — was scanned, revealing a power level beyond what the scouter could measure. And so, the iconic "It's over 9000!" meme was born, marked by Vegeta's furious destruction of the now-useless device.
 
@@ -82,8 +84,10 @@ And so, when my colleague shared that he was limiting his search based on level,
 
 While I understand the merits of corporate leveling systems, I can't help but feel that we the worker bees, the commoners, the cogs in the machine, are doing ourselves a disservice by viewing our careers through them. What if we broke the scouter? What if we became more like Goku, always striving to be better, fearlessly pursuing our goals, and not letting a leveling system dictate our worth? That's the advice I had for my colleague. Toss the scouter. Apply to any position that interests you, regardless of your current level. Don't let the job description intimidate you. The bullet points were probably written by an [SEO-obsessed](https://en.wikipedia.org/wiki/Search_engine_optimization) recruiter shoving in keywords in hopes of finding the perfect candidate. But we don't live in a perfect world. If you're passionate about the role, you're already halfway there. Sometimes you grow into a position. You can't always wait until a leveling system tells you you're ready before you [take the plunge](https://dictionary.cambridge.org/us/dictionary/english/take-the-plunge).
 
-<p align="center">
-  <img class="gifformat" src="/assets/images/super-saiyan-transformation.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img alt="Super Saiyan Transformation" src="/assets/images/super-saiyan-transformation.gif"/>
+  </div>
+</div>
 
 Now, of course, be reasonable. Don’t apply for a job as a brain surgeon if you've no background, experience, or training in the field. That’s a waste of your time, and that of the hiring team, who like you are deserving of respect. However, if there's a job you're interested in, and maybe you don't meet all the requirements, or it's a step or two above your current level, don't be discouraged. Apply. Don’t wait around for your company to finally put you on the "right" level. Don't limit your potential or aspirations based on the company's current estimation of your abilities. If you apply to a position and don’t get it, that’s alright. Imagine if Goku had only fought people he knew he could beat. He'd have never surpassed his limits to become a [Super Saiyan](https://dragonball.fandom.com/wiki/Super_Saiyan). Don't be defeated before you've even tried. Put yourself out there and see what happens. [Shooters shoot](https://www.urbandictionary.com/define.php?term=shooters%20shoot), take your shot.

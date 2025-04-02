@@ -47,9 +47,11 @@ tags:
 
 This past weekend, [Ridley Scott's](https://en.wikipedia.org/wiki/Ridley_Scott) long-awaited sequel to his iconic 2000 film [*Gladiator*](https://en.wikipedia.org/wiki/Gladiator_(2000_film)) opened worldwide. The original remains one of my all-time favorite movies, and I'm far from alone in that sentiment. Its quality has stood the test of time, captivating generation after generation with its unforgettable moments and iconic quotes. Chief among them are several lines from the regally named [Maximus Decimus Meridius](https://www.youtube.com/watch?v=lEM5nJ-AUiM)—played by [Russell Crowe](https://en.wikipedia.org/wiki/Russell_Crowe)—the most enduring of which is:
 
-<p align="center">
-    <img class="gifformat" alt="Are You Not Entertained Gladiator Gif" src="/assets/images/are-you-not-entertained-maximus.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/are-you-not-entertained-maximus.gif"/>
+  </div>
+</div>
 
 Well, I can confidently say I was entertained—but that's hardly a feat given how hyped I was to see the film. I gleefully attended an 8:45 AM Saturday morning showing, ensuring I'd have the theater practically to myself for maximum immersion in the aura of ancient Rome. I share this to set the stage for the critiques I'll deliver later. They are, admittedly, a bit contrived—borne from my desire to be an objective evaluator, a [*cinephile*](https://en.m.wikipedia.org/wiki/Cinephilia), rather than a fanboy.
 
@@ -65,9 +67,11 @@ He is [public](https://www.biblegateway.com/passage/?search=Matthew%205%3A16&ver
 
 Denzel has been known to mentor young actors in Hollywood, encouraging them to leave parties "[30 minutes before the devil gets there](https://www.youtube.com/watch?v=06D9TcgpMvU)". His message is simple: [have fun](https://www.biblegateway.com/passage/?search=John%202&version=NIV), but maintain your integrity and purity [above all else](https://www.biblegateway.com/passage/?search=Proverbs%204%3A23&version=NIV). He's widely regarded among his peers for [keeping things real](https://www.youtube.com/watch?v=b4aHZYKjk_8), but his quality goes beyond words—it's backed by action. An example of this is his quiet generosity in helping [Chadwick Boseman](https://en.wikipedia.org/wiki/Chadwick_Boseman) through school, a fact he never intended to make public. It wasn't until Chadwick himself, before his tragic passing, revealed the story during an [awards ceremony](https://www.youtube.com/watch?v=LUoKRScpaVs), saying, "There is no Black Panther without Denzel Washington." Denzel has spent countless hours paving the way for Black actors. His impact is woven into the opportunities and successes of those who have followed in his footsteps. Or said another way, he's been [standing on business](https://www.urbandictionary.com/define.php?term=stand+on+business) for decades. His life is a beautiful contemporary example of [being in the world, but not of it](https://www.biblegateway.com/passage/?search=John%2017%3A14-16&version=NIV).
 
-<p align="center">
-    <img class="gifformat" alt="Denzel Award Gif" src="/assets/images/denzel-award.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/denzel-award.gif"/>
+  </div>
+</div>
 
 But that's enough meandering. If you read through all that, I"ll assume you either really love Denzel, really enjoy my ramblings, or are just really bored—but either way, thank you. Let's move into breaking down what made *Gladiator II* good, but not great.
 
@@ -75,9 +79,11 @@ But that's enough meandering. If you read through all that, I"ll assume you eith
 
 To start, Denzel Washington was good, great really. When I saw this in the previews, I knew no matter what, I'd like the movie. His presence guaranteed a passing grade from me.
 
-<p align="center">
-    <img class="gifformat"  alt="Denzel Handshake Gif" src="/assets/images/denzel-g2-handshake.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/denzel-g2-handshake.gif"/>
+  </div>
+</div>
 
 Now to be honest, he played himself to a certain extent. A friend of mine (shoutout JL) noted that his performance felt like *Training Day* Denzel, just in ancient times. He was "[on one](https://www.urbandictionary.com/define.php?term=on+one)" the entire film, and I loved every minute of it. If you're a fan of Denzel, you'll love him in this movie. But if you were hoping for an ancient accent or mannerisms more appropriate to the time period, you might be let down. This isn't the first time Denzel has acted in a period piece and decided to just be himself—a choice that, in my opinion, ultimately benefits the film. You can catch a similar approach in the 1993 film adaptation of Shakespeare's [*Much Ado About Nothing*](https://en.wikipedia.org/wiki/Much_Ado_About_Nothing_(1993_film)). He was marvelous in that, though he didn't bother much with an accent or fully acquiescing to the time period.
 
@@ -129,12 +135,16 @@ Despite my criticisms, let me be abundantly clear: I enjoyed watching *Gladiator
 
 If you're looking for a sequel that truly lives up to its predecessor, look no further than [*Dune: Part Two*](https://en.wikipedia.org/wiki/Dune:_Part_Two). [Timothée Chalamet](https://en.wikipedia.org/wiki/Timoth%C3%A9e_Chalamet) delivers a performance so commanding, particularly in the second half, that I left the theater in genuine awe. I went in doubting his ability to transition from a "coming-of-age" actor to a bona fide warrior and leader of men—much like Russell Crowe in the original *Gladiator*—and left fully convinced. [Timmy Tim](https://www.youtube.com/watch?v=1Ck8fv6iW3E) was on some Denzel *Training Day* type 💩. Had me like this the whole time:
 
-<p align="center">
-    <img class="gifformat" alt="Antonio Banderas Yes Meme" src="/assets/images/banderas.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/banderas.gif"/>
+  </div>
+</div>
 
 *Dune: Part Two* is already available on streaming platforms (and, for the daring, on the [high seas](https://en.wikipedia.org/wiki/The_Pirate_Bay)), so you don't even need a movie ticket. And honestly, the fact that I'm wrapping up a *Gladiator II* review by telling people to go watch *Dune: Part Two* probably says everything you need to know. So, thanks for reading, I'm out.
 
-<p align="center">
-    <img class="gifformat" alt="Denzel Door Slam" src="/assets/images/denzel-door-slam.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/denzel-door-slam.gif"/>
+  </div>
+</div>

@@ -35,9 +35,11 @@ tags:
 
 Here we are again with another installment in my [Dough Diaries](https://segunakinyemi.com/tags/#dough-diaries) series, where I discuss my passion for cinnamon rolls in ways bordering on obsessive. If you've seen my [Jefferson City, Missouri](https://segunakinyemi.com/blog/dough-diaries-jefferson-city/) edition, you know the drill: I love cinnamon rolls and consider them to be **the** apex pastry. That is not an overstatement. I speak without hyperbole. I [stand on business](https://www.urbandictionary.com/define.php?term=stand+on+business). If you disagree...
 
-<p align="center">
-  <img alt="Sydney The Bear WTF Look" src="/assets/images/sydney-the-bear-wtf-look.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/sydney-the-bear-wtf-look.gif" />
+  </div>
+</div>
 
 Nah, just joking, it's okay. I respect your right to be wrong. That's the foundation of an intellectually honest society—one where we gather, exchange ideas, debate opinions, and engage with even the most catastrophically misguided perspectives, all while hoping reason prevails and the wayward eventually find their way to the truth. So, it's fine if you disagree with my _unyieldingly dogmatic_ stance on cinnamon rolls. It is, after all, [the mark of an educated mind to be able to entertain a thought without accepting it](https://www.google.com/search?q=the+mark+of+an+educated+mind+to+be+able+to+entertain+a+thought+without+accepting+it). I do hope though that you'll one day see the light. Probably after a bite of the perfect cinnamon roll, which might just be found in Raleigh, North Carolina.
 
@@ -79,9 +81,11 @@ This place was highly recommended by locals and denizens of [r/raleigh](https://
 
 It's good, but it leans dry. The icing doesn't quite melt into the roll; it stays caked on top. The flavor is strong, and I respect their craft, but I prefer a bit more gooey texture in a warmed roll. Objectively, it's high quality. Subjectively, yeah...
 
-<p align="center">
-  <img alt="no from me" src="/assets/images/NoFromMeDawg.jpg"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/NoFromMeDawg.jpg" />
+  </div>
+</div>
 
 **Side Note:** If you didn't get that reference, I'm sorry to say you missed a great era of television, but [here you go](https://www.google.com/search?q=Randy+Jackson+American+Idol+It%27s+a+No+From+Me+Dawg+Origin).
 {: .notice--info}
@@ -117,17 +121,21 @@ Truly heavenly. The roll is large, the icing is abundant, and the texture is phe
 
 I fear my vocabulary is not sufficiently expressive—too meager a vessel, too feeble a vehicle—to convey the magnitude of what I must say next. Honor demands it. The laws of both man and God cry out for it. That a man speak truth, setting aside personal feelings, bias, and preconceived notions in service of what he has experienced plain as day—what is so clear it cannot, by any matter of reason, be denied. That is to say: **_The Market Bakery_ in Raleigh, North Carolina, has done it. They have perfected the cinnamon roll.** They have given me the single greatest cinnamon roll experience I've ever had in all my God-fearing years.
 
-<p align="center">
-  <img alt="Fassbender Perfection" src="/assets/images/perfection-perfect.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/perfection-perfect.gif" />
+  </div>
+</div>
 
 I'm nearly brought to tears writing this. The memory alone of their cinnamon roll is enough to stir something deep in my soul. _The Market Bakery_ sits within a humble farmer's market, just a stone's throw from NC State's Centennial Campus. A modest space, shared among many businesses, yet within it lies a treasure, a gift to Raleigh, a gift to pastry lovers the world round, a gift to mankind.  
 
 The cinnamon roll itself is masterfully crafted—soft yet structured, delicate but not flaky like the many croissant-inspired imposters I encountered elsewhere in Raleigh. It holds its form, ensuring the icing seeps into every fold rather than sitting stiffly on top. Or, put another way, it is... 
 
-<p align="center">
-  <img alt="Thanos Perfectly Balanced" src="/assets/images/perfectly-balanced-meme.jpg"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/perfectly-balanced-meme.jpg" />
+  </div>
+</div>
 
 The icing is applied with a true artisan's precision—generous but never excessive, sweet but never cloying. Many bakeries make the mistake of drowning their cinnamon rolls in icing (_looking at you, Cinnabon_), but _The Market Bakery_ achieves an equilibrium few have even dared to dream of. Warm or cold, it is transcendent. No exaggeration: it's the greatest cinnamon roll I've ever had. It's so divinely made that I found myself thanking <a href="/assets/images/JesusIsGod.png" target="_blank">God</a> for allowing humanity to experience such baked perfection.
 
@@ -233,6 +241,8 @@ Raleigh has a serious cinnamon roll scene. Some places missed the mark, but [_Th
 
 That said, this was a lot of writing, and I'm tired. If you actually read this entire article, please [contact me](/contact) because I want to be your friend. Anyways, Godspeed.
 
-<p align="center">
-  <img alt="Laptop Closing" src="/assets/images/sydney-the-bear-laptop-close.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/sydney-the-bear-laptop-close.gif" />
+  </div>
+</div>

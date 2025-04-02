@@ -98,7 +98,11 @@ If you had two or more pipelines needing these values, you could make a paramete
 **Option 3:** You store reusable expression code in a text file maintained in your Azure Storage Account. Every time you need an oft-used piece of logic, you read it from the file using a Lookup activity. You then get the output of the Lookup and pass it in as the dynamic content for the activity that needs the logic. By doing so, you only have to write the expression code once for all places that need it.
 {: .notice--danger}
 
-![JonahHillNope](/assets/images/jonahhill-nope.gif)
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img alt="JonahHillNope" src="/assets/images/jonahhill-nope.gif"/>
+  </div>
+</div>
 
 I call this one bastardized reusability. I think it's a bad idea. I feel wrong for having typed it. I'm sorry Microsoft, but you should just give us global parameters in Synapse and the ability to return values from pipelines so we can stop coming up with creative, although sometimes inefficient, workarounds.
 

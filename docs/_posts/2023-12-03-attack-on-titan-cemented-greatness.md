@@ -107,6 +107,8 @@ There was another show, Game of Thrones, that rivaled Attack on Titan in popular
 
 I feel no such pain discussing Attack on Titan. While its ending wasn't perfect, they certainly [stuck the landing](https://www.google.com/search?q=stick+the+landing+meaning) with the final season. And so, I say goodbye to what is **unquestionably** one of the greatest anime of all time. It transcended the medium and did wonders for crushing the narrative that animated shows are just "childish cartoons". I'm honored to have been able to watch it air over the years. Farewell, Attack on Titan, and rest well, for your place among the anime greats is undeniable.
 
-<p align="center">
-  <img src="/assets/images/leviaot.gif">
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/leviaot.gif" />
+  </div>
+</div>

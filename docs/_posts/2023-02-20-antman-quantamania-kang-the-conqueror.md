@@ -110,9 +110,11 @@ Kang's lowlights during the film's final battle include:
 
 If Ant-Man and some friends gave Kang problems, can you imagine what the full Avengers roster would do? They'd have him looking like [Mojo Jojo](https://www.google.com/search?q=Mojo+Jojo), getting packed up with all manner of immediate speed.
 
-<p align="center">
-  <img class="gifformat" src="/assets/images/mojojojo.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img alt="Mojo Jojo" src="/assets/images/mojojojo.gif"/>
+  </div>
+</div>
 
 [The Powerpuff Girls](https://en.wikipedia.org/wiki/The_Powerpuff_Girls) used to *break into prison* just to beat up Mojo Jojo. They didn't even need a reason. [Buttercup](https://powerpuffgirls.fandom.com/wiki/Buttercup_(1998_TV_series)) would get bored and think "where's he at", not to stop a crime, but to beat on him as a way to pass time. It got to the point where the audience started sympathizing with him, culminating in an [episode](https://powerpuffgirls.fandom.com/wiki/Save_Mojo) where he's defended from perceived animal abuse.
 
@@ -124,9 +126,11 @@ Yeah yeah I know, it was Ant-Man, the Wasp, Cassie Lang, Hank Pym, Janet van Dyn
 
 Going forward, I'm going to remember Kang as the guy who couldn't fight his way out of an Ant-Man movie. Marvel can produce as many variants of him as they like, it won't matter. He can don a thousand new suits, it won't matter. He can power up, as I'm sure he will for future Avengers films, and it won't matter. He got bodied by Ant-Man and his motley crew of equal or lesser-powered heroes, plus some ants. For that, to me, he'll always be...
 
-<p align="center">
-  <img class="gifformat" src="/assets/images/kobe-soft.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img alt="Kobe Soft" src="/assets/images/kobe-soft.gif"/>
+  </div>
+</div>
 
 Thanos would never! At least when we saw him take losses, it was in battles featuring heavy hitters like [Scarlet Witch](https://marvelcinematicuniverse.fandom.com/wiki/Scarlet_Witch), [Captain Marvel](https://marvelcinematicuniverse.fandom.com/wiki/Captain_Marvel), and [Thor](https://marvelcinematicuniverse.fandom.com/wiki/Thor), some of the strongest MCU heroes to date. I'm not alone in my disappointment over Kang's demise in *Quantumania*, as there are plenty of articles online saying the same thing. There's also social media where many fans have expressed mirroring sentiments. Here are a few highlights from Reddit.
 

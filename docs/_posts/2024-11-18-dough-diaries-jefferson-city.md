@@ -34,9 +34,11 @@ Of all the pastries ever invented, from the genesis of mankind to this day, and 
 
 Now, I know there are those who might disagree—perhaps the croissant connoisseurs or the danish devotees. To anyone entertaining such heretical thoughts, I have but one response:
 
-<p align="center">
-  <img alt="Naruto Meme" src="/assets/images/naruto-lightning-village-no.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/naruto-lightning-village-no.gif" />
+  </div>
+</div>
 
 For those who know me personally, my cinnamon roll elitism comes as no surprise. I am not shy about my passion for cinnamon rolls. I enjoy sharing them with others, and sparingly, enjoying them myself. You see, familiarity breeds contempt, and I believe that consuming something too often renders it commonplace. I reserve my cinnamon roll indulgence for special occasions, celebrations, and instances where emotional reprieve is duly needed. This ensures that when I do partake, it truly means something to me. It's not an everyday affair; it's a treat. And a treat ceases to be such when it's had too often.
 

@@ -48,9 +48,11 @@ Check out my collection of AI-related articles [here](https://segunakinyemi.com/
 
 In case you haven't heard, I'll start by sharing that Artificial Intelligence (AI) is a big deal right now. There are those who think it nothing more than a fad—the fleeting hype of tech bros, the hollow noise of marketing gurus, the empty promises of corporate shills. To them I say, take a look at this graphic, courtesy of [J.P. Morgan Chase](https://www.chase.com/personal/investments/learning-and-insights/article/tmt-may-eight-twenty-four-daily).
 
-<p align="center">
-    <img id="spending-image" style="border: 1px solid gray" alt="AI Spending" src="/assets/images/ai-spending-cropped.jpg"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/ai-spending-cropped.jpg" />
+  </div>
+</div>
 
 See that y-axis? **Those numbers are in billions.** Regardless of your opinions on AI, money talks—and corporations, especially the tech giants, are fluent in its prose. Big tech has mastered the art of spending money where it matters, which is why they've become the most successful corporations in history. They are the apex of Adam Smith's *unbearably dry* capitalist philosophy from [*The Wealth of Nations*](https://simple.wikipedia.org/wiki/The_Wealth_of_Nations). Instead of speculating about whether AI is "a real thing", just follow the money. It paints a clear picture, for better or worse, AI—specifically [Generative AI](https://www.google.com/search?q=What+is+Generative+AI)—is here to stay.
 
@@ -68,9 +70,11 @@ When it comes to software development in this age of AI, we've blown past the [l
 
 Or put another way, **you too can become a *<s>hero</s>* software developer**.
 
-<p align="center">
-    <img class="gifformat" alt="All Might: You Too Can Become A Hero" src="/assets/images/all-might-you-too-hero.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/all-might-you-too-hero.gif"/>
+  </div>
+</div>
 
 **Aside:** If you got the above reference, that makes me happy—exceedingly joyful even. If you didn't, no worries, it's [anime](https://www.reddit.com/r/BokuNoHeroAcademia/comments/10ss219/the_words_that_started_it_all_you_too_can_become/). I'm of the opinion that [My Hero Academia](https://en.wikipedia.org/wiki/My_Hero_Academia) is [Naruto](https://en.wikipedia.org/wiki/Naruto) for [Gen Z](https://en.wikipedia.org/wiki/Generation_Z) (which I recently learned I'm a part of, just barely). [Deku](https://en.wikipedia.org/wiki/Izuku_Midoriya) is [Naruto](https://en.wikipedia.org/wiki/Naruto_Uzumaki), [Bakugo](https://en.wikipedia.org/wiki/Katsuki_Bakugo) (or maybe [Todoroki](https://en.wikipedia.org/wiki/Shoto_Todoroki)) is [Sasuke](https://en.wikipedia.org/wiki/Sasuke_Uchiha), [Ochaco](https://myheroacademia.fandom.com/wiki/Ochaco_Uraraka) is (a much more useful) [Sakura](https://en.wikipedia.org/wiki/Sakura_Haruno). Yet, it does enough to distinguish itself from Naruto, having it's own take on the [Shōnen](https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga) genre that I've come to love and respect. If you're looking for your first anime, or already like anime and haven't seen it, it's worth picking up. There's some slow arcs, but when they turn things up, they do so to the max.
 {: .notice--info}
@@ -100,9 +104,11 @@ To further drive this home, here's a list of leading tools in the "make coding e
 
 In that list, consider that Microsoft [owns GitHub](https://www.google.com/search?q=Who+owns+GitHub), [a portion of OpenAI](https://fortune.com/2024/10/18/microsoft-openai-equity-stake-nonprofit-for-profit-reorganization-sam-altman/), and now [partners with Cognition on Devin AI](https://www.maginative.com/article/microsoft-partners-with-cognition-labs-to-bring-devin-to-developers/). So it's like...wow. Some ambitious U.S. senator might want to look into that. Becoming Congress's AI regulation hawk would be a savvy career move. Or even just political science majors out there, get yourself a piece of the AI pie. Start posting about the behind-the-scenes dynamics between the leading AI companies: Microsoft backing [OpenAI](https://en.wikipedia.org/wiki/OpenAI) and [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI); Amazon backing [Anthropic](https://en.wikipedia.org/wiki/Anthropic), founded by former OpenAI employees; Google with [Gemini](https://en.wikipedia.org/wiki/Gemini_(chatbot)); Meta with [Llama](https://en.wikipedia.org/wiki/Llama_(language_model)); and [Apple Intelligence](https://help.openai.com/en/articles/10263313-what-is-apple-intelligence)—which is powered by OpenAI, a company partially owned by Microsoft that runs on [Azure](https://en.wikipedia.org/wiki/Microsoft_Azure)—tying it to Microsoft in a roundabout way.
 
-<p align="center">
-    <img id="sus-dog" class="gifformat" alt="Suspicious Dog" src="/assets/images/sus-dog.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/sus-dog.gif"/>
+  </div>
+</div>
 
 Now, to be fair to Microsoft, they're rather transparent (as far as corporations go) about their approach to using AI responsibly. They've dedicated a [section of their website](https://www.microsoft.com/en-us/ai/principles-and-approach) to the topic, including a collection of [transparency documents](https://www.microsoft.com/en-us/ai/principles-and-approach#transparency-documents) that detail how their systems are trained, the biases they've identified and are working to address, how user data is utilized, and the specifics of data sharing between GitHub, LinkedIn, OpenAI, Mistral and Microsoft corporate—entities either owned by or closely partnered with the company. That's not to say it isn't a sticky issue regulation wise, but they're not [ducking smoke](https://www.urbandictionary.com/define.php?term=Ducking+smoke).
 
@@ -118,9 +124,11 @@ The key feature is an AI agent that's *contextualized to your codebase*—integr
 
 That bit about *deliver, not replace* developer creativity? That's where many in the software development community start feeling like:
 
-<p align="center">
-    <img class="gifformat" alt="I'm In Danger Simpsons" src="/assets/images/im-in-danger.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/im-in-danger.gif" />
+  </div>
+</div>
 
 The fact that GitHub's CEO felt the need to explicitly address this concern makes the worries from the tech community understandable and, in many ways, justified. That said, in my opinion, AI-assisted programming isn't reducing the need for humans to build software. For that to happen, we'd need [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence), which we don't have...yet.
 
@@ -213,9 +221,11 @@ If you're a student worried that your computer science degree might not be worth
 
 Let me end with some lighthearted memeing about Microsoft's naming conventions. If you can make sense of half the jargon in the image below from [this blog post](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/multimodal-parsing-for-rag-azure-openai-gpt-4o-llamaparse-and-azure-ai-search/4330399), congrats—you're ahead of the curve in the fast-moving world of AI. If not, that's okay, you're a normal person trying to keep up with the relentless speed at which new terms and tools emerge.
 
-<p align="center">
-    <img id="azure-image" alt="Azure Confusing Post" style="border: 1px solid gray" src="/assets/images/wtf-azure-post.png"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/wtf-azure-post.png" />
+  </div>
+</div>
 
 My point is Microsoft's naming skills are [mid](https://www.urbandictionary.com/define.php?term=mid) at best. Consider their gaming console progressions over the years.
 
@@ -238,6 +248,8 @@ Of course, Microsoft is [comically larger than Sony](https://www.google.com/sear
 
 Anyways, that's all. Godspeed.
 
-<p align="center">
-    <img class="gifformat" alt="Peace Out Bye" src="/assets/images/peace-out-bye.gif"/>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img src="/assets/images/peace-out-bye.gif" />
+  </div>
+</div>

@@ -98,11 +98,13 @@ While smart cities have been the subject of much research, the potential role of
 
 Ultimately, sustainability, especially in urban settings, is a priority for innovative problem solvers worldwide. While my current role as a software engineer doesn't revolve around climate change, I love this planet and want to see it healthy and prosperous. To that end, I'm excited about the growing field of *Sustainable Software Engineering*, which emphasizes energy-efficient and environmentally friendly software design, implementation, and deployment strategies. There's a [great course](https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/){:target="_blank"} from Microsoft on the topic that I completed and really enjoyed. It puts into perspective the critical role software engineers have in building a sustainable future. But regardless of how you might spend your days, there's [plenty you can do](https://www.imperial.ac.uk/stories/climate-action/){:target="_blank"} to help the cause. Raising awareness is great, but don't just [talk about it, be about it](https://www.merriam-webster.com/dictionary/facta%2C%20non%20verba){:target="_blank"}.
 
-<p align="center">
-  <a href="https://knowyourmeme.com/memes/im-doing-my-part" target="_blank">
-    <img class="gifformat" src="/assets/images/im-doing-my-part-serious.gif"/>
-  </a>
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <a href="https://knowyourmeme.com/memes/im-doing-my-part" target="_blank">
+      <img src="/assets/images/im-doing-my-part-serious.gif"/>
+    </a>
+  </div>
+</div>
 
 ## References
 

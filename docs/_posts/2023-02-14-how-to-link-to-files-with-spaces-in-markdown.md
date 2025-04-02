@@ -39,6 +39,8 @@ Now that you know how to link to items with spaces in Markdown, try to avoid doi
 
 But sometimes, it's out of your control. In that case, do what you got to do, much like a wise man once did [_a long time ago in a galaxy far far away_](https://starwars.fandom.com/wiki/Duel_on_Mustafar).
 
-<p align="center">
-  <img src="/assets/images/obi-wan-must.gif" />
-</p>
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img alt="Obi Wan Do What I Must" src="/assets/images/obi-wan-must.gif"/>
+  </div>
+</div>
