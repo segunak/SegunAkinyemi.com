@@ -26,20 +26,20 @@ put it in _styleoverrides.scss*/
 /* Light theme specific styles for collapsible sections */
 details {
     background-color: #f8f9fa;
-    border: 1px solid #e9ecef;
+    border: 1px solid #cce9f4;
 }
 
 details summary {
-    background-color: #f0f2f5;
+    background-color: #cce9f4;
 }
 
 details summary:hover {
-    background-color: #e9ecef;
+    background-color: #cce9f4;
 }
 
 details[open] summary {
-    background-color: #e9ecef;
-    border-bottom: 1px solid #dee2e6;
+    background-color: #cce9f4;
+    border-bottom: .5px solid #cce9f4;
 }
 
 /* Light theme specific styles for meme container */

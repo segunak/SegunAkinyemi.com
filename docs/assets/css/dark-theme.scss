@@ -86,20 +86,20 @@ Anything you place after this point will therefore "cascade and override" the pr
 /* Dark theme specific styles for collapsible sections */
 details {
   background-color: #2a2d30;
-  border: 1px solid #3d4246;
+  border: .5px solid #3d4246;
 }
 
 details summary {
-  background-color: #252729;
+  background-color: #f21368;
 }
 
 details summary:hover {
-  background-color: #1e2022;
+  background-color: #f21368;
 }
 
 details[open] summary {
-  background-color: #1a1c1e;
-  border-bottom: 1px solid #3d4246;
+  background-color: #f21368;
+  border-bottom: .5px solid #f21368;
 }
 
 /* Dark theme specific styles for meme container */
