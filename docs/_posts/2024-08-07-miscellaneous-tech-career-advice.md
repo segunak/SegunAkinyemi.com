@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous Advice For People Interested In Tech Careers"
 excerpt: "An assorted collection of one man's advice related to careers in technology."
-last_modified_at: 2024-11-17T21:20:15
+last_modified_at: 2025-04-05T23:58:26
 toc: true
 toc_sticky: true
 read_time: false
@@ -40,6 +40,7 @@ This section covers advice for those pursuing software engineering careers—any
 Here are job titles that are either synonymous with or similar to "Software Engineer" and should be considered when job hunting. Different companies often use different titles for the same role. Additionally, some of these positions, while distinct from a Software Engineer, still require a similar core skill set (coding and technical proficiency). So, I've included them in the list.
 
 {: .job-titles-grid}
+
 * Software Engineer
 * Software Developer
 * Software Development Engineer
@@ -142,6 +143,7 @@ I believe that someone interested in Product Management would be fit for any of 
 To that end, I know many people in tech with job titles that make no sense to me, yet they're smart, don't primarily code, and possess the same or similar skill set you'd expect in a Product Manager. Tech companies hire for all the various roles listed below. If you see a posting with one of these job titles and are like "I'm not sure if this is right for me" just stop thinking and apply. Don't let the job description intimidate you, it was probably written by ChatGPT. In my experience, even people in these roles often struggle to clearly explain exactly what it is they do. Just apply, and see what happens.
 
 {: .job-titles-grid}
+
 * Product Manager
 * Program Manager
 * Project Manager
@@ -527,7 +529,7 @@ That's like wanting to go to college and only applying to [Ivy League](https://e
 {: .notice--info}
 
 <details markdown="1">
-<summary>Do I need a degree to break into tech?</summary>
+<summary>Do I Need A Degree To Break Into Tech?</summary>
 
 No, but you do need some sort of training that you can showcase. This could be certificate programs, coding boot camps, skilling programs offered by companies or governments, or anything along those lines. It doesn't have to be a college degree; it just needs to be evidence that you've invested time in learning the skills of the trade. For example, it could be a major project you worked on that turned into an app or website with your name on it. In tech, people just wantto see proof that you know what you're doing. The most traditional evidence of this is a college degree, but there are other options.
 
@@ -550,7 +552,7 @@ All that being said, if you can go to college **without putting yourself in mass
 </details>
 
 <details markdown="1">
-<summary>Do I need a computer science degree to break into tech?</summary>
+<summary>Do I Need A Computer Science Degree To Break Into Tech?</summary>
 
 No, you don't, but if you can pursue one, or any degree really, **without putting yourself in massive debt**, then you should. Let's use a sports analogy. Consider someone who out of college gets a full-ride scholarship to play basketball at Duke University under legendary coach [Mike Krzyzewski (Coach K)](https://en.wikipedia.org/wiki/Mike_Krzyzewski). They have talent but need to refine it to reach their true potential. At Duke, their going to have access to world-class facilities, healthy food, academic tutors, talented teammates, and athletic trainers providing a structured environment that develops them. Furthermore, they'll have access to the wisdom and mentoring of Coach K—who has coached some of the best basketball players in human history including LeBron James, Kobe Bryant, and Kevin Durant (Team USA). They get all this free of charge since they're on scholarship. While they could grow as a basketball player by training themselves—looking up drills and techniques online—they're going to have a much easier time growing in the regimented environment that Duke provides.
 
@@ -559,7 +561,7 @@ If you go to college on a scholarship, that's what you're getting. A structured 
 </details>
 
 <details markdown="1">
-<summary>Does a computer science degree prepare me for a job in tech?</summary>
+<summary>Does A Computer Science Degree Prepare Me For A Job In Tech?</summary>
 
 The short answer is yes, but not in the way you might think. Getting your degree is like working with an athletic trainer who helps you grow into a strong, fast, and agile athlete. That's great. Now let's throw you on the basketball court and see how you do. Oh wait, they never taught you how to play basketball, so you suck! However, since you're a good athlete—possessing the key skills of strength, speed, and agility—you've got the foundation of what could evolve into a good basketball player. You now need to focus specifically on basketball, rather than the general skills of an athlete.
 
@@ -576,7 +578,7 @@ Also, read this article.
 </details>
 
 <details markdown="1">
-<summary>I have a degree, but it's not in computer science. Can I break into tech?</summary>
+<summary>I Have A Degree, But It's Not In Computer Science. Can I Break Into Tech?</summary>
 
 Yes. Reference the question above about how a computer science degree doesn't really even fully prepare students to work as software developers. It equips them with a solid skill set but not necessarily the specific know-how for the job. So, if your degree is in another field, you can still find your way into tech.
 
@@ -609,7 +611,7 @@ Plenty of people have successfully transitioned into tech from various backgroun
 </details>
 
 <details markdown="1">
-<summary>It seems like there are a lot of people interested in tech, to the point of over-saturation. Is it too late?</summary>
+<summary>It Seems Like There Are A Lot Of People Interested In Tech, To The Point Of Over-saturation. Is It Too Late?</summary>
 
 To start, only God knows the future, so take everything I say here with a grain of salt. That said, I think a brief history of tech might help in understanding where we are today.
 
@@ -632,14 +634,14 @@ Stop fixating on the NBA and concluding it's impossible to have a basketball car
 </details>
 
 <details markdown="1">
-<summary>What about layoffs?</summary>
+<summary>What About Layoffs?</summary>
 
 Watch [this video](https://www.youtube.com/watch?v=SkAc2P_audc) (and read the comment section) to understand why so many tech companies had layoffs post-COVID. The short answer is, if you work at a corporation, there's no such thing as complete job security. However, that doesn't mean you should sit down, give up, and lose heart. The layoffs post-COVID were unique, and the first of their kind (at such a large scale) in the tech world. Understanding why they happened can help you better understand how to navigate your career going forward.
 
 </details>
 
 <details markdown="1">
-<summary>Is working at a big tech company still a dream job?</summary>
+<summary>Is Working At A Big Tech Company Still A Dream Job?</summary>
 
 Watch [this video](https://youtu.be/ijkTBtBWJWs?si=MzhTyVi-1GB3dHg_) (and read the comment section) to gain some knowledge that might help you answer this question **for yourself**. Nobody can answer this for you. My personal opinion is that if you go into things with your eyes wide and head on straight, you can build generational wealth for your family at the various big tech companies. If you go into things naively ([simping](https://www.urbandictionary.com/define.php?term=Simp) for a corporation), well then, you're setting yourself up for heartbreak. It should be a mutually beneficial, but ultimately transactional, relationship with **strictly defined boundaries**. Consider corporations like sports leagues, once you get into the NBA, you have massive opportunity before you, but you have to be savvy to make use of it. Some athletes go broke after they retire, and others, like Shaq, [build empires](https://en.wikipedia.org/wiki/Shaquille_O%27Neal#Business_ventures) that set their families up for generations. Don't play the fool, [be wise as serpents, and harmless as doves](https://www.biblegateway.com/passage/?search=Matthew+10%3A16&version=NKJV).
 

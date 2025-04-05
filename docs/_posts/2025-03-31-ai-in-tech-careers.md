@@ -1,7 +1,7 @@
 ---
 title: "On the Nature of Artificial Intelligence in Tech Careers"
 excerpt: "Thoughts from a software engineer on navigating AI's impact and maintaining relevance amidst rapid technological change."
-last_modified_at: 2025-04-05T21:38:18
+last_modified_at: 2025-04-05T23:58:26
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -86,19 +86,19 @@ When I use tools like GitHub Copilot, I'm not blindly accepting output (although
 Learning programming fundamentals, [design patterns](https://refactoring.guru/design-patterns), and [system architecture](https://github.com/donnemartin/system-design-primer) has helped me:
 
 <details markdown="1">
-<summary>Guide AI effectively</summary>
+<summary>Guide AI Effectively</summary>
 I can say things like "normalize this schema" or "set up CI/CD pipelines" and the AI gets to work. Knowing what you're talking about = speed and precision.
 
 </details>
 
 <details markdown="1">
-<summary>Spot bad output</summary>
+<summary>Spot Bad Output</summary>
 AI can write code that technically works but breaks everything else. I know when to say "nah" and fix it. [Vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is real, but so is real accountability.
 
 </details>
 
 <details markdown="1">
-<summary>Make architectural calls</summary>
+<summary>Make Architectural Calls</summary>
 AI shouldn't decide if you need microservices vs monolith, [GraphQL](https://graphql.org/) vs [REST](https://blog.postman.com/rest-api-examples/), or which database to use. These decisions affect users, businesses, budgets, and lives. Real examples:
 
 * SQL or NoSQL? Postgres or something else?
@@ -113,7 +113,7 @@ As IBM said back in 1979: "A computer can never be held accountable, therefore a
 If you're trying to break into tech or level up, here's some advice:
 
 <details markdown="1">
-<summary>Learn at least one programming language</summary>
+<summary>Learn At Least One Programming Language</summary>
 
 I recommend Python as it's both beginner-friendly and [powerful enough for AI development](https://www.tiobe.com/tiobe-index/). Resources I recommend:
 
@@ -123,7 +123,7 @@ I recommend Python as it's both beginner-friendly and [powerful enough for AI de
 </details>
 
 <details markdown="1">
-<summary>Learn core computer science concepts</summary>
+<summary>Learn Core Computer Science Concepts</summary>
 
 Having a basic understanding (you don't need to be a [LeetCode wizard](https://www.techinterviewhandbook.org/grind75/), the basics will do) data structures, algorithms, and system design will help you guide AI effectively:
 
@@ -134,7 +134,7 @@ Having a basic understanding (you don't need to be a [LeetCode wizard](https://w
 </details>
 
 <details markdown="1">
-<summary>Study software & cloud architecture patterns</summary>
+<summary>Study Software & Cloud Architecture Patterns</summary>
 
 These fundamentals haven't changed with AI:
 
@@ -150,35 +150,35 @@ These fundamentals haven't changed with AI:
 Assuming you've got a solid technical foundation (and no, that doesn't just mean coding—data, design, PM all count), here's how I'm navigating the AI shift in my career. Hopefully it sparks some ideas for yours too:
 
 <details markdown="1">
-<summary>Let AI handle the boring stuff</summary>
+<summary>Let AI Handle The Boring Stuff</summary>
 
 I use it for repetitive tasks so I can focus on architecture and business logic. The stronger your fundamentals, the more useful AI becomes.
 
 </details>
 
 <details markdown="1">
-<summary>Think in systems, not just syntax</summary>
+<summary>Think In Systems, Not Just Syntax</summary>
 
 AI can write code, but understanding how everything fits together in the real world still requires human expertise. The [Azure](https://learn.microsoft.com/en-us/azure/architecture/) and [AWS](https://aws.amazon.com/architecture/) Architecture Centers are great for building that skill.
 
 </details>
 
 <details markdown="1">
-<summary>Write better prompts</summary>
+<summary>Write Better Prompts</summary>
 
 Clear, specific prompts = better results. I treat prompt writing like coding. Learn from the [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) and [OpenAI's tips](https://platform.openai.com/docs/guides/prompt-engineering).
 
 </details>
 
 <details markdown="1">
-<summary>Experiment more</summary>
+<summary>Experiment More</summary>
 
 With AI doing the grunt work, I try out more frameworks and languages (example [here](https://segunakinyemi.com/blog/charlotte-third-places-tech-stack/)). I don't need to be an expert—but I do make sure I understand enough to check its work. If you're totally lost without AI, you're doing it wrong.
 
 </details>
 
 <details markdown="1">
-<summary>Level up your system design</summary>
+<summary>Level Up Your System Design</summary>
 
 AI can write code, but building reliable, scalable systems is still on us. I'm investing in [distributed systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) and [cloud design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) because that's where long-term value—and responsibility—lives. No serious company is letting AI design critical infrastructure alone. Not when a hospital's life support system goes down, a bank's transaction engine freezes, an airline's flight routing crashes, or a power grid gets misconfigured. Someone has to answer for that. And "we let the AI do everything" isn't going to cut it.
 
@@ -245,28 +245,28 @@ This is the most significant shift I've observed: AI isn't just a separate chatb
 Having spent time at career fairs and hosting student field trips at [my employer's](https://en.wikipedia.org/wiki/Microsoft) offices, I get asked these questions a lot. Here are my honest answers:
 
 <details markdown="1">
-<summary>Is AI going to replace all software developers?</summary>
+<summary>Is AI Going To Replace All Software Developers?</summary>
 
 No, but it will replace developers who refuse to adapt to using AI. Look at history: calculators didn't replace mathematicians, CAD software didn't replace architects, and Excel didn't replace accountants. These tools changed how the work is done, making professionals who embraced them more valuable. I do think we'll probably end up with less developers overall though, as it'll be easier for less people to do more because AI is doing so much of the grunt work.
 
 </details>
 
 <details markdown="1">
-<summary>Should I even bother learning to code with AI around?</summary>
+<summary>Should I Even Bother Learning To Code With AI Around?</summary>
 
 Absolutely yes. Don't just listen to me on this one though, scroll back up to [this section](#reassurance-from-ai-pioneers). People far smarter than me have spoken on this. Also, check out the article [Is Coding Education As We Know It Dead?](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/)
 
 </details>
 
 <details markdown="1">
-<summary>Is using AI tools 'cheating' or making me less skilled?</summary>
+<summary>Is Using AI Tools 'Cheating' Or Making Me Less Skilled?</summary>
 
 No more than using Stack Overflow, libraries, or frameworks is cheating. At [my employer](https://en.wikipedia.org/wiki/Microsoft), we're actively encouraged to use AI tools to be more productive. The goal is solving problems and creating value, not proving you can remember syntax.
 
 </details>
 
 <details markdown="1">
-<summary>Is a computer science degree still worth it?</summary>
+<summary>Is A Computer Science Degree Still Worth It?</summary>
 
 Yes, with a caveat: make sure your program is adapting to include AI. A good CS degree teaches fundamentals that remain valuable regardless of tools:
 
@@ -283,7 +283,7 @@ Also, consider the financial aspect. If pursuing a CS degree means accumulating 
 </details>
 
 <details markdown="1">
-<summary>How do I compete with AI in tech?</summary>
+<summary>How Do I Compete With AI In Tech?</summary>
 
 You don't compete with AI, you use it. Or "leverage it" if I wanted to sound like a business person. Focus on these skills that AI enhances rather than replaces:
 
