@@ -1,7 +1,7 @@
 ---
 title: "On the Nature of Artificial Intelligence in Tech Careers"
 excerpt: "Thoughts from a software engineer on navigating AI's impact and maintaining relevance amidst rapid technological change."
-last_modified_at:
+last_modified_at: 2025-04-05T20:18:24
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -81,7 +81,7 @@ When the very inventors and pioneers of modern AI technology are telling us that
 
 AI tools are powerful, but only if you know how to use them. Having a solid technical foundation makes you a better AI user. A better pilot, to its copilot.
 
-When I use tools like GitHub Copilot, I'm not blindly accepting output (although..[I could](https://en.wikipedia.org/wiki/Vibe_coding)). I'm steering, validating, and making decisions neither I nor my employer wants AI making alone. Architecture, trade-offs, budget constraints, ethical implications, etc. You don't need to explain everything to AI; you need to know what needs building and guide it accordingly.
+When I use tools like GitHub Copilot, I'm not blindly accepting output (although...[I could 🕺🏾](https://en.wikipedia.org/wiki/Vibe_coding)). I'm steering, validating, and making decisions neither I nor my employer wants AI making alone. Architecture, trade-offs, budget constraints, ethical implications, etc. You don't need to explain everything to AI; you need to know what needs building and guide it accordingly.
 
 Learning programming fundamentals, [design patterns](https://refactoring.guru/design-patterns), and [system architecture](https://github.com/donnemartin/system-design-primer) has helped me:
 
