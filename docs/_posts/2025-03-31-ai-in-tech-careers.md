@@ -1,7 +1,7 @@
 ---
 title: "On the Nature of Artificial Intelligence in Tech Careers"
 excerpt: "Thoughts from a software engineer on navigating AI's impact and maintaining relevance amidst rapid technological change."
-last_modified_at: 2025-04-05T20:21:28
+last_modified_at: 2025-04-05T21:38:18
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -88,23 +88,26 @@ Learning programming fundamentals, [design patterns](https://refactoring.guru/de
 <details markdown="1">
 <summary>Guide AI effectively</summary>
 I can say things like "normalize this schema" or "set up CI/CD pipelines" and the AI gets to work. Knowing what you're talking about = speed and precision.
+
 </details>
 
 <details markdown="1">
 <summary>Spot bad output</summary>
 AI can write code that technically works but breaks everything else. I know when to say "nah" and fix it. [Vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is real, but so is real accountability.
+
 </details>
 
 <details markdown="1">
 <summary>Make architectural calls</summary>
 AI shouldn't decide if you need microservices vs monolith, [GraphQL](https://graphql.org/) vs [REST](https://blog.postman.com/rest-api-examples/), or which database to use. These decisions affect users, businesses, budgets, and lives. Real examples:
 
-   - SQL or NoSQL? Postgres or something else?
-   - OAuth or session-based auth?
-   - Redis for caching? CDN? In-memory?
-   - Serverless vs containers? State management?
+* SQL or NoSQL? Postgres or something else?
+* OAuth or session-based auth?
+* Redis for caching? CDN? In-memory?
+* Serverless vs containers? State management?
   
 As IBM said back in 1979: "A computer can never be held accountable, therefore a computer must never make a management decision." Still true. AI can suggest; you decide.
+
 </details>
 
 If you're trying to break into tech or level up, here's some advice:
@@ -113,8 +116,10 @@ If you're trying to break into tech or level up, here's some advice:
 <summary>Learn at least one programming language</summary>
 
 I recommend Python as it's both beginner-friendly and [powerful enough for AI development](https://www.tiobe.com/tiobe-index/). Resources I recommend:
-   - [Harvard's CS50 Python Course](https://cs50.harvard.edu/python/)
-   - [Google's Python Class](https://developers.google.com/edu/python)
+
+* [Harvard's CS50 Python Course](https://cs50.harvard.edu/python/)
+* [Google's Python Class](https://developers.google.com/edu/python)
+
 </details>
 
 <details markdown="1">
@@ -122,9 +127,10 @@ I recommend Python as it's both beginner-friendly and [powerful enough for AI de
 
 Having a basic understanding (you don't need to be a [LeetCode wizard](https://www.techinterviewhandbook.org/grind75/), the basics will do) data structures, algorithms, and system design will help you guide AI effectively:
 
-   - [Google's Data Structures & Algorithms Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
-   - [Grokking Algorithms](https://www.google.com/search?q=filetype%3Apdf+Grokking+Algorithms+by+Aditya+Y+Bhargava)
-   - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [Google's Data Structures & Algorithms Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+* [Grokking Algorithms](https://www.google.com/search?q=filetype%3Apdf+Grokking+Algorithms+by+Aditya+Y+Bhargava)
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+
 </details>
 
 <details markdown="1">
@@ -132,10 +138,11 @@ Having a basic understanding (you don't need to be a [LeetCode wizard](https://w
 
 These fundamentals haven't changed with AI:
 
-   - [Design Patterns](https://refactoring.guru/design-patterns)
-   - [Clean Architecture](https://www.google.com/search?q=filetype%3Apdf+Clean+Architecture+by+Robert+C.+Martin)
-   - [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/)
-   - [AWS Architecture Center](https://aws.amazon.com/architecture/)
+* [Design Patterns](https://refactoring.guru/design-patterns)
+* [Clean Architecture](https://www.google.com/search?q=filetype%3Apdf+Clean+Architecture+by+Robert+C.+Martin)
+* [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/)
+* [AWS Architecture Center](https://aws.amazon.com/architecture/)
+
 </details>
 
 ## How I'm Adapting (And You Can Too)
@@ -146,30 +153,35 @@ Assuming you've got a solid technical foundation (and no, that doesn't just mean
 <summary>Let AI handle the boring stuff</summary>
 
 I use it for repetitive tasks so I can focus on architecture and business logic. The stronger your fundamentals, the more useful AI becomes.
+
 </details>
 
 <details markdown="1">
 <summary>Think in systems, not just syntax</summary>
 
 AI can write code, but understanding how everything fits together in the real world still requires human expertise. The [Azure](https://learn.microsoft.com/en-us/azure/architecture/) and [AWS](https://aws.amazon.com/architecture/) Architecture Centers are great for building that skill.
+
 </details>
 
 <details markdown="1">
 <summary>Write better prompts</summary>
 
 Clear, specific prompts = better results. I treat prompt writing like coding. Learn from the [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) and [OpenAI's tips](https://platform.openai.com/docs/guides/prompt-engineering).
+
 </details>
 
 <details markdown="1">
 <summary>Experiment more</summary>
 
 With AI doing the grunt work, I try out more frameworks and languages (example [here](https://segunakinyemi.com/blog/charlotte-third-places-tech-stack/)). I don't need to be an expert—but I do make sure I understand enough to check its work. If you're totally lost without AI, you're doing it wrong.
+
 </details>
 
 <details markdown="1">
 <summary>Level up your system design</summary>
 
 AI can write code, but building reliable, scalable systems is still on us. I'm investing in [distributed systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) and [cloud design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) because that's where long-term value—and responsibility—lives. No serious company is letting AI design critical infrastructure alone. Not when a hospital's life support system goes down, a bank's transaction engine freezes, an airline's flight routing crashes, or a power grid gets misconfigured. Someone has to answer for that. And "we let the AI do everything" isn't going to cut it.
+
 </details>
 
 Remember: AI is a tool. Two people can take the same math test with the same calculator—one passes, one fails. The difference is knowing how to use it. The best tech workers won't be the ones leaning on AI to do everything, but the ones who know how to *steer* it because they actually understand the work.
@@ -187,6 +199,7 @@ This is the most significant shift I've observed: AI isn't just a separate chatb
 * [**Gemini Code Assist**](https://codeassist.google/) - Google's AI coding assistant that integrates with popular IDEs to provide contextual code completions and suggestions based on your codebase and documentation. It excels at understanding and generating code for Google-specific technologies and cloud services.
 * [**Amazon Q Developer**](https://aws.amazon.com/q/developer/) - AWS's AI coding companion that specializes in AWS services, helping developers build cloud applications, troubleshoot issues, and navigate the vast AWS ecosystem. If your work heavily involves AWS infrastructure, this tool offers contextual assistance tailored to their services.
 * [**Cursor**](https://www.cursor.com/) - An AI-powered code editor built on VS Code that pioneered many features GitHub Copilot Agent Mode now offers. It provides a full context window for more accurate code generation and understanding, but may eventually be eclipsed by Copilot's deeper integration.
+
 </details>
 
 <details markdown="1">
@@ -196,6 +209,7 @@ This is the most significant shift I've observed: AI isn't just a separate chatb
 * [**Lovable.dev**](https://lovable.dev/) - A tool that enables creating functional websites through conversational prompts, making web development more accessible to non-developers. It handles complex logic and responsive design without requiring coding knowledge.
 * [**Replit GhostWriter**](https://replit.com/ghostwriter) - An AI coding assistant built into Replit's browser-based development platform. It's perfect for quick experiments, learning to code, and collaborative projects without local environment setup.
 * [**GitHub Spark**](https://githubnext.com/projects/github-spark) - An AI-powered tool for creating and sharing micro apps ("sparks") without writing or deploying code. These apps are directly usable from desktop and mobile devices, making it perfect for quick utilities and prototypes.
+
 </details>
 
 <details markdown="1">
@@ -204,6 +218,7 @@ This is the most significant shift I've observed: AI isn't just a separate chatb
 * [**Canva Magic Design**](https://www.canva.com/magic-design/) - An AI feature within Canva that generates complete design layouts based on text descriptions. It provides a ready-to-use starting point for presentations, social media graphics, and marketing materials.
 * [**Microsoft Designer**](https://designer.microsoft.com/) - A powerful AI design tool that converts text descriptions into visual designs with extensive customization options. It integrates with Microsoft 365 and offers commercial usage rights for generated content.
 * [**Adobe Firefly**](https://www.adobe.com/products/firefly.html) - Adobe's suite of generative AI tools designed specifically for creative professionals. It's trained on licensed content and Adobe Stock, making it suitable for commercial projects without copyright concerns.
+
 </details>
 
 <details markdown="1">
@@ -213,6 +228,7 @@ This is the most significant shift I've observed: AI isn't just a separate chatb
 * [**Perplexity AI**](https://www.perplexity.ai/) - An AI-powered search engine that provides comprehensive answers with cited sources, eliminating the need to manually sort through search results. Its ability to cite sources makes it particularly valuable for technical research and fact-checking.
 * [**Elicit**](https://elicit.org/) - An AI research assistant designed specifically for researchers to search through academic papers, ask questions about research, and summarize findings. It excels at navigating scientific literature and extracting key insights.
 * [**Scite.ai**](https://scite.ai/) - A platform that helps researchers evaluate the credibility of scientific papers by analyzing citation context. It shows how papers have been cited by others, revealing whether they've been supported or contradicted in subsequent research.
+
 </details>
 
 <details markdown="1">
@@ -221,6 +237,7 @@ This is the most significant shift I've observed: AI isn't just a separate chatb
 * [**AnythingLLM**](https://anythingllm.com/) - An open-source, self-hosted ChatGPT-like interface that enables private document analysis without sending your code or data to third parties. It's ideal for working with sensitive or proprietary information while still leveraging AI capabilities.
 * [**LM Studio**](https://lmstudio.ai/) - A desktop application for downloading and running open-source large language models locally on your computer. It offers a balance between powerful AI assistance and complete data privacy, though requires decent hardware.
 * [**Ollama**](https://ollama.com/) - A lightweight framework for running large language models like Llama, Mistral, and Code Llama locally. It's perfect for developers who need AI assistance but work with sensitive code or have limited internet access.
+
 </details>
 
 ## Frequently Asked Questions
@@ -231,18 +248,21 @@ Having spent time at career fairs and hosting student field trips at [my employe
 <summary>Is AI going to replace all software developers?</summary>
 
 No, but it will replace developers who refuse to adapt to using AI. Look at history: calculators didn't replace mathematicians, CAD software didn't replace architects, and Excel didn't replace accountants. These tools changed how the work is done, making professionals who embraced them more valuable. I do think we'll probably end up with less developers overall though, as it'll be easier for less people to do more because AI is doing so much of the grunt work.
+
 </details>
 
 <details markdown="1">
 <summary>Should I even bother learning to code with AI around?</summary>
 
 Absolutely yes. Don't just listen to me on this one though, scroll back up to [this section](#reassurance-from-ai-pioneers). People far smarter than me have spoken on this. Also, check out the article [Is Coding Education As We Know It Dead?](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/)
+
 </details>
 
 <details markdown="1">
 <summary>Is using AI tools 'cheating' or making me less skilled?</summary>
 
 No more than using Stack Overflow, libraries, or frameworks is cheating. At [my employer](https://en.wikipedia.org/wiki/Microsoft), we're actively encouraged to use AI tools to be more productive. The goal is solving problems and creating value, not proving you can remember syntax.
+
 </details>
 
 <details markdown="1">
@@ -259,6 +279,7 @@ Yes, with a caveat: make sure your program is adapting to include AI. A good CS 
 That said, supplement your degree with practical AI skills. Check out [Microsoft's AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us).
 
 Also, consider the financial aspect. If pursuing a CS degree means accumulating massive debt, carefully weigh your options. Many successful tech professionals enter the field through community colleges, bootcamps, or certificate programs. Tech is uniquely meritocratic; four years of traditional education isn't always necessary before you can contribute meaningfully to the industry. Self-taught developers with strong portfolios and practical skills often compete successfully against degree holders, especially when they demonstrate AI proficiency. **But to be clear, if you can go to college without going into massive debt, I think you should**. The path for those who don't is doable, but harder.
+
 </details>
 
 <details markdown="1">
@@ -267,6 +288,7 @@ Also, consider the financial aspect. If pursuing a CS degree means accumulating 
 You don't compete with AI, you use it. Or "leverage it" if I wanted to sound like a business person. Focus on these skills that AI enhances rather than replaces:
 
 **Technical System Design & Architecture**
+
 * Learn [system design fundamentals](https://github.com/donnemartin/system-design-primer) and how to architect scalable systems.
 * Master [design patterns](https://refactoring.guru/design-patterns) to solve common engineering problems.
 * Study [clean architecture principles](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) for building maintainable software.
@@ -299,7 +321,7 @@ You don't compete with AI, you use it. Or "leverage it" if I wanted to sound lik
 
 **Project Management & Execution**
 
-* Learn [agile methodologies](https://www.atlassian.com/agile) as humans working on teams together in this manner hasn't been changed by AI. All this stuffis still around, as annoying as it can be, it has more to do with how we work with each other rather than AI building software.
+* Learn [agile methodologies](https://www.atlassian.com/agile) as humans working on teams together in this manner hasn't been changed by AI. All this stuff is still around, as annoying as it can be, it has more to do with how we work with each other rather than AI building software.
 * Master [user story creation](https://www.atlassian.com/agile/project-management/user-stories) as AI increasingly implements them. Study [technical program management](https://www.linkedin.com/learning/technical-program-management-foundations) to coordinate complex initiatives.
 * Explore tools like [GitHub's Project Padawan](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/#project-padawan-swe-agents-on-github) for AI-assisted development where you literally assign user stories to an AI agent, it does all the work, and you just loop back for a pull request review (that is insane I can't believe i just typed that.)
 
