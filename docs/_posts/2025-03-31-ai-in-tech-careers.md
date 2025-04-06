@@ -1,7 +1,7 @@
 ---
 title: "On the Nature of Artificial Intelligence in Tech Careers"
 excerpt: "Thoughts from a software engineer on navigating AI's impact and maintaining relevance amidst rapid technological change."
-last_modified_at: 2025-04-05T23:58:26
+last_modified_at: 2025-04-06T00:13:32
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -345,7 +345,7 @@ So whether you're:
 * A developer worried about job security (adapt!).
 * Someone in an adjacent field curious about the AI revolution (join us!).
 
-I hope this article gave you some clarity and practical next steps. Stay curious, keep learning, and don't forget to [shine your eyes](https://www.urbandictionary.com/define.php?term=shine%20your%20eyes).
+I hope this article gave you some clarity and practical next steps. Stay curious, keep learning, and don't forget to [shine your eyes](https://www.google.com/search?q=shine+your+eye+Nigerian+proverb+meaning).
 
 ---
 
