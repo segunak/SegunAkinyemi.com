@@ -1,7 +1,7 @@
 ---
 title: "How To Train Your AI: Demystifying ChatGPT With Machine Learning, Neural Networks, and Deep Learning Basics"
 excerpt: "Demystify the concepts behind tools like ChatGPT with an approachable introduction to Machine Learning, Neural Networks, and Deep Learning."
-last_modified_at: 2024-12-12T15:41:26
+last_modified_at: 2025-04-11T20:07:32
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -119,7 +119,7 @@ The student-focused version of this workshop is below. It features a live AI tra
 The professional version of this workshop, designed for participants with varying levels of technical expertise—from minimal to advanced—is linked below. It remains interactive but replaces the live AI training exercise with additional audience engagement activities and deeper discussions on AI in industry. Participants will only need pen and paper.
 
 <iframe
-  src="https://1drv.ms/p/c/750d396c5cadcebd/IQRC5tDyrcM4QZQLu9SF2_hHAc7CJe-5J391ICtIJMDnZ8s?em=2&amp;wdAr=1.7777777777777777"
+  src="https://1drv.ms/p/c/750d396c5cadcebd/IQShwvRnbTzxSLUzum-NV0vQAartnDl4cQJ42eL2ccVtiwk?em=2&amp;wdAr=1.7777777777777777"
   width="100%"
   height="500px"
   frameborder="0">
