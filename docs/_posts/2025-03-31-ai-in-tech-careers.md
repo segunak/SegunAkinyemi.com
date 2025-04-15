@@ -91,7 +91,7 @@ Of course, not all tech leaders share this optimistic view about the future of c
 >
 > [Jensen Huang, 2024 World Governments Summit](https://www.techradar.com/pro/nvidia-ceo-predicts-the-death-of-coding-jensen-huang-says-ai-will-do-the-work-so-kids-dont-need-to-learn)
 
-He suggested that young people shouldn't prioritize learning traditional coding skills and should instead focus on other domains like farming, biology, manufacturing, and education. In his view, [natural language](https://segunakinyemi.com/blog/natural-language-programming/) will become the programming language of the future, with AI doing the actual coding work. Funnily neough, that doesn ot at all mean software developers would go away, you'd need peopelk writing natural languae who know how to build software, techincal writing, damn near pseduocode.  Similarly, [Bill Gates](https://www.cnbc.com/2025/03/26/bill-gates-on-ai-humans-wont-be-needed-for-most-things.html) has predicted that as AI improves, many programming-related jobs could be automated, though he emphasizes productivity gains more than declaring coding obsolete.
+He suggested that young people shouldn't prioritize learning traditional coding skills and instead should focus on other domains like farming, biology, manufacturing, and education. In his view, natural language will become the programming language of the future, with AI doing the actual coding work. Interestingly though, this shift to [natural language programming](https://segunakinyemi.com/blog/natural-language-programming) does not necessarily mean software developers would disappear. It would still require people who understand how to build software, write precise technical specifications, and essentially create what amounts to sophisticated pseudocode in natural language. Similarly, [Bill Gates](https://www.cnbc.com/2025/03/26/bill-gates-on-ai-humans-wont-be-needed-for-most-things.html) has predicted that as AI improves, many jobs that require programming skills could be automated, though he focuses more on the productivity benefits than declaring coding obsolete.
 
 This debate among tech luminaries highlights a key reality: even the most knowledgeable experts don't fully agree on how AI will reshape coding and tech careers. But when weighing these perspectives, consider this: those who've devoted their careers specifically to AI research and development—like Ng and LeCun—tend to emphasize the continued importance of programming knowledge. Meanwhile, business leaders with broader focuses often emphasize how AI could make coding more accessible—or even unnecessary—for many tasks.
 
@@ -102,8 +102,6 @@ That said, when the very inventors of modern AI systems—and the CEO of the pla
 AI tools are powerful, but only if you know how to use them. Having a solid technical foundation makes you a better AI user. A better pilot, to its copilot.
 
 When I use tools like GitHub Copilot, I'm not blindly accepting output (although...[I could](https://en.wikipedia.org/wiki/Vibe_coding)). I'm steering, validating, and making decisions neither I nor my employer wants AI making alone. Architecture, trade-offs, budget constraints, ethical implications, etc. You don't need to explain everything to AI; you need to know what needs building and guide it accordingly.
-
-Learning programming fundamentals, [design patterns](https://refactoring.guru/design-patterns), and [system architecture](https://github.com/donnemartin/system-design-primer) has helped me:
 
 <details markdown="1">
 <summary>Guide AI Effectively</summary>
