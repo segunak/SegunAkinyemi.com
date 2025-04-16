@@ -83,7 +83,7 @@ Even more striking, [Thomas Dohmke](https://github.com/ashtom), CEO of GitHub (h
     <iframe width="100%" height="70" src="https://www.youtube.com/embed/5UhnQ2h-5BY?si=y73Jqrj4QhQNd9TW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-In this interview, he makes the case that coding is a vital skill in an AI-driven world because it lets people shape technology, not just consume it. He draws a parallel to how we teach math or physics, not because everyone will become mathematicians, but because these subjects help us understand and shape the world. His journey from coding as a teenager without internet access to leading GitHub through the AI revolution demonstrates that staying close to the craft of building remains valuable even as the tools evolve.
+In this interview, he makes the case that coding is a vital skill in an AI-driven world because it lets people shape technology, not just consume it. He draws a parallel to how we teach math or physics, not because everyone will become mathematicians, but because these subjects help us understand and shape the world. He views his journey—from coding without internet as a teenager to leading GitHub through the AI revolution—as proof that the craft of building still matters, even as the tools evolve.
 
 Of course, not all tech leaders share this optimistic view about the future of coding. In a notable counterpoint, [Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang), the CEO of [NVIDIA](https://en.wikipedia.org/wiki/Nvidia) (the company whose [GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit) power most AI development), made headlines in February 2024 at the [World Governments Summit](https://en.wikipedia.org/wiki/World_Governments_Summit) when he predicted [the death of coding](https://www.techradar.com/pro/nvidia-ceo-predicts-the-death-of-coding-jensen-huang-says-ai-will-do-the-work-so-kids-dont-need-to-learn) as we know it.
 
@@ -91,9 +91,11 @@ Of course, not all tech leaders share this optimistic view about the future of c
 >
 > [Jensen Huang, 2024 World Governments Summit](https://www.techradar.com/pro/nvidia-ceo-predicts-the-death-of-coding-jensen-huang-says-ai-will-do-the-work-so-kids-dont-need-to-learn)
 
-He suggested that young people shouldn't prioritize learning traditional coding skills and instead should focus on other domains like farming, biology, manufacturing, and education. In his view, natural language will become the programming language of the future, with AI doing the actual coding work. Interestingly though, this shift to [natural language programming](https://segunakinyemi.com/blog/natural-language-programming) does not necessarily mean software developers would disappear. It would still require people who understand how to build software, write precise technical specifications, and essentially create what amounts to sophisticated pseudocode in natural language. Similarly, [Bill Gates](https://www.cnbc.com/2025/03/26/bill-gates-on-ai-humans-wont-be-needed-for-most-things.html) has predicted that as AI improves, many jobs that require programming skills could be automated, though he focuses more on the productivity benefits than declaring coding obsolete.
+He suggested that young people shouldn't prioritize learning traditional coding skills and instead should focus on other domains like farming, biology, manufacturing, and education. In his view, natural language will become the programming language of the future, with AI doing the actual coding work.
 
-This debate among tech luminaries highlights a key reality: even the most knowledgeable experts don't fully agree on how AI will reshape coding and tech careers. But when weighing these perspectives, consider this: those who've devoted their careers specifically to AI research and development—like Ng and LeCun—tend to emphasize the continued importance of programming knowledge. Meanwhile, business leaders with broader focuses often emphasize how AI could make coding more accessible—or even unnecessary—for many tasks.
+Interestingly though, this shift to [natural language programming](https://segunakinyemi.com/blog/natural-language-programming) does not necessarily mean software developers would disappear. It would still require people who understand how to build software, write precise technical specifications, and essentially create what amounts to sophisticated pseudocode in natural language. Similarly, [Bill Gates](https://www.cnbc.com/2025/03/26/bill-gates-on-ai-humans-wont-be-needed-for-most-things.html) has predicted that as AI improves, many jobs that require programming skills could be automated, though he focuses more on the productivity benefits than declaring coding obsolete.
+
+This debate among tech luminaries highlights a key reality: even the most knowledgeable experts don't fully agree on how AI will reshape coding and tech careers. But when weighing these perspectives, consider this: those who've devoted their careers specifically to AI research and development—like Ng and LeCun—tend to emphasize the continued importance of programming knowledge. Meanwhile, business leaders with broader focuses (and a fondness for cutting costs) often highlight how AI could make coding more accessible—or even unnecessary—for many tasks.
 
 That said, when the very inventors of modern AI systems—and the CEO of the platform hosting most of the world's code—are saying programming skills remain essential, maybe even more valuable in the age of AI, it's worth listening. Before buying into the doom-and-gloom takes on tech careers, ask yourself: who's more likely to understand AI's true impact than the people who helped build it?
 
@@ -101,17 +103,23 @@ That said, when the very inventors of modern AI systems—and the CEO of the pla
 
 AI tools are powerful, but only if you know how to use them. Having a solid technical foundation makes you a better AI user. A better pilot, to its copilot.
 
-When I use tools like GitHub Copilot, I'm not blindly accepting output (although...[I could](https://en.wikipedia.org/wiki/Vibe_coding)). I'm steering, validating, and making decisions neither I nor my employer wants AI making alone. Architecture, trade-offs, budget constraints, ethical implications, etc. You don't need to explain everything to AI; you need to know what needs building and guide it accordingly.
+When I use tools like GitHub Copilot, I'm not blindly accepting output (although...[I could](https://en.wikipedia.org/wiki/Vibe_coding)). I'm steering, validating, and making decisions neither I nor my employer wants AI making alone. Architecture, trade-offs, budget constraints, ethical implications, etc. You don't need to explain everything to AI, but you do need to know what to build and how to guide it.
 
 <details markdown="1">
 <summary>Guide AI Effectively</summary>
-I can say things like "normalize this schema" or "set up CI/CD pipelines" and the AI gets to work. Knowing what you're talking about = speed and precision.
+I can say things like "normalize this schema" or "add retry logic with exponential backoff to this API" or "refactor this service using the [adapter pattern](https://refactoring.guru/design-patterns/adapter)" and the AI gets to work. Knowing what you're talking about = speed and precision. You don't have to write the code yourself anymore, but if you have no idea what you're talking about, know nothing about software development, and can't read or understand code, then you're useless at the wheel. We put you in a [supercar](https://en.wikipedia.org/wiki/Supercar), but you can't even drive!
 
 </details>
 
 <details markdown="1">
 <summary>Spot Bad Output</summary>
-AI can write code that technically works but breaks everything else. I know when to say "nah" and fix it. [Vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is real, but so is real accountability.
+AI can write code that technically works but breaks everything else in a larger system (like the kind you work on in real software development jobs). I know when to say "nah" and either follow up with additional prompts filled with technical detail, or fix it myself. [Vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) is real, but so is accountability.
+
+If you're reading this and want a company to pay you to work in tech, does that really make sense if you don't understand anything the AI is doing? Would you pay someone who knows nothing to use a tool that does all the real work? You have to augment the tool in some fundamental way that justifies your continued employment (which...if we ever reach [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence), God help us).
+
+If you can't fix anything, can't follow up with a better prompt, and have no idea what you're even building, then why are you here fam? Lol. You're just letting AI, which runs on probabilities and not real understanding, make all the decisions for you.
+
+We still need people to guide AI, but you've got to acquire some level of technical knowledge so you can actually build faster with it. Get your driver's license first, then we [finna](https://www.urbandictionary.com/define.php?term=finna) put you in this Bugatti. [Zoom zoom](https://www.youtube.com/watch?v=_yF3fCWfmEk).
 
 </details>
 
@@ -133,10 +141,15 @@ If you're trying to break into tech or level up, here's some advice:
 <details markdown="1">
 <summary>Learn At Least One Programming Language</summary>
 
-I recommend Python as it's both beginner-friendly and [powerful enough for AI development](https://www.tiobe.com/tiobe-index/). Resources I recommend:
+I recommend Python because it's beginner-friendly and [powerful enough for AI development](https://www.tiobe.com/tiobe-index/). You don't need to spend four years learning how to code. Honestly, you never really did. I'm not saying don't go to college, but if you're interested in tech, you can learn everything you need online for free. Please don't wait for your professors to handhold you through the learning process. Go get it yourself. [Hustle](https://www.youtube.com/watch?v=gEVLvBRB96Y). [Hard](https://www.youtube.com/watch?v=bVwyrk3Ftc4).
+
+Knowing how to code in at least one language is enough. AI can help you adapt that knowledge to whatever stack you're building with. That said, I personally believe it's worth learning Python **and** one of the more established object-oriented languages like C#, Java, or C++. But if you only learn Python, you'll still be fine. So long as you understand the basics of object-oriented programming, specifically [SOLID principles](https://en.wikipedia.org/wiki/SOLID). You don't need to be an expert, but you can't be completely lost and expect to guide AI effectively.
+
+For learning Python, here are some resources I recommend:
 
 * [Harvard's CS50 Python Course](https://cs50.harvard.edu/python/)
 * [Google's Python Class](https://developers.google.com/edu/python)
+* [Reddit's r/learnpython Community](https://www.reddit.com/r/learnpython/wiki/index/)
 
 </details>
 
@@ -146,8 +159,8 @@ I recommend Python as it's both beginner-friendly and [powerful enough for AI de
 Having a basic understanding (you don't need to be a [LeetCode wizard](https://www.techinterviewhandbook.org/grind75/), the basics will do) data structures, algorithms, and system design will help you guide AI effectively:
 
 * [Google's Data Structures & Algorithms Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+* [Tech Interview Handbook's Data Structures & Algorithms Study Sheet](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 * [Grokking Algorithms](https://www.google.com/search?q=filetype%3Apdf+Grokking+Algorithms+by+Aditya+Y+Bhargava)
-* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 </details>
 
@@ -157,6 +170,7 @@ Having a basic understanding (you don't need to be a [LeetCode wizard](https://w
 These fundamentals haven't changed with AI:
 
 * [Design Patterns](https://refactoring.guru/design-patterns)
+* [System Design](https://github.com/donnemartin/system-design-primer)
 * [Clean Architecture](https://www.google.com/search?q=filetype%3Apdf+Clean+Architecture+by+Robert+C.+Martin)
 * [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/)
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
