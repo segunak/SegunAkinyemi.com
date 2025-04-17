@@ -65,6 +65,13 @@ There's a wonderful series of articles by [Parand Tony Darugar](https://www.link
 
 These courses walk you through the basics of AI. By basics, I mean the basics of what's happening behind the scenes, rather than the basics of using AI, such as signing up for an account to use ChatGPT. It's possible to be a decent enough AI user without understanding the concepts covered in these courses. You don't need to understand automotive engineering to drive a car, but if you want to be a better driver, understanding how your vehicle fundamentally works is undoubtedly a plus.
 
+> **Microsoft:** [AI Skills Navigator](https://aiskillsnavigator.microsoft.com/)
+>
+Microsoft's AI Skills Navigator is like having your own personal AI career counselor. It helps you "unlock new opportunities with AI skills that are in demand now and in the future" by using—as you may have guessed—AI to find the learning path that's right for you. Answer a few questions about your background and interests, and it'll chart a custom learning journey tailored to your specific needs. It's like those "choose your own adventure" books from back in the day, except instead of ending up eaten by a dragon, you end up with marketable skills in one of tech's hottest fields.
+>
+> **Free or Paid:** Free.
+{: .notice--primary}
+
 > **DeepLearning.AI:** [Generative AI For Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
 >
 This course, taught by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) is an excellent introduction to AI for anyone regardless of background. Andrew is a big deal in the AI community, like [three legendary Sannin](https://naruto.fandom.com/wiki/Sannin) big. As a co-founder of [Google Brain](https://en.wikipedia.org/wiki/Google_Brain), he played a role in building a division that went on to make many significant contributions to the field of AI. He also founded [DeepLearning.AI](https://www.deeplearning.ai/about/) and co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), the platform where you'll find his course.
@@ -154,6 +161,49 @@ Quick and easy, this tutorial takes you through what you need to know to peel ba
 Harvard University's name speaks for itself. They put a surprising amount of their lectures and courses online for free, including their famous [freshman computer science](https://pll.harvard.edu/course/cs50-introduction-computer-science) class. This course introduces writing AI code using Python, which is crucial to interacting with the [APIs](https://en.wikipedia.org/wiki/API) of companies like [OpenAI](https://openai.com/index/openai-api) (backed by Microsoft), [Anthropic](https://www.anthropic.com/api) (backed by Amazon), [Meta](https://llama.meta.com/), and [Google](https://ai.google.dev/).
 >
 > **Free or Paid:** Free with optional paid upgrades.
+{: .notice--primary}
+
+### Agentic AI
+
+Agentic AI is the hot new thing sweeping through tech circles. Think of it as AI that doesn't just respond to your prompts but actively takes actions on your behalf. These systems can browse the web, use tools, make decisions, and accomplish complex tasks with minimal human oversight. The fundamental difference is in the action-taking capability: traditional AI models provide information or generate content when prompted, while Agentic AI actively executes tasks on behalf of users. It's the difference between "Hey AI, how do I book a flight?" and "Hey AI, book me the cheapest flight to Lagos next Tuesday."
+
+While everyone's buzzing about it because it represents the next evolution in AI utility—from advisor to doer—let's not gloss over its serious implications. Agent systems could potentially make critical decisions with real-world consequences with little to no human supervision. We need qualified experts and proper safeguards in place before we start deploying these agents all around. It's one thing when an AI chatbot makes a factual error in a response; it's quite another when an AI agent with tool access withdraws money from your account, changes your business strategy, or modifies critical infrastructure settings.
+
+That being said, here's some resources for learning more about Agentic AI.
+
+> **Microsoft:** [AI Agents for Beginners](https://microsoft.github.io/ai-agents-for-beginners/)
+>
+Microsoft has put together a free course that demystifies AI agents with 10 lessons covering everything you need to get started. It walks you through what agents are, how they work, and how to actually build them yourself. The course is backed by a [GitHub repository](https://github.com/microsoft/ai-agents-for-beginners) with all the code and resources needed.
+>
+> **Free or Paid:** Free.
+{: .notice--primary}
+
+> **Microsoft:** [AI Agents — What They Are, and How They'll Change the Way We Work](https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-theyll-change-the-way-we-work/)
+>
+This article from Microsoft gives an overview of AI agents and their potential impact on the workforce. It breaks down the concept into digestible bits while also exploring the practical applications we're likely to see in the near future.
+>
+> **Free or Paid:** Free.
+{: .notice--primary}
+
+> **IBM:** [What Are AI Agents](https://www.ibm.com/think/topics/ai-agents)
+>
+IBM's take on AI agents provides a complementary perspective to Microsoft's article. It covers the core concepts but also dives into the business applications and how these tools might reshape industries. IBM has been in the AI game since the days of [Deep Blue vs. Kasparov](https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov), so they bring a wealth of historical context to their analysis of where Agentic AI fits in the broader evolution of artificial intelligence.
+>
+> **Free or Paid:** Free.
+{: .notice--primary}
+
+> **Hugging Face:** [AI Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+>
+[Hugging Face](https://en.wikipedia.org/wiki/Hugging_Face)—the [GitHub](https://en.wikipedia.org/wiki/GitHub) of AI models—has created a comprehensive free course that will take you "on a journey, from beginner to expert, in understanding, using and building AI agents." If you're not familiar with [Hugging Face](https://huggingface.co/), they're the creators of an open-source platform that's become central to the democratization of AI. Their course is particularly valuable because it emphasizes practical implementation alongside theoretical understanding, giving you the skills to actually build working agents rather than just talk about them conceptually.
+>
+> **Free or Paid:** Free.
+{: .notice--primary}
+
+> **MIT Technology Review:** [Cyberattacks By AI Agents Are Coming](https://www.technologyreview.com/2025/04/04/1114228/cyberattacks-by-ai-agents-are-coming/)
+>
+This sobering article from MIT Technology Review reminds us that with great power comes great responsibility (thanks, [Uncle Ben](https://en.wikipedia.org/wiki/Uncle_Ben)). As AI agents become more capable, they also become more dangerous in the wrong hands. The piece explores how Agentic AI could be weaponized for sophisticated cyberattacks that bypass traditional security measures. It's a necessary counterbalance to the hyped-up enthusiasm found elsewhere and a reminder that building AI agents isn't just about following tutorials—it requires careful consideration of ethics, security, and unintended consequences.
+>
+> **Free or Paid:** Free.
 {: .notice--primary}
 
 ## Diving Deep
