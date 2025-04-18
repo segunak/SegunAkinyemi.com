@@ -1,7 +1,7 @@
 ---
 title: "On the Nature of Artificial Intelligence in Tech Careers"
 excerpt: "Thoughts from a software engineer on navigating AI's impact and maintaining relevance amidst rapid technological change."
-last_modified_at: 2025-04-06T00:13:32
+last_modified_at: 2025-04-18T16:25:44
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -38,7 +38,7 @@ Artificial Intelligence (AI) is far from just a buzzword these days. As a softwa
 
 I open my laptop every day to a flood of messages from colleagues, managers, and organizational leaders encouraging the use of AI tools to make us work faster, be more efficient, and most notably, write (or really, generate) code. The message is consistent across all levels: use AI tools. This isn't just a thing at [my employer](https://en.wikipedia.org/wiki/Microsoft), it's a consistent theme across tech.
 
-The AI coding revolution is not a [fad](https://www.google.com/search?q=fad+definition). There are even new terms popping up to describe it like [Natural Language Programming](https://segunakinyemi.com/blog/natural-language-programming/) and [Vibe Coding](https://en.wikipedia.org/wiki/Vibe_coding). Companies are actively pushing employees to use these tools, doing everything to make adoption as easy and smooth as possible. And the more you use them, the more you understand why—they're [seriously good](https://segunakinyemi.com/blog/github-copilot-agent-mode/). 
+The AI coding revolution is not a [fad](https://www.google.com/search?q=fad+definition). There are even new terms popping up to describe it like [Natural Language Programming](https://segunakinyemi.com/blog/natural-language-programming/) and [Vibe Coding](https://en.wikipedia.org/wiki/Vibe_coding). Companies are actively pushing employees to use these tools, doing everything to make adoption as easy and smooth as possible. And the more you use them, the more you understand why—they're [seriously good](https://segunakinyemi.com/blog/github-copilot-agent-mode/).
 
 If you already work in tech and want to survive, or are looking to break into the field, embracing AI isn't optional, it's essential. This article is my attempt at helping you navigate this shift, based on what I'm seeing working in the industry (I'm out here tryna survive myself!).
 
@@ -77,7 +77,7 @@ Perhaps the most compelling perspective comes from [Andrew Ng](https://en.wikipe
 
 And Ng isn't alone in this view. [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), Meta's Chief AI Scientist and [Turing Award winner](https://amturing.acm.org/award_winners/lecun_6017366.cfm), strongly agrees with this assessment, as seen [here](https://www.linkedin.com/posts/yann-lecun_deepseek-r1-uncensored-qwq-32b-puts-reasoning-activity-7306472490199887873-7XtW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABvfe0cBF26Fjl_dkPhC1BORIN7IaP5xuKE). LeCun, who pioneered [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (the technology behind modern computer vision) and is considered one of the "godfathers of AI" alongside [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) and [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), emphatically supports the view that AI will enhance programming rather than replace programmers.
 
-Even more striking, [Thomas Dohmke](https://github.com/ashtom), CEO of GitHub (home of Copilot, the most widely-used AI coding assistant), insists that learning to code remains essential—perhaps even more so—in the AI era. Dohmke has a unique perspective as someone now leading the very platform that's integrating AI into the development workflow.
+Even more striking, [Thomas Dohmke](https://github.com/ashtom), CEO of GitHub (home of [Copilot](https://github.com/features/copilot), the most widely-used AI coding assistant), insists that learning to code remains essential—perhaps even more so—in the AI era. Dohmke has a unique perspective as someone now leading the very platform that's integrating AI into the development workflow.
 
 <p>
     <iframe width="100%" height="70" src="https://www.youtube.com/embed/5UhnQ2h-5BY?si=y73Jqrj4QhQNd9TW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
