@@ -269,6 +269,20 @@ This course bundle by Stanford University—in partnership with DeepLearning.AI,
 > **Free or Paid:** Free to audit, paid to access graded materials and get a certificate of completion.
 {: .notice--primary}
 
+> **Google:** [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+>
+When it comes to AI education, Google's resources are top-tier—and for good reason. Let's not forget that [Google](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/) invented [Transformers](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) (the "T" in GPT), which revolutionized the AI landscape. Their Machine Learning Crash Course is designed to get you up to speed quickly with the fundamentals and practical applications of ML. For those with more time on their hands, Google's broader [Machine Learning education portal](https://developers.google.com/machine-learning) offers even more in-depth materials. These resources are particularly valuable for those preparing for technical interviews in the field.
+>
+> **Free or Paid:** Free.
+{: .notice--primary}
+
+> **Reddit:** [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
+>
+Never underestimate the power of community learning. The r/learnmachinelearning subreddit is a fairly large group of beginners, students, and professionals all learning Machine Learning together. It's an excellent place to ask questions, share resources, troubleshoot code, and stay motivated. Sometimes the best way to learn is to see others struggling with (and solving) the same problems you're facing.
+>
+> **Free or Paid:** Free.
+{: .notice--primary}
+
 > **Chirstopher Bishop:** [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 >
 [Christopher Bishop](https://en.wikipedia.org/wiki/Christopher_Bishop)—a [Microsoft Technical Fellow](https://en.wikipedia.org/wiki/Fellow#Industry_and_corporate_fellows) and director of their [AI Research Division](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)—has been doing groundbreaking work in AI since before it was mainstream. His contributions have not only pushed the boundaries of what AI can achieve but also helped position Microsoft at the forefront of the field. His book—_Pattern Recognition and Machine Learning_—was first published in 2006 but has undergone continuous updates since. It's widely recognized as a foundational text for Machine Learning and is required reading in many programs around the world.
