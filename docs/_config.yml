@@ -31,16 +31,19 @@ email:
 breadcrumbs: true  # disabled by default
 #logo: "/assets/images/logo-fullytransparent.png"
 locale: "en-US"
+tagline: "The personal blog of Segun Akinyemi"
 description: "The personal website, blog and digital playground of Segun Akinyemi."
 twitter_username: segunofsolace
 github_username:  segunak
+repository: segunak/SegunAkinyemi.com
+
 # See https://github.com/mmistakes/minimal-mistakes/discussions/2033 for the code/ideas. This is a part of adding
 # a light/dark switch button to the page. Two themes can be toggled.
-minimal_mistakes_skin: air
-minimal_mistakes_skin2: neon
 # See https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin for what the below options look like.
 #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-repository: segunak/SegunAkinyemi.com
+minimal_mistakes_skin: air
+minimal_mistakes_skin2: neon
+
 # For pages that don’t have a header.image assigned in their YAML Front Matter, 
 # site.og_image (OG is open graph) will be used as a fallback. Use your logo, icon, 
 # avatar or something else that is meaningful. Just make sure it is placed in the 
@@ -61,6 +64,7 @@ social:
     - "https://github.com/segunak"
     - "https://www.linkedin.com/in/segunakinyemi"
     - "https://twitter.com/segunofsolace"
+    - "https://segunakinyemi.com"
 
 analytics:
   provider: "google-gtag"
@@ -92,6 +96,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-archives
+  - jekyll-seo-tag
   - jemoji
 
 author:
@@ -99,9 +104,6 @@ author:
   avatar : "/assets/images/bitmoji-square.png"
   bio    : "Christian, Software Engineer, Tech Enthusiast."
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://segunakinyemi.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/segunofsolace"
@@ -111,9 +113,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/segunakinyemi/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
 
 footer:
   links:
@@ -143,7 +142,6 @@ defaults:
       comments: true
       share: true
       related: true
-      author_profile: true
   # _pages
   - scope:
       path: "_pages"
@@ -155,7 +153,6 @@ defaults:
       read_time: false
       share: false
       related: false
-      author_profile: true
 
 category_archive:
   type: liquid
@@ -178,15 +175,18 @@ include:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
 exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - .vscode/
+  - .markdownlint.json
+  - _misc/
