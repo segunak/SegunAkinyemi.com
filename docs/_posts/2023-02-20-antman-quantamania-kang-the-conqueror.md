@@ -156,7 +156,7 @@ Thanos would never! At least when we saw him take losses, it was in battles feat
 > <cite>[u/Edelmaan](https://www.reddit.com/r/movies/comments/1148w5a/comment/j8v5agp)</cite>
 
 
-> Kang’s powerset was basically what the plot demanded him to have at the moment.
+> Kang's powerset was basically what the plot demanded him to have at the moment.
 >
 > <cite>[u/octopus_has_friends](https://www.reddit.com/r/movies/comments/1148w5a/comment/j8vl73v)</cite>
 

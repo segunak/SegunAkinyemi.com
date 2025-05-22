@@ -40,13 +40,13 @@ I've developed something of an obsession with smart cities recently and have bee
 
 Of all the articles I've read about smart cities, there's one by Microsoft's [Jeremy M. Goldberg](https://www.linkedin.com/in/jeremymgoldberg/) that stands out for keeping things real. Smart cities are "smart" in part because of how they use technology, but if they're ever going to gain widespread adoption, we've got to first focus on the people behind them. Here's a great quote from the article.
 
-> Still, over the past decade, we have seen some ambitious "smart cities" projects fail. Sometimes technology is treated like a science project, rather than being tied to a specific problem. And sometimes cities aren’t set up to support these projects because they do not have the right people or processes in place. In my experience, data must be at the center of the conversation. Too often it is a secondary consideration.
+> Still, over the past decade, we have seen some ambitious "smart cities" projects fail. Sometimes technology is treated like a science project, rather than being tied to a specific problem. And sometimes cities aren't set up to support these projects because they do not have the right people or processes in place. In my experience, data must be at the center of the conversation. Too often it is a secondary consideration.
 >
 > <cite>[Jeremy M. Goldberg](https://www.microsoft.com/en-us/industry/blog/government/2021/05/12/the-future-of-smart-cities-starts-with-people-not-technology/#:~:text=Still%2C%20over%20the,a%20secondary%20consideration.)</cite>
 
 <div class="meme-container">
   <div class="meme-wrapper">
-    <img src="/assets/images/chefskiss.gif" />
+    <img src="/assets/images/chefskiss.gif" alt="Chef's kiss"/>
   </div>
 </div>
 

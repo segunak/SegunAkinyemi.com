@@ -86,7 +86,7 @@ I'm not the only one whose been questioning what a "god" really is in the MCU. I
 * [What Makes a "god" a "god" in the MCU?](https://www.reddit.com/r/marvelstudios/comments/hjsi3r/what_makes_a_god_a_god_in_the_mcu/)
 * [What Even Are the "gods" Anyway?](https://www.reddit.com/r/marvelstudios/comments/w18fuh/what_even_are_the_gods_anyway/)
 * [So Are "gods" Advanced Aliens or Actual "gods" Now?](https://www.reddit.com/r/marvelstudios/comments/w4dadt/so_are_gods_advanced_aliens_or_actual_gods_now/)
-* [Figuring Out What Makes a "god" in the MCU So Gorr the god Butcher Doesn’t Have to](https://www.polygon.com/23200050/mcu-thor-gods-asgard-eternals-moon-knight-explainer)
+* [Figuring Out What Makes a "god" in the MCU So Gorr the god Butcher Doesn't Have to](https://www.polygon.com/23200050/mcu-thor-gods-asgard-eternals-moon-knight-explainer)
 * [Confused about Eternals vs. Actual Greek "gods" from Thor 4](https://www.reddit.com/r/marvelstudios/comments/w6k9ar/confused_about_eternals_vs_actual_greek_gods_from/)
 * [Tony Stark's Skepticism of Thor as a "god"](https://www.reddit.com/r/marvelstudios/comments/w272tr/comment/igqoza4)
 

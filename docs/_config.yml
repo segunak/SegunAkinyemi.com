@@ -44,7 +44,7 @@ repository: segunak/SegunAkinyemi.com
 minimal_mistakes_skin: air
 minimal_mistakes_skin2: neon
 
-# For pages that don’t have a header.image assigned in their YAML Front Matter, 
+# For pages that don't have a header.image assigned in their YAML Front Matter, 
 # site.og_image (OG is open graph) will be used as a fallback. Use your logo, icon, 
 # avatar or something else that is meaningful. Just make sure it is placed in the 
 # /assets/images/ folder, has a minimum size of 120px by 120px, and is less than 1MB in file size.
