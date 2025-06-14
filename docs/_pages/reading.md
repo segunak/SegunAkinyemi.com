@@ -14,14 +14,14 @@ toc_icon: "book"
 <style>
   @media (min-width: 768px) {
     #frieren {
-        width: 50%
+        width: 70%
     }
   }
 </style>
 
-Welcome to my reading corner! Here you can see what I'm currently reading, what's on my reading list, and the books I've enjoyed, all courtesy of [Goodreads](https://www.goodreads.com/user/show/39852937-segun).
+Welcome to my reading corner! Here you can see what I'm currently reading, what's on my reading list, and the what I've read, all courtesy of [Goodreads](https://www.goodreads.com/user/show/39852937-segun).
 
-These are books that have had me feeling like:
+Among them, you'll find books that had me feeling like:
 
 <div class="meme-container">
   <div id="frieren" class="meme-wrapper">
@@ -29,15 +29,15 @@ These are books that have had me feeling like:
   </div>
 </div>
 
-While others have had me like:
+And others that had me like:
 
 <div class="meme-container">
   <div class="meme-wrapper">
-    <img alt="FrierenReading" src="/assets/images/jimmy-butler-reading.jpg"/>
+    <img alt="JimmyButlerReading" src="/assets/images/jimmy-butler-reading.jpg"/>
   </div>
 </div>
 
-But I read them all the same. Now, just because I read something doesn't mean I liked it or agree with everything said within. Don't go pre-judging me based off my read list here, have a [conversation with me first](/contact).
+Regardless, I read them all the same. Now, just because I read something doesn't mean I liked it or agree with everything said within. Don't go pre-judging me based off my list here, have a [conversation with me first](/contact).
 
 There's a great quote to that effect:
 
