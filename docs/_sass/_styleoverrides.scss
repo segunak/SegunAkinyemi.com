@@ -271,3 +271,182 @@ details p:last-of-type {
   line-height: 1.4;
 }
 
+/* ========================================
+   Reading Page & Goodreads Widget Styling
+   ======================================== */
+
+/* General widget container styling */
+.goodreads-widget-container {
+  margin: 2.5em 0;
+  
+  /* Hide Goodreads noscript content */
+  noscript {
+    display: none;
+  }
+  
+  /* Style the Goodreads logo */
+  center {
+    margin-top: 15px;
+    opacity: 0.6;
+    transition: opacity 0.3s ease;
+    
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
+/* Dark theme overrides for Currently Reading widget */
+.dark-theme {
+  .gr_custom_container_1749914253 {
+    background-color: #252a34 !important;
+    border-color: #c32b72 !important;
+    color: #fff !important;
+  }
+  
+  .gr_custom_header_1749914253 {
+    border-bottom-color: #c32b72 !important;
+    
+    a {
+      color: #c32b72 !important;
+    }
+  }
+  
+  .gr_custom_each_container_1749914253 {
+    border-bottom-color: #444 !important;
+  }
+  
+  .gr_custom_title_1749914253 a {
+    color: #fff !important;
+    
+    &:hover {
+      color: #c32b72 !important;
+    }
+  }
+  
+  .gr_custom_author_1749914253,
+  .gr_custom_author_1749914253 a {
+    color: #ccc !important;
+    
+    &:hover {
+      color: #c32b72 !important;
+    }
+  }
+  
+  .gr_custom_tags_1749914253 {
+    color: #999 !important;
+  }
+}
+
+/* Dark theme overrides for Grid widgets */
+.dark-theme {
+  #gr_grid_widget_1749915188,
+  #gr_grid_widget_1749915101 {
+    h2 {
+      border-bottom-color: #c32b72 !important;
+      
+      a {
+        color: #c32b72 !important;
+      }
+    }
+    
+    .gr_grid_branding {
+      color: #c32b72 !important;
+    }
+    
+    .gr_grid_book_container img {
+      opacity: 0.9;
+      
+      &:hover {
+        opacity: 1;
+      }
+    }
+  }
+}
+
+/* Books posts section styling */
+.books-posts {
+  margin-top: 3em;
+  padding-top: 2em;
+  border-top: 3px solid #0092ca;
+  
+  .archive__item {
+    margin-bottom: 2em;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid #e0e0e0;
+    
+    &:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+  }
+  
+  .archive__item-title {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    font-size: 1.25em;
+    
+    a {
+      color: #333;
+      text-decoration: none;
+      
+      &:hover {
+        color: #0092ca;
+        text-decoration: underline;
+      }
+    }
+  }
+  
+  .page__meta {
+    font-size: 0.875em;
+    color: #666;
+    margin-bottom: 0.5em;
+  }
+  
+  .archive__item-excerpt {
+    font-size: 0.95em;
+    line-height: 1.6;
+    color: #555;
+    margin: 0;
+  }
+}
+
+/* Dark theme books posts styling */
+.dark-theme {
+  .books-posts {
+    border-top-color: #c32b72;
+    
+    .archive__item {
+      border-bottom-color: #444;
+    }
+    
+    .archive__item-title a {
+      color: #fff;
+      
+      &:hover {
+        color: #c32b72;
+      }
+    }
+    
+    .page__meta {
+      color: #ccc;
+    }
+    
+    .archive__item-excerpt {
+      color: #ddd;
+    }
+  }
+}
+
+/* Additional responsive improvements */
+@media (max-width: 600px) {
+  .goodreads-widget-container {
+    margin: 1.5em 0;
+  }
+  
+  .books-posts {
+    margin-top: 2em;
+    padding-top: 1.5em;
+  }
+}
+
