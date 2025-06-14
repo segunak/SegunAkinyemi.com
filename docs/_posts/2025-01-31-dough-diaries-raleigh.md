@@ -37,7 +37,7 @@ Here we are again with another installment in my [Dough Diaries](https://segunak
 
 <div class="meme-container">
   <div class="meme-wrapper">
-    <img src="/assets/images/sydney-the-bear-wtf-look.gif" />
+    <img src="/assets/images/sydney-the-bear-wtf-look.gif" alt="Sydney from The Bear" />
   </div>
 </div>
 
@@ -83,7 +83,7 @@ It's good, but it leans dry. The icing doesn't quite melt into the roll; it stay
 
 <div class="meme-container">
   <div class="meme-wrapper">
-    <img src="/assets/images/NoFromMeDawg.jpg" />
+    <img src="/assets/images/NoFromMeDawg.jpg" alt="Randy from American Idol" />
   </div>
 </div>
 
@@ -123,17 +123,17 @@ I fear my vocabulary is not sufficiently expressive—too meager a vessel, too f
 
 <div class="meme-container">
   <div class="meme-wrapper">
-    <img src="/assets/images/perfection-perfect.gif" />
+    <img src="/assets/images/perfection-perfect.gif" alt="Magneto saying perfection"/>
   </div>
 </div>
 
 I'm nearly brought to tears writing this. The memory alone of their cinnamon roll is enough to stir something deep in my soul. _The Market Bakery_ sits within a humble farmer's market, just a stone's throw from NC State's Centennial Campus. A modest space, shared among many businesses, yet within it lies a treasure, a gift to Raleigh, a gift to pastry lovers the world round, a gift to mankind.  
 
-The cinnamon roll itself is masterfully crafted—soft yet structured, delicate but not flaky like the many croissant-inspired imposters I encountered elsewhere in Raleigh. It holds its form, ensuring the icing seeps into every fold rather than sitting stiffly on top. Or, put another way, it is... 
+The cinnamon roll itself is masterfully crafted—soft yet structured, delicate but not flaky like the many croissant-inspired imposters I encountered elsewhere in Raleigh. It holds its form, ensuring the icing seeps into every fold rather than sitting stiffly on top. Or, put another way, it is...
 
 <div class="meme-container">
   <div class="meme-wrapper">
-    <img src="/assets/images/perfectly-balanced-meme.jpg" />
+    <img src="/assets/images/perfectly-balanced-meme.jpg" alt="Thanos perfectly balanced" />
   </div>
 </div>
 
@@ -203,7 +203,7 @@ Lo and behold, they had one left. I devoured it with joy.
 
 ## Iris Coffee Lab  
 
-This was…fine. Nothing remarkable, nothing offensive—just a standard cinnamon roll that likely comes from a local bakery rather than being made in-house. If you're already at Iris for coffee, it's a serviceable pairing, but it's not the kind of cinnamon roll that would inspire an impassioned blog post (or even an impassioned sentence). 
+This was…fine. Nothing remarkable, nothing offensive—just a standard cinnamon roll that likely comes from a local bakery rather than being made in-house. If you're already at Iris for coffee, it's a serviceable pairing, but it's not the kind of cinnamon roll that would inspire an impassioned blog post (or even an impassioned sentence).
 
 If you're on a dedicated cinnamon roll hunt, I wouldn't go out of my way for this one. This is an excellent place to hangout and work/study though. Really great access to outlets, good coffee & tea, enough seating to feel confident about finding a spot, and energizing vibes with how bright they keep it.
 
@@ -211,7 +211,7 @@ If you're on a dedicated cinnamon roll hunt, I wouldn't go out of my way for thi
 
 ## Gloria Jean's Coffee  
 
-This is almost certainly a [Big Texas Cinnamon Roll](https://www.google.com/search?q=big+texas+cinnamon+roll)—the kind you find at gas stations, vending machines, and certain hotel lobbies that try just a little too hard with their continental breakfast. You know exactly what you're getting: a cinnamon roll-shaped sugar bomb with icing that's been fused into the pastry like a fossilized relic of artificial sweetness. Serviceable? Sure. Worth a dedicated visit? Not at all. 
+This is almost certainly a [Big Texas Cinnamon Roll](https://www.google.com/search?q=big+texas+cinnamon+roll)—the kind you find at gas stations, vending machines, and certain hotel lobbies that try just a little too hard with their continental breakfast. You know exactly what you're getting: a cinnamon roll-shaped sugar bomb with icing that's been fused into the pastry like a fossilized relic of artificial sweetness. Serviceable? Sure. Worth a dedicated visit? Not at all.
 
 If you're near Gloria Jean's and need a quick caffeine boost, go for the coffee. If you're after a cinnamon roll, walk away. And to be clear, this is a great coffee shop, it manages to be an oasis within a rather busy mall, it's just not a cinnamon roll standout.
 
@@ -229,7 +229,7 @@ While I didn't get the chance to visit most of these spots, they came highly rec
 
 - [**Craft Public House**](https://maps.app.goo.gl/iogFo69QTeJCAxVW9): A local favorite, especially for brunch. I've heard good things about their pastries, and their cinnamon rolls are said to be a standout. If you're in Cary, it's a spot to keep on your radar.
 
-- [**A Place at the Table**](https://maps.app.goo.gl/hmA4JvrB7XiurR3b6): This spot is one of a kind. _A Place at the Table_ is a **pay-what-you-can café**, meaning you pay what you’re able, pay it forward for someone else, or volunteer in exchange for a meal. It’s about community, dignity, and making good food accessible to everyone. I actually made it here, but it was near closing, and they were out of cinnamon rolls. A tragedy. If you go and manage to get one, report back!
+- [**A Place at the Table**](https://maps.app.goo.gl/hmA4JvrB7XiurR3b6): This spot is one of a kind. _A Place at the Table_ is a **pay-what-you-can café**, meaning you pay what you're able, pay it forward for someone else, or volunteer in exchange for a meal. It's about community, dignity, and making good food accessible to everyone. I actually made it here, but it was near closing, and they were out of cinnamon rolls. A tragedy. If you go and manage to get one, report back!
 
 - [**Yellow Dog Bread Company**](https://maps.app.goo.gl/5jVHMwUNNnZek65y9): This bakery has a reputation for its pastries and neighborhood café vibe. Their cinnamon rolls get a lot of love from the locals, and they were on my list—I just ran out of time.
 
@@ -243,6 +243,6 @@ That said, this was a lot of writing, and I'm tired. If you actually read this e
 
 <div class="meme-container">
   <div class="meme-wrapper">
-    <img src="/assets/images/sydney-the-bear-laptop-close.gif" />
+    <img src="/assets/images/sydney-the-bear-laptop-close.gif" alt="Syndey from The Bear" />
   </div>
 </div>

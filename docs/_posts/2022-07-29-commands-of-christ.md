@@ -583,7 +583,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Luke 5:27](https://www.biblegateway.com/passage/?search=Luke5:27&version=NKJV){:target="_blank"}</cite>
 
 
-> Blessed are you when men hate you, and when they exclude you, and revile you, and cast out your name as evil, for the Son of Man’s sake. Rejoice in that day and leap for joy! For indeed your reward is great in heaven, For in like manner their fathers did to the prophets.
+> Blessed are you when men hate you, and when they exclude you, and revile you, and cast out your name as evil, for the Son of Man's sake. Rejoice in that day and leap for joy! For indeed your reward is great in heaven, For in like manner their fathers did to the prophets.
 >
 > <cite>[Luke 6:22-23](https://www.biblegateway.com/passage/?search=Luke6:22-23&version=NKJV){:target="_blank"}</cite>
 
@@ -613,7 +613,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Luke 6:38](https://www.biblegateway.com/passage/?search=Luke6:38&version=NKJV){:target="_blank"}</cite>
 
 
-> And why do you look at the speck in your brother’s eye, but do not perceive the plank in your own eye? Or how can you say to your brother, 'Brother, let me remove the speck that is in your eye,' when you yourself do not see the plank that is in your own eye? Hypocrite! First remove the plank from your own eye, and then you will see clearly to remove the speck that is in your brother’s eye.
+> And why do you look at the speck in your brother's eye, but do not perceive the plank in your own eye? Or how can you say to your brother, 'Brother, let me remove the speck that is in your eye,' when you yourself do not see the plank that is in your own eye? Hypocrite! First remove the plank from your own eye, and then you will see clearly to remove the speck that is in your brother's eye.
 >
 > <cite>[Luke 6:41-42](https://www.biblegateway.com/passage/?search=Luke6:41-42&version=NKJV){:target="_blank"}</cite>
 
@@ -713,7 +713,7 @@ If there's a command you were expecting to see but didn't; or one you see below 
 > <cite>[Luke 12:29-31](https://www.biblegateway.com/passage/?search=Luke12:29-31&version=NKJV){:target="_blank"}</cite>
 
 
-> Do not fear, little flock, for it is your Father’s good pleasure to give you the kingdom. Sell what you have and give alms; provide yourselves money bags which do not grow old, a treasure in the heavens that does not fail, where no thief approaches nor moth destroys. For where your treasure is, there your heart will be also.
+> Do not fear, little flock, for it is your Father's good pleasure to give you the kingdom. Sell what you have and give alms; provide yourselves money bags which do not grow old, a treasure in the heavens that does not fail, where no thief approaches nor moth destroys. For where your treasure is, there your heart will be also.
 >
 > <cite>[Luke 12:32-34](https://www.biblegateway.com/passage/?search=Luke12:32-34&version=NKJV){:target="_blank"}</cite>
 

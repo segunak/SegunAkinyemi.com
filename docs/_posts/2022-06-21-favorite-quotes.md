@@ -110,7 +110,7 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 > <cite>[Archbishop Charles Caput](https://catholicphilly.com/2017/07/homilies-speeches/whats-next-catholics-america-and-a-world-made-new/)</cite>
 
 
-> For what it’s worth: it’s never too late or, in my case, too early to be whoever you want to be. There’s no time limit, stop whenever you want. You can change or stay the same, there are no rules to this thing. We can make the best or the worst of it. I hope you make the best of it. And I hope you see things that startle you. I hope you feel things you never felt before. I hope you meet people with a different point of view. I hope you live a life you’re proud of. And if you find that you’re not, I hope you have the courage to start all over again
+> For what it's worth: it's never too late or, in my case, too early to be whoever you want to be. There's no time limit, stop whenever you want. You can change or stay the same, there are no rules to this thing. We can make the best or the worst of it. I hope you make the best of it. And I hope you see things that startle you. I hope you feel things you never felt before. I hope you meet people with a different point of view. I hope you live a life you're proud of. And if you find that you're not, I hope you have the courage to start all over again
 >
 > <cite>[Francis Scott Fitzgerald](https://www.goodreads.com/quotes/7452670-for-what-it-s-worth-it-s-never-too-late-or-in)</cite>
 
@@ -165,9 +165,9 @@ All that being said, enjoy the rest of some of my favorite quotes below!
 > <cite>[The Vision in "Avengers: Age of Ultron"](https://www.youtube.com/watch?v=SrSNQCa-C7A)</cite>
 
 
-> What is grief, if not love persevering?
+> For who is greater, he who sits at the table, or he who serves? Is it not he who sits at the table? Yet I am among you as the One who serves.
 >
-> <cite>[The Vision in "WandaVision"](https://www.youtube.com/watch?v=y6y0Dhj783w)</cite>
+> <cite>[Luke 22:27](https://www.biblegateway.com/passage/?search=Luke%2022%3A27&version=NKJV)</cite>
 
 
 > But suppose I had found a watch upon the ground, and it should be inquired how the watch happened to be in that place. Its mechanism being observed, the inference, we think, is inevitable, that the watch must have had a maker: that there must have existed, at some time, and at some place or other, an artificer or artificers who formed it for the purpose which we find it actually to answer; who comprehended its construction, and designed its use.
