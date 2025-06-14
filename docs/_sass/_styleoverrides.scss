@@ -279,11 +279,6 @@ details p:last-of-type {
 .goodreads-widget-container {
   margin: 2.5em 0;
   
-  /* Hide Goodreads noscript content */
-  noscript {
-    display: none;
-  }
-  
   /* Style the Goodreads logo */
   center {
     margin-top: 15px;
@@ -298,13 +293,13 @@ details p:last-of-type {
 
 /* Dark theme overrides for Currently Reading widget */
 .dark-theme {
-  .gr_custom_container_1749914253 {
+  .gr_custom_container_1749931503 {
     background-color: #252a34 !important;
     border-color: #f21368 !important;
     color: #fff !important;
   }
   
-  .gr_custom_header_1749914253 {
+  .gr_custom_header_1749931503 {
     border-bottom-color: #f21368 !important;
     
     a {
@@ -312,11 +307,11 @@ details p:last-of-type {
     }
   }
   
-  .gr_custom_each_container_1749914253 {
+  .gr_custom_each_container_1749931503 {
     border-bottom-color: #444 !important;
   }
   
-  .gr_custom_title_1749914253 a {
+  .gr_custom_title_1749931503 a {
     color: #fff !important;
     
     &:hover {
@@ -324,8 +319,8 @@ details p:last-of-type {
     }
   }
   
-  .gr_custom_author_1749914253,
-  .gr_custom_author_1749914253 a {
+  .gr_custom_author_1749931503,
+  .gr_custom_author_1749931503 a {
     color: #ccc !important;
     
     &:hover {
@@ -333,7 +328,7 @@ details p:last-of-type {
     }
   }
   
-  .gr_custom_tags_1749914253 {
+  .gr_custom_tags_1749931503 {
     color: #999 !important;
   }
 }
@@ -341,7 +336,7 @@ details p:last-of-type {
 /* Dark theme overrides for Grid widgets */
 .dark-theme {
   #gr_grid_widget_1749915188,
-  #gr_grid_widget_1749915101 {
+  #gr_grid_widget_1749920056 {
     h2 {
       border-bottom-color: #f21368 !important;
       
