@@ -3,8 +3,13 @@ layout: single
 title: "My Reading Corner"
 permalink: /reading/
 author_profile: true
-classes: wide
+toc: true
+toc_sticky: true
+toc_label: "On This Page"
+toc_icon: "book"
 ---
+
+<script src="/assets/js/dynamic-link-targeting.js"></script>
 
 <style>
   @media (min-width: 768px) {
@@ -16,7 +21,7 @@ classes: wide
 
 Welcome to my reading corner! Here you can see what I'm currently reading, what's on my reading list, and the books I've enjoyed, all courtesy of [Goodreads](https://www.goodreads.com/user/show/39852937-segun).
 
-These are books that have at times had me feeling like:
+These are books that have had me feeling like:
 
 <div class="meme-container">
   <div id="frieren" class="meme-wrapper">
@@ -24,7 +29,7 @@ These are books that have at times had me feeling like:
   </div>
 </div>
 
-Whie other books had me like:
+While others have had me like:
 
 <div class="meme-container">
   <div class="meme-wrapper">
@@ -32,15 +37,17 @@ Whie other books had me like:
   </div>
 </div>
 
-But I read them all the same. I say taht to say, just because I read someting doesn't mean liked it or agree with everyhting said within. Don't go judging me based on the list here, have a [conversatinon first](/contact). There's a great quote to that effect.
+But I read them all the same. Now, just because I read something doesn't mean I liked it or agree with everything said within. Don't go pre-judging me based off my read list here, have a [conversation with me first](/contact).
+
+There's a great quote to that effect:
 
 > It is the mark of an educated mind to be able to entertain a thought without accepting it.
 >
 > <cite>[Aristotle](https://en.wikiquote.org/wiki/Aristotle#:~:text=It%20is%20the%20mark%20of%20an%20educated%20mind%20to%20be%20able%20to%20entertain%20a%20thought%20without%20accepting%20it.)</cite>
 
-You're not going to get very far if you only read things you already know you'll agree with, got to branch out. So, keep that in mind as you scrooll through, but overall, I like most of wfhat i read, and I hope the same is true for you!
+If you only read stuff you already agree with, you won't grow much intellectually. Branching out is how you learn, sometimes to change your perspective, and other times to confirm that what you believe is right and true, so keep that in mind as you scroll through. But overall, I like most of what I read, and I hope the same is true for you!
 
-_**Nerd Note:** The gif above of the Elf character sipping tea and reading is from the anime [Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren), which I highly recccomende for both seasoned anime watchers and those getting into things alike. If you've seen Violet Evergarden, it shares the same composer, Evan Call, who creates such a soothing peaceful scroe, nearly every song and moment makes you feel exactly like that gif, wanting to nestle in somewhere, grab a tea, and read a good book. It's a [slice fo life anime](https://www.google.com/search?q=What+is+a+slice+of+life+anime), so no Dragon Ball Z or Naruto (or I guess My Hero Acadmeia for the younger crowd) level fights. IT's about life, friendship, the maning of things, seriously, ccheck it out!_
+_**Nerd Note:** The gif above of the elf character is from the anime [Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren), which I highly recommend for both seasoned anime watchers and those just getting into things alike. If you've seen [Violet Evergarden](https://en.wikipedia.org/wiki/Violet_Evergarden), it shares the same composer, [Evan Call](https://en.wikipedia.org/wiki/Evan_Call), who consistently creates incredibly soothing, peaceful, and sanguine scores. Nearly every song makes you feel exactly like that gif, wanting to nestle in somewhere, grab a tea, and read a good book. It's a [slice of life anime](https://www.google.com/search?q=What+is+a+slice+of+life+anime), so no [Dragon Ball Z](https://en.wikipedia.org/wiki/Dragon_Ball_Z) level fights. It's about life, friendship, and the meaning of things, presented in a way that makes you introspective, appreciative of life, and aware of how precious time is and how we can't afford to waste it. Seriously, check it out. And if you need more convincing, [watch this YouTube video](https://www.youtube.com/watch?v=FJ8-7LXa-8A) for even more inspiration._
 {: .notice--warning}
 
 ## Currently Reading
@@ -57,17 +64,7 @@ _**Nerd Note:** The gif above of the Elf character sipping tea and reading is fr
       transition: all 0.3s ease;
     }
     .gr_custom_header_1749914253 {
-      border-bottom: 2px solid #0092ca;
-      width: 100%;
-      margin-bottom: 15px;
-      text-align: center;
-      font-size: 1.3em;
-      padding-bottom: 10px;
-    }
-    .gr_custom_header_1749914253 a {
-      color: #0092ca !important;
-      text-decoration: none !important;
-      font-weight: 600;
+      display: none !important;
     }
     .gr_custom_each_container_1749914253 {
       width: 100%;
@@ -153,15 +150,12 @@ _**Nerd Note:** The gif above of the Elf character sipping tea and reading is fr
 
   <div id="gr_custom_widget_1749914253">
     <div class="gr_custom_container_1749914253">
-      <h2 class="gr_custom_header_1749914253">
-        <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/39852937-segun?shelf=currently-reading&amp;utm_medium=api&amp;utm_source=custom_widget">What's Open on My Desk</a>
-      </h2>
       <div class="gr_custom_each_container_1749914253">
         <div class="gr_custom_book_container_1749914253">
           <a title="Things Fall Apart (The African Trilogy, #1)" rel="nofollow" href="https://www.goodreads.com/review/show/4285460871?utm_medium=api&amp;utm_source=custom_widget"><img alt="Things Fall Apart" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708114013l/37781._SX98_.jpg" /></a>
         </div>
         <div class="gr_custom_rating_1749914253">
-          <span class=" staticStars notranslate"><img src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+          <span class=" staticStars notranslate"><img alt="inactive" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
         </div>
         <div class="gr_custom_title_1749914253">
           <a rel="nofollow" href="https://www.goodreads.com/review/show/4285460871?utm_medium=api&amp;utm_source=custom_widget">Things Fall Apart</a>
@@ -185,7 +179,7 @@ _**Nerd Note:** The gif above of the Elf character sipping tea and reading is fr
   <script src="https://www.goodreads.com/review/custom_widget/39852937.Segun's%20Bookshelf:%20Currently%20Reading?cover_position=left&cover_size=medium&num_books=20&order=a&shelf=currently-reading&show_author=1&show_cover=1&show_rating=1&show_review=1&show_tags=1&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1749914253&widget_text_color=000000&widget_title_size=large&widget_width=full" type="text/javascript" charset="utf-8"></script>
 </div>
 
-## On My Reading List
+## To Read
 
 <div class="goodreads-widget-container to-read-widget">
   <style type="text/css" media="screen">
@@ -194,16 +188,7 @@ _**Nerd Note:** The gif above of the Elf character sipping tea and reading is fr
       margin: 20px 0;
     }
     #gr_grid_widget_1749915188 h2 {
-      font-size: 1.3em;
-      margin-bottom: 20px;
-      padding-bottom: 10px;
-      border-bottom: 2px solid #0092ca;
-      text-align: center;
-    }
-    #gr_grid_widget_1749915188 h2 a {
-      color: #0092ca !important;
-      text-decoration: none !important;
-      font-weight: 600;
+      display: none !important;
     }
     #gr_grid_widget_1749915188 .gr_grid_book_container {
       float: left;
@@ -243,9 +228,6 @@ _**Nerd Note:** The gif above of the Elf character sipping tea and reading is fr
     }
   </style>
   <div id="gr_grid_widget_1749915188">
-    <h2>
-      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/39852937-segun?shelf=to-read&utm_medium=api&utm_source=grid_widget">Books I'm Excited to Read</a>
-    </h2>
     <div class="gr_grid_container">
       <div class="gr_grid_book_container"><a title="Watership Down (Watership Down, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/76620.Watership_Down"><img alt="Watership Down" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931l/76620._SX98_.jpg" /></a></div>
       <div class="gr_grid_book_container"><a title="Pride and Prejudice" rel="nofollow" href="https://www.goodreads.com/book/show/1885.Pride_and_Prejudice"><img alt="Pride and Prejudice" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351l/1885._SX98_.jpg" /></a></div>
@@ -266,7 +248,7 @@ _**Nerd Note:** The gif above of the Elf character sipping tea and reading is fr
       <div class="gr_grid_book_container"><a title="Rogue (The Paladin Prophecy, #3)" rel="nofollow" href="https://www.goodreads.com/book/show/23770294-rogue"><img alt="Rogue" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427521407l/23770294._SX98_.jpg" /></a></div>
       <div class="gr_grid_book_container"><a title="Alibaba: The House That Jack Ma Built" rel="nofollow" href="https://www.goodreads.com/book/show/25817524-alibaba"><img alt="Alibaba: The House That Jack Ma Built" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442823028l/25817524._SX98_.jpg" /></a></div>
       <div class="gr_grid_book_container"><a title="Hard Times" rel="nofollow" href="https://www.goodreads.com/book/show/5344.Hard_Times"><img alt="Hard Times" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631982866l/5344._SX98_.jpg" /></a></div>      <div class="gr_grid_book_container"><a title="War and Peace" rel="nofollow" href="https://www.goodreads.com/book/show/656.War_and_Peace"><img alt="War and Peace" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413215930l/656._SX98_.jpg" /></a></div>
-      <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/39852937-segun">Segun's favorite books »</a>
+      <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/39852937-segun">My Goodreads Profile »</a>
       <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Segun, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
     </div>
   </div>
@@ -277,23 +259,14 @@ _**Nerd Note:** The gif above of the Elf character sipping tea and reading is fr
 
 <div class="goodreads-widget-container read-widget">
   <style type="text/css" media="screen">
-    #gr_grid_widget_1749915101 .gr_grid_container {
+    #gr_grid_widget_1749920056 .gr_grid_container {
       width: 100%;
       margin: 20px 0;
     }
-    #gr_grid_widget_1749915101 h2 {
-      font-size: 1.3em;
-      margin-bottom: 20px;
-      padding-bottom: 10px;
-      border-bottom: 2px solid #0092ca;
-      text-align: center;
+    #gr_grid_widget_1749920056 h2 {
+      display: none !important;
     }
-    #gr_grid_widget_1749915101 h2 a {
-      color: #0092ca !important;
-      text-decoration: none !important;
-      font-weight: 600;
-    }
-    #gr_grid_widget_1749915101 .gr_grid_book_container {
+    #gr_grid_widget_1749920056 .gr_grid_book_container {
       float: left;
       width: 98px;
       height: 160px;
@@ -301,39 +274,36 @@ _**Nerd Note:** The gif above of the Elf character sipping tea and reading is fr
       overflow: hidden;
       margin: 0 10px 15px 0;
     }
-    #gr_grid_widget_1749915101 .gr_grid_book_container img {
+    #gr_grid_widget_1749920056 .gr_grid_book_container img {
       width: 100%;
       height: auto;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
       transition: all 0.3s ease;
     }
-    #gr_grid_widget_1749915101 .gr_grid_book_container:hover img {
+    #gr_grid_widget_1749920056 .gr_grid_book_container:hover img {
       transform: scale(1.05);
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     }
-    #gr_grid_widget_1749915101 .gr_grid_branding {
+    #gr_grid_widget_1749920056 .gr_grid_branding {
       color: #0092ca !important;
       font-weight: 500;
     }
     
     /* Responsive grid */
     @media (max-width: 768px) {
-      #gr_grid_widget_1749915101 .gr_grid_book_container {
+      #gr_grid_widget_1749920056 .gr_grid_book_container {
         width: calc(25% - 10px);
         height: auto;
         margin: 0 5px 10px;
       }
     }
     @media (max-width: 480px) {
-      #gr_grid_widget_1749915101 .gr_grid_book_container {
+      #gr_grid_widget_1749920056 .gr_grid_book_container {
         width: calc(33.33% - 10px);
       }
     }
   </style>
-  <div id="gr_grid_widget_1749915101">
-    <h2>
-      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/39852937-segun?shelf=read&utm_medium=api&utm_source=grid_widget">Books I've Enjoyed</a>
-    </h2>
+  <div id="gr_grid_widget_1749920056">
     <div class="gr_grid_container">
       <div class="gr_grid_book_container"><a title="Graceling (Graceling Realm, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/3236307-graceling"><img alt="Graceling" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331548394l/3236307._SX98_.jpg" /></a></div>
       <div class="gr_grid_book_container"><a title="The Long Cosmos (The Long Earth, #5)" rel="nofollow" href="https://www.goodreads.com/book/show/25859268-the-long-cosmos"><img alt="The Long Cosmos" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458942707l/25859268._SX98_.jpg" /></a></div>
@@ -354,16 +324,18 @@ _**Nerd Note:** The gif above of the Elf character sipping tea and reading is fr
       <div class="gr_grid_book_container"><a title="The Power of I Am: Two Words That Will Change Your Life Today" rel="nofollow" href="https://www.goodreads.com/book/show/24820022-the-power-of-i-am"><img alt="The Power of I Am: Two Words That Will Change Your Life Today" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435615321l/24820022._SX98_.jpg" /></a></div>
       <div class="gr_grid_book_container"><a title="Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future" rel="nofollow" href="https://www.goodreads.com/book/show/25541028-elon-musk"><img alt="Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SX98_.jpg" /></a></div>
       <div class="gr_grid_book_container"><a title="Golden Son (Red Rising Saga, #2)" rel="nofollow" href="https://www.goodreads.com/book/show/18966819-golden-son"><img alt="Golden Son" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394684475l/18966819._SX98_.jpg" /></a></div>      <div class="gr_grid_book_container"><a title="The Scorch Trials (The Maze Runner, #2)" rel="nofollow" href="https://www.goodreads.com/book/show/7631105-the-scorch-trials"><img alt="The Scorch Trials" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388240248l/7631105._SX98_.jpg" /></a></div>
-      <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/39852937-segun">Segun's favorite books »</a>
+      <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/39852937-segun">My Goodreads Profile »</a>
       <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Segun, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
     </div>
   </div>
-  <script src="https://www.goodreads.com/review/grid_widget/39852937.Segun's%20Bookshelf:%20Read?cover_size=medium&hide_link=&hide_title=&num_books=200&order=a&shelf=read&sort=random&widget_id=1749915101" type="text/javascript" charset="utf-8"></script>
+  <script src="https://www.goodreads.com/review/grid_widget/39852937.Segun's%20Bookshelf:%20Read?cover_size=medium&hide_link=&hide_title=&num_books=200&order=d&shelf=read&sort=date_read&widget_id=1749920056" type="text/javascript" charset="utf-8"></script>
 </div>
 
 ## My Writing About Books
 
 Check out some of my thoughts, reviews, and reflections on books I've read:
+
+---
 
 <div class="books-posts">
   {% assign books_posts = site.tags.books | sort: 'date' | reverse %}

@@ -366,10 +366,6 @@ details p:last-of-type {
 
 /* Books posts section styling */
 .books-posts {
-  margin-top: 3em;
-  padding-top: 2em;
-  border-top: 3px solid #0092ca;
-  
   .archive__item {
     margin-bottom: 2em;
     padding-bottom: 1.5em;
@@ -414,8 +410,6 @@ details p:last-of-type {
 /* Dark theme books posts styling */
 .dark-theme {
   .books-posts {
-    border-top-color: #c32b72;
-    
     .archive__item {
       border-bottom-color: #444;
     }
@@ -442,11 +436,6 @@ details p:last-of-type {
 @media (max-width: 600px) {
   .goodreads-widget-container {
     margin: 1.5em 0;
-  }
-  
-  .books-posts {
-    margin-top: 2em;
-    padding-top: 1.5em;
   }
 }
 
