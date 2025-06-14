@@ -300,15 +300,15 @@ details p:last-of-type {
 .dark-theme {
   .gr_custom_container_1749914253 {
     background-color: #252a34 !important;
-    border-color: #c32b72 !important;
+    border-color: #f21368 !important;
     color: #fff !important;
   }
   
   .gr_custom_header_1749914253 {
-    border-bottom-color: #c32b72 !important;
+    border-bottom-color: #f21368 !important;
     
     a {
-      color: #c32b72 !important;
+      color: #f21368 !important;
     }
   }
   
@@ -320,7 +320,7 @@ details p:last-of-type {
     color: #fff !important;
     
     &:hover {
-      color: #c32b72 !important;
+      color: #f21368 !important;
     }
   }
   
@@ -329,7 +329,7 @@ details p:last-of-type {
     color: #ccc !important;
     
     &:hover {
-      color: #c32b72 !important;
+      color: #f21368 !important;
     }
   }
   
@@ -343,15 +343,15 @@ details p:last-of-type {
   #gr_grid_widget_1749915188,
   #gr_grid_widget_1749915101 {
     h2 {
-      border-bottom-color: #c32b72 !important;
+      border-bottom-color: #f21368 !important;
       
       a {
-        color: #c32b72 !important;
+        color: #f21368 !important;
       }
     }
     
     .gr_grid_branding {
-      color: #c32b72 !important;
+      color: #f21368 !important;
     }
     
     .gr_grid_book_container img {
@@ -360,74 +360,6 @@ details p:last-of-type {
       &:hover {
         opacity: 1;
       }
-    }
-  }
-}
-
-/* Books posts section styling */
-.books-posts {
-  .archive__item {
-    margin-bottom: 2em;
-    padding-bottom: 1.5em;
-    border-bottom: 1px solid #e0e0e0;
-    
-    &:last-child {
-      border-bottom: none;
-      padding-bottom: 0;
-    }
-  }
-  
-  .archive__item-title {
-    margin-top: 0;
-    margin-bottom: 0.5em;
-    font-size: 1.25em;
-    
-    a {
-      color: #333;
-      text-decoration: none;
-      
-      &:hover {
-        color: #0092ca;
-        text-decoration: underline;
-      }
-    }
-  }
-  
-  .page__meta {
-    font-size: 0.875em;
-    color: #666;
-    margin-bottom: 0.5em;
-  }
-  
-  .archive__item-excerpt {
-    font-size: 0.95em;
-    line-height: 1.6;
-    color: #555;
-    margin: 0;
-  }
-}
-
-/* Dark theme books posts styling */
-.dark-theme {
-  .books-posts {
-    .archive__item {
-      border-bottom-color: #444;
-    }
-    
-    .archive__item-title a {
-      color: #fff;
-      
-      &:hover {
-        color: #c32b72;
-      }
-    }
-    
-    .page__meta {
-      color: #ccc;
-    }
-    
-    .archive__item-excerpt {
-      color: #ddd;
     }
   }
 }

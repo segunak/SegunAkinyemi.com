@@ -127,7 +127,7 @@ _**Nerd Note:** The gif above of the elf character is from the anime [Frieren: B
       float: right;
       margin-top: 5px;
     }
-    
+
     /* Mobile responsive */
     @media (max-width: 600px) {
       .gr_custom_book_container_1749914253 {
@@ -212,7 +212,7 @@ _**Nerd Note:** The gif above of the elf character is from the anime [Frieren: B
       color: #0092ca !important;
       font-weight: 500;
     }
-    
+
     /* Responsive grid */
     @media (max-width: 768px) {
       #gr_grid_widget_1749915188 .gr_grid_book_container {
@@ -288,7 +288,7 @@ _**Nerd Note:** The gif above of the elf character is from the anime [Frieren: B
       color: #0092ca !important;
       font-weight: 500;
     }
-    
+
     /* Responsive grid */
     @media (max-width: 768px) {
       #gr_grid_widget_1749920056 .gr_grid_book_container {
@@ -337,7 +337,7 @@ Check out some of my thoughts, reviews, and reflections on books I've read:
 
 ---
 
-<div class="books-posts">
+<div>
   {% assign books_posts = site.tags.books | sort: 'date' | reverse %}
   {% if books_posts.size > 0 %}
     {% for post in books_posts %}
