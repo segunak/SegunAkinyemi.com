@@ -224,7 +224,7 @@ _**Nerd Note:** The gif above of the elf character is from the anime [Frieren: B
   <script src="https://www.goodreads.com/review/grid_widget/39852937.Segun's%20Bookshelf:%20To%20Read?cover_size=medium&hide_link=&hide_title=&num_books=200&order=d&shelf=to-read&sort=date_added&widget_id=1749915188" type="text/javascript" charset="utf-8"></script>
 </div>
 
-## Recently Read
+## Already Read
 
 <div class="goodreads-widget-container read-widget">
   <style type="text/css" media="screen">
