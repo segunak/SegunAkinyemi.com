@@ -1,7 +1,13 @@
 ---
 layout: single
 title: "My Reading Corner"
+excerpt: "A curated glimpse into my literary adventures."
 permalink: /reading/
+header:
+  teaser: /assets/images/cozy-reading-nook.jpeg
+  og_image: /assets/images/cozy-reading-nook.jpeg
+  overlay_image: /assets/images/cozy-reading-nook.jpeg
+  overlay_filter: 0.6
 author_profile: true
 toc: true
 toc_sticky: true
@@ -10,6 +16,19 @@ toc_icon: "book"
 ---
 
 <script src="/assets/js/dynamic-link-targeting.js"></script>
+
+<style>
+  .page__hero--overlay {
+      padding: 8em 0;
+  }
+
+    /* Apply styles only on tablets and larger devices */
+    @media (min-width: 768px) {
+        .page__hero--overlay {
+            padding: 10em 0;
+        }
+    }
+</style>
 
 Welcome to my reading corner! Here you can see what I'm currently reading, what's on my reading list, and what I've read, all courtesy of my [Goodreads profile](https://www.goodreads.com/user/show/39852937-segun).
 
