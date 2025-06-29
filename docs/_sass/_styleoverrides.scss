@@ -64,19 +64,21 @@ blockquote {
 
 .archive__item-teaser img {
   width: 100%;
-  height: 100%;
-  object-fit: fill;
-}
+  object-fit: cover;
 
-.archive__item-teaser {
-  @include breakpoint($small) {
+  @media (max-width: 480px) {
     max-height: none;
-    height: 220px;
+    height: 220px !important;
   }
 
-  @include breakpoint($medium) {
+  @media (min-width: 481px) and (max-width: 900px) {
     max-height: none;
-    height: 140px;
+    height: 140px !important;
+  }
+
+  @media (min-width: 901px) {
+    max-height: none;
+    height: 120px !important;
   }
 }
 
