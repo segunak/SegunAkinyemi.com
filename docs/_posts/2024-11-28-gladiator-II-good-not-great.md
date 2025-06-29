@@ -1,7 +1,7 @@
 ---
 title: "At Least I Was Entertained: Gladiator II Was Good, But It Could Have Been Great"
 excerpt: "A smorgasbord of Denzel Washington was more than enough to keep me entertained, but a curious central conflict, a lethargic leading man, and over-reliance on nostalgia left Gladiator II a pale reflection of the original masterpiece."
-last_modified_at: 2024-12-02T16:19:15
+last_modified_at: 2025-06-29T01:03:01
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
@@ -40,7 +40,7 @@ tags:
     }
 </style>
 
-**Warning:** This article contains spoilers for *Gladiator II*. Don't read it if you want to go in blind. The [TL;DR](https://en.wikipedia.org/wiki/TL;DR) is "it was good, not great". Also, this isn't like a concise New York Times style review. I'm in here just saying [stuff and thangs](https://www.urbandictionary.com/define.php?term=stuff%20and%20thangs), so if you want a short sweet review, read [this](https://variety.com/2024/film/reviews/gladiator-2-review-paul-mescal-denzel-washington-pedro-pascal-ridley-scott-1236204115/) instead.
+**Warning:** This article contains spoilers for *Gladiator II*. Don't read it if you want to go in blind. The [TL;DR](https://en.wikipedia.org/wiki/TL;DR) is "it was good, not great". Also, this isn't like a concise New York Times style review. I'm in here just saying [stuff and thangs](https://www.google.com/search?q=stuff+and+thangs+rick+grimes+the+walking+dead), so if you want a short sweet review, read [this](https://variety.com/2024/film/reviews/gladiator-2-review-paul-mescal-denzel-washington-pedro-pascal-ridley-scott-1236204115/) instead.
 {: .notice--warning}
 
 ## I Was Entertained

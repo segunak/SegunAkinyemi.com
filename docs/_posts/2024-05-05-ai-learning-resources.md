@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "robot"
-last_modified_at: 2024-12-17T00:22:43
+last_modified_at: 2025-06-29T01:03:01
 header:
   teaser: /assets/images/aieducation.jpg
 categories:
@@ -140,7 +140,7 @@ To truly understand the inner workings of LLM's, there's no substitute for imple
 
 ### Python + AI
 
-Python is [the programming language of AI](https://en.wikipedia.org/wiki/List_of_programming_languages_for_artificial_intelligence), so getting familiar with is worthwhile. These resources center on writing Python code to do stuff ([and thangs](https://www.urbandictionary.com/define.php?term=stuff%20and%20thangs)) with AI. If you're not familiar with Python, [Google's Python Class](https://developers.google.com/edu/python) is a good place to start.
+Python is [the programming language of AI](https://en.wikipedia.org/wiki/List_of_programming_languages_for_artificial_intelligence), so getting familiar with is worthwhile. These resources center on writing Python code to do [stuff and thangs](https://www.google.com/search?q=stuff+and+thangs+rick+grimes+the+walking+dead) with AI. If you're not familiar with Python, [Google's Python Class](https://developers.google.com/edu/python) is a good place to start.
 
 > **OpenAI:** [API Developer Quickstart](https://platform.openai.com/docs/quickstart)
 >
@@ -151,7 +151,7 @@ Quick and easy, this tutorial takes you through what you need to know to peel ba
 
 > **Déborah Mesquita:** [Python AI: How to Build a Neural Network & Make Predictions](https://realpython.com/python-ai-neural-network/)
 >
-[Real Python](https://realpython.com/) is a blog that puts out great learning resources, ranging from beginner to advanced, for coding with Python. [Déborah Mesquita](https://deborahmesquita.com/) is a data scientist and member of the Real Python blogging team. She's written a great article that walks you through building a neural network—a foundational part of AI—using Python. By the end of it, you'll know enough to be dangerous wielding Python as a tool for doing AI stuff ([and thangs](https://www.urbandictionary.com/define.php?term=stuff%20and%20thangs)).
+[Real Python](https://realpython.com/) is a blog that puts out great learning resources, ranging from beginner to advanced, for coding with Python. [Déborah Mesquita](https://deborahmesquita.com/) is a data scientist and member of the Real Python blogging team. She's written a great article that walks you through building a neural network—a foundational part of AI—using Python. By the end of it, you'll know enough to be dangerous wielding Python as a tool for doing AI [stuff and thangs](https://www.google.com/search?q=stuff+and+thangs+rick+grimes+the+walking+dead).
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
