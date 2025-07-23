@@ -14,7 +14,7 @@ header:
 categories:
   - blog
 tags:
-  - stem-workshops
+  - stem-education
   - artificial-intelligence
 ---
 

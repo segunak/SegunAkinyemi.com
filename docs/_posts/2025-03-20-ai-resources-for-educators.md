@@ -35,7 +35,7 @@ tags:
 
 ## Some Background
 
-Let me start off by saying I'm not an educator, at least not in the formal, "this is my actual day job" sense of the term. I'm a Software Engineer at a [company you've likely heard of](https://en.wikipedia.org/wiki/Microsoft), but I've been fortunate that my role often lets me step into an educator's shoes. I've developed and delivered [STEM workshops](https://segunakinyemi.com/tags/#stem-workshops), [organized events](https://www.linkedin.com/posts/microsoft_600-students-from-28-schools-across-north-ugcPost-7196494793907048449-6Oad), [collaborated with nonprofits](https://www.microsoft.com/insidetrack/blog/simplifying-nonprofit-volunteering-at-microsoft-with-power-automate/), presented to groups of [professionals looking to grow their skills](https://www.linkedin.com/posts/pmicarolina_last-night-we-had-an-amazing-kick-off-event-ugcPost-7285305265048989696-ej4O), and worked directly with [students exploring tech and software engineering concepts](https://www.linkedin.com/posts/activity-7264735736778690560-71lh/).
+Let me start off by saying I'm not an educator, at least not in the formal, "this is my actual day job" sense of the term. I'm a Software Engineer at a [company you've likely heard of](https://en.wikipedia.org/wiki/Microsoft), but I've been fortunate that my role often lets me step into an educator's shoes. I've developed and delivered [STEM workshops](https://segunakinyemi.com/tags/#stem-education), [organized events](https://www.linkedin.com/posts/microsoft_600-students-from-28-schools-across-north-ugcPost-7196494793907048449-6Oad), [collaborated with nonprofits](https://www.microsoft.com/insidetrack/blog/simplifying-nonprofit-volunteering-at-microsoft-with-power-automate/), presented to groups of [professionals looking to grow their skills](https://www.linkedin.com/posts/pmicarolina_last-night-we-had-an-amazing-kick-off-event-ugcPost-7285305265048989696-ej4O), and worked directly with [students exploring tech and software engineering concepts](https://www.linkedin.com/posts/activity-7264735736778690560-71lh/).
 
 These experiences have deepened my appreciation for teaching ([it's hard](https://www.goodreads.com/quotes/9257066-if-you-want-to-learn-something-read-about-it-if)), and more importantly, for the power education has to change lives. Not just as a cheesy ideal, but as a reality I've lived. It matters a great deal to me that students, especially those coming from socioeconomically challenged households (as I did ✋🏾), have opportunities to explore tech as a path out of hardship. And in that journey, there's perhaps no greater influence than educators. They're on the frontline connecting students to subjects that can lead to life-changing careers.
 
@@ -106,7 +106,7 @@ A personal AI research assistant that answers questions directly from your uploa
 
 > **Microsoft:** [Visual Studio Code for Education](https://visualstudio.microsoft.com/vscode-edu/)
 >
-Brings a real-world coding environment into the classroom via a web browser, perfect for Chromebook-centric schools or any tech teacher who doesn't want to deal with environment setup and virtual machines. I frequently use this platform in my own [workshops](https://segunakinyemi.com/tags/#stem-workshops). Best suited for computer science teachers and technical educators.
+Brings a real-world coding environment into the classroom via a web browser, perfect for Chromebook-centric schools or any tech teacher who doesn't want to deal with environment setup and virtual machines. I frequently use this platform in my own [workshops](https://segunakinyemi.com/tags/#stem-education). Best suited for computer science teachers and technical educators.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
@@ -156,7 +156,7 @@ This section offers practical strategies, classroom assignments, and professiona
 
 > **University of Central Florida:** [ChatGPT Assignments for Your Classroom](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1097&context=oer)
 >
-A free e-book offering over 60 AI-based assignment ideas using ChatGPT or similar tools. I often use it for inspiration when creating my own [workshops](https://segunakinyemi.com/tags/#stem-workshops).
+A free e-book offering over 60 AI-based assignment ideas using ChatGPT or similar tools. I often use it for inspiration when creating my own [workshops](https://segunakinyemi.com/tags/#stem-education).
 >
 > **Free or Paid:** Free.
 {: .notice--primary}

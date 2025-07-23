@@ -14,7 +14,7 @@ header:
 categories:
   - blog
 tags:
-  - stem-workshops
+  - stem-education
   - artificial-intelligence
 ---
 
@@ -29,7 +29,7 @@ tags:
     }
 </style>
 
-This post is part of my ongoing series of [STEM Workshops](https://segunakinyemi.com/tags/#stem-workshops), where I break down topics in computer science, software engineering, and AI into approachable, engaging, and—hopefully not boring—learning activities. For the full collection, click [here](https://segunakinyemi.com/tags/#stem-workshops).  
+This post is part of my ongoing series of [STEM Workshops](https://segunakinyemi.com/tags/#stem-education), where I break down topics in computer science, software engineering, and AI into approachable, engaging, and—hopefully not boring—learning activities. For the full collection, click [here](https://segunakinyemi.com/tags/#stem-education).  
 {: .notice--primary}
 
 ## Some Background

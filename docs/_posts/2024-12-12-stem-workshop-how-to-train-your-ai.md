@@ -14,7 +14,7 @@ header:
 categories:
   - blog
 tags:
-  - stem-workshops
+  - stem-education
   - artificial-intelligence
 ---
 
@@ -37,7 +37,7 @@ tags:
 
 ## Some Background
 
-We're back with another entry in my series of [STEM Workshops](https://segunakinyemi.com/tags/#stem-workshops), where I share content I've created to teach the fundamentals of computer science, software engineering, and technology to persons of varying backgrounds. This particular workshop is focused on Artificial Intelligence (AI), which is the hottest topic in technology and maybe the entire world right now. While it might seem magical, the fundamental aspects behind it are rooted in math, probability, and statistics, just at massively refined scales. This workshop aims to take the foundational ideas of AI and distill them into something people can understand, regardless of their technical background.
+We're back with another entry in my series of [STEM Workshops](https://segunakinyemi.com/tags/#stem-education), where I share content I've created to teach the fundamentals of computer science, software engineering, and technology to persons of varying backgrounds. This particular workshop is focused on Artificial Intelligence (AI), which is the hottest topic in technology and maybe the entire world right now. While it might seem magical, the fundamental aspects behind it are rooted in math, probability, and statistics, just at massively refined scales. This workshop aims to take the foundational ideas of AI and distill them into something people can understand, regardless of their technical background.
 
 To do this, it simplifies those concepts quite drastically as they relate to popular AI tools like ChatGPT. I strive to maintain accuracy, but it's undeniable that the concepts are far more complex than how they're presented in the workshop. However, the basic idea is there. I take inspiration for this teaching approach from one of my favorite YouTube channels, [OverSimplified](https://www.youtube.com/@OverSimplified). It breaks down complex historical topics into simple ideas that anyone can understand. The creator doesn't shy away from saying, "Yes, this is oversimplified," but that's the point: make the ideas accessible, spark curiosity, and give people enough understanding to dive deeper on their own.
 
