@@ -73,6 +73,7 @@ This workshop gives students a taste of both worlds. They see how traditional co
 - **Laptops** with Python and VS Code installed
 - **Python packages**: `openai`, `python-dotenv`, and `pyserial` (install via [pip](https://pypi.org/project/pip/))
 - **OpenAI API Key** (get one [on their site](https://platform.openai.com/api-keys))
+- **Workshop Folder** Contains all the code and instructions for the workshop, [found on GitHub](https://github.com/segunak/stem-education/tree/master/petoi-bittle/workshops/AI%20Engineering), copy the entire [AI Engineering](https://github.com/segunak/stem-education/tree/master/petoi-bittle/workshops/AI%20Engineering) folder to the laptop(s) being used.
 - **Optional:** [Robot arm attachment](https://www.petoi.com/products/petoi-robot-dog-bittle-x-voice-controlled?variant=49985955791160) for the final challenge
 
 ## Facilitation Resources
