@@ -151,7 +151,8 @@ Take choosing which model your company's AI chatbot uses. That's not a decision 
 
 If you know basic Python, you're ready to start. If not, begin with [Google's free Python course](https://developers.google.com/edu/python). After that, dive in.
 
-### Free Resources for Students
+<details markdown="1">
+<summary>Free Resources for Students</summary>
 
 * [GitHub Student Developer Pack](https://education.github.com/pack): Free GitHub Copilot Pro, credits, and more.
 * [Azure for Students](https://azure.microsoft.com/en-us/free/students/): $100 in Azure credits, no credit card required.
@@ -159,7 +160,10 @@ If you know basic Python, you're ready to start. If not, begin with [Google's fr
 * [Microsoft Student Hub](https://learn.microsoft.com/en-gb/training/student-hub/): Central resource for student learning.
 * [Student Ambassadors](https://mvp.microsoft.com/studentambassadors): Become a Microsoft rep on campus.
 
-### AI Engineering Courses
+</details>
+
+<details markdown="1">
+<summary>AI Engineering Courses</summary>
 
 Also check out my [AI Engineering list on GitHub](https://github.com/stars/segunak/lists/ai-engineering) (some listings are repeated below).
 
@@ -176,7 +180,10 @@ Also check out my [AI Engineering list on GitHub](https://github.com/stars/segun
 * [MCP Course on HuggingFace](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
 * [Generative AI with JavaScript](https://github.com/microsoft/generative-ai-with-javascript)
 
-### Tools to Focus On
+</details>
+
+<details markdown="1">
+<summary>Tools to Focus On</summary>
 
 Stick with what most companies use. Don't chase every hot new tool from a startup that'll eventually be acquired by big tech (looking at you [Windsurf](https://www.cnbc.com/2025/07/14/cognition-to-buy-ai-startup-windsurf-days-after-google-poached-ceo.html), [Replit](https://techcrunch.com/2025/07/08/in-a-blow-to-google-cloud-replit-partners-with-microsoft/), [Inflection](https://www.bloomberg.com/news/articles/2025-03-20/how-microsoft-lured-inflection-ai-s-staff-to-abandon-the-startup), and eventually, [Cursor](https://techcrunch.com/2025/04/22/why-openai-wanted-to-buy-cursor-but-opted-for-the-fast-growing-windsurf/)).
 
@@ -185,11 +192,14 @@ Stick with what most companies use. Don't chase every hot new tool from a startu
 * [**Claude Code**](https://www.anthropic.com/claude-code): Terminal-based AI-coding tool that works with any IDE (including VS Code). From Anthropic, it's the real deal. A competitor to GitHub Copilot. Amazon is behind Anthropic, so this product has staying power.
 * [**GitHub Spark**](https://github.com/features/spark): GitHub's answer to natural language app builders like [Lovable](https://lovable.dev/). Great for personal projects, micro apps, [greenfield development](https://en.wikipedia.org/wiki/Greenfield_project), prototypes, etc.
 
+</details>
+
 ## Who to Follow
 
 The tech community lives more on LinkedIn, Twitter (will always be its name to me), Reddit, and Hacker News than TikTok, Instagram, or Snapchat. Tech people usually want to post and discuss without needing a picture or video to accompany it. Make a Twitter account just to follow these people if you need to.
 
-### The Top Tier
+<details markdown="1">
+<summary>The Top Tier</summary>
 
 * **Andrej Karpathy**: OpenAI co-founder, former Tesla AI Director. Now focused on educating people about AI. Follow on [Twitter](https://x.com/karpathy), [LinkedIn](https://www.linkedin.com/in/andrej-karpathy-9a650716), [YouTube](https://www.youtube.com/@AndrejKarpathy)
 * **Andrew Ng**: Founded Coursera, Google Brain, DeepLearning.AI. The entire ML community looks to him. [Twitter](https://x.com/AndrewYNg), [LinkedIn](https://www.linkedin.com/in/andrewyng)
@@ -201,7 +211,10 @@ The tech community lives more on LinkedIn, Twitter (will always be its name to m
 * **Alberta Tech**: Hilarious, actually a developer, so her memes about AI are both accurate and insightful. [TikTok](https://www.tiktok.com/@alberta.nyc), [Instagram](https://www.instagram.com/alberta.tech/), [Twitter](https://x.com/albertadevs), [YouTube](https://www.youtube.com/@albertatech)
 * **David Fowler**: Microsoft distinguished engineer (a big deal). Huge in the .NET space, and thereby how AI is landing there. [Twitter](https://x.com/davidfowl), [LinkedIn](https://www.linkedin.com/in/davidfowl)
 
-### Organizations
+</details>
+
+<details markdown="1">
+<summary>Organizations</summary>
 
 * **OpenAI**: [Twitter](https://x.com/OpenAI), [LinkedIn](https://www.linkedin.com/company/openai)
 * **Anthropic**: [Twitter](https://x.com/AnthropicAI), [LinkedIn](https://www.linkedin.com/company/anthropicresearch)
@@ -212,7 +225,10 @@ The tech community lives more on LinkedIn, Twitter (will always be its name to m
 * **GitHub**: [YouTube](https://www.youtube.com/@github), [LinkedIn](https://www.linkedin.com/company/github), [Twitter](https://x.com/github)
 * **HuggingFace**: Essential for AI tools and models. [LinkedIn](https://www.linkedin.com/company/huggingface), [Twitter](https://x.com/huggingface)
 
-### Communities
+</details>
+
+<details markdown="1">
+<summary>Communities</summary>
 
 * **[Latent Space](https://www.latent.space/)**: The folks who coined "AI Engineer" and a leading publication for the community. [Twitter](https://x.com/latentspacepod), [YouTube](https://www.youtube.com/@latentspacepod)
 * **[AI Engineer](https://www.ai.engineer/)**: A group aimed at bringing structure to the AI Engineering community with annual events, [Twitter](https://x.com/aiDotEngineer), [YouTube](https://www.youtube.com/@aiDotEngineer).
@@ -221,14 +237,20 @@ The tech community lives more on LinkedIn, Twitter (will always be its name to m
 * **[r/LLMDevs](https://www.reddit.com/r/LLMDevs/)**: AI Engineers sharing tips and tricks.
 * **[r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)**: Probably the biggest AI Engineering community on the Internet.
 
+</details>
+
 ## What to Read
 
-### AI Basics
+<details markdown="1">
+<summary>AI Basics</summary>
 
 * [10 AI Terms Everyone Should Know](https://news.microsoft.com/10-ai-terms/)
 * [10 More AI Terms Everyone Should Know](https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/)
 
-### On Coding's Future
+</details>
+
+<details markdown="1">
+<summary>On Coding's Future</summary>
 
 * [Has AI Made "Learn to Code" Obsolete?](https://www.freethink.com/artificial-intelligence/learn-to-code)
 * [The Developer Odyssey](https://ashtom.github.io/developer-odyssey)
@@ -237,16 +259,24 @@ The tech community lives more on LinkedIn, Twitter (will always be its name to m
 * [Is Coding Education Dead?](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/)
 * [The Illusion of Vibe Coding](https://shiftmag.dev/the-illusion-of-vibe-coding-5297/)
 
-### On AI Engineering
+</details>
+
+<details markdown="1">
+<summary>On AI Engineering</summary>
 
 * [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer)
 * [The 2025 AI Engineer Reading List](https://www.latent.space/p/2025-papers)
 * [The New Skill in AI is Not Prompting, It's Context Engineering](https://www.philschmid.de/context-engineering)
 
-### Critical Perspectives
+</details>
+
+<details markdown="1">
+<summary>Critical Perspectives</summary>
 
 * [The Many Fallacies of 'AI Won't Take Your Job'](https://platforms.substack.com/p/the-many-fallacies-of-ai-wont-take)
 * [Make No Mistake, AI Is Owned by Big Tech](https://www.technologyreview.com/2023/12/05/1084393/make-no-mistake-ai-is-owned-by-big-tech/)
+
+</details>
 
 ## Landing a Tech Job
 
@@ -256,7 +286,8 @@ If you're in college, literally when you arrive on campus in the Fall, it's time
 
 I've written extensively about this in my [AI in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/) and [Miscellaneous Tech Career Advice](https://segunakinyemi.com/blog/miscellaneous-tech-career-advice/) posts. But honestly, if you're with [SEO](https://tech.seo-usa.org/), you're probably doing just fine with finding internships as they have great resources.
 
-For those specifically interested in Microsoft:
+<details markdown="1">
+<summary>For those specifically interested in Microsoft</summary>
 
 * **[Microsoft Recruiters LinkedIn Group](https://www.linkedin.com/groups/14490227/):** This group isn't discoverable through search, someone's got to send you the link, and I just did. If you want a Microsoft internship, join this group NOW and keep an eye on it. Recruiters post opportunities here first.
 * [Microsoft Careers](https://careers.microsoft.com/): Main careers site, bookmark it.
@@ -267,3 +298,5 @@ For those specifically interested in Microsoft:
 * [Student Certifications](https://learn.microsoft.com/en-us/training/student-hub/certifications): Microsoft lets students take certification exams for free. Good stuff to throw on your resume.
 * [Student Ambassadors](https://studentambassadors.microsoft.com/): Become a Microsoft rep on your campus.
 * [AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us): A tool that uses AI to help you learn AI that Microsoft is pushing hard right now.
+
+</details>
