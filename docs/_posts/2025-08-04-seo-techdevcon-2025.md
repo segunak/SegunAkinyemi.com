@@ -66,7 +66,7 @@ During the workshop, I promised resources and answers. Here's where to find them
 * [Workshop Slides](https://1drv.ms/p/c/750d396c5cadcebd/Eb4rAvNHj1xEp8zKzc--lW8BEK3iE3GLOcvLAErWbZY0Jg?e=RdR2yy)
 * [AI Engineering GitHub List](https://github.com/stars/segunak/lists/ai-engineering)
 * [Free GitHub Copilot for Students](https://github.com/education/students)
-* [Hidden Microsoft Recruiters Group](https://www.linkedin.com/groups/14490227/)
+* [Unlisted Microsoft Recruiters Group for Students](https://www.linkedin.com/groups/14490227/)
 
 ## What Is AI Engineering?
 
@@ -110,7 +110,7 @@ To be a proper Machine Learning Engineer, you need to be good at math. Like, rea
 
 We're talking calculus, linear algebra, statistics, probability theory, all that. And it's customary for them to have PhDs. To command the kind of respect that researchers at OpenAI, Anthropic, Google, and Meta have right now, you'd need one.
 
-Your path to being one of those people Mark Zuckerberg is throwing [pro-athlete level contracts at](https://www.wsj.com/tech/ai/meta-ai-recruiting-mark-zuckerberg-sam-altman-140d5861) is much longer and harder than your path to being an AI Engineer, where you can make a solid 6 figures at companies that already hire software developers.
+Your path to being one of those people Mark Zuckerberg is throwing [pro-athlete level contracts at](https://www.wsj.com/tech/ai/meta-ai-recruiting-mark-zuckerberg-sam-altman-140d5861) is much longer and harder than your path to being an AI Engineer...where you can make a solid 6 figures at companies that already hire software developers.
 
 I'm not alone in this sentiment:
 
@@ -141,7 +141,7 @@ These aren't things you need a PhD to learn. You don't even really need a bachel
 
 You can't build serious systems, the kind companies up and down the Fortune 500 actually want, if you don't understand code.
 
-[Vibe coding](https://en.wikipedia.org/wiki/Vibe_codin) in its truest sense (no code review, just the end result and vibes) is not a real thing for people with paying jobs. [There are no shortcuts to mastery](https://shiftmag.dev/the-illusion-of-vibe-coding-5297/).
+[Vibe coding](https://en.wikipedia.org/wiki/Vibe_codin) in its truest sense (no code review, just the end result) is not a real thing for people with paying jobs. [There are no shortcuts to mastery](https://shiftmag.dev/the-illusion-of-vibe-coding-5297/).
 
 To all my "vibe coding will get me hired in tech" people out there, I love you, but...
 
@@ -166,7 +166,7 @@ Sorry if that's harsh, but I want to be sure I don't have to go full...
 
 ...to get this point across.
 
-So, are tech jobs going away? No! But they're changing.
+So, are tech jobs going away? No! But they are for sure changing.
 
 [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman) says [the world wants 1000x more software](https://www.finalroundai.com/blog/sam-altman-says-world-wants-1000x-more-software). The [CEO of GitHub](https://ashtom.github.io/developer-odyssey) says we need more programmers than ever. I've written extensively about this in my [AI in tech careers](https://segunakinyemi.com/blog/ai-in-tech-careers/) post.
 
@@ -176,11 +176,11 @@ But the most compelling perspective comes from [Andrew Ng](https://en.wikipedia.
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305984835037118464" height="430px" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post"></iframe>
 </p>
 
-Learning to code today isn't about prepping for a future where you type every line yourself. We haven't been doing that even before AI. [High-level languages](https://en.wikipedia.org/wiki/High-level_programming_language), [Stack Overflow](https://en.wikipedia.org/wiki/Stack_Overflow) (RIP) copy/paste, [low-code tools](https://en.wikipedia.org/wiki/Low-code_development_platform), we've been doing anything and everything to make it easier to create software.
+Learning to code today isn't about prepping for a future where you type every line yourself. We haven't been doing that even before AI. [High-level languages](https://en.wikipedia.org/wiki/High-level_programming_language), [Stack Overflow](https://en.wikipedia.org/wiki/Stack_Overflow) copy/paste, [low-code tools](https://en.wikipedia.org/wiki/Low-code_development_platform), we've been doing anything and everything to make it easier to create software for a while now.
 
 The future is being technical enough to orchestrate AI while you handle the problems that need human judgment.
 
-Writing effective prompts, catching when AI hallucinates garbage, and debugging when things inevitably break. Those are the things no serious company will ever [trust to a machine](/assets/images/ibm-slide.jpg), and they're what make you valuable and get you paid.
+Writing effective prompts, catching when AI hallucinates garbage, and debugging when things inevitably break. Those are the things no serious company will ever [trust solely to a machine](/assets/images/ibm-slide.jpg), and they're what make you valuable and get you paid.
 
 But you can only do these things if you can read and understand code, generate it with very specific prompts (essentially [pseudocode](https://en.wikipedia.org/wiki/Pseudocode)), and occasionally, write it when needed.
 
@@ -202,20 +202,19 @@ If you know basic Python, or any programming language, you're ready to start. If
 <details markdown="1">
 <summary>AI Engineering Courses</summary>
 
-Also check out my [AI Engineering list on GitHub](https://github.com/stars/segunak/lists/ai-engineering) (some listings are repeated below).
+Check out my [AI Engineering list on GitHub](https://github.com/stars/segunak/lists/ai-engineering) (some listings are repeated below).
 
 * [Get Started with GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/getting-started): **DO THIS FIRST**
 * [AI for Beginners](https://github.com/microsoft/AI-For-Beginners)
 * [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
-* [Copilot Camp](https://github.com/microsoft/copilot-camp)
 * [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners)
-* [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/)
+* [Generative AI for Beginners Python](https://github.com/microsoft/generative-ai-for-beginners/)
+* [Generative AI for Beginners JavaScript](https://github.com/microsoft/generative-ai-with-javascript)
 * [Generative AI for Beginners .NET](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
-* [Copilot Adventures](https://github.com/microsoft/CopilotAdventures)
+* [GitHub Copilot Coding Adventures](https://github.com/microsoft/CopilotAdventures)
 * [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 * [Mastering GitHub Copilot for C#/.NET Developers](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers)
 * [MCP Course on HuggingFace](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
-* [Generative AI with JavaScript](https://github.com/microsoft/generative-ai-with-javascript)
 
 </details>
 
@@ -233,7 +232,9 @@ Stick with what most companies use. Don't chase every hot new tool from a startu
 
 ## Who to Follow
 
-The tech community lives more on LinkedIn, Twitter (will always be its name to me), Reddit, and Hacker News than TikTok, Instagram, or Snapchat. Tech people usually want to post and discuss without needing a picture or video to accompany it. Make a Twitter account just to follow these people if you need to.
+The tech community lives more on LinkedIn, Twitter (will always be its name to me), Reddit, and Hacker News than TikTok, Instagram, or Snapchat.
+
+Tech people usually want to post and discuss without needing a picture or video to accompany it. Make a Twitter account just to follow these people if you need to.
 
 <details markdown="1">
 <summary>The Top Tier</summary>
@@ -334,7 +335,7 @@ But that's what it takes. You've got to [hustle](https://www.youtube.com/watch?v
 
 If you're in college, literally when you arrive on campus in the Fall, it's time to apply for internships. Set aside a few minutes every day, download LinkedIn to find positions, use [Easy Apply](https://www.linkedin.com/help/linkedin/answer/a512388), set up job alerts on [Indeed](https://www.indeed.com/).
 
-If your goal is big tech, check the [Microsoft](https://careers.microsoft.com/v2/global/en/students), [Google](https://www.google.com/about/careers/applications/students), [Amazon](https://www.amazon.jobs/content/en/career-programs/university), [Meta](https://www.metacareers.com/careerprograms/students), and [Apple](https://www.apple.com/careers/us/work-at-apple/students.html) student career pages every day. The big tech companies are always posting, and sometimes at different stages, so you really got to keep an eye on their websites.
+If your goal is big tech, check the [Microsoft](https://careers.microsoft.com/v2/global/en/students), [Google](https://www.google.com/about/careers/applications/students), [Amazon](https://www.amazon.jobs/content/en/career-programs/university), [Meta](https://www.metacareers.com/careerprograms/students), and [Apple](https://www.apple.com/careers/us/work-at-apple/students.html) student career pages regularly. The big tech companies are always posting, and sometimes at different stages, so you really got to keep an eye on their websites.
 
 I've written extensively about this in my [AI in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/) and [Miscellaneous Tech Career Advice](https://segunakinyemi.com/blog/miscellaneous-tech-career-advice/) posts. But honestly, if you're with [SEO](https://tech.seo-usa.org/), you're probably doing just fine with finding internships as they have great resources.
 

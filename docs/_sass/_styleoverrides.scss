@@ -223,40 +223,51 @@ details p:last-of-type {
   margin-bottom: 0;
 }
 
-/* Meme container styling for both light and dark themes */
-.meme-container {
-  margin: 2em 0;
-  padding: 1em 0;
-  position: relative;
-  width: 100%;
-  max-width: 100%;
-  display: flex;
-  justify-content: center;
+/* Mobile-specific styling for images in meme containers */
+@media (max-width: 767px) {
+  .meme-container img,
+  .meme-wrapper img {
+    margin: 0 0 1.3em;
+    width: 100%;
+  }
 }
 
-.meme-wrapper {
-  padding: 15px;
-  border-radius: 12px;
-  background-color: transparent;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.08);
-  max-width: 600px;
-  width: 100%;
-  text-align: center;
-  position: relative;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
+/* Meme container styling - DESKTOP ONLY */
+@media (min-width: 768px) {
+  .meme-container {
+    margin: 2em 0;
+    padding: 1em 0;
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+  }
 
-.meme-wrapper img {
-  border-radius: 8px;
-  width: 100%;
-  height: auto;
-  display: block;
-}
+  .meme-wrapper {
+    padding: 15px;
+    border-radius: 12px;
+    background-color: transparent;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.08);
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
 
-.meme-caption {
-  margin-top: 10px;
-  font-style: italic;
-  font-size: 0.9em;
+  .meme-wrapper img {
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .meme-caption {
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 0.9em;
+  }
 }
 
 /* Grid layout for job titles list */
