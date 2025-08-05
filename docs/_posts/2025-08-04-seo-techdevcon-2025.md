@@ -118,7 +118,7 @@ I'm not alone in this sentiment:
 >
 > [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer)
 
-**Aside:** _Attention is All You Need_ is the research paper by Google that introduced [transformers](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)), the "T" in GPT. It's a Machine Learning hallmark that paved the way for what eventually became OpenAI's ChatGPT.
+**Aside:** [_Attention is All You Need_](https://arxiv.org/abs/1706.03762) is the research paper by Google that introduced [transformers](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)), the "T" in GPT. It's a Machine Learning hallmark that paved the way for what eventually became OpenAI's ChatGPT.
 {: .notice--info}
 
 Funny thing is, I actually told people to read that paper in my [AI learning guide](https://segunakinyemi.com/blog/ai-learning-resources/#diving-deep). But you know what? I was wrong. You don't need to go that deep to get paid in this field. You can, and should if you're _truly_ that passionate about AI, but to have a tech career both now and in the future, it's not a must.
@@ -232,22 +232,22 @@ Stick with what most companies use. Don't chase every hot new tool from a startu
 
 ## Who to Follow
 
-The tech community lives more on LinkedIn, Twitter (will always be its name to me), Reddit, and Hacker News than TikTok, Instagram, or Snapchat.
+The tech community lives more on LinkedIn, Twitter (its real name), Reddit, and [Hacker News](https://news.ycombinator.com/) than TikTok, Instagram, or Snapchat.
 
 Tech people usually want to post and discuss without needing a picture or video to accompany it. Make a Twitter account just to follow these people if you need to.
 
 <details markdown="1">
 <summary>The Top Tier</summary>
 
-* **Andrej Karpathy**: OpenAI co-founder, former Tesla AI Director. Now focused on educating people about AI. Follow on [Twitter](https://x.com/karpathy), [LinkedIn](https://www.linkedin.com/in/andrej-karpathy-9a650716), [YouTube](https://www.youtube.com/@AndrejKarpathy)
-* **Andrew Ng**: Founded Coursera, Google Brain, DeepLearning.AI. The entire ML community looks to him. [Twitter](https://x.com/AndrewYNg), [LinkedIn](https://www.linkedin.com/in/andrewyng)
-* **Sam Altman**: OpenAI CEO. [Twitter](https://x.com/sama)
-* **Ian Goodfellow**: Invented [GANs](https://en.wikipedia.org/wiki/Generative_adversarial_network), real technical AI heavyweight. [Twitter](https://x.com/goodfellow_ian), [LinkedIn](https://www.linkedin.com/in/ian-goodfellow-b7187213)
-* **Yann LeCun**: Meta's Chief AI Scientist. [LinkedIn](https://www.linkedin.com/in/yann-lecun), [Twitter](https://x.com/ylecun)
-* **Jeff Dean**: Google's AI legend. [Twitter](https://x.com/jeffdean)
-* **Thomas Dohmke**: GitHub CEO, leading AI coding tools. [LinkedIn](https://www.linkedin.com/in/ashtom), [Twitter](https://x.com/ashtom)
-* **Alberta Tech**: Hilarious, actually a developer, so her memes about AI are both accurate and insightful. [TikTok](https://www.tiktok.com/@alberta.nyc), [Instagram](https://www.instagram.com/alberta.tech/), [Twitter](https://x.com/albertadevs), [YouTube](https://www.youtube.com/@albertatech)
-* **David Fowler**: Microsoft distinguished engineer (a big deal). Huge in the .NET space, and thereby how AI is landing there. [Twitter](https://x.com/davidfowl), [LinkedIn](https://www.linkedin.com/in/davidfowl)
+* **Andrej Karpathy**: OpenAI co-founder, former Tesla AI Director, now focused on AI education. Created [Stanford's CS231n course](https://cs231n.stanford.edu/) that launched countless ML careers. The most trusted voice among both Machine Learning and AI Engineers regarding the state of the industry. Coined the term [vibe-coding](https://en.wikipedia.org/wiki/Vibe_coding). Follow on [Twitter](https://x.com/karpathy), [LinkedIn](https://www.linkedin.com/in/andrej-karpathy-9a650716), [YouTube](https://www.youtube.com/@AndrejKarpathy).
+* **Andrew Ng**: Founded Coursera, Google Brain, and DeepLearning.AI. Pioneered online ML education. Co-led Google Brain's [2012 "cat-recognition" breakthrough that kicked off the modern Deep Learning era](https://www.wired.com/2012/06/google-x-neural-network/). [Twitter](https://x.com/AndrewYNg), [LinkedIn](https://www.linkedin.com/in/andrewyng).
+* **Yann LeCun**: Meta's Chief AI Scientist, [Turing Award winner](https://amturing.acm.org/award_winners/lecun_6017366.cfm), and respected voice in the AI community, particularly regarding the tech industry's future with it. [LinkedIn](https://www.linkedin.com/in/yann-lecun), [Twitter](https://x.com/ylecun).
+* **Sam Altman**: OpenAI CEO. [Twitter](https://x.com/sama).
+* **Ian Goodfellow**: Invented [GANs](https://en.wikipedia.org/wiki/Generative_adversarial_network), real technical AI heavyweight. [Twitter](https://x.com/goodfellow_ian), [LinkedIn](https://www.linkedin.com/in/ian-goodfellow-b7187213).
+* **Jeff Dean**: Google's AI legend. [Twitter](https://x.com/jeffdean).
+* **Thomas Dohmke**: GitHub CEO, leading AI coding tools. [LinkedIn](https://www.linkedin.com/in/ashtom), [Twitter](https://x.com/ashtom).
+* **Alberta Tech**: Hilarious, actually a developer, so her memes about AI are both accurate and insightful. [TikTok](https://www.tiktok.com/@alberta.nyc), [Instagram](https://www.instagram.com/alberta.tech/), [Twitter](https://x.com/albertadevs), [YouTube](https://www.youtube.com/@albertatech).
+* **David Fowler**: Microsoft distinguished engineer (a big deal). Huge in the .NET space, and thereby how AI is landing there. [Twitter](https://x.com/davidfowl), [LinkedIn](https://www.linkedin.com/in/davidfowl).
 
 </details>
 
