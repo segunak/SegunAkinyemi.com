@@ -1,6 +1,6 @@
 ---
-title: "We're Not Cooked: Your Tech Career Survival Guide in the Age of AI"
-excerpt: "From SEO TechDevCon 2025 attendees to anyone curious about tech careers, AI Engineering is why we still need technical people. Here's your guide to what it is, where to learn, who to follow, and how to thrive."
+title: "We're Not Cooked: Your Tech Career Survival Guide in the Age of AI Engineering"
+excerpt: "From SEO TechDevCon 2025 attendees to anyone curious, AI Engineering is why we still need technical people. Here's your guide to what it is, where to learn, who to follow, and how to thrive."
 last_modified_at:
 toc: true
 toc_sticky: true
@@ -46,31 +46,41 @@ To learn more about me, you can check out my [about page](/about) or my [Charlot
 
 ## Quick Guide
 
-During the workshop, I promised that this article would provide:
+During the workshop, I promised resources and answers. Here's where to find them:
 
-* **What AI Engineering actually is and why it matters**: Jump to [What Is AI Engineering?](#what-is-ai-engineering).
-* **Why learning to code is still worth it**: Jump to [Why Coding Still Matters](#why-coding-still-matters).
-* **Resources for landing tech jobs**: Jump to [Landing a Tech Job](#landing-a-tech-job).
-* **Continued learning resources**: Jump to [Where to Learn](#where-to-learn), [Who to Follow](#who-to-follow), and [What to Read](#what-to-read).
+**Core Concepts:**
 
-And if you're short on time, here's some quick links to good stuff:
+* [What Is AI Engineering?](#what-is-ai-engineering) - Definition and why it matters
+* [It's Easier Than You Think](#its-easier-and-thats-a-good-thing) - Why you don't need a PhD
+* [Why Coding Still Matters](#why-coding-still-matters) - The truth about AI and programming
 
-* [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer): Must read article that standardized the term AI Engineer.
-* [The 2025 AI Engineer Reading List](https://www.latent.space/p/2025-papers): Another good read from the same authors.
-* [Workshop Slide Deck](https://1drv.ms/p/c/750d396c5cadcebd/Eb4rAvNHj1xEp8zKzc--lW8BEK3iE3GLOcvLAErWbZY0Jg?e=RdR2yy): My slides from the workshop.
-* [Curated AI Engineering Learning List](https://github.com/stars/segunak/lists/ai-engineering): A list of GitHub repos worth checking out for AI Engineer learning.
-* [Free GitHub Copilot for Students](https://github.com/education/students): Get it while you can.
-* [Hidden Microsoft Recruiters LinkedIn Group](https://www.linkedin.com/groups/14490227/): Only accessible by direct link.
+**Resources:**
+
+* [Where to Learn](#where-to-learn) - Free courses and tools
+* [Who to Follow](#who-to-follow) - Key people and organizations  
+* [What to Read](#what-to-read) - Essential articles
+* [Landing a Tech Job](#landing-a-tech-job) - Practical job hunting advice
+
+**Key Links:**
+
+* [Workshop Slides](https://1drv.ms/p/c/750d396c5cadcebd/Eb4rAvNHj1xEp8zKzc--lW8BEK3iE3GLOcvLAErWbZY0Jg?e=RdR2yy)
+* [AI Engineering GitHub List](https://github.com/stars/segunak/lists/ai-engineering)
+* [Free GitHub Copilot for Students](https://github.com/education/students)
+* [Hidden Microsoft Recruiters Group](https://www.linkedin.com/groups/14490227/)
 
 ## What Is AI Engineering?
 
-Keep in mind, it's still a relatively new term, although [it's going mainstream](https://www.latent.space/p/aiewf-2025-keynotes), but here's my attempt at a definition.
+It's still a relatively new term, although [it's going mainstream](https://www.latent.space/p/aiewf-2025-keynotes), but here's my attempt at a definition.
 
 > AI Engineering is the practice of building software that connects AI models to real-world systems and knowledge. While Machine Learning Engineers create the models, AI Engineers make them useful by providing the right context, tools, and interfaces for specific applications.
 
-Think of it this way. They're both athletes, but in different sports. Maybe Machine Learning Engineers are playing baseball while AI Engineers are playing basketball. Both benefit from being athletic (technical skills), but they're different sports requiring different tactics, and one is harder (baseball is harder than basketball, don't @ me).
+Think of it this way. They're both athletes, but in different sports.
 
-Or maybe it's more like Machine Learning Engineers build the engine and AI Engineers build the car around it, customizing it for how different kinds of people plan to use it. I don't know, no analogy is perfect. The point is, Machine Learning Engineers build the models, and AI Engineers take those models and build with them.
+Maybe Machine Learning Engineers are playing baseball while AI Engineers are playing basketball. Both benefit from being athletic (technical skills), but they're different sports requiring different tactics, and one is harder (baseball is harder than basketball, don't @ me).
+
+Or maybe it's more like Machine Learning Engineers build the engine and AI Engineers build the car around it, customizing for how different kinds of people plan to use it.
+
+I don't know, no analogy is perfect. The point is, Machine Learning Engineers build the models, and AI Engineers take those models and build with them.
 
 The term was popularized by [Latent Space](https://www.latent.space/p/ai-engineer).
 
@@ -94,11 +104,13 @@ The terms are still evolving in this space, but both have caught on because they
 
 ## It's Easier, and That's a Good Thing
 
-At first glance, the term "AI Engineering" might sound intimidating, but let's keep it <s>real</s> 💯. It's way easier than being a Machine Learning Engineer.
+At first glance, the term "AI Engineering" might sound intimidating, but let's keep things <s>real</s> 💯. It's way easier than being a Machine Learning Engineer.
 
-To be a proper Machine Learning Engineer, you need to be good at math. Like, really good. We're talking calculus, linear algebra, statistics, probability theory, all that. And it's customary for them to have PhDs. To command the kind of respect that researchers at OpenAI, Anthropic, Google, and Meta have right now, you'd need one.
+To be a proper Machine Learning Engineer, you need to be good at math. Like, really good.
 
-Your path to being one of those people Mark Zuckerberg is throwing [pro-athlete level contracts at](https://www.wsj.com/tech/ai/meta-ai-recruiting-mark-zuckerberg-sam-altman-140d5861) is much longer and harder than your path to making a solid 6 figures as an AI Engineer at any company that already hires software developers.
+We're talking calculus, linear algebra, statistics, probability theory, all that. And it's customary for them to have PhDs. To command the kind of respect that researchers at OpenAI, Anthropic, Google, and Meta have right now, you'd need one.
+
+Your path to being one of those people Mark Zuckerberg is throwing [pro-athlete level contracts at](https://www.wsj.com/tech/ai/meta-ai-recruiting-mark-zuckerberg-sam-altman-140d5861) is much longer and harder than your path to being an AI Engineer, where you can make a solid 6 figures at companies that already hire software developers.
 
 I'm not alone in this sentiment:
 
@@ -106,12 +118,12 @@ I'm not alone in this sentiment:
 >
 > [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer)
 
-**Aside:** _Attention is All You Need_ is the research paper by Google that introduced [transformers](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)), the "T" in GPT. It's a Machine Learning hallmark, credited with paving the way for what eventually became OpenAI's ChatGPT.
+**Aside:** _Attention is All You Need_ is the research paper by Google that introduced [transformers](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)), the "T" in GPT. It's a Machine Learning hallmark that paved the way for what eventually became OpenAI's ChatGPT.
 {: .notice--info}
 
-Funny thing is, I actually told people to read that paper in my [AI learning resources guide](https://segunakinyemi.com/blog/ai-learning-resources/#diving-deep). But you know what? I was wrong. You don't need to go that deep to get paid in this field. You can, and should if you're _truly_ that passionate about AI, but to have a tech career both now and in the future, it's not a must.
+Funny thing is, I actually told people to read that paper in my [AI learning guide](https://segunakinyemi.com/blog/ai-learning-resources/#diving-deep). But you know what? I was wrong. You don't need to go that deep to get paid in this field. You can, and should if you're _truly_ that passionate about AI, but to have a tech career both now and in the future, it's not a must.
 
-For me, for you, and for anyone who wants a tech career but isn't great at math or eager to pursue a PhD, being an AI Engineer?
+For me, you, and anyone wanting a tech career who isn't great at math or trying to get a PhD, our reaction to the rise of AI Engineers should be:
 
 <div class="meme-container">
   <div class="meme-wrapper">
@@ -127,29 +139,54 @@ These aren't things you need a PhD to learn. You don't even really need a bachel
 
 ## Why Coding Still Matters
 
-You can't build serious systems, the kind companies up and down the Fortune 500 actually want (not your [vibe coded](https://en.wikipedia.org/wiki/Vibe_coding) to-do app), if you don't understand code.
+You can't build serious systems, the kind companies up and down the Fortune 500 actually want, if you don't understand code.
+
+[Vibe coding](https://en.wikipedia.org/wiki/Vibe_codin) in its truest sense (no code review, just the end result and vibes) is not a real thing for people with paying jobs. [There are no shortcuts to mastery](https://shiftmag.dev/the-illusion-of-vibe-coding-5297/).
+
+To all my "vibe coding will get me hired in tech" people out there, I love you, but...
+
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img alt="Not Serious People" src="/assets/images/succession-not-serious-people.gif"/>
+  </div>
+</div>
+
+**Aside:** I haven't watched Succession, [and neither has Brian Cox](https://www.indiewire.com/news/breaking-news/brian-cox-did-not-watch-succession-1234874252/), the actor in that gif. We're both in agreement about avoiding good but stressful shows about deeply narcissistic, conceited, hedonistic people. I need at least one bastion of morality in my shows these days. Jon Snow, and Daenerys Targaryen before her [tragic character assassination](https://michaeljohnhalse.wixsite.com/michaeljohnhalse/post/2019/05/13/the-character-assassination-of-daenerys-targaryen), are what got me through [Game of Thrones](https://en.wikipedia.org/wiki/Game_of_Thrones). I need someone good, man. Someone.
+{: .notice--info}
 
 Yes, AI can (and should) generate code for you, but if you have no idea what it's doing, you're flying blind. And no serious company is going to pay you to blindly copy-paste AI-generated code into their mission-critical (military, healthcare, infrastructure, financial, government, etc.) systems.
 
-You wouldn't trust a pilot who can use autopilot but can't actually fly the plane. Denzel proves as much in [Flight](https://en.wikipedia.org/wiki/Flight_(2012_film)) (great film). AI is your copilot, not your replacement. At least, [not yet](https://en.wikipedia.org/wiki/Artificial_general_intelligence).
+Sorry if that's harsh, but I want to be sure I don't have to go full...
 
-So are tech jobs going away? No! But they're changing. [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman) says [the world wants 1000x more software](https://www.finalroundai.com/blog/sam-altman-says-world-wants-1000x-more-software). The [CEO of GitHub](https://ashtom.github.io/developer-odyssey) says we need more programmers than ever. I've written extensively about this in my [AI in tech careers](https://segunakinyemi.com/blog/ai-in-tech-careers/) post.
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img alt="Justin Bieber Not Clocking to You" src="/assets/images/justin-bieber-clocking-to-you.gif"/>
+  </div>
+</div>
 
-But the most compelling perspective comes from [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng). This guy co-founded [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) (they invented the ["T" in ChatGPT](https://en.wikipedia.org/wiki/Google_Brain#Transformer)), was Chief Scientist at [Baidu](https://en.wikipedia.org/wiki/Baidu), co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), and founded [DeepLearning.AI](https://www.deeplearning.ai/). The entire Machine Learning community looks to him for training and guidance. His [perspective](https://www.linkedin.com/posts/andrewyng_deepseek-r1-uncensored-qwq-32b-puts-reasoning-activity-7305984835708141570-XVKU) on AI's impact on programming carries serious weight:
+...to get this point across.
+
+So, are tech jobs going away? No! But they're changing.
+
+[Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman) says [the world wants 1000x more software](https://www.finalroundai.com/blog/sam-altman-says-world-wants-1000x-more-software). The [CEO of GitHub](https://ashtom.github.io/developer-odyssey) says we need more programmers than ever. I've written extensively about this in my [AI in tech careers](https://segunakinyemi.com/blog/ai-in-tech-careers/) post.
+
+But the most compelling perspective comes from [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng). He co-founded [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) (they invented the ["T" in ChatGPT](https://en.wikipedia.org/wiki/Google_Brain#Transformer)), was Chief Scientist at [Baidu](https://en.wikipedia.org/wiki/Baidu), co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), and founded [DeepLearning.AI](https://www.deeplearning.ai/). The entire Machine Learning community looks to him for training and guidance. His [perspective](https://www.linkedin.com/posts/andrewyng_deepseek-r1-uncensored-qwq-32b-puts-reasoning-activity-7305984835708141570-XVKU) on AI's impact on programming carries serious weight:
 
 <p>
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305984835037118464" height="430px" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post"></iframe>
 </p>
 
-Learning to code today isn't about manually typing every single line. It's about understanding how systems actually work so you can write effective prompts, catch when AI hallucinates garbage, and debug when things inevitably break.
+Learning to code today isn't about prepping for a future where you type every line yourself. We haven't been doing that even before AI. [High-level languages](https://en.wikipedia.org/wiki/High-level_programming_language), [Stack Overflow](https://en.wikipedia.org/wiki/Stack_Overflow) (RIP) copy/paste, [low-code tools](https://en.wikipedia.org/wiki/Low-code_development_platform), we've been doing anything and everything to make it easier to create software.
 
-The future is being technical enough to orchestrate AI while you handle the problems that need human judgment. Those decisions no serious company will ever trust to a machine are what make you valuable and get you paid.
+The future is being technical enough to orchestrate AI while you handle the problems that need human judgment.
 
-Take choosing which model your company's AI chatbot uses. That's not a decision you want AI making for you. Money's involved. We need people to build AI systems, not sit there asking AI how to build AI systems. Like, wtf. That's exactly why coding, or really the ability to read and understand code, still matters.
+Writing effective prompts, catching when AI hallucinates garbage, and debugging when things inevitably break. Those are the things no serious company will ever [trust to a machine](/assets/images/ibm-slide.jpg), and they're what make you valuable and get you paid.
+
+But you can only do these things if you can read and understand code, generate it with very specific prompts (essentially [pseudocode](https://en.wikipedia.org/wiki/Pseudocode)), and occasionally, write it when needed.
 
 ## Where to Learn
 
-If you know basic Python, you're ready to start. If not, begin with [Google's free Python course](https://developers.google.com/edu/python). After that, dive in.
+If you know basic Python, or any programming language, you're ready to start. If not, begin with [Google's free Python course](https://developers.google.com/edu/python). After that, dive in.
 
 <details markdown="1">
 <summary>Free Resources for Students</summary>
@@ -190,7 +227,7 @@ Stick with what most companies use. Don't chase every hot new tool from a startu
 * [**VS Code**](https://code.visualstudio.com/): The IDE everyone uses. Even [Cursor](https://cursor.com/) is just a VS Code fork. The industry isn't leaving VS Code. Microsoft's vertical integration owning it and GitHub and Azure and a chunk of OpenAI is insane. Investing in being a VS Code power user is time well spent.
 * [**GitHub Copilot**](https://github.com/features/copilot/tutorials): Free for students. GitHub is owned by Microsoft, so it's integrated everywhere. Specifically, it's the preferred AI coding tool of VS Code.
 * [**Claude Code**](https://www.anthropic.com/claude-code): Terminal-based AI-coding tool that works with any IDE (including VS Code). From Anthropic, it's the real deal. A competitor to GitHub Copilot. Amazon is behind Anthropic, so this product has staying power.
-* [**GitHub Spark**](https://github.com/features/spark): GitHub's answer to natural language app builders like [Lovable](https://lovable.dev/). Great for personal projects, micro apps, [greenfield development](https://en.wikipedia.org/wiki/Greenfield_project), prototypes, etc.
+* [**GitHub Spark**](https://github.com/features/spark): GitHub's answer to vibe coding tools like [Lovable](https://lovable.dev/). Great for personal projects, micro apps, [greenfield development](https://en.wikipedia.org/wiki/Greenfield_project), prototypes, etc.
 
 </details>
 
@@ -246,6 +283,7 @@ The tech community lives more on LinkedIn, Twitter (will always be its name to m
 
 * [10 AI Terms Everyone Should Know](https://news.microsoft.com/10-ai-terms/)
 * [10 More AI Terms Everyone Should Know](https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/)
+* [A Completely Non-Technical Explanation of AI and Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html)
 
 </details>
 
@@ -253,10 +291,11 @@ The tech community lives more on LinkedIn, Twitter (will always be its name to m
 <summary>On Coding's Future</summary>
 
 * [Has AI Made "Learn to Code" Obsolete?](https://www.freethink.com/artificial-intelligence/learn-to-code)
+* [Is Coding Education Dead?](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/)
+* [Developers, Reinvented](https://ashtom.github.io/developers-reinvented)
 * [The Developer Odyssey](https://ashtom.github.io/developer-odyssey)
 * [AI Peer Programmer](https://ashtom.github.io/ai-peer-programmer)
 * [Sam Altman Says World Wants 1000x More Software](https://www.finalroundai.com/blog/sam-altman-says-world-wants-1000x-more-software)
-* [Is Coding Education Dead?](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/)
 * [The Illusion of Vibe Coding](https://shiftmag.dev/the-illusion-of-vibe-coding-5297/)
 
 </details>
@@ -275,6 +314,7 @@ The tech community lives more on LinkedIn, Twitter (will always be its name to m
 
 * [The Many Fallacies of 'AI Won't Take Your Job'](https://platforms.substack.com/p/the-many-fallacies-of-ai-wont-take)
 * [Make No Mistake, AI Is Owned by Big Tech](https://www.technologyreview.com/2023/12/05/1084393/make-no-mistake-ai-is-owned-by-big-tech/)
+* [Any Technology Indistinguishable From Magic is Hiding Something](https://www.fromjason.xyz/p/notebook/any-technology-indistinguishable-from-magic-is-hiding-something/)
 
 </details>
 
@@ -282,7 +322,19 @@ The tech community lives more on LinkedIn, Twitter (will always be its name to m
 
 The shortest and sweetest advice I can give is apply early and often. It took me 112 applications back in 2020, 3 of which resulted in interviews, and only 1 of which resulted in an offer, to get in with [my current employer](https://en.wikipedia.org/wiki/Microsoft).
 
-If you're in college, literally when you arrive on campus in the Fall, it's time to apply for internships. Set aside a few minutes every day, download LinkedIn to find positions, use [Easy Apply](https://www.linkedin.com/help/linkedin/answer/a512388), set up job alerts on [Indeed](https://www.indeed.com/). If your goal is big tech, check the [Microsoft](https://careers.microsoft.com/v2/global/en/students), [Google](https://www.google.com/about/careers/applications/students), [Amazon](https://www.amazon.jobs/content/en/career-programs/university), [Meta](https://www.metacareers.com/careerprograms/students), and [Apple](https://www.apple.com/careers/us/work-at-apple/students.html) student career pages every day. The big tech companies are always posting, and sometimes at different stages, so you really got to keep an eye on their websites.
+Some people might hear that and think:
+
+<div class="meme-container">
+  <div class="meme-wrapper">
+    <img alt="Aint Nobody Got Time for That" src="/assets/images/aint-nobody-got-time-for-that.gif"/>
+  </div>
+</div>
+
+But that's what it takes. You've got to [hustle](https://www.youtube.com/watch?v=gEVLvBRB96Y), [hard](https://www.youtube.com/watch?v=bVwyrk3Ftc4).
+
+If you're in college, literally when you arrive on campus in the Fall, it's time to apply for internships. Set aside a few minutes every day, download LinkedIn to find positions, use [Easy Apply](https://www.linkedin.com/help/linkedin/answer/a512388), set up job alerts on [Indeed](https://www.indeed.com/).
+
+If your goal is big tech, check the [Microsoft](https://careers.microsoft.com/v2/global/en/students), [Google](https://www.google.com/about/careers/applications/students), [Amazon](https://www.amazon.jobs/content/en/career-programs/university), [Meta](https://www.metacareers.com/careerprograms/students), and [Apple](https://www.apple.com/careers/us/work-at-apple/students.html) student career pages every day. The big tech companies are always posting, and sometimes at different stages, so you really got to keep an eye on their websites.
 
 I've written extensively about this in my [AI in Tech Careers](https://segunakinyemi.com/blog/ai-in-tech-careers/) and [Miscellaneous Tech Career Advice](https://segunakinyemi.com/blog/miscellaneous-tech-career-advice/) posts. But honestly, if you're with [SEO](https://tech.seo-usa.org/), you're probably doing just fine with finding internships as they have great resources.
 
