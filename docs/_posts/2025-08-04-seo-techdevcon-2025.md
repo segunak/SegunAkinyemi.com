@@ -56,6 +56,7 @@ During the workshop, I promised resources and answers. Here's where to find them
 
 **Resources:**
 
+* [What to Learn](#what-to-learn) - The core competencies of AI Engineering
 * [Where to Learn](#where-to-learn) - Free courses and tools
 * [Who to Follow](#who-to-follow) - Key people and organizations  
 * [What to Read](#what-to-read) - Essential articles
@@ -73,6 +74,13 @@ During the workshop, I promised resources and answers. Here's where to find them
 It's still a relatively new term, although [it's going mainstream](https://www.latent.space/p/aiewf-2025-keynotes), but here's my attempt at a definition.
 
 > AI Engineering is the practice of building software that connects AI models to real-world systems and knowledge. While Machine Learning Engineers create the models, AI Engineers make them useful by providing the right context, tools, and interfaces for specific applications.
+
+I created this visual to illustrate what AI Engineering means in practice. It's not perfect, but it gets the point across:
+
+![AI Engineer Image](/assets/images/AI-Engineer-Graph.png)
+
+**Aside:** The image shows AI Engineer as the #1 fastest growing job title, which comes from [LinkedIn's 2025 Jobs on the Rise report](https://www.linkedin.com/pulse/linkedin-jobs-rise-2025-25-fastest-growing-us-linkedin-news-gryie).
+{: .notice--info}
 
 Think of it this way. They're both athletes, but in different sports.
 
@@ -131,12 +139,6 @@ For me, you, and anyone wanting a tech career who isn't great at math or trying 
   </div>
 </div>
 
-If you ever thought you could be a Software Engineer (or Software Developer, literally the same thing, don't let anyone tell you otherwise), then you can be an AI Engineer.
-
-The same fundamental skill of coding is required, but you also need a solid understanding of tech stuff like APIs, databases, networking, DevOps, and system design.
-
-These aren't things you need a PhD to learn. You don't even really need a bachelor's (although it certainly helps). You can [learn all this stuff online](https://learn.microsoft.com/en-us/training/career-paths/).
-
 ## Why Coding Still Matters
 
 You can't build serious systems, the kind companies up and down the Fortune 500 actually want, if you don't understand code.
@@ -183,6 +185,65 @@ The future is being technical enough to orchestrate AI while you handle the prob
 Writing effective prompts, catching when AI hallucinates garbage, and debugging when things inevitably break. Those are the things no serious company will ever [trust solely to a machine](/assets/images/ibm-slide.jpg), and they're what make you valuable and get you paid.
 
 But you can only do these things if you can read and understand code, generate it with very specific prompts (essentially [pseudocode](https://en.wikipedia.org/wiki/Pseudocode)), and occasionally, write it when needed.
+
+## What to Learn
+
+If you ever thought you could be a Software Engineer (or Software Developer, literally the same thing, don't let anyone tell you otherwise), then you can be an AI Engineer.
+
+The same fundamental skill of coding is required, but you also need a solid understanding of the technical areas that AI Engineers (mostly still called Software Engineers) work with day-to-day.
+
+Many of these are areas that real-world software engineers already deal with. Its the stuff beyond just coding that often surprises new grads when they start building production systems at scale.
+
+Here's what you'll need to get familiar with:
+
+<details markdown="1">
+<summary>Data Stuff</summary>
+
+AI systems are only as good as the data they work with. To make data "AI-ready," you need to organize it so AI can find answers quickly.
+
+AI doesn't understand text like we do. It converts everything into numbers called **vectors** (think of them as coordinates that capture meaning).
+
+A **vector database** is like a search engine built for these numbers, letting AI find similar content even if the exact words don't match. This is called **semantic search**, which means searching by meaning, not just keywords.
+
+* **Vector Databases**: [Postgres](https://www.amazingcto.com/postgres-for-everything/) with [pgvector](https://github.com/pgvector/pgvector), [Pinecone](https://www.pinecone.io/), [Weaviate](https://weaviate.io/), [Azure AI Search](https://azure.microsoft.com/en-us/products/ai-services/ai-search). These store and search vectors efficiently.
+* **Vector Indexes & Optimization**: [Vector indexes](https://docs.weaviate.io/weaviate/concepts/vector-index), [Vector optimization](https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-configure-compression-storage) and [index strategies](https://medium.com/@myscale/understanding-vector-indexing-a-comprehensive-guide-d1abe36ccd3c) for fast data retrieval.
+* **Embeddings & Indexing**: Understanding [vector embeddings](https://developers.google.com/machine-learning/crash-course/embeddings), which is how text gets converted to numbers that capture its meaning.
+* **Basic SQL & Data Foundations**: Still the backbone of all data work. Even [Apache Spark uses SQL syntax](https://spark.apache.org/sql/) as the preferred interface.
+
+</details>
+
+<details markdown="1">
+<summary>AI-Specific Technologies</summary>
+
+* **Retrieval Augmented Generation (RAG)**: Understanding [what RAG is](https://cloud.google.com/use-cases/retrieval-augmented-generation), and [building RAG systems](https://python.langchain.com/docs/tutorials/rag/) to connect AI to a company's data.
+* **Cache Augmented Generation (CAG)**: Optimizing AI responses with [intelligent caching strategies](https://www.anthropic.com/news/prompt-caching), which some are saying is the [successor to RAG](https://arxiv.org/html/2412.15605v1).
+* **Model Context Protocol (MCP)**: [Connecting AI to external systems](https://modelcontextprotocol.io/overview), the foundation of agentic AI
+* **Model Selection & Evaluation**: Choosing between GPT, Claude, Llama, Gemini, DeepSeek, etc. based on [cost, performance, and use case](https://artificialanalysis.ai/leaderboards/models).
+* **Responsible AI**: [Bias detection](https://leena.ai/blog/mitigating-bias-in-ai/), [content filtering](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/content-filtering), [ethical AI practices](https://www.microsoft.com/en-us/ai/responsible-ai)
+
+</details>
+
+<details markdown="1">
+<summary>System Architecture</summary>
+
+* **APIs**: Building and consuming [REST APIs](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design), [GraphQL](https://graphql.org/), and [well-designed endpoints](https://www.getambassador.io/blog/guide-api-endpoints) that AI can easily discover and leverage.
+* **System Design**: [Designing scalable AI systems](https://towardsdatascience.com/a-developers-guide-to-building-scalable-ai-workflows-vs-agents/) that don't [crash under load](https://forgecode.dev/blog/gcp-cloudflare-anthropic-outage/).
+* **Networking**: A basic understanding of [computer networking](https://zerotomastery.io/blog/introduction-to-networking/) because AI runs on...computers. Cloud Networking, specific to the service provider you're building with (guides for [Azure](https://learn.microsoft.com/en-us/azure/networking/fundamentals/), [GCP](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-networking-101-quick-reference-guide), and [AWS](https://aws.amazon.com/what-is/cloud-networking/)), how data flows between services ([ETL](https://learn.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl)), [load balancing](https://learn.microsoft.com/en-us/azure/load-balancer/), [CDNs](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/).
+* **Cloud Platforms**: [Azure](https://learn.microsoft.com/en-us/training/career-paths/), [AWS](https://aws.amazon.com/training/), [Google Cloud](https://cloud.google.com/training). Pick one and dive in, entire careers are built just understanding one of these.
+
+</details>
+
+<details markdown="1">
+<summary>Infrastructure & Operations</summary>
+
+* **DevOps & CI/CD**: [GitHub Actions](https://github.com/features/actions), [Terraform](https://developer.hashicorp.com/terraform), [Azure Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep), containerization with [Docker](https://www.docker.com/), and if you're into suffering, [Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/).
+* **FinOps (Cost Optimization)**: [FinOps](https://www.finops.org/introduction/what-is-finops/), [token optimization](https://developer.ibm.com/articles/awb-token-optimization-backbone-of-effective-prompt-engineering/), [caching strategies](https://latitude-blog.ghost.io/blog/ultimate-guide-to-llm-caching-for-low-latency-ai/), [choosing the right model size](https://outshift.cisco.com/blog/understanding-llms-model-size-training-data-tokenization).
+* **Business Continuity, High Availability, Disaster Recovery**: Building [resilient systems](https://google.github.io/building-secure-and-reliable-systems/raw/ch08.html) that feature [disaster recovery](https://learn.microsoft.com/en-us/azure/reliability/disaster-recovery-overview).
+* **Monitoring & Alerting**: [Application Insights](https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview), [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/), [Splunk](https://www.splunk.com/) for system health.
+
+</details>
+
+These aren't things you need a PhD to learn. You don't even really need a bachelor's (although it certainly helps). You can [learn all this stuff online](https://learn.microsoft.com/en-us/training/career-paths/).
 
 ## Where to Learn
 
