@@ -1,4 +1,4 @@
----
+Yu---
 title: "About Me"
 layout: single
 classes: wide
@@ -20,7 +20,7 @@ During my time there, I competed as a track & field athlete in the high jump whi
 
 ## Personal Journey
 
-I often tell people that while I was raised in the greater Seattle area, I [became a man](https://www.biblegateway.com/passage/?search=1%20Corinthians%2013%3A11&version=NKJV) in St. Louis. During my time there, I met people who meant a lot to me, not only because they preached the Gospel but because they lived it They picked me up when I was down, offered essentials while I was a broke college student, opened their homes during holidays when I couldn't afford to fly back to mine, and housed me over summers so I could work odd jobs to support my family.
+I often tell people that while I was raised in the greater Seattle area, I [became a man](https://www.biblegateway.com/passage/?search=1%20Corinthians%2013%3A11&version=NKJV) in St. Louis. During my time there, I met people who meant a lot to me, not only because they preached the Gospel but because they lived it. They picked me up when I was down, offered essentials while I was a broke college student, opened their homes during holidays when I couldn't afford to fly back to mine, and housed me over summers so I could work odd jobs to support my family.
 
 They helped me pay off a [Sallie Mae](https://en.wikipedia.org/wiki/Sallie_Mae) (a truly evil organization) loan so I could stay in school, ensuring that by graduation, I owed them nothing. They stood in the crowds at my track meets, wrote references for internships and grad school, insisted on sending money to my family when I finally opened up about our needs, and sat with me in church pews, offering comfort, a listening ear, and prayer long after the service had ended. It was through these people that I experienced Jesus, not in a [whirlwind from heaven](https://www.biblegateway.com/passage/?search=Job+38%3A1&version=KJV), but in everyday acts of love and sacrifice.
 
