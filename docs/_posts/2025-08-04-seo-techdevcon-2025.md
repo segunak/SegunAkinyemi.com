@@ -75,6 +75,9 @@ It's still a relatively new term, although [it's going mainstream](https://www.l
 
 > AI Engineering is the practice of building software that connects AI models to real-world systems and knowledge. While Machine Learning Engineers create the models, AI Engineers make them useful by providing the right context, tools, and interfaces for specific applications.
 
+**[Real Spill:](https://www.urbandictionary.com/define.php?term=real+spill)** AI Engineering is just the evolution of Software Engineering. Most AI Engineers today still have "Software Engineer" or "Software Developer" as their job title, and probably will for a while.
+{: .notice--warning}
+
 I created this visual to illustrate what AI Engineering means in practice. It's not perfect, but it gets the point across:
 
 ![AI Engineer Image](/assets/images/AI-Engineer-Graph.png)
@@ -217,16 +220,16 @@ A **vector database** is like a search engine built for these numbers, letting A
 
 * **Retrieval Augmented Generation (RAG)**: Understanding [what RAG is](https://cloud.google.com/use-cases/retrieval-augmented-generation), and [building RAG systems](https://python.langchain.com/docs/tutorials/rag/) to connect AI to a company's data.
 * **Cache Augmented Generation (CAG)**: Optimizing AI responses with [intelligent caching strategies](https://www.anthropic.com/news/prompt-caching), which some are saying is the [successor to RAG](https://arxiv.org/html/2412.15605v1).
-* **Model Context Protocol (MCP)**: [Connecting AI to external systems](https://modelcontextprotocol.io/overview), the foundation of agentic AI
+* **Model Context Protocol (MCP)**: [Connecting AI to external systems](https://modelcontextprotocol.io/overview), the foundation of agentic AI.
 * **Model Selection & Evaluation**: Choosing between GPT, Claude, Llama, Gemini, DeepSeek, etc. based on [cost, performance, and use case](https://artificialanalysis.ai/leaderboards/models).
-* **Responsible AI**: [Bias detection](https://leena.ai/blog/mitigating-bias-in-ai/), [content filtering](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/content-filtering), [ethical AI practices](https://www.microsoft.com/en-us/ai/responsible-ai)
+* **Responsible AI**: [Bias detection](https://leena.ai/blog/mitigating-bias-in-ai/), [content filtering](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/content-filtering), [ethical AI practices](https://www.microsoft.com/en-us/ai/responsible-ai).
 
 </details>
 
 <details markdown="1">
 <summary>System Architecture</summary>
 
-* **APIs**: Building and consuming [REST APIs](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design), [GraphQL](https://graphql.org/), and [well-designed endpoints](https://www.getambassador.io/blog/guide-api-endpoints) that AI can easily discover and leverage.
+* **APIs**: Building and consuming [REST APIs](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design), understanding [OpenAPI specifications](https://learn.openapis.org/) for AI-discoverable APIs, and [API versioning strategies](https://restfulapi.net/versioning/) for maintaining production systems.
 * **System Design**: [Designing scalable AI systems](https://towardsdatascience.com/a-developers-guide-to-building-scalable-ai-workflows-vs-agents/) that don't [crash under load](https://forgecode.dev/blog/gcp-cloudflare-anthropic-outage/).
 * **Networking**: A basic understanding of [computer networking](https://zerotomastery.io/blog/introduction-to-networking/) because AI runs on...computers. Cloud Networking, specific to the service provider you're building with (guides for [Azure](https://learn.microsoft.com/en-us/azure/networking/fundamentals/), [GCP](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-networking-101-quick-reference-guide), and [AWS](https://aws.amazon.com/what-is/cloud-networking/)), how data flows between services ([ETL](https://learn.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl)), [load balancing](https://learn.microsoft.com/en-us/azure/load-balancer/), [CDNs](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/).
 * **Cloud Platforms**: [Azure](https://learn.microsoft.com/en-us/training/career-paths/), [AWS](https://aws.amazon.com/training/), [Google Cloud](https://cloud.google.com/training). Pick one and dive in, entire careers are built just understanding one of these.
