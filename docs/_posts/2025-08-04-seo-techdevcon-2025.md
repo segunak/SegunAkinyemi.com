@@ -39,7 +39,7 @@ Welcome! If you're reading this, you probably scanned a QR code during my worksh
 
 I posted this before the workshop, so I hope you're like "_that session was awesome_" right now 😅. Or at the very least, I hope you enjoyed the fruit snacks if you got a swag bag.
 
-**Aside:** [Funables](https://www.funablessnacks.com/) are the apex fruit snack. Don't talk to me about [Welch's](https://welchsfruitsnacks.com/). I know you grew up with them, so did I, but they're _trash_. [Motts](https://www.motts.com/products/fruit-snacks), _trash_. [Annie's](https://www.annies.com/products/fruit-snacks), _trash_. [Gushers](https://www.gushers.com/), _not fruit snacks_. [Black Forest](https://www.blackforestusa.com/fruit-snacks), _mid_. [Scooby Doo](https://www.walmart.com/ip/Scooby-Doo-Fruit-Flavored-Snacks-Treat-Pouches-Gluten-Free-Value-Pack-22-Ct-17-6-oz/901230707), _decent_.
+**Aside:** [Funables](https://www.funablessnacks.com/) are the apex fruit snack. Don't talk to me about [Welch's](https://welchsfruitsnacks.com/). I know you grew up with them, so did I, but they're _trash_. [Motts](https://www.motts.com/products/fruit-snacks), _trash_. [Annie's](https://www.annies.com/products/fruit-snacks), _trash_. [Gushers](https://www.gushers.com/), _not fruit snacks_. [Black Forest](https://www.blackforestusa.com/fruit-snacks), _solid_. [Scooby Doo](https://www.walmart.com/ip/Scooby-Doo-Fruit-Flavored-Snacks-Treat-Pouches-Gluten-Free-Value-Pack-22-Ct-17-6-oz/901230707), _mid_.
 {: .notice--info}
 
 To learn more about me, you can check out my [about page](/about) or my [Charlotte Business Journal 40 under 40 profile](https://segunakinyemi.com/blog/cbj-40-under-40/). Otherwise, [let's get down to business](https://youtu.be/vGfJeW_CcFY?si=EeY1sYXFjLQ1AIso&t=50).
