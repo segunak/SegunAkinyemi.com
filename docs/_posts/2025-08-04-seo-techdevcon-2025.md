@@ -189,6 +189,16 @@ Writing effective prompts, catching when AI hallucinates garbage, and debugging 
 
 But you can only do these things if you can read and understand code, generate it with very specific prompts (essentially [pseudocode](https://en.wikipedia.org/wiki/Pseudocode)), and occasionally, write it when needed.
 
+## The Reality of AI in Software Development
+
+Check out this [Reddit discussion](https://www.reddit.com/r/ExperiencedDevs/comments/1mrdn6m/our_ceo_confirmed_ai_will_not_be_taking_our_jobs/) where software engineers and CTOs share their experiences with AI in the workplace. Companies that tried to replace humans with AI are regretting it, while those using AI to make their technical teams more efficient are getting more ambitious about projects. The result is more work than ever and a greater need for skilled humans who can use AI effectively.
+
+This tracks with what [Sam Altman said](https://www.finalroundai.com/blog/sam-altman-says-world-wants-1000x-more-software) about the world wanting "1000x more software." AI makes developers more productive (well...[it depends](https://fortune.com/2025/07/20/ai-hampers-productivity-software-developers-productivity-study/)), which means companies can tackle bigger projects and expand into new areas. Instead of replacing developers, this creates more demand for people who understand both technology and how to leverage AI tools.
+
+For the technical analysis on why this happens, check out [Why LLMs Can't Really Build Software](https://zed.dev/blog/why-llms-cant-build-software). It explains exactly why AI struggles with the mental models and iterative problem-solving that experienced developers excel at. The community discussions about that article on [Hacker News](https://news.ycombinator.com/item?id=44900116) and [Reddit](https://www.reddit.com/r/programming/comments/1mqw1d1/why_llms_cant_really_build_software_zed_blog/) are also very insightful.
+
+When it comes to building software, AI helps humans get things done. It doesn't eliminate the need for them. It's been a minute since OpenAI released ChatGPT in 2022. We're not guessing anymore about how it's impacting the industry. We know. AI Engineering is a real thing, and it's the future of the field. One that keeps humans in the loop. Rejoice!
+
 ## What to Learn
 
 If you ever thought you could be a Software Engineer (or Software Developer, literally the same thing, don't let anyone tell you otherwise), then you can be an AI Engineer.

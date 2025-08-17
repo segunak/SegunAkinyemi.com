@@ -97,7 +97,7 @@ Interestingly though, this shift to [natural language programming](https://segun
 
 This debate among tech luminaries highlights a key reality: even the most knowledgeable experts don't fully agree on how AI will reshape coding and tech careers. But when weighing these perspectives, consider this: those who've devoted their careers specifically to AI research and development—like Ng and LeCun—tend to emphasize the continued importance of programming knowledge. Meanwhile, business leaders with broader focuses (and a fondness for cutting costs) often highlight how AI could make coding more accessible—or even unnecessary—for many tasks.
 
-That said, when the very inventors of modern AI systems—and the CEO of the platform hosting most of the world's code—are saying programming skills remain essential, maybe even more valuable in the age of AI, it's worth listening. Before buying into the doom-and-gloom takes on tech careers, ask yourself: who's more likely to understand AI's true impact than the people who helped build it?
+That said, when the very inventors of modern AI systems and the CEO of the platform hosting most of the world's code are saying programming skills remain essential, maybe even more valuable in the age of AI, it's worth listening. Before buying into the doom-and-gloom takes on tech careers, ask yourself who's more likely to understand AI's true impact than the people who helped build it.
 
 ## Technical Expertise Is Still Valuable
 
@@ -216,40 +216,22 @@ AI can write code, but building reliable, scalable systems is still on us. I'm i
 
 </details>
 
-Remember: AI is a tool. Two people can take the same math test with the same calculator—one passes, one fails. The difference is knowing how to use it. The best tech workers won't be the ones leaning on AI to do everything, but the ones who know how to *steer* it because they actually understand the work.
+Remember, AI is a tool. Two people can take the same math test with the same calculator, one passes, one fails. The difference is knowing how to use it. The best tech workers won't be the ones leaning on AI to do everything, but the ones who know how to *steer* it because they actually understand the work.
 
 ## AI Tools for Tech Professionals
 
-These tools integrate AI directly into your workflow. Instead of context-switching to ChatGPT or other standalone AI interfaces, they bring intelligence right into the applications you already use.
-
-This is the most significant shift I've observed: AI isn't just a separate chatbot anymore. It's embedded within your existing tools, enhancing productivity without disrupting your workflow. When used correctly, this integration dramatically improves efficiency.
+AI (specifically, LLMs) isn't just a chatbot anymore. There are fully featured tools that bring it into all sorts of workflows, having impact that doesn't require copy/pasting content into ChatGPT. Here are a few.
 
 <details markdown="1">
 <summary>🛠️ AI Coding Tools</summary>
 
-* [**GitHub Copilot Agent Mode**](https://code.visualstudio.com/docs/copilot/copilot-chat) - This is my daily driver. It enables natural language conversations about code within VS Code, helping with writing, debugging, and explaining code through dialog. With Microsoft owning both GitHub and VS Code, and having strong OpenAI ties, it provides access to cutting-edge AI models while staying in your IDE. It's model-agnostic too—you can use Claude, Gemini, DeepSeek and others.
-* [**Gemini Code Assist**](https://codeassist.google/) - Google's AI coding assistant that integrates with popular IDEs to provide contextual code completions and suggestions based on your codebase and documentation. It excels at understanding and generating code for Google-specific technologies and cloud services.
-* [**Amazon Q Developer**](https://aws.amazon.com/q/developer/) - AWS's AI coding companion that specializes in AWS services, helping developers build cloud applications, troubleshoot issues, and navigate the vast AWS ecosystem. If your work heavily involves AWS infrastructure, this tool offers contextual assistance tailored to their services.
-* [**Cursor**](https://www.cursor.com/) - An AI-powered code editor built on VS Code that pioneered many features GitHub Copilot Agent Mode now offers. It provides a full context window for more accurate code generation and understanding, but may eventually be eclipsed by Copilot's deeper integration.
-
-</details>
-
-<details markdown="1">
-<summary>🧰 Development Platforms</summary>
-
-* [**Vercel v0**](https://v0.dev/) - A generative UI system that converts plain text descriptions into React code, dramatically speeding up front-end development. It's especially powerful for React projects using NextJS, creating production-ready components from natural language descriptions.
-* [**Lovable.dev**](https://lovable.dev/) - A tool that enables creating functional websites through conversational prompts, making web development more accessible to non-developers. It handles complex logic and responsive design without requiring coding knowledge.
-* [**Replit GhostWriter**](https://replit.com/ghostwriter) - An AI coding assistant built into Replit's browser-based development platform. It's perfect for quick experiments, learning to code, and collaborative projects without local environment setup.
-* [**GitHub Spark**](https://githubnext.com/projects/github-spark) - An AI-powered tool for creating and sharing micro apps ("sparks") without writing or deploying code. These apps are directly usable from desktop and mobile devices, making it perfect for quick utilities and prototypes.
-
-</details>
-
-<details markdown="1">
-<summary>🎨 Design Assistants</summary>
-
-* [**Canva Magic Design**](https://www.canva.com/magic-design/) - An AI feature within Canva that generates complete design layouts based on text descriptions. It provides a ready-to-use starting point for presentations, social media graphics, and marketing materials.
-* [**Microsoft Designer**](https://designer.microsoft.com/) - A powerful AI design tool that converts text descriptions into visual designs with extensive customization options. It integrates with Microsoft 365 and offers commercial usage rights for generated content.
-* [**Adobe Firefly**](https://www.adobe.com/products/firefly.html) - Adobe's suite of generative AI tools designed specifically for creative professionals. It's trained on licensed content and Adobe Stock, making it suitable for commercial projects without copyright concerns.
+* [**GitHub Copilot in VS Code**](https://code.visualstudio.com/docs/copilot/overview) - My daily driver. Natural language conversations about code directly in VS Code. Works in [Agent Mode](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode) too. Model-agnostic. Use Claude, Gemini, OpenAI, whatever.
+* [**Gemini Code Assist**](https://codeassist.google/) - Google's coding assistant. Good with Google technologies and cloud services.
+* [**Amazon Q Developer**](https://aws.amazon.com/q/developer/) - AWS-focused coding assistant. Useful if you work heavily with AWS infrastructure.
+* [**Cursor**](https://www.cursor.com/) - AI code editor built on VS Code. Pioneered features that Copilot now has. Very popular with vibe coders and the hobby developer crowd.
+* [**Claude Code**](https://www.anthropic.com/claude-code) - Anthropic's coding assistant. Strong at code generation and understanding context across languages. Works via a terminal, so can be used with any IDE.
+* [**GitHub Spark**](https://githubnext.com/projects/github-spark) - Create micro apps without code. GitHub's launch into the vibe coding space.
+* [**Lovable.dev**](https://lovable.dev/) - Build websites through prompts. Very popular vibe coding tool, the leading one without a doubt.
 
 </details>
 

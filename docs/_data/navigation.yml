@@ -5,12 +5,12 @@ main:
     url: /about/
   - title: "Blog"
     url: /blog/
+  - title: "Highlights"
+    url: /highlights/
   - title: "Tags"
     url: "/tags/"
   - title: "Reading"
     url: /reading/
-  - title: "Projects"
-    url: /projects/
   - title: "Contact"
     url: /contact/
 adf-synapse-pipeline-retries:
