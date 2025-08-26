@@ -20,15 +20,32 @@ tags:
 <script src="/assets/js/dynamic-link-targeting.js"></script>
 
 <style>
-    /* Apply styles only on tablets and larger devices */
-    @media (min-width: 768px) {
-        .page__hero--overlay {
-            padding: 11em 0;
-        }
-    }
+  /* Apply styles only on tablets and larger devices */
+  @media (min-width: 768px) {
+    .page__hero--overlay { padding: 11em 0; }
+  }
+
+  /* Vertical video grid */
+  .video-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    justify-items: center;
+    margin: 1rem 0 1.5rem;
+  }
+  @media (min-width: 900px) {
+    .video-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  .video-embed-vertical { width: 100%; max-width: 420px; }
+  .video-embed-vertical > .ratio {
+    position: relative; width: 100%; padding-top: 177.78%; /* 9:16 */
+  }
+  .video-embed-vertical iframe {
+    position: absolute; inset: 0; width: 100%; height: 100%; border: none; border-radius: 8px;
+  }
 </style>
 
-**Note:** You can skip my yapping and go straight to the workshop [by clicking here](#required-materials).
+**Note:** You can skip my yapping and go straight to the workshop [by clicking here](#see-it-in-action).
 {: .notice--info}
 
 ## Some Background
@@ -66,6 +83,31 @@ As [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy) (former Dire
 Traditional software engineers write code to directly control systems. AI Engineers take a different approach. They write code that teaches AI how to control those systems. It's still engineering, but instead of coding every action, you're providing AI with the knowledge it needs to figure things out. In many ways, it's just an evolution of the job title.
 
 This workshop gives students a taste of both worlds. They see how traditional code controls the robot directly, then transform into AI Engineers by teaching AI to control it. More importantly, they learn that with the right context and tools, they can solve problems faster than ever.
+
+## See It in Action
+
+Here's some clips from the [Charlotte–Mecklenburg Schools](https://www.cmsk12.org/) "Bases Loaded" back‑to‑school event where I delivered this workshop, as [featured on Microsoft's LinkedIn](https://www.linkedin.com/posts/microsoft_truist-field-was-packed-for-charlotte-mecklenburg-activity-7366092140814221312-6PlQ).
+
+<div class="video-grid">
+  <div class="video-embed-vertical">
+    <div class="ratio">
+      <iframe
+        src="https://onedrive.live.com/embed?cid=750d396c5cadcebd&id=750D396C5CADCEBD!s2300f3af92e4466e906775579f95c563&resid=750D396C5CADCEBD!s2300f3af92e4466e906775579f95c563&ithint=video,mp4&embed=1&width=2160&height=3840&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy83NTBkMzk2YzVjYWRjZWJkL0lRU3Y4d0FqNUpKdVJwQm5kVmVmbGNWakFWWE1PMEZIQW0xR09YVjE2NUt4TElBP3dpZHRoPTIxNjAmaGVpZ2h0PTM4NDA"
+        title="Workshop clip 1"
+        frameborder="0" scrolling="no" allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+  <div class="video-embed-vertical">
+    <div class="ratio">
+      <iframe
+        src="https://onedrive.live.com/embed?cid=750d396c5cadcebd&id=750D396C5CADCEBD!s7eb438ee9e1344ca8854a17bfd6803ef&resid=750D396C5CADCEBD!s7eb438ee9e1344ca8854a17bfd6803ef&ithint=video,mp4&embed=1&width=2160&height=3840&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy83NTBkMzk2YzVjYWRjZWJkL0lRVHVPTFItRTU3S1JJaFVvWHY5YUFQdkFlbmExSFVvQV9QUmxkbmlJNkRtaG5zP3dpZHRoPTIxNjAmaGVpZ2h0PTM4NDA"
+        title="Workshop clip 2"
+        frameborder="0" scrolling="no" allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+</div>
 
 ## Required Materials
 
