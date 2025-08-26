@@ -1,6 +1,6 @@
 ---
 title: "Context Is All You Need: AI Engineering with the Petoi 'Bittle X' Robot Dog"
-excerpt: "Check out a workshop that teaches students AI Engineering, the art of providing models with good context, using robot dogs, Python, and VS Code."
+excerpt: "Check out an AI Engineering workshop, the art of providing models with good context, using robot dogs, Python, and VS Code."
 last_modified_at:
 toc: true
 toc_sticky: true
