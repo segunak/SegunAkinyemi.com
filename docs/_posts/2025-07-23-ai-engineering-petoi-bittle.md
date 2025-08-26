@@ -101,7 +101,7 @@ This workshop gives students a taste of both worlds. They see how traditional co
 
 ## See It in Action
 
-Here's some clips from the [Charlotte–Mecklenburg Schools](https://www.cmsk12.org/) "Bases Loaded" back‑to‑school event where I delivered this workshop, as [featured on Microsoft's LinkedIn](https://www.linkedin.com/posts/microsoft_truist-field-was-packed-for-charlotte-mecklenburg-activity-7366092140814221312-6PlQ).
+Here's some clips from the [Charlotte–Mecklenburg Schools](https://www.cmsk12.org/) "Bases Loaded" [back‑to‑school event](https://www.gofevo.com/event/CMS-BTS2025) where I delivered this workshop, as [featured on Microsoft's LinkedIn](https://www.linkedin.com/posts/microsoft_truist-field-was-packed-for-charlotte-mecklenburg-activity-7366092140814221312-6PlQ).
 
 <div class="video-grid">
   <div class="video-embed-vertical">
