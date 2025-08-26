@@ -35,6 +35,21 @@ tags:
   }
   @media (min-width: 900px) {
     .video-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    /* If there are an odd number of items, center the last one by spanning both columns */
+    .video-grid > .video-embed-vertical:nth-last-child(1):nth-child(odd) {
+      grid-column: 1 / -1;
+      justify-self: center;
+    }
+  }
+
+  /* On wide desktops, show three columns */
+  @media (min-width: 1200px) {
+    .video-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    /* Remove the two-column odd-item spanning behavior at this width */
+    .video-grid > .video-embed-vertical:nth-last-child(1):nth-child(odd) {
+      grid-column: auto;
+      justify-self: center;
+    }
   }
   .video-embed-vertical { width: 100%; max-width: 420px; }
   .video-embed-vertical > .ratio {
@@ -103,6 +118,15 @@ Here's some clips from the [Charlotte–Mecklenburg Schools](https://www.cmsk12.
       <iframe
         src="https://onedrive.live.com/embed?cid=750d396c5cadcebd&id=750D396C5CADCEBD!s7eb438ee9e1344ca8854a17bfd6803ef&resid=750D396C5CADCEBD!s7eb438ee9e1344ca8854a17bfd6803ef&ithint=video,mp4&embed=1&width=2160&height=3840&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy83NTBkMzk2YzVjYWRjZWJkL0lRVHVPTFItRTU3S1JJaFVvWHY5YUFQdkFlbmExSFVvQV9QUmxkbmlJNkRtaG5zP3dpZHRoPTIxNjAmaGVpZ2h0PTM4NDA"
         title="Workshop clip 2"
+        frameborder="0" scrolling="no" allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+  <div class="video-embed-vertical">
+    <div class="ratio">
+      <iframe
+        src="https://onedrive.live.com/embed?cid=750d396c5cadcebd&id=750D396C5CADCEBD!sa9dcbc5f4c9a4451b6d973df2e0bbea5&resid=750D396C5CADCEBD!sa9dcbc5f4c9a4451b6d973df2e0bbea5&ithint=video,mp4&embed=1&width=2160&height=3840&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy83NTBkMzk2YzVjYWRjZWJkL0lRUmZ2TnlwbWt4UlJMYlpjOTh1Qzc2bEFVVWVJUzhNX1NYLU5ybWVUR0Q2N3A0P3dpZHRoPTIxNjAmaGVpZ2h0PTM4NDA"
+        title="Workshop clip 3"
         frameborder="0" scrolling="no" allowfullscreen>
       </iframe>
     </div>
