@@ -55,7 +55,8 @@ tags:
   .video-embed-vertical > .ratio {
     position: relative; width: 100%; padding-top: 177.78%; /* 9:16 */
   }
-  .video-embed-vertical iframe {
+  .video-embed-vertical iframe,
+  .video-embed-vertical video {
     position: absolute; inset: 0; width: 100%; height: 100%; border: none; border-radius: 8px;
   }
 </style>
@@ -106,29 +107,35 @@ Here's some clips from the [Charlotte–Mecklenburg Schools](https://www.cmsk12.
 <div class="video-grid">
   <div class="video-embed-vertical">
     <div class="ratio">
-      <iframe
-        src="https://onedrive.live.com/embed?cid=750d396c5cadcebd&id=750D396C5CADCEBD!s2300f3af92e4466e906775579f95c563&resid=750D396C5CADCEBD!s2300f3af92e4466e906775579f95c563&ithint=video,mp4&embed=1&width=2160&height=3840&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy83NTBkMzk2YzVjYWRjZWJkL0lRU3Y4d0FqNUpKdVJwQm5kVmVmbGNWakFWWE1PMEZIQW0xR09YVjE2NUt4TElBP3dpZHRoPTIxNjAmaGVpZ2h0PTM4NDA"
+      <video
+        src="/assets/videos/1-student-interaction-ai-engineering-robot-dog.mp4"
         title="Workshop clip 1"
-        frameborder="0" scrolling="no" allowfullscreen>
-      </iframe>
+        controls
+        playsinline
+        preload="metadata"
+      ></video>
     </div>
   </div>
   <div class="video-embed-vertical">
     <div class="ratio">
-      <iframe
-        src="https://onedrive.live.com/embed?cid=750d396c5cadcebd&id=750D396C5CADCEBD!s7eb438ee9e1344ca8854a17bfd6803ef&resid=750D396C5CADCEBD!s7eb438ee9e1344ca8854a17bfd6803ef&ithint=video,mp4&embed=1&width=2160&height=3840&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy83NTBkMzk2YzVjYWRjZWJkL0lRVHVPTFItRTU3S1JJaFVvWHY5YUFQdkFlbmExSFVvQV9QUmxkbmlJNkRtaG5zP3dpZHRoPTIxNjAmaGVpZ2h0PTM4NDA"
+      <video
+        src="/assets/videos/2-student-interaction-ai-engineering-robot-dog.mp4"
         title="Workshop clip 2"
-        frameborder="0" scrolling="no" allowfullscreen>
-      </iframe>
+        controls
+        playsinline
+        preload="metadata"
+      ></video>
     </div>
   </div>
   <div class="video-embed-vertical">
     <div class="ratio">
-      <iframe
-        src="https://onedrive.live.com/embed?cid=750d396c5cadcebd&id=750D396C5CADCEBD!sa9dcbc5f4c9a4451b6d973df2e0bbea5&resid=750D396C5CADCEBD!sa9dcbc5f4c9a4451b6d973df2e0bbea5&ithint=video,mp4&embed=1&width=2160&height=3840&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy83NTBkMzk2YzVjYWRjZWJkL0lRUmZ2TnlwbWt4UlJMYlpjOTh1Qzc2bEFVVWVJUzhNX1NYLU5ybWVUR0Q2N3A0P3dpZHRoPTIxNjAmaGVpZ2h0PTM4NDA"
+      <video
+        src="/assets/videos/3-student-interaction-ai-engineering-robot-dog.mp4"
         title="Workshop clip 3"
-        frameborder="0" scrolling="no" allowfullscreen>
-      </iframe>
+        controls
+        playsinline
+        preload="metadata"
+      ></video>
     </div>
   </div>
 </div>
