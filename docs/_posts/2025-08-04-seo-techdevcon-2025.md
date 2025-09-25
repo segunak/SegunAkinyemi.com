@@ -314,12 +314,12 @@ Tech people usually want to post and discuss without needing a picture or video 
 <summary>The Top Tier</summary>
 
 * **Andrej Karpathy**: OpenAI co-founder, former Tesla AI Director, now focused on AI education. Created [Stanford's CS231n course](https://cs231n.stanford.edu/) that launched countless ML careers. The most trusted voice among both Machine Learning and AI Engineers regarding the state of the industry. Coined the term [vibe-coding](https://en.wikipedia.org/wiki/Vibe_coding). Follow on [Twitter](https://x.com/karpathy), [LinkedIn](https://www.linkedin.com/in/andrej-karpathy-9a650716), [YouTube](https://www.youtube.com/@AndrejKarpathy).
+* **Pamela Fox**: Principal Cloud Advocate at Microsoft. A relentless builder/teacher constantly dropping new tutorials, samples, workshops, and deep-dives on GitHub, VS Code, and Azure for real-world AI engineering (and broader dev productivity) scenarios. If you want a steady stream of practical "here's how to actually ship with AI" content plus approachable explanations, she's elite. Top tier follow. [LinkedIn](https://www.linkedin.com/in/pamela-s-fox), [GitHub](https://github.com/PamelaFox), [Twitter](https://x.com/pamelafox).
 * **Andrew Ng**: Founded Coursera, Google Brain, and DeepLearning.AI. Pioneered online ML education. Co-led Google Brain's [2012 "cat-recognition" breakthrough that kicked off the modern Deep Learning era](https://www.wired.com/2012/06/google-x-neural-network/). [Twitter](https://x.com/AndrewYNg), [LinkedIn](https://www.linkedin.com/in/andrewyng).
 * **Yann LeCun**: Meta's Chief AI Scientist, [Turing Award winner](https://amturing.acm.org/award_winners/lecun_6017366.cfm), and respected voice in the AI community, particularly regarding the tech industry's future with it. [LinkedIn](https://www.linkedin.com/in/yann-lecun), [Twitter](https://x.com/ylecun).
 * **Sam Altman**: OpenAI CEO. [Twitter](https://x.com/sama).
 * **Ian Goodfellow**: Invented [GANs](https://en.wikipedia.org/wiki/Generative_adversarial_network), real technical AI heavyweight. [Twitter](https://x.com/goodfellow_ian), [LinkedIn](https://www.linkedin.com/in/ian-goodfellow-b7187213).
 * **Jeff Dean**: Google's AI legend. [Twitter](https://x.com/jeffdean).
-* **Thomas Dohmke**: GitHub CEO, leading AI coding tools. [LinkedIn](https://www.linkedin.com/in/ashtom), [Twitter](https://x.com/ashtom).
 * **Alberta Tech**: Hilarious, actually a developer, so her memes about AI are both accurate and insightful. [TikTok](https://www.tiktok.com/@alberta.nyc), [Instagram](https://www.instagram.com/alberta.tech/), [Twitter](https://x.com/albertadevs), [YouTube](https://www.youtube.com/@albertatech).
 * **David Fowler**: Microsoft distinguished engineer (a big deal). Huge in the .NET space, and thereby how AI is landing there. [Twitter](https://x.com/davidfowl), [LinkedIn](https://www.linkedin.com/in/davidfowl).
 
@@ -333,7 +333,7 @@ Tech people usually want to post and discuss without needing a picture or video 
 * **Microsoft AI**: [LinkedIn](https://www.linkedin.com/company/microsoft-ai)
 * **Google DeepMind**: [LinkedIn](https://uk.linkedin.com/company/googledeepmind), [Twitter](https://x.com/GoogleDeepMind)
 * **Meta AI**: [LinkedIn](https://www.linkedin.com/showcase/aiatmeta/), [Twitter](https://x.com/AIatMeta)
-* **VS Code**: [Twitter](https://x.com/code), [YouTube](https://www.youtube.com/@code)
+* **VS Code**: [LinkedIn](https://www.linkedin.com/showcase/vs-code), [Twitter](https://x.com/code), [YouTube](https://www.youtube.com/@code)
 * **GitHub**: [YouTube](https://www.youtube.com/@github), [LinkedIn](https://www.linkedin.com/company/github), [Twitter](https://x.com/github)
 * **HuggingFace**: Essential for AI tools and models. [LinkedIn](https://www.linkedin.com/company/huggingface), [Twitter](https://x.com/huggingface)
 
