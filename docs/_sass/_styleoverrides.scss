@@ -160,7 +160,7 @@ details {
 details p,
 details li {
   margin-bottom: 0.7em !important;
-  font-size: 0.9em !important;
+  font-size: 0.95em !important;
 }
 
 details summary {
@@ -202,7 +202,6 @@ details[open] summary {
 details > *:not(summary) {
   margin-top: 0.5em;
   margin-left: 1em;
-  font-size: 0.95em; /* Make content slightly smaller than summary */
 }
 
 details ul {
@@ -235,8 +234,7 @@ details p:last-of-type {
 /* Meme container styling - DESKTOP ONLY */
 @media (min-width: 768px) {
   .meme-container {
-    margin: 2em 0;
-    padding: 1em 0;
+    margin: 1.5em 0;
     position: relative;
     width: 100%;
     max-width: 100%;

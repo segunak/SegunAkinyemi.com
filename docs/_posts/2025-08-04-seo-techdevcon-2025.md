@@ -28,16 +28,16 @@ tags:
     }
 </style>
 
- Be sure to [connect with me on LinkedIn](https://www.linkedin.com/in/segunakinyemi/) to continue the conversation about [AI](https://segunakinyemi.com/tags/#artificial-intelligence), [tech careers](https://segunakinyemi.com/blog/ai-in-tech-careers/), [layoffs](https://layoffs.fyi/), anime (watch [_Steinsgate_](https://www.imdb.com/title/tt1910272/) 🙌), Marvel ([_The Fantastic Four: First Steps_](https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps) 🔥), the new [DCU](https://en.wikipedia.org/wiki/DC_Universe_(franchise)) ([_Superman_](https://en.wikipedia.org/wiki/Superman_(2025_film)) 👏), [Christianity](https://segunakinyemi.com/blog/comforts-of-christ/), society, philosophy, [you name it](https://www.youtube.com/watch?v=8BPizjoGP1M)!
+Be sure to [connect with me on LinkedIn](https://www.linkedin.com/in/segunakinyemi/) to continue the conversation about [AI](https://segunakinyemi.com/tags/#artificial-intelligence), [tech careers](https://segunakinyemi.com/blog/ai-in-tech-careers/), [layoffs](https://layoffs.fyi/), anime (watch [_Steinsgate_](https://www.imdb.com/title/tt1910272/) 🙌), Marvel ([_The Fantastic Four: First Steps_](https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps) 🔥), the new [DCU](https://en.wikipedia.org/wiki/DC_Universe_(franchise)) ([_Superman_](https://en.wikipedia.org/wiki/Superman_(2025_film)) 👏), [Christianity](https://segunakinyemi.com/blog/comforts-of-christ/), society, philosophy, [you name it](https://www.youtube.com/watch?v=8BPizjoGP1M)!
 {: .notice--info}
 
 ## What's Up
 
 ![KakashiWaving](/assets/images/kakashi-hello.gif)
 
-Welcome! If you're reading this, you probably scanned a QR code during my workshop at [SEO's](https://www.seo-usa.org/) 2025 [Tech Developer Conference](https://tech.seo-usa.org/) in New York.
+Welcome! If you're reading this, you might've scanned a QR code during my workshop at [SEO's](https://www.seo-usa.org/) 2025 [Tech Developer Conference](https://tech.seo-usa.org/) in New York. If you didn't, that's alright. The information written here remains relevant in perpetuity for any college students interested in the tech field and feeling anxiety.
 
-I posted this before the workshop, so I hope you're like "_that session was awesome_" right now 😅. Or at the very least, I hope you enjoyed the fruit snacks if you got a swag bag.
+If you were at the conference and got a swag bag, I hope you enjoyed the fruit snacks! Speaking of which...
 
 **Aside:** [Funables](https://www.funablessnacks.com/) are the apex fruit snack. Don't talk to me about [Welch's](https://welchsfruitsnacks.com/). I know you grew up with them, so did I, but they're _trash_. [Motts](https://www.motts.com/products/fruit-snacks), _trash_. [Annie's](https://www.annies.com/products/fruit-snacks), _trash_. [Gushers](https://www.gushers.com/), _not fruit snacks_. [Black Forest](https://www.blackforestusa.com/fruit-snacks), _solid_. [Scooby Doo](https://www.walmart.com/ip/Scooby-Doo-Fruit-Flavored-Snacks-Treat-Pouches-Gluten-Free-Value-Pack-22-Ct-17-6-oz/901230707), _mid_.
 {: .notice--info}
