@@ -128,7 +128,7 @@ A [viral Twitter thread](https://x.com/simonw/status/1843290729260703801) asked 
 
 The [Hacker News crowd is similarly struggling](https://news.ycombinator.com/item?id=43560849) to pin down exactly what an "agent" is. There are [litmus tests being proposed](https://www.tines.com/blog/a-litmus-test-for-ai-agents/) and debates raging. But one authoritative voice has emerged above the noise.
 
-[Anthropic](https://www.anthropic.com/engineering/building-effective-agents), the company founded by former OpenAI employees, has become such a force that [Microsoft told OpenAI "we're not exclusive anymore" and welcomed Anthropic's Claude models into Copilot](https://www.cnbc.com/2025/09/24/microsoft-adds-anthropic-model-to-microsoft-365-copilot.html). When they speak about AI, people listen.
+[Anthropic](https://www.anthropic.com/engineering/building-effective-agents), the company founded by former OpenAI employees, has become such a force that [Microsoft told OpenAI "we're not exclusive anymore" and welcomed their Claude models into Copilot](https://www.cnbc.com/2025/09/24/microsoft-adds-anthropic-model-to-microsoft-365-copilot.html). When they speak about AI, people listen.
 
 Here's how Anthropic defines an Agent:
 
@@ -144,10 +144,10 @@ Generative AI is reactive. It's prompt and stop. You ask, it answers, it's over.
 
 Agentic AI is proactive. It's plan and act. You give it objectives, and it figures out how to achieve them, taking multiple steps across different systems if needed.
 
-**Aside:** Agentic AI often uses Generative AI behind the scenes, but saying "Generative" for stuff like chatbots and "Agentic" for autonomous systems is simpler and what the [industry has adopted](https://www.ibm.com/think/topics/agentic-ai-vs-generative-ai).
+**Aside:** Agentic AI often uses Generative AI behind the scenes, but saying "Generative" for stuff like chatbots and "Agentic" for autonomous systems is simple and what the [industry has adopted](https://www.ibm.com/think/topics/agentic-ai-vs-generative-ai).
 {: .notice--info}
 
-These definitions aren't perfect and I'm sure someone somewhere is itching to hit me with a "[well ackchyually](https://knowyourmeme.com/memes/ackchyually-actually-guy)" but that's the best I can do.
+These definitions aren't perfect, and I'm sure someone somewhere is itching to hit me with a "[well ackchyually](https://knowyourmeme.com/memes/ackchyually-actually-guy)", but I think they're sufficient to understand the gist of what's going on.
 
 ## What Agentic AI Isn't
 

@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 header:
-  teaser: /assets/images/seo-techdevcon-teaser.png
+  teaser: /assets/images/blue-bead-thingy-banner.jpg
   og_image: /assets/images/black-with-grid-banner.png
   overlay_image: /assets/images/black-with-grid-banner.png
   overlay_filter: 0.5
