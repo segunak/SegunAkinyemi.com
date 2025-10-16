@@ -221,7 +221,7 @@ What follows are the platforms that currently matter in **enterprise** scenarios
 * **[Google Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder)**: Low-code platform using Google's Gemini models. Visual interface for building agents with RAG and tool calling.
 * **[Salesforce Agentforce](https://www.salesforce.com/agentforce/)**: Low-code agent builder for CRM workflows. Click-based configuration with pre-built templates for sales and service.
 
-If you're interested in the skills needed to build Agentic AI systems, check out my [AI Engineering guide](https://segunakinyemi.com/blog/seo-techdevcon-2025/#what-to-learn). AI Engineering is the emerging field for those who build this stuff, like that's what they're calling the industry. You could call it Software Development, because that's what it is, but I guess AI Engineering sounds cooler.
+If you're interested in the skills needed to build Agentic AI systems, check out my [AI Engineering guide](https://segunakinyemi.com/blog/seo-techdevcon-2025/#what-to-learn). AI Engineering is the emerging field for those who build this stuff. That's what [they're calling the industry](https://www.latent.space/p/ai-engineer). You could call it Software Development, because that's what it is, but I guess AI Engineering sounds cooler.
 
 ## Essential Reading
 
