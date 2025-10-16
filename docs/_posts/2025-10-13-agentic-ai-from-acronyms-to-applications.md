@@ -50,7 +50,7 @@ I'm a software engineer at a [company you've likely heard of](https://en.wikiped
 * [Robert C. Martin's](https://en.wikipedia.org/wiki/Robert_C._Martin) (affectionately called Uncle Bob) [_Clean Code_](https://www.oreilly.com/library/view/clean-code-a/9780136083238/).
 * Industry legends [Kent Beck](https://www.linkedin.com/in/kentbeck/) and [Martin Fowler's](https://www.linkedin.com/in/martin-fowler-com) [_Refactoring_](https://refactoring.com/).
 * [Andy Hunt](https://en.wikipedia.org/wiki/Andy_Hunt_(author)) and [Dave Thomas's](https://en.wikipedia.org/wiki/Dave_Thomas_(programmer)) [_The Pragmatic Programmer_](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer).
-* [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns) by the venerable [Gang of Four](https://www.google.com/search?q=Who+are+the+Gang+of+Four+authors+of+the+book+Design+Patterns).
+* [_Design Patterns_](https://en.wikipedia.org/wiki/Design_Patterns) by the venerable [Gang of Four](https://www.google.com/search?q=Who+are+the+Gang+of+Four+authors+of+the+book+Design+Patterns).
 
 ...and more. No matter how many new languages or frameworks or paradigms would come out, the core fundamentals of computing and software would remain the same.
 
