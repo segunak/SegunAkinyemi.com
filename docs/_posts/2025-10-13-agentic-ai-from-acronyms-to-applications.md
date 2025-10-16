@@ -112,7 +112,7 @@ The terminology surrounding it is confusing. The lines between it and Generative
 
 Meanwhile, the business folks are under immense pressure to sell Agentic AI as the promise of AI finally made real. Anything to justify the [absolutely insane capital expenditures](https://www.theguardian.com/technology/2025/aug/02/big-tech-ai-spending) of building out data centers and buying up GPUs.
 
-They're talking ad nauseam about Agentic AI while themselves not really understanding what it is at a fundamental level. And honestly, I don't blame them. They've got bosses pushing them to "sell, sell, sell!" and thus must hit the road to push tech that most developers don't fully understand how to build with yet.
+They're talking ad nauseam about Agentic AI while themselves not really understanding what it is. And honestly, I don't blame them. They've got bosses pushing them to "sell, sell, sell!" and thus must hit the road to push tech that most developers don't fully understand how to build with yet.
 
 And so, I write to inform. Let's move from confusion to clarity together.
 
