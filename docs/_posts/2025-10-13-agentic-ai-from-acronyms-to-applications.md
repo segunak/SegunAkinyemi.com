@@ -27,7 +27,7 @@ tags:
     }
 </style>
 
-You can skip the prologue and hop straight to the core concepts [by clicking here](#what-agentic-ai-is). This article is a companion piece to a presentation delivered to [PMI Carolinas](https://pmicarolina.org/pdd-2025), which you can [checkout here if you're curious](https://1drv.ms/p/c/750d396c5cadcebd/ETOAltIn6FtErV2gWQYHlfkBg0uvsKEcp0QuaYnBgGm0og?e=diVNW4)
+You can skip the prologue and hop straight to the core concepts [by clicking here](#what-agentic-ai-is). This article is a companion piece to a presentation delivered to [PMI Carolinas](https://pmicarolina.org/pdd-2025), which you can [checkout here if you're curious](https://1drv.ms/p/c/750d396c5cadcebd/ETOAltIn6FtErV2gWQYHlfkBg0uvsKEcp0QuaYnBgGm0og?e=diVNW4).
 {: .notice--info}
 
 ## Some Background
