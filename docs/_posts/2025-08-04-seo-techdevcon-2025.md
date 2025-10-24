@@ -35,9 +35,9 @@ Be sure to [connect with me on LinkedIn](https://www.linkedin.com/in/segunakinye
 
 ![KakashiWaving](/assets/images/kakashi-hello.gif)
 
-Welcome! If you're reading this, you might've scanned a QR code during my workshop at [SEO's](https://www.seo-usa.org/) 2025 [Tech Developer Conference](https://tech.seo-usa.org/) in New York. If you didn't, that's alright. The information written here remains relevant in perpetuity for any college students interested in the tech field and feeling anxiety.
+Welcome! If you're reading this, you might've scanned a QR code during my workshop at [SEO's](https://www.seo-usa.org/) 2025 [Tech Developer Conference](https://tech.seo-usa.org/) in New York. If you didn't, that's alright. The information written here remains relevant in perpetuity for anyone interested in the tech field and feeling anxiety.
 
-If you were at the conference and got a swag bag, I hope you enjoyed the fruit snacks! Speaking of which...
+That said, if you were at the conference and got a swag bag, I hope you enjoyed the fruit snacks! Speaking of which...
 
 **Aside:** [Funables](https://www.funablessnacks.com/) are the apex fruit snack. Don't talk to me about [Welch's](https://welchsfruitsnacks.com/). I know you grew up with them, so did I, but they're _trash_. [Motts](https://www.motts.com/products/fruit-snacks), _trash_. [Annie's](https://www.annies.com/products/fruit-snacks), _trash_. [Gushers](https://www.gushers.com/), _not fruit snacks_. [Black Forest](https://www.blackforestusa.com/fruit-snacks), _solid_. [Scooby Doo](https://www.walmart.com/ip/Scooby-Doo-Fruit-Flavored-Snacks-Treat-Pouches-Gluten-Free-Value-Pack-22-Ct-17-6-oz/901230707), _mid_.
 {: .notice--info}
