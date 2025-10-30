@@ -43,7 +43,7 @@ I walked through their massive collection of VHS tapes and DVDs and settled on t
 
 I left it in the capable hands of the staff to choose which to show first, and I'm glad I did. They chose _Things We Lost in the Fire_, and in what was my first viewing of the film, I was pleasantly surprised. Touched really. I needed a film like it. Something that highlights maintaining hope through the pain, and living life [one <i><s>step</s></i> day at a time](https://www.youtube.com/watch?v=1WDmCPTlC3k).
 
-It has a [7.1 on IMDb](https://www.imdb.com/title/tt0469623/) as of right now, which is a reminder of why you should just watch movies. Tune out the cacophony of opinion hailing from people you don't know. I went in blind, no expectations, no preconceptions. Just a movie I'd never heard of from 2007. And that's exactly how it should be.
+More than a decade after its release, it has a [7.1 on IMDb](https://www.imdb.com/title/tt0469623/) and a [65% on Rotten Tomatoes](https://www.rottentomatoes.com/m/things_we_lost_in_the_fire), which is a reminder of why you should just watch movies. Tune out the cacophony of opinion hailing from people you don't know. I went in blind, no expectations, no preconceptions. Just a movie I'd never heard of from 2007 that I ended up enjoying. That's how it should be. Just live man. Just live.
 
 ## Not Your Typical Love Story
 
