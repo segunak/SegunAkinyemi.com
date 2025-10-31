@@ -108,7 +108,7 @@ That minor gripe aside, the rest of the supporting cast really brings this film 
 
 I also really liked how Audrey's whole family ends up embracing Jerry without judgement. They didn't look down on him. They extended to him the same love that his best friend, their lost husband, brother in law, son in law, father, had extended to Jerry. They continued that love in his honor, despite never meeting Jerry while Brian was alive. I loved seeing that.
 
-## The Seattle Setting
+## Other Thoughts
 
 The movie takes place in Seattle, which is something you can miss if you're not paying attention.
 
@@ -116,15 +116,11 @@ I grew up in the greater Seattle area so when I heard Jerry was down in Renton o
 
 The thing I miss about the Seattle area is surprisingly the rainy weather. For some, it makes them want to stay at home and do nothing. But it makes me want to sit in a coffee shop or bookstore by the window and read something good, drink a hot tea, and watch the rain. Then walk home without an umbrella, with my hood only half drawn, so I can feel that patented spray bottle pitter patter misty Seattle-style rain on my face.
 
-Also, when it's gray and rainy, all the coolest places in a city are less busy. You can go and get the whole place to yourself. I've taken advantage of that in my current city of residence. The moment it starts raining, I find the hottest trending Instagram or TikTok spot and finally go check it out. It'll be me, the staff, and one or two other people who don't let the weather stop their mojo.
+Also, when it's gray and rainy, all the coolest places in a city are less busy. You can go and get the whole place to yourself. The moment it starts raining, I find the hottest trending Instagram or TikTok spot and finally go check it out. It'll be me, the staff, and one or two other people who don't let the weather stop their mojo.
 
 Anyways, Seattle man. For all its problems, it's not the geographic region that's the cause of any of it. The [Pacific Northwest](https://en.wikipedia.org/wiki/Pacific_Northwest) is beautiful!
 
-## They Said It
-
-I also think the film's title _Things We Lost in the Fire_ is beautiful, and that moment in the film where they finally say it is so very well done.
-
-I had a moment like this [Family Guy clip](https://www.youtube.com/watch?v=F8mYLi3PGOc) of going "they said it!", but in a good way. It wasn't random. It fit. It was natural. Bravo.
+I also think the film's title _Things We Lost in the Fire_ is beautiful. The scene in the film where they finally say it is so very well done. I had a moment like this [Family Guy clip](https://www.youtube.com/watch?v=F8mYLi3PGOc) of going "they said it!", but in a good way. It wasn't random. It fit. It was natural. Bravo.
 
 ## Box Office Bomb, Artistic Triumph
 
