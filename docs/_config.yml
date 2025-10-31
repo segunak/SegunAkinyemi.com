@@ -28,7 +28,7 @@ subtitle:
 masthead_title:
 search: true
 email:
-breadcrumbs: true  # disabled by default
+breadcrumbs: false  # disabled by default
 #logo: "/assets/images/logo-fullytransparent.png"
 locale: "en-US"
 tagline: "The personal blog of Segun Akinyemi"

@@ -2,7 +2,9 @@
 title: "How To Send and Receive Emails From a Squarespace Forwarding Alias Using Gmail"
 excerpt: "Learn how to set up Gmail to send and receive emails using a Squarespace forwarding alias."
 last_modified_at: 2024-09-26T04:30:16
-classes: wide
+toc: true
+toc_label: "On This Page"
+toc_sticky: true
 header:
   teaser: /assets/images/squarespace-and-gmail.png
 categories:
@@ -13,11 +15,13 @@ tags:
 
 <script src="/assets/js/dynamic-link-targeting.js"></script>
 
+## Some Background
+
 In 2023, [Squarespace acquired Google Domains](https://support.squarespace.com/hc/en-us/articles/17131164996365-About-the-Google-Domains-migration-to-Squarespace), which meant that anyone with a domain purchased through Google—me among them—was now a Squarespace customer. One great feature of Squarespace is the ability to create an email alias for any domain you own. While this alias doesn't have its own inbox, you could use Gmail to send and receive emails from it via [forwarding](https://support.squarespace.com/hc/en-us/articles/19000909092237-Email-forwarding-with-a-Squarespace-domain).
 
 This functionality is still available, but the migration from Google Domains to Squarespace [messed up some stuff behind the scenes](https://forum.squarespace.com/topic/297984-issue-with-email-forwarding-after-google-domain-migration/page/2/). I recently had to reconfigure everything to ensure that emails sent to my Squarespace alias would arrive in my personal Gmail account, and that I could also reply from Gmail **using my Squarespace alias**. Here's how to get that set up.
 
----
+## The Steps
 
 1. Create a forwarding alias in Squarespace. Follow the directions [here](https://support.squarespace.com/hc/en-us/articles/19000909092237-Email-forwarding-with-a-Squarespace-domain). Set the "forward to" email as the Gmail account you want to use for sending and receiving emails through the alias
    <p align="center" style="padding-top:10px"><img alt="Squarespace Example" src="/assets/images/squarespace-example.png"/></p>
@@ -33,7 +37,5 @@ This functionality is still available, but the migration from Google Domains to 
    <p align="center" style="padding-top:10px"><img alt="Confirmation screen" src="/assets/images/confirmation-screen-gmail.png"/></p>
 8. This is optional, but you can set it so that whenever you receive an email, you automatically respond using the **same alias the sender used**. This helps ensure you don't accidentally reply from your main email, keeping it private and only interacting through your Squarespace alias. To do this, go back to the "Accounts and Import" tab in Gmail. A direct link to the tab is <https://mail.google.com/mail/u/0/#settings/accounts>. Now that your alias is added, you should see a "Reply from the same address the message was sent to" radio button—go ahead and select it.
    <p align="center" style="padding-top:10px"><img alt="Final Settings" src="/assets/images/final-setting-gmail.png"/></p>
-
----
 
 That's it, I hope these instructions work for you!

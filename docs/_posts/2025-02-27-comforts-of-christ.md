@@ -8,7 +8,6 @@ toc_label: "On This Page"
 toc_icon: "book"
 toc_sticky: true
 read_time: false
-breadcrumbs: false
 author_profile: false
 header:
   teaser: /assets/images/christ-the-redeemer-sunrise.jpeg

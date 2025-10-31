@@ -8,7 +8,6 @@ author_profile: false
 sidebar:
   title: "On This Page"
   nav: quantumania
-breadcrumbs: false
 header:
   teaser: /assets/images/antman3.jpg
   og_image: /assets/images/antman3.jpg # OG = Open Graph, shows up in social sharing situations.

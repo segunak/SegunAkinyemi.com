@@ -28,14 +28,41 @@ h3 blockquote {
   color: green;
 }
 
+// See conversation at: https://github.com/mmistakes/minimal-mistakes/issues/2214
+// This adjust the main area on a blog post to be wider, including the table of contents when sticky.
+// This is an alternative to using the "wide" class which makes the table of content full width and not sticky.
+// We don't apply this to the wide class because it's already taking up the full width.
+// Only apply this rule on desktop screens (large and up)
+@include breakpoint($large) {
+  body:not(.wide) #main {
+    max-width: calc(100vw - 180px);
+  }
+}
+
 blockquote {
   margin-inline-start: 1em;
   margin-inline-end: 1em;
 }
 
-.breadcrumbs {
-  @include breakpoint($large) {
-    max-width: 85%;
+/* Remove top margin/padding from first H2 on any page */
+.page__content h2:first-child,
+article h2:first-of-type,
+main h2:first-of-type {
+  margin-top: 1em !important;
+  padding-top: 0 !important;
+}
+
+// Remove top margin/padding from a notice that appears before the first H2 on desktop
+@include breakpoint($large) {
+  .page__content > :is(
+    p.notice,
+    p.notice--info,
+    p.notice--primary,
+    p.notice--warning,
+    p.notice--danger,
+    p.notice--success
+  ):first-of-type {
+    margin-top: 0 !important;
   }
 }
 

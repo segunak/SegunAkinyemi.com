@@ -3,7 +3,6 @@ title: >
   The Final Triumph: Attack on Titan Cements Itself Among the Greatest Anime of All Time
 excerpt: "A grand journey, more than a decade in the making, culminated in Attack on Titan's epic conclusion, solidifying its place among the anime greats."
 last_modified_at: 2024-11-29T02:08:33
-breadcrumbs: true
 classes: wide
 author_profile: false
 sidebar:

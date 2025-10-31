@@ -6,7 +6,6 @@ toc: true
 toc_label: "On This Page"
 toc_icon: "book"
 toc_sticky: true
-breadcrumbs: false
 read_time: false
 author_profile: false
 header:
