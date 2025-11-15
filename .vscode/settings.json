@@ -30,5 +30,6 @@
     "cSpell.userWords": [
         "smart phones"
     ],
-    "grammarly.config.documentDialect": "american"
+    "grammarly.config.documentDialect": "american",
+    "sarif-viewer.connectToGithubCodeScanning": "off"
 }
