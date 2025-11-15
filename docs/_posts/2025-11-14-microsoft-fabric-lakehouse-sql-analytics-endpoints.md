@@ -49,7 +49,7 @@ There used to be one endpoint per Lakehouse, but that sucked and customers compl
 Let's say you have a workspace called `ImportantDataHub` with the following SQL endpoint:
 
 ```txt
-SQL Endpoint: dfsakdsdk9329292.datawarehouse.fabric.microsoft.com
+SQL Endpoint: gibberish.datawarehouse.fabric.microsoft.com
 ```
 
 You've created three Lakehouses in this workspace with cool names:
@@ -61,7 +61,7 @@ You've created three Lakehouses in this workspace with cool names:
 When you connect to that single SQL endpoint, you'll see **all three databases**:
 
 ```sql
--- Connect to: dfsakdsdk9329292.datawarehouse.fabric.microsoft.com
+-- Connect to: gibberish.datawarehouse.fabric.microsoft.com
 
 -- Available databases:
 USE Kumogakure;   -- Your first Lakehouse
@@ -79,9 +79,9 @@ Now, since it's an auto-created endpoint, as Microsoft states here:
 >
 > [What is a Lakehouse SQL Analytics Endpoint?](https://learn.microsoft.com/en-us/fabric/data-warehouse/get-started-lakehouse-sql-analytics-endpoint)
 
-It's a pretty ugly URL. A bunch of gibberish. Pretty hard to tell what it's pointing to if you're in a situation where you have many Fabric workspaces.
+It's an ugly URL. A bunch of gibberish. Pretty hard to tell what it's pointing to if you're in a situation where you have many Fabric workspaces.
 
-Thankfully, the latest version of SQL Server Management Studio (SSMS) has added features such that when connecting from it to a Fabric SQL Analytics Endpoint, the pretty name of the workspace shows up.
+Thankfully, the latest version of SQL Server Management Studio (SSMS) has added a feature to address this. When connecting to a Fabric SQL Analytics Endpoint, the pretty name of the workspace shows up.
 
 ![SSM22](/assets/images/fabric-ssms-22.png)
 
@@ -91,15 +91,15 @@ It ends up looking like this when you connect. You can see the Fabric language n
 
 ![FabricExample](/assets/images/example-fabric-name.png)
 
-And side note, I'm digging the new SSMS logo. Makes me feel very modern, very suave, very cool. Like a cool, hip, in the know, data kind of guy, rather than an ancient on-premises SQL Server legacy infrastructure DBA type of guy, which I'm totally _not_. But looking at the old SSMS logo did at times make me feel like one of those legends (shout out to everyone doing data engineering before both ChatGPT and StackOverflow, you deserve your flowers).
+And side note, I'm digging the new SSMS logo. Makes me feel very modern, very suave, very cool. Like a hip, in the know, fresh, data modernist kind of guy, rather than an ancient on-premises SQL Server legacy infrastructure [DBA](https://voiceofthedba.com/2018/04/04/is-the-dba-title-dying/) type of guy, which I'm totally _not_. But looking at the old SSMS logo did at times make me feel like one of those legends (shout out to anyone who was doing data engineering before ChatGPT, you deserve your flowers).
 
 <div style="text-align: center;">
   <img src="/assets/images/new-ssms-logo.png" alt="New SSMS Logo" style="width: 30%;" />
 </div>
 
-## Why This Is Actually Better
+## Why This Is Better
 
-I think this architecture is actually better. It makes my life easier at least. In the early days, each Lakehouse had its own endpoint. At some point recently, Microsoft changed this. The documentation just hasn't caught up yet.
+I think this architecture is actually better. It makes my life easier at least. In the early days of Fabric (which, given how fast they release updates, is just months ago), each Lakehouse had its own endpoint. At some point recently, Microsoft changed this. The documentation just hasn't caught up yet.
 
 Here's why having one endpoint per workspace is superior:
 
