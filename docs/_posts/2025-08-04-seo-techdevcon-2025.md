@@ -175,10 +175,16 @@ So, are tech jobs going away? No! But they are for sure changing.
 
 [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman) says [the world wants 1000x more software](https://www.finalroundai.com/blog/sam-altman-says-world-wants-1000x-more-software). The [CEO of GitHub](https://ashtom.github.io/developer-odyssey) says we need more programmers than ever. I've written extensively about this in my [AI in tech careers](https://segunakinyemi.com/blog/ai-in-tech-careers/) post.
 
-But the most compelling perspective comes from [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng). He co-founded [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) (they invented the ["T" in ChatGPT](https://en.wikipedia.org/wiki/Google_Brain#Transformer)), was Chief Scientist at [Baidu](https://en.wikipedia.org/wiki/Baidu), co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), and founded [DeepLearning.AI](https://www.deeplearning.ai/). The entire Machine Learning community looks to him for training and guidance. His [perspective](https://www.linkedin.com/posts/andrewyng_deepseek-r1-uncensored-qwq-32b-puts-reasoning-activity-7305984835708141570-XVKU) on AI's impact on programming carries serious weight:
+But the most compelling perspective comes from [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng). He co-founded [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) (they invented the ["T" in ChatGPT](https://en.wikipedia.org/wiki/Google_Brain#Transformer)), was Chief Scientist at [Baidu](https://en.wikipedia.org/wiki/Baidu), co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), and founded [DeepLearning.AI](https://www.deeplearning.ai/). The entire Machine Learning community looks to him for training and guidance.
+
+These two LinkedIn posts from him should reset your perspective on AI's impact on tech careers:
 
 <p>
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7305984835037118464" height="430px" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post"></iframe>
+</p>
+
+<p>
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7394769797365886976" height="430px" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn post"></iframe>
 </p>
 
 Learning to code today isn't about prepping for a future where you type every line yourself. We haven't been doing that even before AI. [High-level languages](https://en.wikipedia.org/wiki/High-level_programming_language), [Stack Overflow](https://en.wikipedia.org/wiki/Stack_Overflow) copy/paste, [low-code tools](https://en.wikipedia.org/wiki/Low-code_development_platform), we've been doing anything and everything to make it easier to create software for a while now.
@@ -321,6 +327,7 @@ Tech people usually want to post and discuss without needing a picture or video 
 * **Ian Goodfellow**: Invented [GANs](https://en.wikipedia.org/wiki/Generative_adversarial_network), real technical AI heavyweight. [Twitter](https://x.com/goodfellow_ian), [LinkedIn](https://www.linkedin.com/in/ian-goodfellow-b7187213).
 * **Jeff Dean**: Google's AI legend. [Twitter](https://x.com/jeffdean).
 * **Pamela Fox**: Principal Cloud Advocate at Microsoft. A relentless builder/teacher constantly dropping new tutorials, samples, workshops, and deep-dives on GitHub, VS Code, and Azure for real-world AI engineering (and broader dev productivity) scenarios. If you want a steady stream of practical "here's how to actually ship with AI" content plus approachable explanations, she's elite. Top tier follow. [LinkedIn](https://www.linkedin.com/in/pamela-s-fox), [GitHub](https://github.com/PamelaFox), [Twitter](https://x.com/pamelafox).
+* **Marcus Fontoura**: [Technical Fellow](https://en.wikipedia.org/wiki/Marcus_Fontoura) (the highest technical rank at Microsoft, reserved for the absolute best) and Chief Technology Officer for [Azure Core](https://en.wikipedia.org/wiki/Microsoft_Azure) at Microsoft. Previously Google Staff Research Scientist among other deeply technical and challenging roles. I share this to say, this guy knows his stuff. Check out his article, [You Should Still Study Tech—Even if AI Replaces Entry Tech Jobs](https://time.com/7335048/study-tech-ai-replace-jobs/). Stop listening to people with minimal experience and shoddy technical skills scaring you on TikTok, Instagram, YouTube Shorts, Snapchat, and Reels. They just want views for ad revenue. Listen to people who understand how AI works under the hood. Who have skin in the game when it comes to building software. People with real technical depth and career wisdom. [LinkedIn](https://www.linkedin.com/in/marcusfontoura), [Website](https://fontoura.org/).
 * **Alberta Tech**: Hilarious, actually a developer, so her memes about AI are both accurate and insightful. [TikTok](https://www.tiktok.com/@alberta.nyc), [Instagram](https://www.instagram.com/alberta.tech/), [Twitter](https://x.com/albertadevs), [YouTube](https://www.youtube.com/@albertatech).
 * **David Fowler**: Microsoft distinguished engineer (a big deal). Huge in the .NET space, and thereby how AI is landing there. [Twitter](https://x.com/davidfowl), [LinkedIn](https://www.linkedin.com/in/davidfowl).
 
@@ -353,6 +360,9 @@ Tech people usually want to post and discuss without needing a picture or video 
 </details>
 
 ## What to Read
+
+**Must Read:** [Marcus Fontoura](https://en.wikipedia.org/wiki/Marcus_Fontoura), Technical Fellow (the highest technical rank) and Chief Technology Officer for Azure Core at Microsoft, wrote [_You Should Still Study Tech—Even if AI Replaces Entry Tech Jobs_](https://time.com/7335048/study-tech-ai-replace-jobs/) for TIME Magazine. This op-ed perfectly captures why pursuing computer science remains a viable choice for students. **This is the wrong time to run away from tech because the current job market and social media is scaring you**. Its [never been easier](https://segunakinyemi.com/blog/natural-language-programming/) to be an effective technologist with AI handling a lot of the grunt work, and humans doing the real problem solving. Coming from someone who's built search infrastructure at Google, cloud platforms at Microsoft, and has decades of experience leading complex technical organizations, his perspective carries serious weight. Read [the article](https://time.com/7335048/study-tech-ai-replace-jobs/).
+{: .notice--info}
 
 <details markdown="1">
 <summary>AI Basics</summary>
