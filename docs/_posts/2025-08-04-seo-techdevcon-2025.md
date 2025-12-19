@@ -85,7 +85,13 @@ I created this visual to illustrate what AI Engineering means in practice. It's 
 **Aside:** The image shows AI Engineer as the #1 fastest growing job title, which comes from [LinkedIn's 2025 Jobs on the Rise report](https://www.linkedin.com/pulse/linkedin-jobs-rise-2025-25-fastest-growing-us-linkedin-news-gryie).
 {: .notice--info}
 
-Think of it this way. They're both athletes, but in different sports.
+Though honestly, [this AI Engineer interview cheatsheet](https://www.linkedin.com/posts/pvergadia_ai-aiagents-aiengineering-activity-7406883347391692800-3ke1) by [Priyanka Vergadia](https://www.thecloudgirl.dev/) is even better. This is really just about every domain you'd want to grow deep in if you want a future in tech on the technical side of things. This is stuff we still need humans to do that involves empowering, controlling, configuring, and working with AI.
+
+[Software development is so much more than writing code!](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/)
+
+![AI Engineer Interview Cheatsheet](/assets/images/AI-Engineering-CheatSheet.jpg)
+
+In general, think of Machine Learning Engineer vs. AI Engineer this way. They're both athletes, but in different sports.
 
 Maybe Machine Learning Engineers are playing baseball while AI Engineers are playing basketball. Both benefit from being athletic (technical skills), but they're different sports requiring different tactics, and one is harder (baseball is harder than basketball, don't @ me).
 
@@ -326,6 +332,7 @@ Tech people usually want to post and discuss without needing a picture or video 
 * **Sam Altman**: OpenAI CEO. [Twitter](https://x.com/sama).
 * **Ian Goodfellow**: Invented [GANs](https://en.wikipedia.org/wiki/Generative_adversarial_network), real technical AI heavyweight. [Twitter](https://x.com/goodfellow_ian), [LinkedIn](https://www.linkedin.com/in/ian-goodfellow-b7187213).
 * **Jeff Dean**: Google's AI legend. [Twitter](https://x.com/jeffdean).
+* **Priyanka Vergadia**: Cloud and AI Tech Executive known for making incredible visuals offering guidance on all things AI Engineering. Quality follow to stay on top of what to be learning and getting involved in if you want to work in tech in our AI driven future. [Blog](https://www.thecloudgirl.dev/blog), [LinkedIn](https://www.linkedin.com/in/pvergadia/), [Twitter](https://x.com/pvergadia), [Instagram](https://www.instagram.com/pvergadia/).
 * **Pamela Fox**: Principal Cloud Advocate at Microsoft. A relentless builder/teacher constantly dropping new tutorials, samples, workshops, and deep-dives on GitHub, VS Code, and Azure for real-world AI engineering (and broader dev productivity) scenarios. If you want a steady stream of practical "here's how to actually ship with AI" content plus approachable explanations, she's elite. Top tier follow. [LinkedIn](https://www.linkedin.com/in/pamela-s-fox), [GitHub](https://github.com/PamelaFox), [Twitter](https://x.com/pamelafox).
 * **Marcus Fontoura**: [Technical Fellow](https://en.wikipedia.org/wiki/Marcus_Fontoura) (the highest technical rank at Microsoft, reserved for the absolute best) and Chief Technology Officer for [Azure Core](https://en.wikipedia.org/wiki/Microsoft_Azure) at Microsoft. Previously Google Staff Research Scientist among other deeply technical and challenging roles. I share this to say, this guy knows his stuff. Check out his article, [You Should Still Study Tech—Even if AI Replaces Entry Tech Jobs](https://time.com/7335048/study-tech-ai-replace-jobs/). Stop listening to people with minimal experience and shoddy technical skills scaring you on TikTok, Instagram, YouTube Shorts, Snapchat, and Reels. They just want views for ad revenue. Listen to people who understand how AI works under the hood. Who have skin in the game when it comes to building software. People with real technical depth and career wisdom. [LinkedIn](https://www.linkedin.com/in/marcusfontoura), [Website](https://fontoura.org/).
 * **Alberta Tech**: Hilarious, actually a developer, so her memes about AI are both accurate and insightful. [TikTok](https://www.tiktok.com/@alberta.nyc), [Instagram](https://www.instagram.com/alberta.tech/), [Twitter](https://x.com/albertadevs), [YouTube](https://www.youtube.com/@albertatech).
