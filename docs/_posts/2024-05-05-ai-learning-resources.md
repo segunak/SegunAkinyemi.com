@@ -25,7 +25,7 @@ tags:
 
 ![HelloThereGif](/assets/images/obiwan.gif)
 
-This page is an ongoing list of learning resources for AI, ranging from stuff to get you started to stuff for diving deep. My goal is for this to be a targeted collection, quality over quantity. I started it for myself—a software engineer looking for ways to use AI in my workflows—and figured others might find it useful. **None of these are affiliate links.**
+This page is an ongoing list of learning resources for AI, ranging from stuff to get you started to stuff for diving deep. My goal is for this to be a targeted collection, quality over quantity. I started it for myself, a software engineer looking for ways to use AI in my workflows, and figured others might find it useful. **None of these are affiliate links.**
 
 While being undeniably [so hot right now](https://knowyourmeme.com/memes/x-is-so-hot-right-now), AI education [isn't exactly a novel field](https://ai100.stanford.edu/). However, the overwhelming demand for content in the space is certainly new. This list is my attempt at [separating the wheat from the chaff](https://www.merriam-webster.com/dictionary/separate%20the%20wheat%20from%20the%20chaff).
 
@@ -56,7 +56,7 @@ This free video lecture from [MIT Sloan](https://mitsloan.mit.edu/), led by [Pro
 
 > **Parand Tony Darugar:** [A Completely Non-Technical Explanation of AI and Deep Learning](https://www.parand.com/a-completely-non-technical-explanation-of-ai.html) & [A Non-Technical Explanation of ChatGPT](https://www.parand.com/a-non-technical-explanation-of-chatgpt.html) & [A Non-Technical Explanation of ChatGPT: Deep Learning](https://www.parand.com/a-non-technical-explanation-of-chatgpt-deep-learning.html)
 >
-There's a wonderful series of articles by [Parand Tony Darugar](https://www.linkedin.com/in/parand/) that break down AI, machine learning, deep learning, ChatGPT, and related topics in clear, layman-friendly terms. As a seasoned technologist and serial entrepreneur, Darugar offers down-to-earth insights for anyone looking to truly understand how generative AI works—without the jargon and posturing. I developed an entire student-centric workshop based on how well he explains things in these articles, you can check it out [here](https://segunakinyemi.com/blog/stem-workshop-how-to-train-your-ai/).
+There's a wonderful series of articles by [Parand Tony Darugar](https://www.linkedin.com/in/parand/) that break down AI, machine learning, deep learning, ChatGPT, and related topics in clear, layman-friendly terms. As a seasoned technologist and serial entrepreneur, Darugar offers down-to-earth insights for anyone looking to truly understand how generative AI works without the jargon and posturing. I developed an entire student-centric workshop based on how well he explains things in these articles, you can check it out [here](https://segunakinyemi.com/blog/stem-workshop-how-to-train-your-ai/).
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
@@ -67,14 +67,14 @@ These courses walk you through the basics of AI. By basics, I mean the basics of
 
 > **Microsoft:** [AI Skills Navigator](https://aiskillsnavigator.microsoft.com/)
 >
-Microsoft's AI Skills Navigator is like having your own personal AI career counselor. It helps you "unlock new opportunities with AI skills that are in demand now and in the future" by using—as you may have guessed—AI to find the learning path that's right for you. Answer a few questions about your background and interests, and it'll chart a custom learning journey tailored to your specific needs. It's like those "choose your own adventure" books from back in the day, except instead of ending up eaten by a dragon, you end up with marketable skills in one of tech's hottest fields.
+Microsoft's AI Skills Navigator is like having your own personal AI career counselor. It helps you "unlock new opportunities with AI skills that are in demand now and in the future" by using, as you may have guessed, AI to find the learning path that's right for you. Answer a few questions about your background and interests, and it'll chart a custom learning journey tailored to your specific needs. It's like those "choose your own adventure" books from back in the day, except instead of ending up eaten by a dragon, you end up with marketable skills in one of tech's hottest fields.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
 
 > **DeepLearning.AI:** [Generative AI For Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
 >
-This course, taught by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) is an excellent introduction to AI for anyone regardless of background. Andrew is a big deal in the AI community, like [three legendary Sannin](https://naruto.fandom.com/wiki/Sannin) big. As a co-founder of [Google Brain](https://en.wikipedia.org/wiki/Google_Brain), he played a role in building a division that went on to make many significant contributions to the field of AI. He also founded [DeepLearning.AI](https://www.deeplearning.ai/about/) and co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), the platform where you'll find his course.
+This course, taught by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), is an excellent introduction to AI for anyone regardless of background. Andrew is a big deal in the AI community, like [three legendary Sannin](https://naruto.fandom.com/wiki/Sannin) big. As a co-founder of [Google Brain](https://en.wikipedia.org/wiki/Google_Brain), he played a role in building a division that went on to make many significant contributions to the field of AI. He also founded [DeepLearning.AI](https://www.deeplearning.ai/about/) and co-founded [Coursera](https://en.wikipedia.org/wiki/Coursera), the platform where you'll find his course.
 >
 > **Free or Paid:** Free to audit, paid to access graded materials and get a certificate of completion.
 {: .notice--primary}
@@ -108,7 +108,7 @@ The newfound field of Prompt _Engineering_ (a rather generous use of the word [e
 
 > **OpenAI:** [Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
 >
-OpenAI—creators of ChatGPT—has a great guide on prompt engineering. Reading and understanding the content on this page can do wonders for improving your interactions with AI tools.
+OpenAI, creators of ChatGPT, has a great guide on prompt engineering. Reading and understanding the content on this page can do wonders for improving your interactions with AI tools.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
@@ -126,7 +126,7 @@ A large language model (LLM) is a type of AI trained on massive amounts of text 
 
 > **Andrej Karpathy:** [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 >
-Andrej Karpathy is an AI heavyweight, just read through his [Wikipedia page](https://en.wikipedia.org/wiki/Andrej_Karpathy) and you'll understand why. He's one of OpenAI's co-founders and—in addition to being a brilliant engineer—is an excellent educator, dropping AI knowledge for free on his YouTube channel. This 1-hour video where he introduces large language models comes highly recommended by engineers around the web. I see it linked in "How do I learn AI" threads all the time. It's certainly worth a watch!
+Andrej Karpathy is an AI heavyweight. Just read through his [Wikipedia page](https://en.wikipedia.org/wiki/Andrej_Karpathy) and you'll understand why. He's one of OpenAI's co-founders and, in addition to being a brilliant engineer, is an excellent educator, dropping AI knowledge for free on his YouTube channel. This 1-hour video where he introduces large language models comes highly recommended by engineers around the web. I see it linked in "How do I learn AI" threads all the time. It's certainly worth a watch!
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
@@ -151,7 +151,7 @@ Quick and easy, this tutorial takes you through what you need to know to peel ba
 
 > **Déborah Mesquita:** [Python AI: How to Build a Neural Network & Make Predictions](https://realpython.com/python-ai-neural-network/)
 >
-[Real Python](https://realpython.com/) is a blog that puts out great learning resources, ranging from beginner to advanced, for coding with Python. [Déborah Mesquita](https://deborahmesquita.com/) is a data scientist and member of the Real Python blogging team. She's written a great article that walks you through building a neural network—a foundational part of AI—using Python. By the end of it, you'll know enough to be dangerous wielding Python as a tool for doing AI [stuff and thangs](https://www.google.com/search?q=stuff+and+thangs+rick+grimes+the+walking+dead).
+[Real Python](https://realpython.com/) is a blog that puts out great learning resources, ranging from beginner to advanced, for coding with Python. [Déborah Mesquita](https://deborahmesquita.com/) is a data scientist and member of the Real Python blogging team. She's written a great article that walks you through building a neural network, a foundational part of AI, using Python. By the end of it, you'll know enough to be dangerous wielding Python as a tool for doing AI [stuff and thangs](https://www.google.com/search?q=stuff+and+thangs+rick+grimes+the+walking+dead).
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
@@ -167,7 +167,7 @@ Harvard University's name speaks for itself. They put a surprising amount of the
 
 Agentic AI is the hot new thing sweeping through tech circles. Think of it as AI that doesn't just respond to your prompts but actively takes actions on your behalf. These systems can browse the web, use tools, make decisions, and accomplish complex tasks with minimal human oversight. The fundamental difference is in the action-taking capability: traditional AI models provide information or generate content when prompted, while Agentic AI actively executes tasks on behalf of users. It's the difference between "Hey AI, how do I book a flight?" and "Hey AI, book me the cheapest flight to Lagos next Tuesday."
 
-While everyone's buzzing about it because it represents the next evolution in AI utility—from advisor to doer—let's not gloss over its serious implications. Agent systems could potentially make critical decisions with real-world consequences with little to no human supervision. We need qualified experts and proper safeguards in place before we start deploying these agents all around. It's one thing when an AI chatbot makes a factual error in a response; it's quite another when an AI agent with tool access withdraws money from your account, changes your business strategy, or modifies critical infrastructure settings.
+While everyone's buzzing about it because it represents the next evolution in AI utility, from advisor to doer, let's not gloss over its serious implications. Agent systems could potentially make critical decisions with real-world consequences with little to no human supervision. We need qualified experts and proper safeguards in place before we start deploying these agents all around. It's one thing when an AI chatbot makes a factual error in a response; it's quite another when an AI agent with tool access withdraws money from your account, changes your business strategy, or modifies critical infrastructure settings.
 
 That being said, here's some resources for learning more about Agentic AI.
 
@@ -194,14 +194,14 @@ IBM's take on AI agents provides a complementary perspective to Microsoft's arti
 
 > **Hugging Face:** [AI Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
 >
-[Hugging Face](https://en.wikipedia.org/wiki/Hugging_Face)—the [GitHub](https://en.wikipedia.org/wiki/GitHub) of AI models—has created a comprehensive free course that will take you "on a journey, from beginner to expert, in understanding, using and building AI agents." If you're not familiar with [Hugging Face](https://huggingface.co/), they're the creators of an open-source platform that's become central to the democratization of AI. Their course is particularly valuable because it emphasizes practical implementation alongside theoretical understanding, giving you the skills to actually build working agents rather than just talk about them conceptually.
+[Hugging Face](https://en.wikipedia.org/wiki/Hugging_Face), the [GitHub](https://en.wikipedia.org/wiki/GitHub) of AI models, has created a comprehensive free course that will take you "on a journey, from beginner to expert, in understanding, using and building AI agents." If you're not familiar with [Hugging Face](https://huggingface.co/), they're the creators of an open-source platform that's become central to the democratization of AI. Their course is particularly valuable because it emphasizes practical implementation alongside theoretical understanding, giving you the skills to actually build working agents rather than just talk about them conceptually.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
 
 > **MIT Technology Review:** [Cyberattacks By AI Agents Are Coming](https://www.technologyreview.com/2025/04/04/1114228/cyberattacks-by-ai-agents-are-coming/)
 >
-This sobering article from MIT Technology Review reminds us that with great power comes great responsibility (thanks, [Uncle Ben](https://en.wikipedia.org/wiki/Uncle_Ben)). As AI agents become more capable, they also become more dangerous in the wrong hands. The piece explores how Agentic AI could be weaponized for sophisticated cyberattacks that bypass traditional security measures. It's a necessary counterbalance to the hyped-up enthusiasm found elsewhere and a reminder that building AI agents isn't just about following tutorials—it requires careful consideration of ethics, security, and unintended consequences.
+This sobering article from MIT Technology Review reminds us that with great power comes great responsibility (thanks, [Uncle Ben](https://en.wikipedia.org/wiki/Uncle_Ben)). As AI agents become more capable, they also become more dangerous in the wrong hands. The piece explores how Agentic AI could be weaponized for sophisticated cyberattacks that bypass traditional security measures. It's a necessary counterbalance to the hyped-up enthusiasm found elsewhere and a reminder that building AI agents isn't just about following tutorials. It requires careful consideration of ethics, security, and unintended consequences.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
@@ -210,15 +210,15 @@ This sobering article from MIT Technology Review reminds us that with great powe
 
 If you're set on making AI your bread and butter, then this stuff is your jam 🙃. This is "I want to be an AI Researcher", "I want to be an AI Engineer", "I want to be a Machine Learning Engineer", and/or "I want to help advance humanity towards [artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)" territory.
 
-It's beyond what's needed for practical application. The earlier resources are sufficient for being the "AI guy" at most companies. However, if you _really_ want to know your stuff when it comes to AI—like going from the "car guy" to the "creator of novel automotive engineering advancements guy"—these resources will help.
+It's beyond what's needed for practical application. The earlier resources are sufficient for being the "AI guy" at most companies. However, if you _really_ want to know your stuff when it comes to AI, like going from the "car guy" to the "creator of novel automotive engineering advancements guy", these resources will help.
 
 ### Foundational Texts
 
-It might be all the rage right now, but AI isn't new. There have been several landmark works (many of them originating from researchers at Google, who deserve their flowers for advancing the field) that redefined what machines could do. To understand AI—from first principles—you need to go back and read the papers, blogs, books, etc. that laid the foundation for our present AI-crazed world. Here are a few worth reading. Remember, these resources are for diving deep, way deep. These aren't light reads.
+It might be all the rage right now, but AI isn't new. There have been several landmark works (many of them originating from researchers at Google, who deserve their flowers for advancing the field) that redefined what machines could do. To understand AI, from first principles, you need to go back and read the papers, blogs, books, etc. that laid the foundation for our present AI-crazed world. Here are a few worth reading. Remember, these resources are for diving deep, way deep. These aren't light reads.
 
 > **Alan Turing:** [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)
 >
-Ever heard of the [Turing Test](https://en.wikipedia.org/wiki/Turing_test)? The test for whether a machine has reached a level of intelligence indistinguishable from a human being. This paper—written by legendary mathematician and computer scientist [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)—is where it was first introduced. Published in 1950, it not only proposed the Turing Test but also delved into the possibilities and implications of what we now call artificial intelligence. Yes, this paper is old, but if you're trying to "know your stuff" when it comes to AI, reading its 28 or so pages is a must.
+Ever heard of the [Turing Test](https://en.wikipedia.org/wiki/Turing_test)? The test for whether a machine has reached a level of intelligence indistinguishable from a human being. This paper, written by legendary mathematician and computer scientist [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), is where it was first introduced. Published in 1950, it not only proposed the Turing Test but also delved into the possibilities and implications of what we now call artificial intelligence. Yes, this paper is old, but if you're trying to "know your stuff" when it comes to AI, reading its 28 or so pages is a must.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
@@ -248,7 +248,7 @@ Do you remember when video games (excluding Madden and NBA 2K) ditched the "rele
 
 Machine Learning, Neural Networks, and Deep Learning are all important domains of artificial intelligence. Understanding what they are, and the differences between them, is key to building AI expertise. Here's an **intentionally oversimplified** rundown of those terms.
 
-* **Machine Learning** is all about teaching computers to get smarter over time, like giving them the building blocks and basic know-how to tackle problems on their own. But you can't just kick back and let the computer do all the work—you'll still need to guide it along the way, tweaking things here and there to get the best results.
+* **Machine Learning** is all about teaching computers to get smarter over time, like giving them the building blocks and basic know-how to tackle problems on their own. But you can't just kick back and let the computer do all the work. You'll still need to guide it along the way, tweaking things here and there to get the best results.
 * **Neural Networks** are the engines that power many Machine Learning systems. They are designed to mimic the way the human brain operates, allowing them to learn from vast amounts of data. These networks consist of layers of interconnected parts that process data sequentially, enhancing their ability to make complex decisions and predictions.
 * **Deep Learning** is like Machine Learning's overachieving sibling. It's a specific type of Machine Learning that relies heavily on Neural Networks to process massive amounts of data. Deep Learning excels at handling unstructured data like audio, video, and images. But much like Machine Learning, it still requires careful preparation and labeling of data before it can work its "magic".
 
@@ -264,14 +264,14 @@ Notable learning resources for diving into Machine Learning.
 
 > **Stanford University:** [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 >
-This course bundle by Stanford University—in partnership with DeepLearning.AI, a near-ubiquitous fixture in the AI education space—offers a comprehensive dive into the world of Machine Learning. From basic concepts to advanced applications, it provides the kind of content that'll prove extremely valuable for those interested in building and manipulating AI models.
+This course bundle by Stanford University, in partnership with DeepLearning.AI, a near-ubiquitous fixture in the AI education space, offers a comprehensive dive into the world of Machine Learning. From basic concepts to advanced applications, it provides the kind of content that'll prove extremely valuable for those interested in building and manipulating AI models.
 >
 > **Free or Paid:** Free to audit, paid to access graded materials and get a certificate of completion.
 {: .notice--primary}
 
 > **Google:** [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 >
-When it comes to AI education, Google's resources are top-tier—and for good reason. Let's not forget that [Google](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/) invented [Transformers](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) (the "T" in GPT), which revolutionized the AI landscape. Their Machine Learning Crash Course is designed to get you up to speed quickly with the fundamentals and practical applications of ML. For those with more time on their hands, Google's broader [Machine Learning education portal](https://developers.google.com/machine-learning) offers even more in-depth materials. These resources are particularly valuable for those preparing for technical interviews in the field.
+When it comes to AI education, Google's resources are top-tier, and for good reason. Let's not forget that [Google](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/) invented [Transformers](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) (the "T" in GPT), which revolutionized the AI landscape. Their Machine Learning Crash Course is designed to get you up to speed quickly with the fundamentals and practical applications of ML. For those with more time on their hands, Google's broader [Machine Learning education portal](https://developers.google.com/machine-learning) offers even more in-depth materials. These resources are particularly valuable for those preparing for technical interviews in the field.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}
@@ -285,7 +285,7 @@ Never underestimate the power of community learning. The r/learnmachinelearning 
 
 > **Chirstopher Bishop:** [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 >
-[Christopher Bishop](https://en.wikipedia.org/wiki/Christopher_Bishop)—a [Microsoft Technical Fellow](https://en.wikipedia.org/wiki/Fellow#Industry_and_corporate_fellows) and director of their [AI Research Division](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)—has been doing groundbreaking work in AI since before it was mainstream. His contributions have not only pushed the boundaries of what AI can achieve but also helped position Microsoft at the forefront of the field. His book—_Pattern Recognition and Machine Learning_—was first published in 2006 but has undergone continuous updates since. It's widely recognized as a foundational text for Machine Learning and is required reading in many programs around the world.
+[Christopher Bishop](https://en.wikipedia.org/wiki/Christopher_Bishop), a [Microsoft Technical Fellow](https://en.wikipedia.org/wiki/Fellow#Industry_and_corporate_fellows) and director of their [AI Research Division](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), has been doing groundbreaking work in AI since before it was mainstream. His contributions have not only pushed the boundaries of what AI can achieve but also helped position Microsoft at the forefront of the field. His book, _Pattern Recognition and Machine Learning_, was first published in 2006 but has undergone continuous updates since. It's widely recognized as a foundational text for Machine Learning and is required reading in many programs around the world.
 >
 > **Free or Paid:** Free.
 {: .notice--primary}

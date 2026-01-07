@@ -65,7 +65,7 @@ The workshop breaks down the concepts of AI into digestible sections, using diff
 
 ## Required Expertise
 
-For participants, no technical background is required. Those with some coding experience will find the later activities more familiar, but the workshop is designed to be accessible to anyone with curiosity and a willingness to learn. That said, facilitators will benefit greatly from a solid understanding of these concepts—it's challenging to stand before a room of curious people, ready to poke, prod, and ask questions, without a firm grasp of the material. The [facilitation resources](#facilitation-resources) are designed to help with building that understanding.
+For participants, no technical background is required. Those with some coding experience will find the later activities more familiar, but the workshop is designed to be accessible to anyone with curiosity and a willingness to learn. That said, facilitators will benefit greatly from a solid understanding of these concepts. It's challenging to stand before a room of curious people, ready to poke, prod, and ask questions, without a firm grasp of the material. The [facilitation resources](#facilitation-resources) are designed to help with building that understanding.
 
 ## Required Materials
 
@@ -132,4 +132,4 @@ The **Language Activity** version of this workshop, designed for participants wi
 
 ## Final Thoughts
 
-If you'd like to explore AI further, check out my curated list of resources [here](https://segunakinyemi.com/blog/ai-learning-resources/). Feel free to adapt this workshop and [share](/contact) your experiences—I'm always excited to hear how others are teaching these concepts!
+If you'd like to explore AI further, check out my curated list of resources [here](https://segunakinyemi.com/blog/ai-learning-resources/). Feel free to adapt this workshop and [share](/contact) your experiences. I'm always excited to hear how others are teaching these concepts!

@@ -113,7 +113,7 @@ Brings a real-world coding environment into the classroom via a web browser, per
 
 > **Microsoft:** [Microsoft Designer](https://designer.microsoft.com/)
 >
-Creates high-quality images from simple text prompts—think Canva, but driven mostly by AI, and with a more generous free tier. Great for creative classroom projects that emphasize idea generation over technical skills. I created a workshop on Prompt Engineering fundamentals that features it, check it out [here](https://segunakinyemi.com/blog/stem-workshop-precision-meets-creativity-with-microsoft-designer/).
+Creates high-quality images from simple text prompts. Think Canva, but driven mostly by AI, and with a more generous free tier. Great for creative classroom projects that emphasize idea generation over technical skills. I created a workshop on Prompt Engineering fundamentals that features it, check it out [here](https://segunakinyemi.com/blog/stem-workshop-precision-meets-creativity-with-microsoft-designer/).
 >
 > **Free or Paid:** Freemium _(some features or tools require payment)_.
 {: .notice--primary}

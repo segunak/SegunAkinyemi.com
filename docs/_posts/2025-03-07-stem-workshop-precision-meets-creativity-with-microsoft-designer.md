@@ -29,7 +29,7 @@ tags:
     }
 </style>
 
-This post is part of my ongoing series of [STEM Workshops](https://segunakinyemi.com/tags/#stem-education), where I break down topics in computer science, software engineering, and AI into approachable, engaging, and—hopefully not boring—learning activities. For the full collection, click [here](https://segunakinyemi.com/tags/#stem-education).  
+This post is part of my ongoing series of [STEM Workshops](https://segunakinyemi.com/tags/#stem-education), where I break down topics in computer science, software engineering, and AI into approachable, engaging, and hopefully not boring, learning activities. For the full collection, click [here](https://segunakinyemi.com/tags/#stem-education).  
 {: .notice--primary}
 
 ## Some Background
@@ -38,7 +38,7 @@ Every year, [my employer](https://en.wikipedia.org/wiki/Microsoft) hosts a [tech
 
 Last year, I created a [workshop](https://segunakinyemi.com/blog/stem-workshop-copilot-suno-generative-ai-music/) that explored Generative AI through music using [Microsoft Copilot](https://copilot.microsoft.com/) and [Suno](https://suno.com/), incorporating an ethics component using [Responsible AI principles](https://www.microsoft.com/en-us/ai/principles-and-approach).
 
-This year's workshop focuses on Prompt Engineering—teaching students how to communicate effectively with AI to get exactly what they want.
+This year's workshop focuses on Prompt Engineering. It teaches students how to communicate effectively with AI to get exactly what they want.
 
 ## Microsoft Designer
 
@@ -48,7 +48,7 @@ The hands-on portion of this workshop uses [Microsoft Designer](https://designer
 
 This 1-hour workshop introduces Prompt Engineering by showing how **specificity, clarity, and creativity** shape AI outputs.
 
-It consists of two complementary resources: the [presentation deck](https://1drv.ms/p/c/750d396c5cadcebd/IQSE_slIMswMRpeAew1t9TPuAT5j7dSZKqCW1_ZvS4jDk_E) provides educational content with interactive guessing activities where students match AI images to prompts, while the website at [aka.ms/msdw](https://aka.ms/msdw) offers hands-on prompt engineering exercises. They're designed to work together, but each can be used independently—use the presentation for learning concepts and the website for practice.
+It consists of two complementary resources: the [presentation deck](https://1drv.ms/p/c/750d396c5cadcebd/IQSE_slIMswMRpeAew1t9TPuAT5j7dSZKqCW1_ZvS4jDk_E) provides educational content with interactive guessing activities where students match AI images to prompts, while the website at [aka.ms/msdw](https://aka.ms/msdw) offers hands-on prompt engineering exercises. They're designed to work together, but each can be used independently. Use the presentation for learning concepts and the website for practice.
 
 The workshop's structure is below:
 
@@ -71,7 +71,7 @@ By the end of this workshop, students will:
 
 ## Required Expertise
 
-You don't need technical expertise to deliver this workshop—just familiarity with these basics:
+You don't need technical expertise to deliver this workshop, just familiarity with these basics:
 
 * [OpenAI: Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering): Core principles of effective prompting.
 * [Microsoft: 10 AI Terms Everyone Should Know](https://news.microsoft.com/10-ai-terms/): Fundamental AI concepts.

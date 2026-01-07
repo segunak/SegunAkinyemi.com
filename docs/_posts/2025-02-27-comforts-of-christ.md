@@ -83,9 +83,9 @@ tags:
 
 ## Some Background
 
-Just over three years ago—(time flies, man, time flies)—I wrote a blog post called [_The Commands of Christ_](https://segunakinyemi.com/blog/commands-of-christ/) where I aimed to catalog instances in the Bible where Jesus explicitly gives instructions. My goal was to cut through the noise of modern Christian preaching and teaching and focus solely on what Jesus Himself said. Because in the end, [Christ is enough](https://www.youtube.com/watch?v=teUxQpnhezY).
+Just over three years ago (time flies, man, time flies), I wrote a blog post called [_The Commands of Christ_](https://segunakinyemi.com/blog/commands-of-christ/) where I aimed to catalog instances in the Bible where Jesus explicitly gives instructions. My goal was to cut through the noise of modern Christian preaching and teaching and focus solely on what Jesus Himself said. Because in the end, [Christ is enough](https://www.youtube.com/watch?v=teUxQpnhezY).
 
-That post accomplished its goal. I've referred back to it often and shared it with others looking for that same kind of "no-frills" resource. But as life throws its chaos at us—deadlines, family drama, health challenges, relationships, personal hurdles—sometimes the last thing we want is a list of commands to follow, from God or anyone else. I know I've certainly had moments where I needed **comfort** rather than **commands** in my walk with Christ. The Psalmist said it best:
+That post accomplished its goal. I've referred back to it often and shared it with others looking for that same kind of "no-frills" resource. But as life throws its chaos at us, deadlines, family drama, health challenges, relationships, personal hurdles, sometimes the last thing we want is a list of commands to follow, from God or anyone else. I know I've certainly had moments where I needed **comfort** rather than **commands** in my walk with Christ. The Psalmist said it best:
 
 > In the multitude of my anxieties within me, Your comforts delight my soul.
 >
@@ -97,15 +97,15 @@ When you're already overwhelmed, anxious, and burdened, a list of commands to fo
 >
 > <cite>[Matthew 11:28-30](https://www.biblegateway.com/passage/?search=Matthew%2011%3A28-30&version=NKJV)</cite>
 
-As you can see, while authoritative moral instruction is part of who He is—as God, King, Savior, Creator—Jesus is far from a taskmaster. Quite the opposite actually. He's [everything](https://www.youtube.com/watch?v=89tRNHR1J-Y) you need. The commands He gave are meant to help us naturally lean into God's will—able to sense right from wrong by the wisdom of the One who made everything—instead of chasing the world's ever-shifting moral standards or memorizing rules for every scenario. Still, there's a whole other side of Jesus: the Comforter, the One who promises peace, rest, and presence during our hardest days. Sometimes, you just need a spiritual hug instead of a to-do list.
+As you can see, while authoritative moral instruction is part of who He is, as God, King, Savior, Creator, Jesus is far from a taskmaster. Quite the opposite actually. He's [everything](https://www.youtube.com/watch?v=89tRNHR1J-Y) you need. The commands He gave are meant to help us naturally lean into God's will, able to sense right from wrong by the wisdom of the One who made everything, instead of chasing the world's ever-shifting moral standards or memorizing rules for every scenario. Still, there's a whole other side of Jesus: the Comforter, the One who promises peace, rest, and presence during our hardest days. Sometimes, you just need a spiritual hug instead of a to-do list.
 
-So this post—*The Comforts of Christ*—is my attempt at gathering the places in Scripture where Jesus speaks comfort into our lives. It's for those moments when you're already maxed out, tired of being told what else needs doing, and just want to hear, "You are loved. You matter. I'm with you." I'm reminded of King David's words:
+So this post, *The Comforts of Christ*, is my attempt at gathering the places in Scripture where Jesus speaks comfort into our lives. It's for those moments when you're already maxed out, tired of being told what else needs doing, and just want to hear, "You are loved. You matter. I'm with you." I'm reminded of King David's words:
 
 > The Lord is my shepherd; I shall not want. He makes me to lie down in green pastures; He leads me beside the still waters. He restores my soul; He leads me in the paths of righteousness for His name's sake. Yea, though I walk through the valley of the shadow of death, I will fear no evil; For You are with me; Your rod and Your staff, they comfort me.
 >
 > <cite>[Psalm 23:1-4](https://www.biblegateway.com/passage/?search=Psalm%2023%3A1-4&version=NKJV)</cite>
 
-That's comfort in a nutshell. My prayer is that this post gives you that same sort of "it's going to be alright" reassurance—straight from Jesus's own words.
+That's comfort in a nutshell. My prayer is that this post gives you that same sort of "it's going to be alright" reassurance, straight from Jesus's own words.
 
 ## Random Comfort
 
@@ -132,7 +132,7 @@ For a quick dose of comfort, use the widget below to generate a random quote. Be
 
 ## The Comforts of Christ
 
-The quotes below are a collection of Jesus Christ's comforting words throughout the Bible. They're compiled from a few places—mainly my highlights in [BibleGateway](https://www.biblegateway.com/) and the [YouVersion](https://www.bible.com/) app, plus a little help from ChatGPT (it's a marvelous tool for quickly digging up references).
+The quotes below are a collection of Jesus Christ's comforting words throughout the Bible. They're compiled from a few places, mainly my highlights in [BibleGateway](https://www.biblegateway.com/) and the [YouVersion](https://www.bible.com/) app, plus a little help from ChatGPT (it's a marvelous tool for quickly digging up references).
 
 I can't promise this list is exhaustive, and I'm always open to adding more. If you know of a comforting quote from Christ that isn't included here, please let me know through my [contact page](/contact){:target="_blank"}. I encourage you to click on each verse link and read the full chapter in context. The words of Christ are always worth meditating on!
 

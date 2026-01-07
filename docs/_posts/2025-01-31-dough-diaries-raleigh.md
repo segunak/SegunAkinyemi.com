@@ -43,23 +43,23 @@ If you've seen my [Jefferson City, Missouri](https://segunakinyemi.com/blog/doug
   </div>
 </div>
 
-Nah, just joking, it's okay. I respect your right to be wrong. That's the foundation of an intellectually honest society—one where we gather, exchange ideas, debate opinions, and engage with even the most catastrophically misguided perspectives, all while hoping reason prevails and the wayward eventually find their way to the truth.
+Nah, just joking, it's okay. I respect your right to be wrong. That's the foundation of an intellectually honest society, one where we gather, exchange ideas, debate opinions, and engage with even the most catastrophically misguided perspectives, all while hoping reason prevails and the wayward eventually find their way to the truth.
 
 So, it's fine if you disagree with my _unyieldingly dogmatic_ stance on cinnamon rolls. It is, after all, [the mark of an educated mind to be able to entertain a thought without accepting it](https://www.google.com/search?q=the+mark+of+an+educated+mind+to+be+able+to+entertain+a+thought+without+accepting+it). I do hope though that you'll one day see the light. Probably after a bite of the perfect cinnamon roll, which might just be found in Raleigh, North Carolina.
 
 ## Some Background
 
-Since this is my first post of 2025, before diving into my pastry-related thoughts, let me set the stage by sharing how I closed out 2024—on an adventure through Raleigh, North Carolina. I spent the holidays there, visiting family and friends, exploring the city, checking out various [third places](https://en.wikipedia.org/wiki/Third_place)—and most notably, perusing its cinnamon roll scene.
+Since this is my first post of 2025, before diving into my pastry-related thoughts, let me set the stage by sharing how I closed out 2024, on an adventure through Raleigh, North Carolina. I spent the holidays there, visiting family and friends, exploring the city, checking out various [third places](https://en.wikipedia.org/wiki/Third_place), and most notably, perusing its cinnamon roll scene.
 
 Let me just say: Raleigh is a fantastic place. Between Raleigh proper, Cary, Durham, and Chapel Hill, there's so much to do and see, especially if your idea of fun doesn't revolve around the clubbing/nightlife vibe you'd find in cities like Atlanta, Houston, or Los Angeles.
 
-Raleigh feels like a big small town. The downtown area is compact—smaller even than Charlotte's—but downtown isn't what makes Raleigh shine. What's special are the surrounding neighborhoods, each with its own charm and attractions.
+Raleigh feels like a big small town. The downtown area is compact, smaller even than Charlotte's, but downtown isn't what makes Raleigh shine. What's special are the surrounding neighborhoods, each with its own charm and attractions.
 
 The city also benefits from the presence of major (and [academically prestigious](https://en.wikipedia.org/wiki/Southern_Ivy)) universities like Duke, NC State, UNC Chapel Hill, and Wake Forest, which bring both youthful energy and economic opportunity to the region. That's why companies like Google, Apple, and Microsoft have set up shop in Raleigh, tapping into the talent pool through partnerships with [Research Triangle Park](https://www.rtp.org/).  
 
 Now, of everything I explored, the standout by far was NC State's [James B. Hunt Jr. Library](https://maps.app.goo.gl/faYL3Bharp2UkGgz7). As someone who loves libraries, visits them often, and tries to avoid sensationalism, I say this without hesitation: it's one of the best modern libraries I've ever seen.
 
-A pristine, contemporary aesthetic that's far from generic—spacious and airy, with a rooftop patio overlooking a lake, countless cozy nooks to settle into, and an engineering marvel in the form of their [bookBot](https://www.lib.ncsu.edu/hunt/bookbot)—a robotic retrieval system that feels straight out of a sci-fi movie. Most importantly, it's free and open to the public. If you ever find yourself in Raleigh, alongside hunting for cinnamon rolls (which we're about to get into), make sure you visit Hunt Library. It's absolutely worth it.
+A pristine, contemporary aesthetic that's far from generic, spacious and airy, with a rooftop patio overlooking a lake, countless cozy nooks to settle into, and an engineering marvel in the form of their [bookBot](https://www.lib.ncsu.edu/hunt/bookbot), a robotic retrieval system that feels straight out of a sci-fi movie. Most importantly, it's free and open to the public. If you ever find yourself in Raleigh, alongside hunting for cinnamon rolls (which we're about to get into), make sure you visit Hunt Library. It's absolutely worth it.
 
 Now, let's talk about Raleigh's cinnamon roll scene.
 
@@ -119,7 +119,7 @@ As you might have gathered from the sheer existence of this blog post, I'm a bit
 A [_morning bun_](https://www.google.com/search?q=mornign+bun) is not a cinnamon roll.  
 A [_coffee roll_](https://www.google.com/search?q=coffee+roll) is not a cinnamon roll.  
 A [_sticky bun_](https://www.google.com/search?q=sticky+bun) is not a cinnamon roll.  
-A [_Chelsea bun_](https://www.google.com/search?q=Chelsea+bun)—a respectable pastry in its own right—is also not a cinnamon roll.  
+A [_Chelsea bun_](https://www.google.com/search?q=Chelsea+bun), a respectable pastry in its own right, is also not a cinnamon roll.  
 
 And for good measure, [College Park is not Atlanta](https://www.google.com/search?q=College+Park+is+not+Atlanta+Omeretta).
 
@@ -251,7 +251,7 @@ This is also a great place to hangout from and work remotely/study. The upstairs
 
 ## Brew Coffee Bar - McNeil Pointe
 
-Flaky, croissant-like texture. The icing is more like a glazed donut—dried onto the roll instead of staying soft. A bit messy, but still a solid cinnamon roll. Most importantly, I almost didn't get one.
+Flaky, croissant-like texture. The icing is more like a glazed donut, dried onto the roll instead of staying soft. A bit messy, but still a solid cinnamon roll. Most importantly, I almost didn't get one.
 
 When I visited, the couple ahead of me ordered what the barista thought was the last cinnamon roll. But then she saw the disappointment, the pain, the despair in my eyes, and she graciously said, "let me check though, just to be sure."  
 
@@ -295,7 +295,7 @@ While I didn't get the chance to visit most of these spots, they came highly rec
 
 - [**A Place at the Table**](https://maps.app.goo.gl/hmA4JvrB7XiurR3b6): This spot is one of a kind. _A Place at the Table_ is a **pay-what-you-can café**, meaning you pay what you're able, pay it forward for someone else, or volunteer in exchange for a meal. It's about community, dignity, and making good food accessible to everyone. I actually made it here, but it was near closing, and they were out of cinnamon rolls. A tragedy. If you go and manage to get one, report back!
 
-- [**Yellow Dog Bread Company**](https://maps.app.goo.gl/5jVHMwUNNnZek65y9): This bakery has a reputation for its pastries and neighborhood café vibe. Their cinnamon rolls get a lot of love from the locals, and they were on my list—I just ran out of time.
+- [**Yellow Dog Bread Company**](https://maps.app.goo.gl/5jVHMwUNNnZek65y9): This bakery has a reputation for its pastries and neighborhood café vibe. Their cinnamon rolls get a lot of love from the locals, and they were on my list, but I just ran out of time.
 
 If you visit any of these places and try their cinnamon rolls, I'd love to [hear your thoughts](/contact)!
 

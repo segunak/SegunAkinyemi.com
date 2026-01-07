@@ -34,11 +34,11 @@ tags:
 
 ## The Hype Is Real
 
-Artificial Intelligence (AI) is far from just a buzzword these days. As a software engineer at [a company](https://en.wikipedia.org/wiki/Microsoft) heavily involved in AI (in addition to their own [AI platform](https://www.microsoft.com/en-us/microsoft-copilot/organizations), they're the creators of [VS Code](https://en.wikipedia.org/wiki/Visual_Studio_Code), owners of [GitHub](https://github.com/features/copilot), owners of [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn), and the big tech sponsor behind [OpenAI](https://fortune.com/2024/10/18/microsoft-openai-equity-stake-nonprofit-for-profit-reorganization-sam-altman/))—I can assure you that AI's impact is very real.
+Artificial Intelligence (AI) is far from just a buzzword these days. As a software engineer at [a company](https://en.wikipedia.org/wiki/Microsoft) heavily involved in AI (in addition to their own [AI platform](https://www.microsoft.com/en-us/microsoft-copilot/organizations), they're the creators of [VS Code](https://en.wikipedia.org/wiki/Visual_Studio_Code), owners of [GitHub](https://github.com/features/copilot), owners of [LinkedIn](https://en.wikipedia.org/wiki/LinkedIn), and the big tech sponsor behind [OpenAI](https://fortune.com/2024/10/18/microsoft-openai-equity-stake-nonprofit-for-profit-reorganization-sam-altman/)), I can assure you that AI's impact is very real.
 
 I open my laptop every day to a flood of messages from colleagues, managers, and organizational leaders encouraging the use of AI tools to make us work faster, be more efficient, and most notably, write (or really, generate) code. The message is consistent across all levels: use AI tools. This isn't just a thing at [my employer](https://en.wikipedia.org/wiki/Microsoft), it's a consistent theme across tech.
 
-The AI coding revolution is not a [fad](https://www.google.com/search?q=fad+definition). There are even new terms popping up to describe it like [Natural Language Programming](https://segunakinyemi.com/blog/natural-language-programming/) and [Vibe Coding](https://en.wikipedia.org/wiki/Vibe_coding). Companies are actively pushing employees to use these tools, doing everything to make adoption as easy and smooth as possible. And the more you use them, the more you understand why—they're [seriously good](https://segunakinyemi.com/blog/github-copilot-agent-mode/).
+The AI coding revolution is not a [fad](https://www.google.com/search?q=fad+definition). There are even new terms popping up to describe it like [Natural Language Programming](https://segunakinyemi.com/blog/natural-language-programming/) and [Vibe Coding](https://en.wikipedia.org/wiki/Vibe_coding). Companies are actively pushing employees to use these tools, doing everything to make adoption as easy and smooth as possible. And the more you use them, the more you understand why. They're [seriously good](https://segunakinyemi.com/blog/github-copilot-agent-mode/).
 
 If you already work in tech and want to survive, or are looking to break into the field, embracing AI isn't optional, it's essential. This article is my attempt at helping you navigate this shift, based on what I'm seeing working in the industry (I'm out here tryna survive myself!).
 
@@ -48,7 +48,7 @@ If you're entering the tech industry today without a strategy for how you'll use
 
 The tools available now make tasks that once took hours take minutes. Code that would've required deep expertise in specific languages can now be generated and explained through natural language conversations. Systems that once needed teams of engineers can now be prototyped by individuals with the right AI-assisted tools. As I wrote recently, the landscape is changing rapidly:
 
-> One thing is for sure, if we as developers don't adapt, we're more than cooked, we're royally fried. [...] No company will pass up a tool that makes developers faster and more effective. So, yes—developers will have to adapt. Some jobs will almost certainly be lost, especially among those who refuse AI-assisted development. When one developer using AI can do the work of several, fewer will be needed. That sucks, but the best way to stay ahead is to master these tools—be the expert guiding AI rather than competing with it.
+> One thing is for sure, if we as developers don't adapt, we're more than cooked, we're royally fried. [...] No company will pass up a tool that makes developers faster and more effective. So, yes, developers will have to adapt. Some jobs will almost certainly be lost, especially among those who refuse AI-assisted development. When one developer using AI can do the work of several, fewer will be needed. That sucks, but the best way to stay ahead is to master these tools and be the expert guiding AI rather than competing with it.
 >
 > [GitHub Copilot's Agent Mode Is Rather Impressive, But the Real Question Is, Are Software Developers Cooked?](https://segunakinyemi.com/blog/github-copilot-agent-mode/)
 
@@ -77,13 +77,13 @@ Perhaps the most compelling perspective comes from [Andrew Ng](https://en.wikipe
 
 And Ng isn't alone in this view. [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), Meta's Chief AI Scientist and [Turing Award winner](https://amturing.acm.org/award_winners/lecun_6017366.cfm), strongly agrees with this assessment, as seen [here](https://www.linkedin.com/posts/yann-lecun_deepseek-r1-uncensored-qwq-32b-puts-reasoning-activity-7306472490199887873-7XtW?utm_source=share&utm_medium=member_desktop&rcm=ACoAABvfe0cBF26Fjl_dkPhC1BORIN7IaP5xuKE). LeCun, who pioneered [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) (the technology behind modern computer vision) and is considered one of the "godfathers of AI" alongside [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) and [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), emphatically supports the view that AI will enhance programming rather than replace programmers.
 
-Even more striking, [Thomas Dohmke](https://github.com/ashtom), CEO of GitHub (home of [Copilot](https://github.com/features/copilot), the most widely-used AI coding assistant), insists that learning to code remains essential—perhaps even more so—in the AI era. Dohmke has a unique perspective as someone now leading the very platform that's integrating AI into the development workflow.
+Even more striking, [Thomas Dohmke](https://github.com/ashtom), CEO of GitHub (home of [Copilot](https://github.com/features/copilot), the most widely-used AI coding assistant), insists that learning to code remains essential, perhaps even more so, in the AI era. Dohmke has a unique perspective as someone now leading the very platform that's integrating AI into the development workflow.
 
 <p>
     <iframe width="100%" height="70" src="https://www.youtube.com/embed/5UhnQ2h-5BY?si=y73Jqrj4QhQNd9TW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-In this interview, he makes the case that coding is a vital skill in an AI-driven world because it lets people shape technology, not just consume it. He draws a parallel to how we teach math or physics, not because everyone will become mathematicians, but because these subjects help us understand and shape the world. He views his journey—from coding without internet as a teenager to leading GitHub through the AI revolution—as proof that the craft of building still matters, even as the tools evolve.
+In this interview, he makes the case that coding is a vital skill in an AI-driven world because it lets people shape technology, not just consume it. He draws a parallel to how we teach math or physics, not because everyone will become mathematicians, but because these subjects help us understand and shape the world. He views his journey, from coding without internet as a teenager to leading GitHub through the AI revolution, as proof that the craft of building still matters, even as the tools evolve.
 
 Of course, not all tech leaders share this optimistic view about the future of coding. In a notable counterpoint, [Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang), the CEO of [NVIDIA](https://en.wikipedia.org/wiki/Nvidia) (the company whose [GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit) power most AI development), made headlines in February 2024 at the [World Governments Summit](https://en.wikipedia.org/wiki/World_Governments_Summit) when he predicted [the death of coding](https://www.techradar.com/pro/nvidia-ceo-predicts-the-death-of-coding-jensen-huang-says-ai-will-do-the-work-so-kids-dont-need-to-learn) as we know it.
 
@@ -95,7 +95,7 @@ He suggested that young people shouldn't prioritize learning traditional coding 
 
 Interestingly though, this shift to [natural language programming](https://segunakinyemi.com/blog/natural-language-programming) does not necessarily mean software developers would disappear. It would still require people who understand how to build software, write precise technical specifications, and essentially create what amounts to sophisticated pseudocode in natural language. Similarly, [Bill Gates](https://www.cnbc.com/2025/03/26/bill-gates-on-ai-humans-wont-be-needed-for-most-things.html) has predicted that as AI improves, many jobs that require programming skills could be automated, though he focuses more on the productivity benefits than declaring coding obsolete.
 
-This debate among tech luminaries highlights a key reality: even the most knowledgeable experts don't fully agree on how AI will reshape coding and tech careers. But when weighing these perspectives, consider this: those who've devoted their careers specifically to AI research and development—like Ng and LeCun—tend to emphasize the continued importance of programming knowledge. Meanwhile, business leaders with broader focuses (and a fondness for cutting costs) often highlight how AI could make coding more accessible—or even unnecessary—for many tasks.
+This debate among tech luminaries highlights a key reality: even the most knowledgeable experts don't fully agree on how AI will reshape coding and tech careers. But when weighing these perspectives, consider this: those who've devoted their careers specifically to AI research and development, like Ng and LeCun, tend to emphasize the continued importance of programming knowledge. Meanwhile, business leaders with broader focuses (and a fondness for cutting costs) often highlight how AI could make coding more accessible, or even unnecessary, for many tasks.
 
 That said, when the very inventors of modern AI systems and the CEO of the platform hosting most of the world's code are saying programming skills remain essential, maybe even more valuable in the age of AI, it's worth listening. Before buying into the doom-and-gloom takes on tech careers, ask yourself who's more likely to understand AI's true impact than the people who helped build it.
 
@@ -179,7 +179,7 @@ These fundamentals haven't changed with AI:
 
 ## How I'm Adapting (And You Can Too)
 
-Assuming you've got a solid technical foundation (and no, that doesn't just mean coding—data, design, PM all count), here's how I'm navigating the AI shift in my career. Hopefully it sparks some ideas for yours too:
+Assuming you've got a solid technical foundation (and no, that doesn't just mean coding, data, design, PM all count), here's how I'm navigating the AI shift in my career. Hopefully it sparks some ideas for yours too:
 
 <details markdown="1">
 <summary>Let AI Handle The Boring Stuff</summary>
@@ -205,14 +205,14 @@ Clear, specific prompts = better results. I treat prompt writing like coding. Le
 <details markdown="1">
 <summary>Experiment More</summary>
 
-With AI doing the grunt work, I try out more frameworks and languages (example [here](https://segunakinyemi.com/blog/charlotte-third-places-tech-stack/)). I don't need to be an expert—but I do make sure I understand enough to check its work. If you're totally lost without AI, you're doing it wrong.
+With AI doing the grunt work, I try out more frameworks and languages (example [here](https://segunakinyemi.com/blog/charlotte-third-places-tech-stack/)). I don't need to be an expert, but I do make sure I understand enough to check its work. If you're totally lost without AI, you're doing it wrong.
 
 </details>
 
 <details markdown="1">
 <summary>Level Up Your System Design</summary>
 
-AI can write code, but building reliable, scalable systems is still on us. I'm investing in [distributed systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) and [cloud design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) because that's where long-term value—and responsibility—lives. No serious company is letting AI design critical infrastructure alone. Not when a hospital's life support system goes down, a bank's transaction engine freezes, an airline's flight routing crashes, or a power grid gets misconfigured. Someone has to answer for that. And "we let the AI do everything" isn't going to cut it.
+AI can write code, but building reliable, scalable systems is still on us. I'm investing in [distributed systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) and [cloud design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) because that's where long-term value, and responsibility, lives. No serious company is letting AI design critical infrastructure alone. Not when a hospital's life support system goes down, a bank's transaction engine freezes, an airline's flight routing crashes, or a power grid gets misconfigured. Someone has to answer for that. And "we let the AI do everything" isn't going to cut it.
 
 </details>
 
@@ -310,7 +310,7 @@ You don't compete with AI, you use it. Or "leverage it" if I wanted to sound lik
 
 **Domain Expertise & Business Acumen**
 
-* Develop [deep knowledge](https://martinfowler.com/bliki/DomainDrivenDesign.html) of your industry. Find jobs at companies making products you actually care about. Love basketball but suck at it? Work for the NBA instead. When you genuinely understand the business, you naturally combine tech skills with domain expertise—knowing why features matter, not just how to code them. In the AI era, this matters more than ever. You can't be a code mercenary jumping between companies with zero understanding of the business context. Domain expertise makes you valuable beyond just writing code, which AI can now handle anyway.
+* Develop [deep knowledge](https://martinfowler.com/bliki/DomainDrivenDesign.html) of your industry. Find jobs at companies making products you actually care about. Love basketball but suck at it? Work for the NBA instead. When you genuinely understand the business, you naturally combine tech skills with domain expertise, knowing why features matter, not just how to code them. In the AI era, this matters more than ever. You can't be a code mercenary jumping between companies with zero understanding of the business context. Domain expertise makes you valuable beyond just writing code, which AI can now handle anyway.
 * Learn [how to translate business requirements](https://www.coursera.org/articles/business-analyst) into technical solutions. Seriously. Think about what AI tools need to be the most valuable. Clearly defined requirements, parameters, contextual knowledge. The better you are at this, the better you'll be able to "prompt engineer".
 * Follow AI industry leaders on [platforms like LinkedIn](https://www.getphyllo.com/post/ai-influencers-linkedin) to stay current.
 * Take career-path-specific courses on [platforms like Microsoft Learn](https://learn.microsoft.com/en-us/training/career-paths/) to hone in on skills for your target job role.
@@ -330,7 +330,7 @@ You don't compete with AI, you use it. Or "leverage it" if I wanted to sound lik
 **User Experience & Human-Centered Design**
 
 * Learn [UX design principles](https://blog.uxtweak.com/best-ux-resources/) so you can prompt AI to build interfaces people actually want to use, not just ones that technically work.
-* Take a [Human-Computer Interaction course](https://www.coursera.org/learn/human-computer-interaction) to understand how real people think, behave, and mess up—so your AI-generated tools don't treat users like robots.
+* Take a [Human-Computer Interaction course](https://www.coursera.org/learn/human-computer-interaction) to understand how real people think, behave, and mess up, so your AI-generated tools don't treat users like robots.
 * Study [accessibility standards](https://www.w3.org/WAI/fundamentals/accessibility-intro/) to ensure your prompts guide AI to build inclusive experiences. In the age of AI at scale, *who* we design for matters more than ever.
 
 **Project Management & Execution**
@@ -347,11 +347,11 @@ You don't compete with AI, you use it. Or "leverage it" if I wanted to sound lik
 
 </details>
 
-As AI takes over more of the coding, your value comes from what we *still* want humans to do, even if AI technically could. Think judgment, creativity, communication, and business sense. You don't want your loved ones making life-or-death health decisions without a human doctor. You don't want to board a plane with zero human oversight in the cockpit. Same goes for software. AI can write the code, but humans still guide the vision, ask the right questions, and make the calls when it matters. That's the edge—for now, anyway. Only God knows what's next.
+As AI takes over more of the coding, your value comes from what we *still* want humans to do, even if AI technically could. Think judgment, creativity, communication, and business sense. You don't want your loved ones making life-or-death health decisions without a human doctor. You don't want to board a plane with zero human oversight in the cockpit. Same goes for software. AI can write the code, but humans still guide the vision, ask the right questions, and make the calls when it matters. That's the edge, for now, anyway. Only God knows what's next.
 
 ## Closing Words
 
-Part of why I wrote this is because I'm tired of seeing talented people hesitate on tech careers out of AI anxiety. Yes, things are changing fast—I see it firsthand at [a company](https://en.wikipedia.org/wiki/Microsoft) betting big on AI. But change brings [opportunity](https://segunakinyemi.com/blog/natural-language-programming/). The key is to be proactive rather than reactive.
+Part of why I wrote this is because I'm tired of seeing talented people hesitate on tech careers out of AI anxiety. Yes, things are changing fast. I see it firsthand at [a company](https://en.wikipedia.org/wiki/Microsoft) betting big on AI. But change brings [opportunity](https://segunakinyemi.com/blog/natural-language-programming/). The key is to be proactive rather than reactive.
 
 So whether you're:
 

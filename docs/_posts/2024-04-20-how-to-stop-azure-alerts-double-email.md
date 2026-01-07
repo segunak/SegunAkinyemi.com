@@ -68,7 +68,7 @@ In summary, I needed to send emails when something happened in Azure without ann
 
 ## Why Redundant Email Notifications Occur
 
-By default, Azure's [action groups](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/action-groups) are configured to notify on both state changes for an alert rule — when it fires and when it resolves. This setup ensures thorough communication but can lead to unnecessary email clutter. You're not alone if you find this annoying, although technically speaking, it's not a bug. Here are some others who've seen the same thing.
+By default, Azure's [action groups](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/action-groups) are configured to notify on both state changes for an alert rule, when it fires and when it resolves. This setup ensures thorough communication but can lead to unnecessary email clutter. You're not alone if you find this annoying, although technically speaking, it's not a bug. Here are some others who've seen the same thing.
 
 [Alert is fired twice: first time with "fired", other on "resolved" monitorCondition](https://github.com/MicrosoftDocs/azure-docs/issues/57247)
 
