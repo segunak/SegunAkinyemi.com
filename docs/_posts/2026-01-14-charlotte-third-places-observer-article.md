@@ -1,7 +1,7 @@
 ---
-title: "Check Out The Charlotte Observer's Article on Charlotte Third Places"
+title: "Check Out The Charlotte Observer's Article About Charlotte Third Places"
 excerpt: "My side project got some local press, and I'm pretty hyped about it."
-last_modified_at: 2026-01-14T21:24:13
+last_modified_at: 2026-01-14T21:26:15
 pinned: true
 classes: wide
 header:
