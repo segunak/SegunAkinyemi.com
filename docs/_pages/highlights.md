@@ -28,6 +28,12 @@ Also be sure to connect with me on [LinkedIn](https://www.linkedin.com/in/seguna
 
 Scroll through to see what I've been up to [as the world spins madly on](https://www.youtube.com/watch?v=L4sa2HoXpsE).
 
+### 2026
+
+- My passion project, [Charlotte Third Places](https://www.charlottethirdplaces.com/), was featured in [The Charlotte Observer](https://www.charlotteobserver.com/). I put a lot of effort into building and now maintaining the site, so it feels good to get some recognition! Check out the article, ["Looking for a new hangout? This website helps Charlotteans find a third place"](https://www.charlotteobserver.com/charlottefive/c5-things-to-do/article313920154.html?giftCode=e0835193f58a4a8563465be207634851564120a35a862bb4284878d1bc96abd6).
+
+[Back to top](#top)
+
 ### 2025
 
 - Spoke at the [Project Management Institute of the Carolinas Professional Development Day 2025](https://pmicarolina.org/pdd-2025), delivering my [Agentic AI: From Acronyms to Applications](https://segunakinyemi.com/blog/agentic-ai-from-acronyms-to-applications/) workshop. Check out the [slide deck](https://1drv.ms/p/c/750d396c5cadcebd/ETOAltIn6FtErV2gWQYHlfkBg0uvsKEcp0QuaYnBgGm0og?e=diVNW4), [companion article](https://segunakinyemi.com/blog/agentic-ai-from-acronyms-to-applications/), [audio recording](https://www.youtube.com/watch?v=6YuC-oMpKfI), and LinkedIn recaps from [attendees](https://www.linkedin.com/posts/curtis-york-jr-mba-pmp-pmi-cp-885570b7_carolinaspmi-ugcPost-7385341606171889664-ZFM3) at the [conference](https://www.linkedin.com/posts/activity-7386032396267323392-MH-f).
