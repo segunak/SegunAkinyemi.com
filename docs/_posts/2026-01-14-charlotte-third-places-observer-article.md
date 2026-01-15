@@ -1,7 +1,7 @@
 ---
 title: "Check Out The Charlotte Observer's Article About Charlotte Third Places"
 excerpt: "My side project got some local press, and I'm pretty hyped about it."
-last_modified_at: 2026-01-14T21:26:15
+last_modified_at: 2026-01-15T03:32:01
 pinned: true
 classes: wide
 header:
@@ -15,7 +15,15 @@ link: https://www.charlotteobserver.com/charlottefive/c5-things-to-do/article313
 
 <script src="/assets/js/dynamic-link-targeting.js"></script>
 
-<img src="/assets/images/jim-hi-five-treasure-planet.gif" alt="Treasure Planet" style="width:60%;">
+<style>
+  @media (min-width: 768px) {
+    .treasure-planet-gif {
+      width: 60%;
+    }
+  }
+</style>
+
+<img src="/assets/images/jim-hi-five-treasure-planet.gif" alt="Treasure Planet" class="treasure-planet-gif">
 
 _**Nerd Note:** The gif above features the character Jim from the Disney movie [Treasure Planet (2002)](https://en.wikipedia.org/wiki/Treasure_Planet), one of my all time favorites. When it came out, I was obsessed with its sense of adventure. Jim lived in a small town but had big dreams. He was longing, yearning, every day for a chance to see the universe, and when it came, he took full advantage of it. I've always been inspired by that to step out and explore. To me, exploring doesn't have to be the kind of stuff that'd impress the social media crowd. America's so big, I've done most of my exploring (so far) just by moving across the country from coast to coast. Treasure Planet flopped at the box office, but it has a special place in my heart. I remember they had really good McDonald's Happy Meal toys for it, [this was one of my favorites](/assets/images/treasure-planet-robot-toy.jpg)._
 {: .notice--warning}
