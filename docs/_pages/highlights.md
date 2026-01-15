@@ -30,7 +30,7 @@ Scroll through to see what I've been up to [as the world spins madly on](https:/
 
 ### 2026
 
-- My passion project, [Charlotte Third Places](https://www.charlottethirdplaces.com/), was featured in [The Charlotte Observer](https://www.charlotteobserver.com/). I put a lot of effort into building and now maintaining the site, so it feels good to get some recognition! Check out the article, ["Looking for a new hangout? This website helps Charlotteans find a third place"](https://www.charlotteobserver.com/charlottefive/c5-things-to-do/article313920154.html?giftCode=e0835193f58a4a8563465be207634851564120a35a862bb4284878d1bc96abd6).
+- My passion project, [Charlotte Third Places](https://www.charlottethirdplaces.com/), was featured in [The Charlotte Observer](https://www.charlotteobserver.com/). I put a lot of effort into building and now maintaining the site, so it feels good to get some recognition! Check out the article: **[The Charlotte Observer – Looking for a New Hangout? This Website Helps Charlotteans Find a Third Place](https://www.charlotteobserver.com/charlottefive/c5-things-to-do/article313920154.html?giftCode=e0835193f58a4a8563465be207634851564120a35a862bb4284878d1bc96abd6)**.
 
 [Back to top](#top)
 
