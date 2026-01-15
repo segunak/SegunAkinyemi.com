@@ -1,7 +1,7 @@
 ---
 title: "The Charlotte Observer Wrote About Charlotte Third Places"
 excerpt: "My passion project got some local press, and I'm pretty hyped about it!"
-last_modified_at: 2026-01-15T16:37:37
+last_modified_at: 2026-01-15T16:49:30
 pinned: true
 classes: wide
 header:
@@ -31,7 +31,9 @@ _**Nerd Note:** The gif above features the character Jim from the Disney movie [
 **[The Charlotte Observer – Looking for a New Hangout? This Website Helps Charlotteans Find a Third Place](https://www.charlotteobserver.com/charlottefive/c5-things-to-do/article313920154.html?giftCode=e0835193f58a4a8563465be207634851564120a35a862bb4284878d1bc96abd6)**
 {: .notice--info}
 
-One of my personal passions is adventuring, and I don't mean just [the kind that requires traveling all about](https://www.google.com/search?q=wanderlust+definition). Social media has convinced so many of us that you can only adventure when you book a trip to some destination city that everyone's going to think you're cool, cultured, and "well-traveled" for having gone to. I grew up poor, and only recently managed to make it to "there's some disposable income for leisure" status in life, so I had to learn to adventure in place. No car, no flights, just my two feet and local public transportation. That's how I explored.
+One of my personal passions is adventuring, and I don't mean just [the kind that requires traveling all about](https://www.google.com/search?q=wanderlust+definition). Social media has convinced so many of us that you can only adventure when you book a trip to some destination city that everyone's going to think you're cool, cultured, and "well-traveled" for having gone to.
+
+I grew up poor, and only recently managed to make it to "there's some disposable income for leisure" status in life, so I had to learn to adventure in place. No car, no flights, just my two feet and local public transportation. That's how I explored.
 
 I did that growing up in the greater Seattle area, during college in St. Louis, during internships in Omaha and Stamford, and I've kept the habit even now as a working professional with the ability to venture a bit further. Wherever I am, small town or big city, I'm going to look around. I'm going to try and check out every single place that interests me, and even ones that don't, keeping notes and data points along the way. I'm the person in the friend group maintaining spreadsheets to organize to-do's, stuff to watch, restaurants to try, all of it.
 
